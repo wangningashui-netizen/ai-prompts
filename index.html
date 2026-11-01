@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f3efe7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#12110f" media="(prefers-color-scheme: dark)">
+  <meta name="description" content="每日整理来自 X 的 AI 图像生成提示词，可按模型筛选、搜索并一键复制。">
+  <meta name="application-name" content="如水如画">
+  <meta property="og:title" content="如水如画 · AI 图像提示词日报">
+  <meta property="og:description" content="每日整理来自 X 的 AI 图像生成提示词，可按模型筛选、搜索并一键复制。">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="zh_CN">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="如水如画 · AI 图像提示词日报">
+  <meta name="twitter:description" content="每日整理来自 X 的 AI 图像生成提示词，可按模型筛选、搜索并一键复制。">
+  <title>如水如画 · AI 图像提示词日报</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#gallery">跳到内容</a>
+  <header class="mast">
+    <div class="wrap mast-inner">
+      <div class="brand">
+        <svg class="seal" viewBox="0 0 64 64" role="img" aria-label="如水如画">
+          <title>如水如画</title>
+          <rect x="3.5" y="3.5" width="57" height="57" rx="7" fill="none" stroke="currentColor" stroke-width="2.5"/>
+          <rect x="9" y="9" width="46" height="46" rx="3.5" fill="none" stroke="currentColor" stroke-width="1.15"/>
+          <path fill="currentColor" d="M16.4 27.2c6.2-8.2 17.2-9.2 31.2-5.2-1.8 2.4-11.2 2.2-17.4 3.4-6.4 1.4-11 5.2-14.2 7.4.2-1.8.2-3.8.4-5.6z"/>
+          <path d="M18 41.2c5.2-5.2 9.6-5.2 14 0s8.8 5.2 14 0" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+          <path d="M23 47.4c3.6-3.2 6.2-3.2 9 0s5.4 3.2 9 0" fill="none" stroke="currentColor" stroke-width="1.35" stroke-linecap="round"/>
+        </svg>
+        <div>
+          <p class="eyebrow">AI 图像生成</p>
+          <h1>如水如画</h1>
+          <p class="tagline">来自 X 的提示词日报</p>
+        </div>
+      </div>
+      <div class="mast-side">
+        <label class="date-label" for="date">日期</label>
+        <select id="date" aria-label="选择日期"></select>
+      </div>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <div class="wrap">
+      <div class="toolbar-row">
+        <div class="search">
+          <svg class="mag" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"></circle>
+            <path d="M16 16.5 20 20.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
+          </svg>
+          <input id="q" type="search" placeholder="搜索标题或提示词" aria-label="搜索标题或提示词" enterkeyhint="search" autocomplete="off">
+          <button id="clear" class="text-btn" type="button" hidden>清除</button>
+        </div>
+        <div class="sort" role="radiogroup" aria-label="排序方式">
+          <button type="button" role="radio" data-sort="heat" aria-checked="true">热度</button>
+          <button type="button" role="radio" data-sort="time" aria-checked="false">时间</button>
+        </div>
+      </div>
+      <div class="chips" id="chips" role="toolbar" aria-label="按模型筛选"></div>
+      <p class="result" id="result" aria-live="polite"></p>
+    </div>
+  </div>
+
+  <p class="status wrap" id="status">正在加载…</p>
+  <p class="empty wrap" id="empty" hidden>没有匹配的提示词</p>
+  <main id="gallery" class="gallery wrap" aria-live="polite"></main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <p>内容来自 X 公开帖子，提示词版权归原作者。时间为北京时间（UTC+8）。</p>
+    </div>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <div id="lightbox" class="lightbox" hidden role="dialog" aria-modal="true" aria-label="图片预览">
+    <div class="lb-bar">
+      <p class="lb-caption" id="lb-caption"></p>
+      <button type="button" class="lb-close" id="lb-close" aria-label="关闭">关闭</button>
+    </div>
+    <div class="lb-stage" id="lb-stage">
+      <button type="button" class="lb-nav" id="lb-prev" aria-label="上一张">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14.5 5.5 8 12l6.5 6.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+      </button>
+      <figure class="lb-figure">
+        <div class="lb-photo">
+          <img id="lb-img" alt="">
+        </div>
+        <figcaption id="lb-counter"></figcaption>
+      </figure>
+      <button type="button" class="lb-nav" id="lb-next" aria-label="下一张">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9.5 5.5 16 12l-6.5 6.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+      </button>
+    </div>
+    <div class="lb-thumbs" id="lb-thumbs"></div>
+  </div>
+
+  <noscript>
+    <p class="status wrap">请启用 JavaScript 以浏览每日提示词。</p>
+  </noscript>
+  <script src="app.js" defer></script>
+</body>
+</html>

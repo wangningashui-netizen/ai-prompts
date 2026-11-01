@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>如水如画</title>
+  <style>
+    svg { color: #c23b2e; }
+    @media (prefers-color-scheme: dark) {
+      svg { color: #ef7d6e; }
+    }
+  </style>
+  <rect x="3.5" y="3.5" width="57" height="57" rx="7" fill="none" stroke="currentColor" stroke-width="2.5"/>
+  <rect x="9" y="9" width="46" height="46" rx="3.5" fill="none" stroke="currentColor" stroke-width="1.15"/>
+  <path fill="currentColor" d="M16.4 27.2c6.2-8.2 17.2-9.2 31.2-5.2-1.8 2.4-11.2 2.2-17.4 3.4-6.4 1.4-11 5.2-14.2 7.4.2-1.8.2-3.8.4-5.6z"/>
+  <path d="M18 41.2c5.2-5.2 9.6-5.2 14 0s8.8 5.2 14 0" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M23 47.4c3.6-3.2 6.2-3.2 9 0s5.4 3.2 9 0" fill="none" stroke="currentColor" stroke-width="1.35" stroke-linecap="round"/>
+</svg>
