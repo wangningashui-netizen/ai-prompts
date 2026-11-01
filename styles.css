@@ -115,19 +115,12 @@ a { color: inherit; }
 }
 
 .seal {
-  display: grid;
-  place-items: center;
+  display: block;
   width: 54px;
   height: 54px;
   flex: none;
-  border: 2px solid var(--accent);
-  outline: 1px solid var(--accent);
-  outline-offset: -6px;
   color: var(--accent);
-  border-radius: 6px;
-  font-size: 28px;
-  font-weight: 700;
-  line-height: 1;
+  overflow: visible;
   transform: rotate(-8deg);
 }
 
@@ -713,8 +706,8 @@ select {
     align-items: stretch;
     padding-top: 20px;
   }
-  h1 { font-size: 34px; }
-  .seal { width: 46px; height: 46px; font-size: 24px; }
+  h1 { font-size: 32px; letter-spacing: 0.08em; }
+  .seal { width: 46px; height: 46px; }
   .mast-side { align-items: stretch; }
   select { width: 100%; }
   .toolbar-row { flex-direction: column; align-items: stretch; }

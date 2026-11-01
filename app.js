@@ -441,7 +441,7 @@
     els.gallery.appendChild(fragment);
     renderChips();
     applyView();
-    document.title = `${formatDay(day.date)} · 象引`;
+    document.title = `${formatDay(day.date)} · 如水如画`;
     els.status.hidden = true;
   }
 
