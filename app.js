@@ -10,6 +10,8 @@
     status: document.querySelector("#status"),
     more: document.querySelector("#more"),
     toast: document.querySelector("#toast"),
+    toTop: document.querySelector("#to-top"),
+    lbPhoto: document.querySelector("#lb-photo"),
     lightbox: document.querySelector("#lightbox"),
     lbCaption: document.querySelector("#lb-caption"),
     lbClose: document.querySelector("#lb-close"),
@@ -33,6 +35,17 @@
     lb: null,
     lastFocus: null,
     toastTimer: 0,
+    zoom: {
+      scale: 1,
+      x: 0,
+      y: 0,
+      pointers: new Map(),
+      startDist: 0,
+      startScale: 1,
+      pan: null,
+      swipe: null,
+      lastTap: 0,
+    },
   };
 
   const NS = "http://www.w3.org/2000/svg";
@@ -181,7 +194,7 @@
       ok = false;
     }
     if (!ok) ok = fallbackCopy(text);
-    toast(ok ? "已复制 prompt" : "复制失败，请展开后手动选择");
+    toast(ok ? "已复制" : "复制失败，请展开后手动选择");
     if (ok && button) {
       button.textContent = "已复制";
       button.classList.add("is-done");
@@ -594,11 +607,28 @@
     return state.keys.get(card.dataset.key) || null;
   }
 
+  function applyZoom() {
+    const { scale, x, y } = state.zoom;
+    els.lbImg.style.transform = `translate(${x}px, ${y}px) scale(${scale})`;
+  }
+
+  function resetZoom() {
+    const zoom = state.zoom;
+    zoom.scale = 1;
+    zoom.x = 0;
+    zoom.y = 0;
+    zoom.pointers.clear();
+    zoom.pan = null;
+    zoom.swipe = null;
+    if (els.lbImg) applyZoom();
+  }
+
   function closeLightbox() {
     if (!state.lb) return;
     state.lb = null;
     els.lightbox.hidden = true;
     document.documentElement.style.overflow = "";
+    resetZoom();
     els.lbImg.removeAttribute("src");
     if (state.lastFocus && typeof state.lastFocus.focus === "function") state.lastFocus.focus();
   }
@@ -628,6 +658,7 @@
     attachImage(img, source);
     els.lbImg.replaceWith(img);
     els.lbImg = img;
+    resetZoom();
 
     els.lbThumbs.replaceChildren();
     sources.forEach((item, index) => {
@@ -794,17 +825,85 @@
       }
     });
 
-    let touchX = null;
-    els.lbStage.addEventListener("touchstart", (event) => {
-      touchX = event.changedTouches[0].clientX;
-    }, { passive: true });
-    els.lbStage.addEventListener("touchend", (event) => {
-      if (touchX == null) return;
-      const delta = event.changedTouches[0].clientX - touchX;
-      if (delta > 48) stepLightbox(-1);
-      else if (delta < -48) stepLightbox(1);
-      touchX = null;
-    }, { passive: true });
+    const photo = els.lbPhoto;
+    const zoom = state.zoom;
+    photo.addEventListener("pointerdown", (event) => {
+      try { photo.setPointerCapture(event.pointerId); } catch { /* synthetic events */ }
+      zoom.pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+      if (zoom.pointers.size === 1) {
+        zoom.swipe = { x: event.clientX, y: event.clientY };
+        zoom.pan = { x: zoom.x, y: zoom.y, px: event.clientX, py: event.clientY };
+      } else if (zoom.pointers.size === 2) {
+        const [a, b] = [...zoom.pointers.values()];
+        zoom.startDist = Math.hypot(a.x - b.x, a.y - b.y) || 1;
+        zoom.startScale = zoom.scale;
+      }
+    });
+    photo.addEventListener("pointermove", (event) => {
+      if (!zoom.pointers.has(event.pointerId)) return;
+      zoom.pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+      if (zoom.pointers.size >= 2) {
+        const [a, b] = [...zoom.pointers.values()];
+        const dist = Math.hypot(a.x - b.x, a.y - b.y) || 1;
+        zoom.scale = Math.min(4, Math.max(1, zoom.startScale * (dist / zoom.startDist)));
+        if (zoom.scale === 1) {
+          zoom.x = 0;
+          zoom.y = 0;
+        }
+        applyZoom();
+        return;
+      }
+      if (zoom.scale > 1.02 && zoom.pan) {
+        zoom.x = zoom.pan.x + (event.clientX - zoom.pan.px);
+        zoom.y = zoom.pan.y + (event.clientY - zoom.pan.py);
+        applyZoom();
+      }
+    });
+    photo.addEventListener("pointerup", (event) => {
+      const start = zoom.swipe;
+      const hadPinch = zoom.pointers.size >= 2;
+      zoom.pointers.delete(event.pointerId);
+      if (!hadPinch && start && zoom.scale <= 1.02) {
+        const dx = event.clientX - start.x;
+        const dy = event.clientY - start.y;
+        const moved = Math.hypot(dx, dy);
+        if (moved < 12) {
+          const now = Date.now();
+          if (now - zoom.lastTap < 280) {
+            zoom.scale = zoom.scale > 1.05 ? 1 : 2.4;
+            zoom.x = 0;
+            zoom.y = 0;
+            applyZoom();
+            zoom.lastTap = 0;
+          } else {
+            zoom.lastTap = now;
+          }
+        } else if (Math.abs(dx) > 48 && Math.abs(dx) > Math.abs(dy) * 1.2) {
+          stepLightbox(dx > 0 ? -1 : 1);
+        }
+      }
+      if (zoom.pointers.size === 1) {
+        const left = [...zoom.pointers.values()][0];
+        zoom.pan = { x: zoom.x, y: zoom.y, px: left.x, py: left.y };
+        zoom.swipe = null;
+      }
+    });
+    photo.addEventListener("pointercancel", (event) => {
+      zoom.pointers.delete(event.pointerId);
+    });
+
+    function syncToTop() {
+      const on = window.scrollY > 420;
+      els.toTop.classList.toggle("is-on", on);
+      els.toTop.setAttribute("aria-hidden", on ? "false" : "true");
+      els.toTop.tabIndex = on ? 0 : -1;
+    }
+    window.addEventListener("scroll", syncToTop, { passive: true });
+    syncToTop();
+    els.toTop.addEventListener("click", () => {
+      const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      window.scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" });
+    });
 
     let resizeTimer = 0;
     window.addEventListener("resize", () => {
