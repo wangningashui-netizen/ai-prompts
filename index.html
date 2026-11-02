@@ -39,8 +39,8 @@
         </div>
       </div>
       <div class="mast-side">
-        <label class="date-label" for="date">日期</label>
-        <select id="date" aria-label="选择日期"></select>
+        <label class="date-label" for="date">跳到</label>
+        <select id="date" aria-label="跳到某一天"></select>
       </div>
     </div>
   </header>
@@ -68,7 +68,8 @@
 
   <p class="status wrap" id="status">正在加载…</p>
   <p class="empty wrap" id="empty" hidden>没有匹配的提示词</p>
-  <main id="gallery" class="gallery wrap" aria-live="polite"></main>
+  <main id="gallery" class="feed wrap"></main>
+  <p class="more wrap" id="more"></p>
 
   <footer class="foot">
     <div class="wrap">
