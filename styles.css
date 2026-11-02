@@ -304,11 +304,36 @@ select {
   padding: 48px 0;
 }
 
+.feed { padding: 16px 0 4px; }
+
+.day + .day {
+  margin-top: 8px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.day-head {
+  margin: 0 0 14px;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  line-height: 1.35;
+  scroll-margin-top: 132px;
+}
+
 .gallery {
-  padding: 18px 0 8px;
   column-count: 1;
   column-gap: 16px;
   line-height: 0;
+}
+
+.more {
+  margin: 0;
+  padding: 12px 0 28px;
+  text-align: center;
+  color: var(--ink-soft);
+  font-size: 13px;
+  min-height: 1.4em;
 }
 
 .card {
@@ -381,7 +406,7 @@ select {
 
 .body { padding: 14px 14px 16px; }
 
-.card h2 {
+.card h3 {
   margin: 0;
   font-size: 17px;
   line-height: 1.4;

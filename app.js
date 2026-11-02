@@ -1,6 +1,4 @@
 (() => {
-  const PREVIEW_LINES = 4;
-
   const els = {
     date: document.querySelector("#date"),
     q: document.querySelector("#q"),
@@ -10,6 +8,7 @@
     gallery: document.querySelector("#gallery"),
     empty: document.querySelector("#empty"),
     status: document.querySelector("#status"),
+    more: document.querySelector("#more"),
     toast: document.querySelector("#toast"),
     lightbox: document.querySelector("#lightbox"),
     lbCaption: document.querySelector("#lb-caption"),
@@ -24,15 +23,16 @@
 
   const state = {
     index: null,
-    day: null,
-    date: "",
+    days: [],
+    keys: new Map(),
     group: "全部",
     sort: "heat",
     query: "",
+    cursor: 0,
+    flight: null,
     lb: null,
     lastFocus: null,
     toastTimer: 0,
-    loadToken: 0,
   };
 
   const NS = "http://www.w3.org/2000/svg";
@@ -41,6 +41,12 @@
     const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || "");
     if (!match) return iso || "";
     return `${match[1]}年${Number(match[2])}月${Number(match[3])}日`;
+  }
+
+  function formatDayShort(iso) {
+    const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || "");
+    if (!match) return iso || "";
+    return `${Number(match[2])}月${Number(match[3])}日`;
   }
 
   function parsePostTime(entry, dayIso) {
@@ -98,16 +104,16 @@
     return (entry.images || []).map((image) => {
       const local = safeLocal(image.local);
       const remote = safeRemote(image.remote);
-    const width = Number(image.width) || 0;
-    const height = Number(image.height) || 0;
-    return {
-      src: local || remote,
-      fallback: local && remote ? remote : "",
-      width: width > 0 ? width : 0,
-      height: height > 0 ? height : 0,
-    };
-  }).filter((item) => item.src);
-}
+      const width = Number(image.width) || 0;
+      const height = Number(image.height) || 0;
+      return {
+        src: local || remote,
+        fallback: local && remote ? remote : "",
+        width: width > 0 ? width : 0,
+        height: height > 0 ? height : 0,
+      };
+    }).filter((item) => item.src);
+  }
 
   function handle(entry) {
     return /^[A-Za-z0-9_]{1,30}$/.test(entry.author || "") ? entry.author : "";
@@ -229,11 +235,10 @@
     els.gallery.querySelectorAll(".card").forEach(syncExpand);
   }
 
-  function buildCard(entry, index) {
+  function buildCard(entry, dayDate, eager) {
     const card = document.createElement("article");
     card.className = "card";
-    card.dataset.id = entry.id;
-    card.dataset.index = String(index);
+    card.dataset.key = `${dayDate}:${entry.id}`;
 
     const sources = sourcesOf(entry);
     if (sources.length) {
@@ -243,7 +248,7 @@
       shot.setAttribute("aria-label", sources.length > 1 ? `查看图片，共 ${sources.length} 张` : "查看图片");
       const img = document.createElement("img");
       img.alt = entry.title || "配图";
-      if (index < 3) {
+      if (eager) {
         img.loading = "eager";
         img.fetchPriority = "high";
       } else {
@@ -268,7 +273,7 @@
     const body = document.createElement("div");
     body.className = "body";
 
-    const title = document.createElement("h2");
+    const title = document.createElement("h3");
     title.textContent = entry.title || "未命名";
     body.appendChild(title);
 
@@ -310,7 +315,7 @@
     }
     meta.appendChild(author);
 
-    const when = parsePostTime(entry, state.day.date);
+    const when = parsePostTime(entry, dayDate);
     const time = document.createElement("time");
     if (when.iso) time.dateTime = when.iso;
     time.textContent = when.label;
@@ -366,6 +371,10 @@
     return card;
   }
 
+  function allEntries() {
+    return state.days.flatMap((day) => day.entries);
+  }
+
   function groupsOf(entries) {
     const counts = new Map();
     entries.forEach((entry) => {
@@ -381,7 +390,7 @@
   }
 
   function renderChips() {
-    const entries = state.day.entries;
+    const entries = allEntries();
     els.chips.replaceChildren();
     const items = [{ name: "全部", count: entries.length }, ...groupsOf(entries)];
     if (!items.some((item) => item.name === state.group)) state.group = "全部";
@@ -400,49 +409,73 @@
     });
   }
 
-  function applyView() {
-    const entries = state.day.entries.map((entry, index) => ({ entry, index }));
-    entries.sort((a, b) => {
+  function sortEntries(entries, dayIso) {
+    return entries.map((entry, index) => ({ entry, index })).sort((a, b) => {
       if (state.sort === "time") {
-        const delta = parsePostTime(b.entry, state.day.date).ms - parsePostTime(a.entry, state.day.date).ms;
+        const delta = parsePostTime(b.entry, dayIso).ms - parsePostTime(a.entry, dayIso).ms;
         if (delta) return delta;
       }
       const deltaHeat = heat(b.entry) - heat(a.entry);
       if (deltaHeat) return deltaHeat;
       return a.index - b.index;
     });
+  }
 
+  function applyView() {
     const query = norm(state.query.trim());
     let shown = 0;
-    entries.forEach(({ entry }) => {
-      const card = els.gallery.querySelector(`.card[data-id="${CSS.escape(entry.id)}"]`);
-      if (!card) return;
-      els.gallery.appendChild(card);
-      const groupOk = state.group === "全部" || (entry.group || "未分组") === state.group;
-      const textOk = !query || norm(entry.title).includes(query) || norm(entry.prompt).includes(query);
-      const visible = groupOk && textOk;
-      card.hidden = !visible;
-      if (visible) shown += 1;
+    state.days.forEach((day) => {
+      const section = document.getElementById(`day-${day.date}`);
+      if (!section) return;
+      const gallery = section.querySelector(".gallery");
+      let visible = 0;
+      sortEntries(day.entries, day.date).forEach(({ entry }) => {
+        const key = `${day.date}:${entry.id}`;
+        const card = gallery.querySelector(`[data-key="${CSS.escape(key)}"]`);
+        if (!card) return;
+        gallery.appendChild(card);
+        const groupOk = state.group === "全部" || (entry.group || "未分组") === state.group;
+        const textOk = !query || norm(entry.title).includes(query) || norm(entry.prompt).includes(query);
+        const ok = groupOk && textOk;
+        card.hidden = !ok;
+        if (ok) visible += 1;
+      });
+      section.hidden = visible === 0;
+      shown += visible;
     });
 
-    const total = state.day.entries.length;
+    const loaded = allEntries().length;
+    const total = (state.index?.dates || []).reduce((sum, day) => sum + (Number(day.count) || 0), 0);
     const sortLabel = state.sort === "time" ? "按时间" : "按热度（赞 + 收藏）";
-    els.result.textContent = total ? `显示 ${shown} / ${total} 条 · ${sortLabel}` : "这一天还没有提示词";
-    els.empty.hidden = shown !== 0;
-    els.empty.textContent = query || state.group !== "全部" ? "没有匹配的提示词" : "这一天还没有提示词";
+    const more = state.cursor < (state.index?.dates.length || 0);
+    els.result.textContent = loaded
+      ? `显示 ${shown} / ${loaded} 条${more ? ` · 共 ${total} 条` : ""} · ${sortLabel}`
+      : "";
+    const finished = state.index && state.cursor >= state.index.dates.length && !state.flight;
+    els.empty.hidden = shown !== 0 || !finished;
+    els.empty.textContent = query || state.group !== "全部" ? "没有匹配的提示词" : "还没有提示词";
     requestAnimationFrame(syncVisibleExpands);
   }
 
-  function renderDay(day) {
-    state.day = day;
-    els.gallery.replaceChildren();
-    const fragment = document.createDocumentFragment();
-    day.entries.forEach((entry, index) => fragment.appendChild(buildCard(entry, index)));
-    els.gallery.appendChild(fragment);
-    renderChips();
-    applyView();
-    document.title = `${formatDay(day.date)} · 如水如画`;
-    els.status.hidden = true;
+  function appendDay(day, item) {
+    const date = day.date || item.date;
+    const section = document.createElement("section");
+    section.className = "day";
+    section.id = `day-${date}`;
+    const heading = document.createElement("h2");
+    heading.className = "day-head";
+    heading.textContent = `${formatDayShort(date)} · ${day.entries.length}条`;
+    const gallery = document.createElement("div");
+    gallery.className = "gallery";
+    const eagerBase = state.days.length === 0;
+    sortEntries(day.entries, date).forEach(({ entry }, index) => {
+      const card = buildCard(entry, date, eagerBase && index < 3);
+      state.keys.set(card.dataset.key, { entry, date });
+      gallery.appendChild(card);
+    });
+    section.append(heading, gallery);
+    els.gallery.appendChild(section);
+    state.days.push({ date, entries: day.entries });
   }
 
   function readUrl() {
@@ -457,12 +490,12 @@
 
   function writeUrl() {
     const params = new URLSearchParams();
-    if (state.date) params.set("date", state.date);
     if (state.query.trim()) params.set("q", state.query.trim());
     if (state.group && state.group !== "全部") params.set("g", state.group);
     if (state.sort === "time") params.set("sort", "time");
     const query = params.toString();
-    history.replaceState(null, "", query ? `${location.pathname}?${query}` : location.pathname);
+    const hash = location.hash || "";
+    history.replaceState(null, "", `${location.pathname}${query ? `?${query}` : ""}${hash}`);
   }
 
   function syncSortButtons() {
@@ -477,31 +510,88 @@
     return response.json();
   }
 
-  async function loadDay(date) {
-    const token = ++state.loadToken;
-    const item = state.index.dates.find((day) => day.date === date) || state.index.dates[0];
-    els.status.hidden = false;
-    els.status.textContent = "正在加载…";
-    els.empty.hidden = true;
-    els.gallery.replaceChildren();
-    try {
-      const day = await loadJson(item.file);
-      if (token !== state.loadToken) return;
-      if (!day || !Array.isArray(day.entries)) throw new Error("schema");
-      if (!day.date) day.date = item.date;
-      state.date = item.date;
-      els.date.value = item.date;
-      renderDay(day);
-      writeUrl();
-    } catch {
-      if (token !== state.loadToken) return;
-      els.status.hidden = false;
-      els.status.textContent = "这一天的数据加载失败，请刷新重试。";
+  function setMoreLabel() {
+    if (!state.index) return;
+    if (state.cursor >= state.index.dates.length) {
+      els.more.textContent = state.days.length ? "已经是最早的一天" : "";
+    } else if (state.days.length) {
+      els.more.textContent = "继续下拉，查看更早的日期";
+    } else {
+      els.more.textContent = "";
     }
   }
 
-  function entryById(id) {
-    return state.day?.entries.find((entry) => entry.id === id) || null;
+  function maybeFill() {
+    if (state.flight || !state.index || state.cursor >= state.index.dates.length) return;
+    const rect = els.more.getBoundingClientRect();
+    if (rect.top < window.innerHeight + 700) loadNextDay();
+  }
+
+  async function loadNextDay() {
+    if (state.flight) return state.flight;
+    if (!state.index || state.cursor >= state.index.dates.length) return;
+    const run = async () => {
+      const item = state.index.dates[state.cursor];
+      const first = state.days.length === 0;
+      if (first) {
+        els.status.hidden = false;
+        els.status.textContent = "正在加载…";
+      } else {
+        els.more.textContent = "正在加载更早的日期…";
+      }
+      const day = await loadJson(item.file);
+      if (!day || !Array.isArray(day.entries)) throw new Error("schema");
+      if (!day.date) day.date = item.date;
+      state.cursor += 1;
+      appendDay(day, item);
+      if (first) {
+        els.status.hidden = true;
+        document.title = "如水如画 · AI 图像提示词日报";
+      }
+      setMoreLabel();
+      renderChips();
+      applyView();
+    };
+    state.flight = run().finally(() => {
+      state.flight = null;
+    });
+    try {
+      await state.flight;
+    } catch {
+      if (state.days.length === 0) {
+        els.status.hidden = false;
+        els.status.textContent = "这一天的数据加载失败，请刷新重试。";
+      } else {
+        els.more.textContent = "更早的日期加载失败，继续下拉重试";
+      }
+      return;
+    }
+    maybeFill();
+  }
+
+  async function jumpTo(date) {
+    if (!state.index.dates.some((day) => day.date === date)) return;
+    let guard = 0;
+    while (!state.days.some((day) => day.date === date) && guard < state.index.dates.length) {
+      const before = state.cursor;
+      await loadNextDay();
+      guard += 1;
+      if (state.cursor === before) break;
+    }
+    const section = document.getElementById(`day-${date}`);
+    if (!section) {
+      toast("这一天加载失败");
+      return;
+    }
+    if (section.hidden) {
+      toast("这一天没有符合当前筛选的提示词");
+      return;
+    }
+    section.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  function entryFromCard(card) {
+    return state.keys.get(card.dataset.key) || null;
   }
 
   function closeLightbox() {
@@ -514,7 +604,8 @@
   }
 
   function renderLightbox() {
-    const entry = entryById(state.lb.id);
+    const found = state.keys.get(state.lb.key);
+    const entry = found?.entry;
     const sources = entry ? sourcesOf(entry) : [];
     if (!entry || !sources.length) {
       closeLightbox();
@@ -556,11 +647,11 @@
     });
   }
 
-  function openLightbox(entry, index) {
+  function openLightbox(entry, key) {
     const sources = sourcesOf(entry);
     if (!sources.length) return;
     state.lastFocus = document.activeElement;
-    state.lb = { id: entry.id, index };
+    state.lb = { key, index: 0 };
     els.lightbox.hidden = false;
     document.documentElement.style.overflow = "hidden";
     renderLightbox();
@@ -576,15 +667,15 @@
   function onGalleryClick(event) {
     const card = event.target.closest(".card");
     if (!card) return;
-    const entry = entryById(card.dataset.id);
-    if (!entry) return;
+    const found = entryFromCard(card);
+    if (!found) return;
     if (event.target.closest(".shot")) {
-      openLightbox(entry, 0);
+      openLightbox(found.entry, card.dataset.key);
       return;
     }
     const copy = event.target.closest(".copy");
     if (copy) {
-      copyPrompt(entry, copy);
+      copyPrompt(found.entry, copy);
       return;
     }
     const expand = event.target.closest(".expand");
@@ -609,6 +700,21 @@
     }
   }
 
+  function fillDateSelect() {
+    els.date.replaceChildren();
+    const placeholder = document.createElement("option");
+    placeholder.value = "";
+    placeholder.textContent = "选择日期";
+    els.date.appendChild(placeholder);
+    state.index.dates.forEach((day) => {
+      const option = document.createElement("option");
+      option.value = day.date;
+      option.textContent = `${formatDay(day.date)} · ${day.count} 条`;
+      els.date.appendChild(option);
+    });
+    els.date.value = "";
+  }
+
   async function init() {
     const urlState = readUrl();
     state.query = urlState.q;
@@ -618,13 +724,18 @@
     els.clear.hidden = !state.query;
     syncSortButtons();
 
-    els.date.addEventListener("change", () => loadDay(els.date.value));
+    els.date.addEventListener("change", () => {
+      const value = els.date.value;
+      els.date.value = "";
+      if (value) jumpTo(value);
+    });
     els.q.addEventListener("input", () => {
       state.query = els.q.value;
       els.clear.hidden = !state.query;
-      if (state.day) {
+      if (state.days.length) {
         applyView();
         writeUrl();
+        maybeFill();
       }
     });
     els.clear.addEventListener("click", () => {
@@ -632,9 +743,10 @@
       state.query = "";
       els.clear.hidden = true;
       els.q.focus();
-      if (state.day) {
+      if (state.days.length) {
         applyView();
         writeUrl();
+        maybeFill();
       }
     });
     document.querySelector(".sort").addEventListener("click", (event) => {
@@ -642,7 +754,7 @@
       if (!button || button.dataset.sort === state.sort) return;
       state.sort = button.dataset.sort;
       syncSortButtons();
-      if (state.day) {
+      if (state.days.length) {
         applyView();
         writeUrl();
       }
@@ -656,6 +768,7 @@
       });
       applyView();
       writeUrl();
+      maybeFill();
     });
     els.gallery.addEventListener("click", onGalleryClick);
     els.lbClose.addEventListener("click", closeLightbox);
@@ -700,22 +813,21 @@
     });
     document.fonts?.ready?.then(syncVisibleExpands);
 
+    const observer = new IntersectionObserver((entries) => {
+      if (entries.some((entry) => entry.isIntersecting)) loadNextDay();
+    }, { rootMargin: "700px 0px" });
+    observer.observe(els.more);
+
     try {
       state.index = await loadJson("data/index.json");
-    if (!state.index?.dates?.length) throw new Error("empty");
-    state.index.dates = state.index.dates
-      .filter((day) => day && typeof day.date === "string" && typeof day.file === "string")
-      .sort((a, b) => b.date.localeCompare(a.date));
-    if (!state.index.dates.length) throw new Error("empty");
-    els.date.replaceChildren();
-      state.index.dates.forEach((day) => {
-        const option = document.createElement("option");
-        option.value = day.date;
-        option.textContent = `${formatDay(day.date)} · ${day.count} 条`;
-        els.date.appendChild(option);
-      });
-      const known = state.index.dates.some((day) => day.date === urlState.date);
-      await loadDay(known ? urlState.date : state.index.dates[0].date);
+      if (!state.index?.dates?.length) throw new Error("empty");
+      state.index.dates = state.index.dates
+        .filter((day) => day && typeof day.date === "string" && typeof day.file === "string")
+        .sort((a, b) => b.date.localeCompare(a.date));
+      if (!state.index.dates.length) throw new Error("empty");
+      fillDateSelect();
+      await loadNextDay();
+      if (urlState.date && urlState.date !== state.index.dates[0].date) jumpTo(urlState.date);
     } catch {
       els.status.hidden = false;
       els.status.textContent = "日期索引加载失败，请刷新重试。";
