@@ -1,0 +1,712 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-11",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "2120070778003800432",
+      "author": "umesh_ai",
+      "title": "孩子写给上帝的手写信俯拍照",
+      "model": "MiniMax H3-Image",
+      "group": "MiniMax H3-Image",
+      "note": "作者先用 MiniMax H3 Image 出图，另与其他模型对比；效果图为 H3 的结果。",
+      "needsReference": false,
+      "time": "11-10 16:27",
+      "likes": 520,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/umesh_ai_2120070778003800432_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Create a heartwarming, highly photorealistic overhead photograph of a handwritten letter to God, lovingly written by an innocent 6-year-old child. The letter should look genuinely handmade, with imperfect childhood handwriting, playful doodles, colorful pencil drawings, and a touching sense of innocence, kindness, and hope.  The letter must contain this exact passage:  Dear God,  Hi God! How are you? I hope you are happy up there.  I have a little wish for you. Please keep all the people in the world healthy, safe, and happy.  Please help the sick people get better. Give everyone food, water, and a nice home to sleep in.  Please take care of all the animals too. The big elephants, tiny ants, little birds, puppies, kittens, and everyone else.  Please don't let any animal be hungry or sad. They are our friends too!  Please keep the trees green, the flowers smiling, and the rivers clean. Please make our Earth happy and beautiful.  And God, please help everyone love each other and be kind. I want the whole world to smile!  Thank you for listening to me. I love you, God!  Love, Your little friend ❤️  HANDWRITING STYLE:  Render every word in authentic, innocent handwriting resembling that of a real 6-year-old child learning to write.  Use a simple graphite pencil with slightly uneven pressure, occasional darker strokes, shaky letter shapes, irregular spacing, inconsistent letter heights, and gently wandering baselines.  Some letters should be unusually large while others are small. A few words may lean slightly upward or downward, creating the charming imperfection of genuine childhood handwriting.  Avoid elegant cursive, calligraphy, professional typography, or computer-generated fonts.  The writing should feel spontaneous, slightly clumsy, and emotionally sincere, as though a little child carefully wrote every word with love.  Include a few faint pencil eraser marks, tiny smudges, and naturally imperfect handwriting details while keeping every word clearly legible.  CHILDLIKE DOODLES AND DRAWINGS:  Surround the letter with adorable, imperfect drawings made using colored pencils and wax crayons.  Include: - A smiling yellow sun with uneven rays in the upper corner. - Fluffy blue clouds with happy faces. - A colorful, slightly crooked rainbow. - A small Earth with a smiling face, blue oceans, and green land. - Simple stick-figure children holding hands. - A tiny elephant, a puppy, a kitten, and two little birds. - Small green trees, colorful flowers, butterflies, and hearts. - A few stars scattered randomly around the page. - Tiny paw prints near the bottom.  All drawings must look genuinely created by a 6-year-old, with uneven outlines, simple shapes, imperfect coloring, scribbled textures, and playful proportions.  Do not make the illustrations professionally polished or digitally perfect.  PAPER AND COMPOSITION:  Place the letter on a single sheet of slightly crumpled, off-white notebook paper with faint horizontal guidelines.  The page should have naturally curled corners, subtle wrinkles, and realistic paper fibers.  Keep the handwriting in the center of the page, with colorful doodles scattered around the margins and corners without covering any words.  The entire letter must fit comfortably on one page, with balanced spacing and sufficient room for the drawings.  Arrange a few short colored pencils, a slightly worn pencil, a pink eraser, and two small wax crayons casually beside the paper.  LIGHTING AND ATMOSPHERE:  Use soft, warm morning sunlight entering from a nearby window, creating gentle natural shadows across the paper.  The background should be a simple wooden study table, suggesting the quiet, innocent world of a young child.  The overall mood should feel pure, peaceful, emotional, hopeful, and deeply touching.  It should look like a real little child sat at a table and wrote a heartfelt prayer asking God to protect every human, animal, plant, and living thing on Earth.  PHOTOREALISM REQUIREMENTS:  Capture realistic pencil graphite texture, uneven crayon marks, subtle paper grain, gentle smudges, naturally imperfect drawings, and authentic childhood penmanship.  Preserve the exact wording, capitalization, punctuation, paragraph breaks, and sequence of every line.  Do not omit, repeat, distort, crop, or replace any words.  Avoid gibberish, artificial lettering, excessive decoration, or overlapping text.  The final image should resemble a precious childhood letter that a parent would lovingly preserve for years.  Camera angle: Directly overhead, flat-lay composition.  Aspect ratio: Portrait 3:4.  Style: Ultra-photorealistic, nostalgic childhood stationery photography, soft natural light, warm gentle colors"
+    },
+    {
+      "id": "2119966563168288806",
+      "author": "plasm0",
+      "title": "1890 年代美式活版印刷海报扫描",
+      "model": "MiniMax H3-Image",
+      "group": "MiniMax H3-Image",
+      "note": "考验大字排版的文字渲染。",
+      "needsReference": false,
+      "time": "11-10 09:33",
+      "likes": 264,
+      "bookmarks": 8,
+      "images": [
+        {
+          "local": "images/2026-11-11/plasm0_2119966563168288806_1.jpg",
+          "remote": "",
+          "width": 455,
+          "height": 680
+        }
+      ],
+      "prompt": "Aspect ratio 2:3, native 4K. A flat, straight-on, perfectly lit high-resolution scan of an authentic 1890s American letterpress broadside poster, printed in red, black, and metallic gold ink on aged cream paper with subtle fiber texture, faint fold creases, slight ink spread, and tiny foxing spots. The poster is packed edge to edge with typography in the classic Victorian circus style: every line in a different wood type face, including bold slab serifs, tall condensed gothics, ornate Tuscan letters, outlined and shadowed display type, and elegant copperplate script. Ornamental borders of filigree, stars, and pointing hands frame everything. Fine engraved illustrations decorate the poster: a pair of turntables with lightning bolts between them, a violin wreathed in laurels, a woman with rays of color bursting from her eyes, a giant brass horn speaker, and mechanical singing automatons. All of the following text must appear exactly as written, correctly spelled, in this order from top to bottom:\n\nArched across the top: \"BY POPULAR DEMAND! ONE NIGHT ONLY!\"\nHuge headline: \"PLASM0'S\"\nGiant main title on two lines: \"GRAND ELECTRO-ACOUSTICAL\" / \"SPECTACULAR\"\nSubtitle in script: \"A Marvel of Modern Sound & Science, Never Before Witnessed by Mortal Ears!\"\nRibbon banner: \"SATURDAY, DECEMBER 12th · DOORS AT 9 O'CLOCK · THE CRYSTAL PAVILION, CHICAGO\"\nSection heading: \"FEATURING\"\nTwo columns of six numbered acts, each with a bold name and a smaller description beneath:\n\"1. THE THUNDERING TURNTABLES\" / \"Two Direct-Drive Engines Spinning in Perfect Synchrony!\"\n\"2. THE PHANTOM VIOLIN\" / \"Fifteen Years of Classical Mastery Summoned from Thin Air!\"\n\"3. MADAME KROMESTHESIA\" / \"She Sees Every Note in Living Color!\"\n\"4. THE BINAURAL WHISPERER\" / \"Sounds That Travel from One Ear to the Other!\"\n\"5. THE INCREDIBLE BASS CANNON\" / \"Felt in the Chest Before It Is Heard by the Ear!\"\n\"6. THE AUTOMATON CHOIR\" / \"Twelve Mechanical Voices in Perfect Harmony!\"\nCircular gold medallion seal: \"ADMISSION 50¢ · LADIES FREE BEFORE TEN\"\nTwo testimonial quotes in italic: \"I have never danced so vigorously in all my life.\" - The Duchess of Wicker Park / \"My hat flew clean off my head.\" - A Gentleman of Logan Square\nBoxed panel titled \"RULES OF THE HOUSE\": \"1. No Fainting Upon the Dance Floor.\" \"2. Hats Must Be Removed During the Drop.\" \"3. Requests Will Be Politely Ignored.\" \"4. Management Is Not Responsible for Lost Shoes, Spirits, or Sense of Time.\"\nTiny fine print along the bottom edge: \"Printed by the Midwestern Steam Press Co., Chicago, 1893. All Sounds Guaranteed Genuine. The Management Reserves the Right to Increase the Volume Without Notice. Refunds Issued Only in the Event of Total Silence.\"\n\nEvery letter crisp, sharp, and legible at full size, with authentic letterpress character."
+    },
+    {
+      "id": "2119941138220253267",
+      "author": "plasm0",
+      "title": "美国手语字母接触印样",
+      "model": "MiniMax H3-Image",
+      "group": "MiniMax H3-Image",
+      "note": "JSON 格式提示词；测试手部与手语字母。",
+      "needsReference": false,
+      "time": "11-10 07:52",
+      "likes": 259,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-11/plasm0_2119941138220253267_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "{   \"photo\": {     \"type\": \"real, unretouched studio photograph of a printed contact sheet showing the American Sign Language alphabet, with each letter fingerspelled by a different real person's hand\",     \"camera\": \"full-frame camera, 100mm macro lens, each panel shot straight on with even studio lighting, the whole sheet photographed flat\",     \"format\": \"horizontal 16:9 widescreen frame\",     \"realism\": \"real human hands with natural skin texture, visible creases, knuckle wrinkles and nails, not a render or illustration, with no plastic or airbrushed skin\"   },   \"layout\": {     \"grid\": \"a grid of square photo panels with thin white borders: exactly 7 columns across and exactly 4 rows down, for exactly 28 panels in total, with no extra columns or rows\",     \"order\": \"Top row, left to right: A, B, C, D, E, F, G. Second row, left to right: H, I, J, K, L, M, N. Third row, left to right: O, P, Q, R, S, T, U. Bottom row, left to right: V, W, X, Y, Z, then two bonus panels\",     \"labels\": \"a large, clean white capital letter in the bottom-left corner of each panel naming the letter being signed, each letter used only once\",     \"panel_style\": \"each panel shows one right hand and wrist rising from the bottom edge, centered against its own softly colored seamless backdrop, with a different backdrop color in every panel: coral, sky blue, sage, mustard, lilac, peach, teal, rose, butter yellow, slate, mint, terracotta and others, with no two neighbors alike\"   },   \"letters\": {     \"A\": \"a deep brown hand of a man in his fifties, in a closed fist with the thumb resting straight up against the side of the index finger, palm facing the viewer\",     \"B\": \"a fair, freckled hand of a young woman, with the four fingers straight up and pressed together, and the thumb folded across the palm, palm facing the viewer\",     \"C\": \"an East Asian man's hand, with the fingers and thumb curved into the shape of the letter C, seen from the side\",     \"D\": \"an olive-skinned elderly woman's hand, with the index finger pointing straight up and the other fingertips touching the thumb in a rounded circle\",     \"E\": \"a teenager's warm brown hand, with all four fingertips curled down to rest on the thumb, which is tucked across the palm\",     \"F\": \"a South Asian woman's hand with henna on the back, with the index finger and thumb touching in a circle and the other three fingers straight up and spread\",     \"G\": \"a muscular, tattooed man's forearm and hand, with the index finger and thumb extended parallel and pointing sideways, the other fingers closed, palm facing the signer\",     \"H\": \"a Pacific Islander woman's hand, with the index and middle fingers extended together and pointing sideways, palm facing the signer\",     \"I\": \"a child's small hand, in a fist with only the little finger pointing straight up and the thumb across the front of the fingers\",     \"J\": \"a Latina woman's hand with red nail polish, making the I handshape with a faint curved light trail showing the little finger tracing a J\",     \"K\": \"a deep ebony hand of a young man, with the index finger up, the middle finger angled forward and the thumb touching the middle finger between them\",     \"L\": \"a Scandinavian man's very fair, hairy-knuckled hand, with the index finger up and the thumb out to the side, forming a clear L\",     \"M\": \"a Middle Eastern woman's hand with a gold ring, in a fist with the thumb tucked under the first three fingers draped over it\",     \"N\": \"an elderly man's thin, veined, spotted hand, in a fist with the thumb tucked under the index and middle fingers\",     \"O\": \"a Southeast Asian woman's hand, with all the fingertips touching the thumb to form a round O\",     \"P\": \"a mechanic's hand with grease in the creases, making the K handshape pointed downward\",     \"Q\": \"a golden-brown hand of a young woman, making the G handshape pointed downward\",     \"R\": \"an Indigenous American man's hand, with the index and middle fingers crossed and pointing up\",     \"S\": \"a boxer's hand with taped knuckles, in a fist with the thumb wrapped across the front of the fingers\",     \"T\": \"a fair hand of a woman in her forties, in a fist with the thumb tucked between the index and middle fingers\",     \"U\": \"a medium brown hand with vitiligo patches, with the index and middle fingers straight up and pressed together\",     \"V\": \"a young Korean woman's hand with a woven bracelet, with the index and middle fingers up and spread apart\",     \"W\": \"an Afro-Caribbean man's hand, with the index, middle and ring fingers up and spread, and the thumb holding down the little finger\",     \"X\": \"an Eastern European woman's hand with short bitten nails, in a fist with the index finger bent into a hook\",     \"Y\": \"a surfer's tanned hand, with the thumb and little finger extended and the other fingers closed\",     \"Z\": \"a North African woman's hand, with the index finger extended and a faint light trail showing it drawing a Z in the air\"   },   \"bonus_panels\": {     \"panel_27\": \"a mixed-heritage hand making the ASL \\\"I love you\\\" sign, with the thumb, index finger and little finger extended, labeled \\\"ILY\\\"\",     \"panel_28\": \"a hand holding up a small white card with the word \\\"plasm0\\\" printed in plain black lowercase letters, ending in the digit zero, with no label\"   },   \"details\": {     \"anatomy\": \"every hand with exactly five fingers, correctly formed knuckles and joints, and fingers that clearly overlap or tuck as described\",     \"variety\": \"hands of every size, age and shape, from a child's small hand to large, broad hands, with different sleeves at the wrists: a denim cuff, a knit sweater, a scrub sleeve, a silk blouse, a bare arm\",     \"skin\": \"visible pores, creases, fine hair, veins, natural uneven tone and differently shaped nails on every hand\"   },   \"lighting\": {     \"type\": \"soft, even studio light from the upper left in every panel\",     \"effect\": \"clear, readable handshapes with gentle shadows between the fingers and natural highlights on the skin\"   },   \"style\": {     \"aesthetic\": [\"educational studio photography\", \"contact sheet\", \"celebration of human diversity\"],     \"texture\": \"sharp and detailed, with fine grain and no smoothing\"   } }"
+    },
+    {
+      "id": "2120110375916167488",
+      "author": "0xbisc",
+      "title": "二次元与西式动画风角色插画（两张）",
+      "model": "MiniMax H3-Image",
+      "group": "MiniMax H3-Image",
+      "note": "共两条提示词，对应两张图，按 01/、02/ 顺序，无需参考图。",
+      "needsReference": false,
+      "time": "11-10 19:04",
+      "likes": 135,
+      "bookmarks": 12,
+      "images": [
+        {
+          "local": "images/2026-11-11/0xbisc_2120110375916167488_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 645
+        },
+        {
+          "local": "images/2026-11-11/0xbisc_2120110375916167488_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 643
+        }
+      ],
+      "prompt": "01/\nCreate a dynamic 2D animated illustration of a young male psychic with messy spiky dark navy hair, a youthful rounded face, large circular glowing white eyes, subtly flushed cheeks, and a quiet, hypnotic expression. He wears a loose dark navy high-collar school uniform jacket with three small brass buttons. Medium shot, facing the viewer directly, both arms extended toward the camera in a dramatic psychic power gesture. His left hand reaches forward from the upper left, fingers loosely curled downward, while his right hand extends from the lower right, palm partially open with fingers dynamically spread. Strong but controlled wide-angle foreshortening, hands larger than natural perspective but anatomically readable, face clearly visible between them. Dynamic asymmetrical composition, expressive hand gestures, natural arm connections, clear silhouette. Thin, irregular pale cyan electric arcs twist between his fingers and around his shoulders, accompanied by a few small flat pale yellow graphic impact marks. The supernatural effects are minimal, carefully spaced, and entirely hand-drawn, integrated naturally into the illustration. Render in a refined hand-drawn 2D animated style with the exact visual language of traditional cel-shaded animation. Clean, thin, confident dark navy ink outlines with subtle hand-drawn irregularities, delicate line-weight variation, and selectively broken contours. Large flat color regions, precise two-tone cel shading, sharply defined angular shadow shapes, simplified graphic lighting, and absolutely minimal gradients. Sparse short dry-brush hatching, fine parallel pencil strokes, and subtle scratch-like texture marks selectively applied along clothing folds, hair, shadow boundaries, and background surfaces. Smooth matte flat colors with restrained hand-painted imperfections, not rough painterly rendering. Strictly controlled cool monochromatic blue color palette: cornflower blue, dusty cobalt, muted periwinkle, slate blue, desaturated cyan, and deep navy, with pale warm peach skin tones and tiny muted golden accents. Soft blue ambient lighting unifies the character, hands, clothing, and surrounding effects. Background consists of a simple flat dusty blue interior wall with a few understated geometric architectural lines, leaving generous negative space. Harmonious low-saturation colors, elegant tonal separation, cohesive atmospheric blue color grading. Authentic hand-drawn 2D animation keyframe aesthetic, graphic clarity, expressive character design, precise contour drawing, natural imperfect linework, and restrained illustrative textures.\n\n02/\nCreate a stylized 2D Western animated illustration of a mysterious young male hacker sitting at a vintage desktop computer in a cramped retro computer room. He has short black hair with a sharp white fringe, an angular pale face, a large expressive side-profile eye, an oversized dark jacket with geometric markings, and long slender fingers typing on a chunky mechanical keyboard. Extreme low-angle fisheye perspective from desk level, oversized hands dominating the foreground, bulky CRT monitor on the left, curved tiled ceiling, scattered wall posters, and strong architectural depth. Preserve the character's focused typing pose, distinctive facial expression, dramatic camera angle, and coherent spatial arrangement. Render in a sophisticated stylized Western 2D animation aesthetic with delicate hand-drawn comic illustration techniques and refined graphic character design. Thin, confident dark navy ink outlines with subtle organic irregularities, natural line-weight variation, expressive flowing contours, selectively broken edges, and precise facial linework. Simplified geometric anatomy, exaggerated but believable proportions, angular character construction, and distinctive silhouettes. Large uninterrupted flat color regions, clean two-tone cel shading, sharply defined angular shadow blocks, simplified geometric highlights, minimal gradients, and carefully balanced graphic shapes. Subtle short pencil hatching, restrained dry-brush marks along selected edges, imperfect freehand contours, and crisp matte color fills. Sophisticated 2D animation keyframe aesthetics, cinematic spatial perspective, bold editorial illustration composition, expressive character acting, and elegant visual simplicity. Strictly use a cohesive cool blue color palette of cornflower blue, dusty cobalt, slate blue, muted periwinkle, powder blue, pale icy cyan, and deep navy, complemented by tiny muted golden-yellow accents. The ceiling and walls use layered desaturated blues, the CRT monitor displays a flat pale icy-blue screen, the character's clothing is deep navy with angular cobalt shadow planes, and the keyboard uses muted blue-gray tones. Soft cool blue ambient lighting unifies the entire composition, with small warm yellow details creating restrained visual contrast. Harmonious blue-on-blue color separation, strong tonal hierarchy, matte surfaces, and clean graphic lighting. Apply refined localized gradient halftone shading only within selected cel-shaded shadow regions, especially along the character's fingers, cheek shadows, jacket folds, and occasional architectural shadow boundaries. Use extremely fine, tightly arranged halftone microdots in colors matching the underlying shadows, gradually decreasing in size and opacity toward the illuminated areas. The halftone creates elegant soft tonal transitions within small, organically shaped shadow zones, naturally dissolving into clean flat colors. The pattern must be clearly recognizable as delicate traditional comic-print halftone shading at close inspection, never as large individual decorative circles. Keep all other surfaces perfectly clean and solid, without any global texture. Preserve strong cinematic depth through exaggerated fisheye perspective, overlapping graphic shapes, and precise architectural construction rather than realistic lighting gradients. High-end stylized animated film frame, expressive character silhouette, sophisticated handcrafted linework, refined flat-color shading, and cohesive visual design."
+    },
+    {
+      "id": "2119970165110485232",
+      "author": "plasm0",
+      "title": "虚构国家雕版钞票微距产品照",
+      "model": "MiniMax H3-Image",
+      "group": "MiniMax H3-Image",
+      "note": "考验微缩文字（微印）渲染。",
+      "needsReference": false,
+      "time": "11-10 09:47",
+      "likes": 108,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-11/plasm0_2119970165110485232_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "Aspect ratio 16:9, native 4K. Macro product photograph of an engraved banknote lying flat on a dark slate desk, shot straight down with soft raking studio light that reveals the raised intaglio ink texture. The note is from a fictional nation, \"THE FEDERATION OF SOUND\", printed in deep violet and burnished copper inks on cream security paper with visible embedded colored fibers. The note fills most of the frame. Design: intricate guilloche rosettes and spirograph lathe-work patterns in every corner and along the borders, made of thousands of interlocking hairlines; a large oval vignette on the left containing a finely engraved line-art portrait of an original allegorical figure, \"Lady Harmony\", a serene woman wearing a laurel crown and holding a violin bow, shaded entirely with parallel and crosshatched engraved lines in classic banknote portrait style; on the right, an engraved vignette of a grand concert hall with sound waves radiating from its dome. Text, all exactly as written and correctly spelled: across the top in ornate engraved serif capitals, \"THE FEDERATION OF SOUND\"; beneath it in smaller letters, \"SOUND RESERVE NOTE\"; large denomination numerals \"100\" in all four corners inside guilloche medallions; across the center, \"ONE HUNDRED BEATS\"; small line of text beneath, \"THIS NOTE IS LEGAL TENDER ON ALL DANCE FLOORS, PUBLIC AND PRIVATE\"; red serial numbers \"PL 0042 1993 A\" printed twice, upper right and lower left; \"SERIES 2026\" near the center; two handwritten-style signatures above the printed titles \"Treasurer of Tempo\" and \"Secretary of Bass\"; and a bold diagonal red overprint across the note reading \"SPECIMEN\". A continuous line of microprinting runs around the inner border, repeating the words \"SOUND RESERVE\" endlessly in tiny letters. Resting on the lower right corner of the note is a glass jeweler's loupe that magnifies a section of the border, revealing the microprinting clearly readable inside the lens along with the raised ink ridges and paper fibers. Extreme sharpness, true macro photography detail, shallow depth of field falling off softly at the far edges of the note."
+    },
+    {
+      "id": "2120101378135925151",
+      "author": "beginnersblog1",
+      "title": "Game Boy 爆炸图技术海报",
+      "model": "MiniMax H3-Image",
+      "group": "MiniMax H3-Image",
+      "note": "需配两张参考图：主体产品照和版式参考图。",
+      "needsReference": true,
+      "time": "11-10 18:28",
+      "likes": 80,
+      "bookmarks": 5,
+      "images": [
+        {
+          "local": "images/2026-11-11/beginnersblog1_2120101378135925151_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 320
+        }
+      ],
+      "prompt": "3:4, 4K if supported. Create a premium photorealistic exploded-view technical poster of the original Game Boy.  Image 1 defines the console's authentic shape, materials and components. Image 2 defines the exact poster composition, isometric viewpoint, navy blueprint grid, cream typography, orange callouts and bottom technical drawings.  Match Image 2's visual arrangement closely. Show one logically aligned exploded assembly: cream front housing with empty screen and button openings, clear lens, single LCD module, D-pad and buttons with membranes, circuit boards, speaker, rear housing with four-AA battery compartment, battery cover and screws.  Keep each component unique, correctly oriented and separated along one diagonal assembly axis. Preserve recognizable proportions, realistic aged plastic, metallic contacts, detailed electronics and soft studio lighting.  Title: \"RETRO HANDHELD\". Clean, readable labels and parts list. No duplicate components, invented dimensions or unrelated objects. Conceptual visualization, not a verified engineering diagram."
+    },
+    {
+      "id": "2120198834508955990",
+      "author": "MayorKingAI",
+      "title": "日系高级时尚编辑部男模写真（四模型）",
+      "model": "Seedream 5.5 / Magnific One / GPT Image 2.6 / Nano Banana 2.1",
+      "group": "多模型对比",
+      "note": "四张图按序对应 Seedream 5.5、Magnific One、GPT Image 2.6、Nano Banana 2.1。",
+      "needsReference": false,
+      "time": "11-11 00:56",
+      "likes": 30,
+      "bookmarks": 21,
+      "images": [
+        {
+          "local": "images/2026-11-11/MayorKingAI_2120198834508955990_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "local": "images/2026-11-11/MayorKingAI_2120198834508955990_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "local": "images/2026-11-11/MayorKingAI_2120198834508955990_3.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "local": "images/2026-11-11/MayorKingAI_2120198834508955990_4.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "An ultra-realistic high-fashion editorial photograph of a striking 28-year-old Japanese man with sharp facial features, a defined jawline, slightly messy medium-length black hair and narrow rectangular black sunglasses, sitting confidently on a rooftop terrace while playing chess.\n\nHe wears an oversized luxurious emerald-green faux-fur coat over a black silk shirt, tailored black trousers and a subtle silver chain necklace. His expression is calm, confident and slightly intimidating, looking directly toward the camera.\n\nCamera composition: An extreme low-angle shot taken from the very edge of a chessboard, with the camera positioned only a few centimeters above the board's surface. The black-and-white chessboard dominates the entire bottom third of the frame, its squares appearing exceptionally large in the foreground and rapidly shrinking toward the seated man.\n\nThe man is centered in the composition, visible from approximately the knees upward, leaning slightly forward. His right arm extends directly toward the camera, with his hand dramatically enlarged by perspective. He is gripping the top of a polished ivory wooden king chess piece between his thumb and index finger, moving it toward an empty square near the camera. The king is dramatically oversized in the immediate foreground due to the wide-angle perspective, while the remaining chess pieces appear progressively smaller toward the background.\n\nHis other hand rests naturally near his knee. The chess pieces are physically accurate and positioned naturally on the board, with realistic contact shadows and detailed polished wooden surfaces.\n\nEnvironment: An open urban rooftop with subtle concrete architectural details, low surrounding rooftops and an enormous vivid cyan-blue sky with a few soft, scattered white clouds. The bright sky occupies the upper half of the composition, creating strong visual contrast against the emerald-green coat.\n\nPhotography: Shot on a Sony A1 II with a 20mm wide-angle lens, camera placed at chessboard level, f/8, ISO 100, 1/1000s. Deep environmental perspective, exaggerated foreground scale, realistic optical distortion, crisp textures across the chessboard and subject. Bright natural midday sunlight, accurate skin tones, natural facial asymmetry, individual hair strands, detailed fabric and fur fibers, subtle imperfections and physically realistic shadows.\n\nAuthentic luxury fashion campaign photography, bold editorial framing, natural photographic color grading, exceptionally realistic skin texture, no artificial skin smoothing, no CGI appearance, no illustration, no plastic textures, no excessive cinematic effects."
+    },
+    {
+      "id": "2120136459407823308",
+      "author": "ThiThaoTri17219",
+      "title": "江南庭院窗边东方电影感人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "竖版 3:4。",
+      "needsReference": false,
+      "time": "11-10 20:48",
+      "likes": 31,
+      "bookmarks": 16,
+      "images": [
+        {
+          "local": "images/2026-11-11/ThiThaoTri17219_2120136459407823308_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Native 3:4 vertical, ultra-high-resolution photorealistic Eastern cinematic portrait photography.\nA beautiful 25-year-old adult East Asian woman stands beside an open window in a quiet Jiangnan courtyard. The image feels calm, clear, and full of air. She has a soft oval face, bright almond-shaped eyes, luminous porcelain-fair skin with realistic fine texture, and long dark brown-black hair loosely gathered in a low soft updo, with a few delicate strands gently lifted by the wind. Her figure is slender and graceful, with narrow shoulders, a long neck, and a naturally defined waist.\nShe wears a pale smoky-blue silk dress with a very light translucent white gauze shawl. A soft breeze moves her hair and gauze, making the air feel visible. Her body turns slightly toward the window; her face is in three-quarter profile, and her gaze drifts out of frame into the distance. Her expression is quiet and gentle, as if she has paused in a brief moment interrupted by light and wind.\nOutside the window is a clear blue sky and a serene Jiangnan courtyard, with white walls, blue-gray eaves, and distant greenery creating clean foreground, midground, and background depth. Soft directional morning daylight enters from the side-back direction, illuminating her cheek, neck, loose hair, and silk fabric. Facial details remain crisp; the skin looks naturally luminous with realistic texture; the shadows are clean and the highlights are transparent without overexposure. The color palette is blue-and-white sky, muted blue-gray shadows, and warm skin highlights. Elegant negative space, clean background separation, crystal-clear atmospheric depth, natural breathing room, and refined cinematic realism.\nNo collage, no text, no watermark."
+    },
+    {
+      "id": "2119945902978634176",
+      "author": "ZentrixHQ",
+      "title": "三张参考图合成僵尸对决游戏概念图",
+      "model": "MiniMax H3-Image",
+      "group": "MiniMax H3-Image",
+      "note": "需配三张参考图（主角、僵尸、废墟街景）。",
+      "needsReference": true,
+      "time": "11-10 08:11",
+      "likes": 17,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/ZentrixHQ_2119945902978634176_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "Create ONE horizontal 16:9 photorealistic cinematic action image with 4K-level detail. AAA survival-action game key art with the believable textures, lighting, and physical presence of a big-budget live-action film. One decisive frozen instant, not a montage.  REFERENCES Image 1 defines the adult heroine's identity and wardrobe. Preserve her exact face, hairstyle, hair colors, body proportions, outfit, footwear, and accessories.  Image 2 defines the giant zombie firefighter. Preserve his recognizable face, massive physique, pale weathered skin, damaged black helmet, worn dark firefighter uniform with faded yellow reflective bands, and heavy boots. He is approximately 2.4 meters tall, much larger than the heroine. Use an active combat pose instead of his reference pose.  Image 3 defines the location, architecture, weather, and lighting. Retain the yellow taxi on the left, abandoned bus in the right middle distance, ruined corner storefront with warm interior light, wet asphalt, brick buildings, fire escapes, and distant misty skyscrapers. Match its grounded photographic realism.  MAIN ACTION The heroine delivers a powerful straight kick into the firefighter zombie's chest, launching him backward toward the yellow taxi.  Capture the exact final instant of contact: her boot sole is still pressed against his chest while both of his boots have just lifted a short distance off the ground. This is one kick with one clearly visible contact point.  SCREEN POSITIONS Place the heroine in the RIGHT foreground, facing LEFT. Place the zombie in the LEFT foreground, facing RIGHT. The yellow taxi is behind the zombie, farther to the LEFT, directly along his backward trajectory. Leave a visible gap between his back and the vehicle. He has not hit the taxi yet.  HEROINE POSE Her left boot is firmly planted on the wet asphalt, supporting her weight, with the left knee slightly bent. Her right leg extends toward the left at chest height, its knee nearly straight but not hyperextended.  The sole of her right boot presses squarely into the center of the zombie's upper chest, below his collarbones. Show the boot in profile with unmistakable sole-to-chest contact. The boot must not penetrate his body.  Her hips drive into the kick while her torso leans slightly backward for balance. Her arms are bent naturally in a fighting guard, separated from her kicking leg. Her face is visible in three-quarter profile, eyes focused on the enemy, brows tense, jaw set with controlled effort.  Preserve the reference footwear exactly. Show a convincing weight-bearing connection between her planted boot and the pavement.  ZOMBIE REACTION His chest is driven backward toward the left. His upper torso recoils away from the boot, shoulders falling behind his hips, while his head tilts back slightly and his face remains recognizable.  Both feet have just left the asphalt by approximately 10–20 centimeters. His knees bend loosely and his heavy boots lag behind the movement of his torso. His arms fling outward with relaxed, separated fingers as he loses balance. He is being knocked backward, not jumping, running, or attacking.  Compress and crease the firefighter jacket at the boot's contact point. Loose jacket edges move with his recoil. His helmet remains on his head. Small displaced droplets hang beneath his lifted boots, with a visible shadow below him.  The heroine's supernatural strength explains the size difference. Convey it through posture and the enemy's recoil, without magical light or energy effects.  ENVIRONMENT AND CONTINUITY All taxi doors remain attached. No detached door, shield, or handheld weapon anywhere in the scene. Preserve existing wear and damage from Image 3, but do not show a new collision dent before the zombie reaches the taxi.  A small group of ordinary human-sized zombies approaches in the distant street. Their faces and civilian clothing are varied. No duplicate firefighter enemies. Keep background figures away from the silhouettes of the heroine's legs and the main impact.  CAMERA Medium-wide, nearly side-on view of the kick, camera around the heroine's waist height with a natural 35mm lens perspective. Both characters are shown completely, including all footwear and the space beneath the airborne zombie.  Keep the heroine's supporting leg, extended kicking leg, boot-to-chest contact, and zombie's backward lean clearly separated and readable. Avoid foreshortening along the kicking leg. Place the main action across the image from right to left.  Keep both faces and the impact sharp. Use modest background separation while preserving the recognizable environment. No extreme perspective, tilted horizon, or cropped limbs.  LIGHTING AND REALISM Cool overcast daylight and subtle warm light from the ruined storefront, matching Image 3. Realistic skin pores, damp hair, wet clothing, weathered canvas, cracked helmet finish, dirty reflective stripes, and chipped vehicle paint. Accurate pavement reflections and grounded contact shadows.  Restrained cinematic contrast, natural material colors, atmospheric depth between buildings. Minimal motion blur on peripheral droplets and loose fabric only. Crisp anatomy and readable action. The result should resemble a photographed stunt enhanced with convincing cinematic visual effects.  NEGATIVE CONSTRAINTS No detached car doors, shields, added weapons, energy beams, impact explosions, or glowing powers. No second kick, duplicate legs, extra arms, fused bodies, twisted joints, or intersecting clothing and limbs. Do not raise the heroine's supporting foot. Do not show the zombie touching the taxi yet. No exposed organs or graphic gore. No cartoon rendering, plastic skin, excessive bloom, collage, text, title, watermark, or game interface."
+    },
+    {
+      "id": "2120165582503084215",
+      "author": "her19845",
+      "title": "橙色网版印刷风低角度人像海报",
+      "model": "GPT Image",
+      "group": "GPT Image",
+      "note": "需上传人物照片作为主体。",
+      "needsReference": true,
+      "time": "11-10 22:44",
+      "likes": 12,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-11/her19845_2120165582503084215_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "A visually striking digital illustration in the style of a vintage screen print or risograph poster. It features a vertical, extreme low-angle portrait of the model provided. The graphic style incorporates halftone dot patterns and blocks of high-contrast color. The striking three-tone palette consists of a vibrant, intense orange background, ivory-cream tones, and dark charcoal gray. The piece features the texture of worn, printed paper and analog film grain; it is a high-definition artistic masterpiece."
+    },
+    {
+      "id": "2120275309203198350",
+      "author": "antrospike",
+      "title": "七十年代胶片感海边木屋复古人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "提示词前面带有风格行。",
+      "needsReference": false,
+      "time": "11-11 06:00",
+      "likes": 13,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-11/antrospike_2120275309203198350_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Style: Ultra-realistic 1970s film photography, warm faded colors, soft grain, 35mm lens.\nMain Prompt: Create an image of a model with long feathered blonde hair, wearing a cream crochet long-sleeve top with a high-waist flared brown suede skirt, sitting on the wooden deck of a beach house with a record player and warm sunset light. Easy smile toward the camera. Three-quarter portrait. Vertical portrait format 3:4.\nNegative Prompt: no text, no watermark, no extra fingers, no modern elements, no logos."
+    },
+    {
+      "id": "2119960046750589377",
+      "author": "plasm0",
+      "title": "特斯拉发展历史博物馆式信息图",
+      "model": "MiniMax H3-Image",
+      "group": "MiniMax H3-Image",
+      "note": "纯文本提示词，测试模型调用真实知识做信息图。",
+      "needsReference": false,
+      "time": "11-10 09:07",
+      "likes": 6,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-11/plasm0_2119960046750589377_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "Aspect ratio 16:9, native 4K. A premium museum-quality historical timeline infographic of the electric car company Tesla, from its founding through the start of deliveries of its pickup truck, designed like a high-end automotive museum exhibit wall. A long elegant horizontal timeline runs left to right across the center with a glowing thin line and milestone markers. Above the line: a row of highly detailed photoreal 3D studio renders of every production vehicle the company launched in that period, in chronological order, each sitting on a small reflective pedestal and labeled with its correct model name and the correct year customer deliveries began. Below the line: milestone cards with correct dates and short accurate descriptions, including the year and month the company was founded, the city where it was founded, and the names of its two original founders; the year a future CEO led its first major funding round; the date of its initial public offering, the stock exchange, and the IPO share price; the year it acquired its California car factory and the name of the joint venture that previously operated that plant; the year it changed its official company name and what the name changed from and to; and the year it moved its headquarters and to which city. Right side panel titled \"GIGAFACTORIES\": a clean world map with each major factory the company opened in that period marked by a glowing pin and labeled with its correct location and the year production began. Small footnote at the bottom stating who the company was named after. Title at the top: \"TESLA: A HISTORY IN MILESTONES\". Matte charcoal background, soft gallery lighting, brushed aluminum accents, clean modern sans-serif typography, all text crisp, correctly spelled, factually accurate, and legible at full size."
+    },
+    {
+      "id": "2120078778487505206",
+      "author": "maxescu",
+      "title": "阿尔卑斯零食牛奶盒货架样机",
+      "model": "MiniMax H3 / Seedream 5.5 / Nano Banana 2.1 / GPT Image 2.6",
+      "group": "多模型对比",
+      "note": "作者对四个模型做了逐项对照测评，效果图为其中一张。",
+      "needsReference": false,
+      "time": "11-10 16:59",
+      "likes": 3,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-11/maxescu_2120078778487505206_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 319
+        }
+      ],
+      "prompt": "A realistic on-shelf product mockup of exactly two adjacent milk-white cartons for a fictional Alpine snack brand. Both cartons show the same original white-haired delivery woman mascot in a tiny ochre hooded coat, standing beside a black-and-white pack goat with one bent left horn. Carton on the left has a copper accent band, and carton on the right has a deep blue accent band. Match the mascot's nose, hood buckle, glove shape, and the goat's horn on both cartons. Print exactly “RIDGE SNACK” at the top of each package and “AGED” on the copper band, “MILD” on the blue band. Slight view from above to show both label faces, real folded-paper edges, empty warm gray countertop."
+    },
+    {
+      "id": "2120119658565210328",
+      "author": "sardar1445",
+      "title": "巴基斯坦服饰男士全身单反人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需上传男士照片；作者建议用 Gemini / Grok / GPT Image 2.0。",
+      "needsReference": true,
+      "time": "11-10 19:41",
+      "likes": 3,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-11/sardar1445_2120119658565210328_1.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        }
+      ],
+      "prompt": "Generate an ultra-realistic full-body DSLR portrait of the same young man, preserving his original facial identity, hairstyle, skin tone and body proportions perfectly. He wears a shiny light-grey collared shalwar kameez with front buttons, chest pocket holding a black smartphone, matching loose trousers and brown leather loafers. Standing confidently with hands behind his back, he faces the camera. Background features lush village greenery, tall trees, distant mountains and sunny blue skies. Vertical 9:16 composition, 85mm lens, natural lighting, sharp details, beautiful bokeh."
+    },
+    {
+      "id": "2120217886581211391",
+      "author": "AIWithRaza",
+      "title": "照片转彩色玻璃花窗",
+      "model": "Seedream 5.5",
+      "group": "Seedream",
+      "note": "上传自己的照片后使用，比例 4:5。",
+      "needsReference": true,
+      "time": "11-11 02:11",
+      "likes": 1,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/AIWithRaza_2120217886581211391_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "local": "images/2026-11-11/AIWithRaza_2120217886581211391_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "local": "images/2026-11-11/AIWithRaza_2120217886581211391_3.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "local": "images/2026-11-11/AIWithRaza_2120217886581211391_4.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "Turn this photo into a single luminous stained-glass window set into an old stone wall. Keep the people or animals, their poses and the composition clearly recognizable, but rebuild everything from hundreds of hand-cut pieces of colored glass joined by dark lead lines, in rich jewel tones: ruby, sapphire, emerald, amber and violet. Warm afternoon sunlight shines through from behind, so the glass glows from within and spills colored light patterns across a dusty stone floor and a wooden bench in the foreground. Fine detail: tiny bubbles and ripples in the glass, small imperfections, dust floating in the light beams. A realistic photograph of the interior, natural light, no text. Aspect ratio 4:5."
+    },
+    {
+      "id": "2120272441037471912",
+      "author": "kaanakz",
+      "title": "iPhone 随手拍风格的户外特写自拍",
+      "model": "MiniMax H3-Image / Nano Banana 2.0 / Nano Banana 2.1",
+      "group": "多模型对比",
+      "note": "三张图是 MiniMax H3-Image 与 Nano Banana 2.0、2.1 的对比结果。",
+      "needsReference": false,
+      "time": "11-11 05:48",
+      "likes": 1,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/kaanakz_2120272441037471912_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 262
+        },
+        {
+          "local": "images/2026-11-11/kaanakz_2120272441037471912_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 268
+        },
+        {
+          "local": "images/2026-11-11/kaanakz_2120272441037471912_3.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 645
+        }
+      ],
+      "prompt": "Raw iPhone 15 Pro Max photo, extreme close-up selfie of a 22-year-old woman with piercing blue-green eyes, light dusting of freckles across the nose and cheeks, messy hair with visible flyaways caught in the wind, squinting slightly against the sun, casual outdoor setting, harsh golden hour side-lighting creating deep natural shadows, candid moment, unfiltered, authentic Instagram aesthetic, f/1.8, shallow depth of field, slight digital grain.\nPhysical details: visible skin texture and pores, fine peach fuzz, natural under-eye creases, subtle facial asymmetry, realistic hands adjusting hair (5 fingers, natural pose), blurred urban bokeh background with lens flare."
+    },
+    {
+      "id": "2120074452738453513",
+      "author": "punkhuri1",
+      "title": "冬日阳光公寓沙发读书人像（三模型）",
+      "model": "ChatGPT Image 2 / Grok Imagine / Nano Banana 2",
+      "group": "多模型对比",
+      "note": "作者标注三个模型，图片顺序以原帖为准。",
+      "needsReference": false,
+      "time": "11-10 16:41",
+      "likes": 1,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/punkhuri1_2120074452738453513_1.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-11/punkhuri1_2120074452738453513_2.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-11/punkhuri1_2120074452738453513_3.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        }
+      ],
+      "prompt": "Create an extraordinarily photorealistic, cinematic lifestyle portrait of an exceptionally beautiful adult European woman in her mid-twenties, reclining comfortably on a vintage sofa beside a large sunlit window inside a charming urban loft. The atmosphere evokes peaceful solitude, effortless femininity, intimate elegance, and the nostalgic warmth of a quiet winter afternoon. The final image must resemble an authentic photograph of a real living woman, never CGI, illustration, or digital artwork.\n\nWoman and Facial Features: A stunning woman with luminous fair ivory-peach skin, delicate cheekbones, a refined straight nose, naturally full rose-pink lips, and expressive almond-shaped hazel-brown eyes. Her makeup is minimal, featuring subtle mascara, soft peach blush, and naturally tinted lips. Her expression is serene, thoughtful, and quietly contemplative as she gazes through the window toward the winter landscape. Preserve realistic skin pores, natural facial asymmetry, and authentic human anatomy.\n\nHair: Her extraordinarily long, thick chestnut-brown hair cascades loosely down her back in naturally tousled waves. Soft, slightly messy strands frame her cheeks and neck, while warm sunlight creates delicate copper highlights throughout her hair.\n\nOutfit and Fabric: She wears an elegant black fitted camisole with a modest, softly curved neckline, paired with comfortable charcoal-grey lounge shorts. An oversized ivory-white cotton button-down shirt drapes loosely around her shoulders and upper arms, creating relaxed folds and natural fabric wrinkles. The outfit feels casual, sophisticated, and effortlessly comfortable.\n\nPose and Body Language: Capture her reclining sideways across a softly upholstered sofa, her back resting against one armrest while her bare legs extend comfortably along the cushions. Both knees are slightly bent, creating a natural, relaxed silhouette. She holds a small dark hardcover book near her waist, pausing her reading to gaze thoughtfully outside. Her posture feels spontaneous, peaceful, and genuinely unposed.\n\nSetting and Atmosphere: A beautiful vintage urban loft featuring exposed dark-red brick walls, a large wooden-framed window, and a luxurious beige-grey corduroy sofa with softly rounded armrests. Outside, delicate leafless winter branches appear against a pale blue sky, with distant historic buildings softly blurred. The interior feels warm, quiet, minimalist, and genuinely lived-in.\n\nLighting and Cinematography: Beautiful natural winter afternoon sunlight streams through the large window, illuminating her legs, hair, and white shirt. Soft directional shadows fall across the textured sofa and brick walls, creating atmospheric contrast. Warm ivory, muted taupe, charcoal, and earthy terracotta tones dominate the cinematic palette.\n\nComposition and Quality: Vertical 9:16 cinematic lifestyle photograph, medium-full side composition, slightly elevated eye-level perspective. Professional full-frame photography, 50mm portrait lens, realistic skin texture, individually defined hair strands, authentic cotton and corduroy textures, subtle analogue film grain, sophisticated natural colour grading, and breathtaking photographic realism.\n\nEssential Requirement: A genuine candid lifestyle photograph featuring a real adult woman relaxing in a real sunlit apartment. No oil painting, illustration, CGI, plastic skin, distorted anatomy, exaggerated proportions, text, logos, or watermark."
+    },
+    {
+      "id": "2120207129739178069",
+      "author": "punkhuri1",
+      "title": "室内泳池黑白时尚人像（三模型）",
+      "model": "ChatGPT Image 2 / Grok Imagine / Nano Banana 2",
+      "group": "多模型对比",
+      "note": "作者标注三个模型，图片顺序以原帖为准。",
+      "needsReference": false,
+      "time": "11-11 01:29",
+      "likes": 1,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/punkhuri1_2120207129739178069_1.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-11/punkhuri1_2120207129739178069_2.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-11/punkhuri1_2120207129739178069_3.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        }
+      ],
+      "prompt": "Create an extraordinarily photorealistic, breathtaking black-and-white cinematic fashion portrait of an exceptionally beautiful adult European woman in her mid-twenties, standing peacefully waist-deep in a luxurious indoor swimming pool. The atmosphere evokes minimalist sophistication, timeless femininity, serene confidence, and the understated elegance of fine-art editorial photography. The final image must resemble an authentic professional photograph of a real living woman, never CGI, illustration, or digital artwork.\n\nWoman and Facial Features: A stunning woman with luminous fair ivory skin, an elegantly sculpted oval face, softly defined cheekbones, a refined straight nose, naturally full rose-shaped lips, and expressive almond-shaped light-grey eyes framed by long eyelashes. Her eyebrows are naturally full and beautifully shaped. Her makeup is minimal, featuring subtle eyeliner, softly defined eyelashes, and naturally tinted lips. Her expression is serene, contemplative, confident, and slightly mysterious as she gazes directly toward the camera. Preserve realistic skin pores, subtle facial asymmetry, natural pigmentation, and authentic human anatomy.\n\nHair: Her thick, glossy dark chocolate-brown hair falls just below her shoulders in naturally loose, softly tousled waves. A gentle centre part frames her forehead, while delicate strands rest along her cheeks and neck. Her hair appears slightly damp, with subtle individual strands catching the soft overhead illumination. The hairstyle feels effortlessly natural, understated, and sophisticated.\n\nOutfit and Fabric: She wears an elegant black designer two-piece swimsuit featuring a beautifully tailored, fully lined balconette-style top with slender adjustable shoulder straps and a gently curved neckline. The structured bodice provides a refined, secure silhouette, while smooth matte-black swimwear fabric creates sophisticated contrast against her luminous skin. Matching high-waisted black swim bottoms remain mostly concealed beneath the water. The ensemble feels minimalist, luxurious, and appropriate for a premium swimwear editorial.\n\nPose and Body Language: Capture her standing upright in the swimming pool, her torso facing directly toward the camera. Her shoulders remain relaxed, her posture naturally elongated, and both arms extend downward into the water beside her body. The waterline rests around her upper waist, creating delicate ripples around her silhouette. Her head remains straight, with a calm, captivating gaze and naturally relaxed lips.\n\nSetting and Atmosphere: A magnificent minimalist indoor swimming pool featuring smooth white architectural walls, a softly curved pool edge, and a tranquil water surface. The background remains intentionally uncluttered, with expansive pale walls and subtle architectural shadows emphasizing the woman’s silhouette. The environment feels serene, luxurious, and genuinely photographic.\n\nLighting and Cinematography: Beautiful diffused natural daylight enters from a large unseen window, illuminating her face, shoulders, and upper torso. Soft directional shadows sculpt her features, while delicate silver reflections shimmer across the gently rippling water. Rich charcoal blacks, luminous whites, and subtle silver-grey midtones create a sophisticated monochrome palette.\n\nComposition and Quality: Vertical 9:16 cinematic editorial portrait, medium framing from head to hips, eye-level camera angle, elegant symmetrical central composition. Professional full-frame photography, 85mm portrait lens, realistic skin texture, authentic water reflections, natural swimwear fabric, subtle analogue film grain, delicate tonal gradients, and breathtaking high-resolution photographic realism."
+    },
+    {
+      "id": "2120214652651290918",
+      "author": "punkhuri1",
+      "title": "电影感镜前自拍时尚人像（三模型）",
+      "model": "ChatGPT Image 2 / Grok Imagine / Nano Banana 2",
+      "group": "多模型对比",
+      "note": "作者标注三个模型，图片顺序以原帖为准。",
+      "needsReference": false,
+      "time": "11-11 01:58",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/punkhuri1_2120214652651290918_1.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-11/punkhuri1_2120214652651290918_2.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-11/punkhuri1_2120214652651290918_3.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-11/punkhuri1_2120214652651290918_4.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        }
+      ],
+      "prompt": "Create an extraordinarily photorealistic, breathtaking cinematic mirror-selfie fashion portrait of an exceptionally beautiful adult Indian woman in her mid-twenties, standing inside a modern luxury apartment. The atmosphere evokes confident femininity, contemporary street-style glamour, effortless sophistication, and fashionable urban elegance. The final image must resemble an authentic smartphone photograph of a real living Indian woman, never CGI, illustration, or digital artwork.\n\nWoman and Facial Features: A stunning Indian woman with luminous warm golden-brown skin, distinctly South Asian facial features, an elegantly sculpted oval face, softly defined cheekbones, a refined straight nose, naturally full rose-brown lips, and expressive almond-shaped dark chocolate-brown eyes. Her makeup features softly blended bronze eyeshadow, subtle eyeliner, warm peach blush, and glossy nude-brown lipstick. Her expression is calm, confident, and slightly contemplative as she looks downward toward her smartphone. Preserve realistic skin pores, natural facial asymmetry, and authentic human anatomy.\n\nHair: Her extraordinarily long, thick, glossy dark espresso-brown hair cascades freely past her waist in abundant, naturally straight layers with subtle waves toward the ends. A gentle centre part frames her forehead, while delicate strands fall across her cheeks. Black sunglasses rest casually on top of her head.\n\nOutfit and Fabric: She wears a fitted, vintage-inspired chocolate-brown faux-leather jacket featuring a distressed textured finish, long sleeves, a structured collar, and an elegant lace-up front with thin dark-brown cords. The jacket is securely styled over a fitted neutral inner top, creating a sophisticated layered silhouette. The lacing extends vertically down the centre, with delicate ties hanging naturally near her waist. A high-waisted black glossy faux-leather mini skirt features a sleek fitted silhouette, realistic horizontal folds, and subtle reflective highlights.\n\nAccessories: A small cherry-red leather shoulder bag hangs from one shoulder, creating a striking contrast against the earthy brown jacket. Stacked golden bangles decorate her wrist, while a delicate gold bracelet and naturally manicured nude nails complete the fashionable ensemble. She holds a pale blush-pink smartphone with three rear cameras.\n\nPose and Body Language: Capture her standing in a relaxed three-quarter pose before a large wall mirror. One arm bends upward, holding her smartphone near her face, while her other arm extends casually toward a nearby white countertop. Her head tilts downward as she studies the phone screen. Her posture feels spontaneous, confident, and naturally elegant.\n\nSetting and Lighting: A minimalist contemporary apartment featuring warm cream walls, a spacious white kitchen island, pale wooden cabinetry, and understated modern furnishings. Soft warm interior lighting creates gentle highlights across her hair, jacket, glossy skirt, and red handbag.\n\nComposition and Quality: Vertical 9:16 full-body-inspired mirror selfie, framing from head to upper thighs, natural smartphone perspective. Authentic mirror reflections, realistic skin texture, individually defined hair strands, genuine leather textures, subtle photographic grain, natural indoor shadows, and sophisticated warm colour grading.\n\nEssential Requirement: A genuine candid fashion mirror selfie featuring a real adult Indian woman. No oil painting, illustration, CGI, plastic skin, distorted anatomy, inaccurate reflections, exaggerated proportions, text, logos, or watermark."
+    },
+    {
+      "id": "2120093746868212220",
+      "author": "Chisuhe",
+      "title": "金色夕阳山间牛仔外套自拍",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "作者仅在话题标签里提到 Midjourney，正文未写明模型。",
+      "needsReference": false,
+      "time": "11-10 17:58",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/Chisuhe_2120093746868212220_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 356
+        }
+      ],
+      "prompt": "A high-quality, authentic smartphone selfie photograph of a beautiful young East Asian woman, captured outdoors in a mountainous region during the golden hour. The image is an extreme close-up shot with a horizontal aspect ratio, mimicking the wide-angle perspective of a front-facing phone camera held at arm's length. The medium is modern lifestyle photography with a vibrant, warm, and candid aesthetic.\n\nThe woman is positioned in the center, looking directly into the lens with a bright, radiant, and enthusiastic smile. Her mouth is open, showing her straight white teeth. She has a flawless, glowing complexion with prominent rosy blush on her cheeks, and her lips are painted with a glossy, deep red tint. Her eyes are dark brown, sparkling with clear catchlights from the sun. Her long, dark brown hair is messy and wind-blown, with loose strands whipping dynamically across her face and outwards to the left and right, adding a sense of wild, spontaneous energy. She is wearing a classic blue denim jacket, and the collar and texture of the denim are visible at the bottom of the frame. Around her slender neck, she wears a simple, thin black string choker necklace.\n\nThe background is a breathtaking alpine landscape. To the left, there is a sloping hillside covered in vibrant green grass and patches of small yellow wildflowers, with a rocky, dirt path cutting through the foreground. In the distance, rugged mountain peaks stretch across the horizon, bathed in the soft, warm light of the setting sun. \n\nThe lighting is the defining feature, utilizing intense, warm golden-hour backlighting coming from the upper right corner. The brilliant sunlight shines directly through her hair, creating a spectacular, glowing, fiery orange halo effect around her head and illuminating the fine strands of hair. The sun creates a slight, dreamy lens flare and a warm, hazy atmospheric glow that washes over the entire image. Despite the strong backlight, her face is perfectly exposed, illuminated by soft, ambient fill light. \n\nThe color palette is rich and warm, dominated by the fiery oranges and golds of the sunset, the deep browns of her hair, the vibrant greens of the mountain grass, and the cool blue of her denim jacket. The image has a very natural, unedited, and spontaneous feel, with a sharp focus on her face and eyes, while the background mountains and foreground grass gently blur out due to the shallow depth of field typical of selfie cameras. The overall atmosphere is joyful, free-spirited, and deeply connected to nature. No text, no watermark, no UI elements."
+    },
+    {
+      "id": "2120092047541703060",
+      "author": "Chisuhe",
+      "title": "阳台光脚倚墙的活力人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-10 17:51",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/Chisuhe_2120092047541703060_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 680
+        }
+      ],
+      "prompt": "A high-quality, realistic lifestyle photograph of a beautiful young East Asian woman standing on a sunny outdoor balcony. The image is a full-body shot with a vertical aspect ratio, capturing a bright, joyful, and summery atmosphere. The medium is modern commercial photography with highly detailed textures and vibrant, natural colors. \n\nThe woman is leaning casually back against a beige exterior wall. She is facing the camera with a bright, radiant smile showing her perfect white teeth. She has glossy, deep red lipstick and a flawless, glowing complexion with subtle makeup and rosy cheeks. Her long, jet-black hair is blowing dramatically to the left side of the frame, caught in a strong breeze. Her right hand is raised, gently touching her hair near her ear, while her left hand rests casually on her hip. She is wearing small silver earrings, a delicate silver necklace with a cross pendant, a thin silver bracelet on her right wrist, and a simple ring on her left hand. She is completely barefoot, standing on light grey wooden deck flooring.\n\nShe is dressed in a fitted, white ribbed scoop-neck crop top that exposes her midriff, paired with high-waisted, tight burgundy shorts. The clothing fits her hourglass figure perfectly, showing natural folds and tension in the fabric. \n\nThe setting features a beige tiled wall on the right side with thin dark grout lines, casting a sharp, distinct, and elongated shadow of the woman's body against the wall due to the strong directional sunlight. To the left, a glass balcony railing with a metal handrail reflects her lower body and legs in the glass. In the bottom right corner, a partial view of a modern outdoor lounge chair with a light-colored cushion and dark metal frame is visible. \n\nBehind the balcony railing, there is a sprawling, sunlit cityscape with white buildings, lush green trees, and tall palm trees. In the far background, rugged, arid mountains stretch across the horizon under a clear, vibrant, cloudless blue sky. \n\nThe lighting is dominated by strong, direct, warm sunlight coming from the upper right, creating high contrast and a bright outdoor feel. The sunlight highlights the contours of her face, the sheen of her hair, and the smooth texture of her skin. The image is incredibly crisp, with a sharp focus on the subject and a slight depth of field blurring the distant cityscape. The overall color palette includes stark whites, deep burgundies, bright blues, and warm neutral tones. No text, no watermark, no UI elements."
+    },
+    {
+      "id": "2120093081609629717",
+      "author": "Chisuhe",
+      "title": "汉服水乡古桥回眸",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-10 17:55",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/Chisuhe_2120093081609629717_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 680
+        }
+      ],
+      "prompt": "A breathtaking, cinematic photograph of a beautiful young East Asian woman dressed in traditional Chinese Hanfu, standing on a stone bridge in a classic Jiangnan water town. The image is a medium-full body shot with a vertical aspect ratio, capturing a dynamic and poetic moment during the golden hour. The medium is ultra-realistic commercial photography with an ethereal, wuxia-inspired, and romantic aesthetic.\n\nThe woman is positioned slightly right of center. Her body is angled away from the camera, but she is gracefully twisting at the waist to look back over her right shoulder. Her gaze is gentle, melancholic, and direct, making strong eye contact with the viewer. She has a flawless, pale porcelain complexion with soft, natural makeup, subtly rosy cheeks, and delicate red lips. Her extremely long, jet-black hair is styled in a traditional half-updo, secured with a delicate white floral hairpiece and intricate silver dangling ornaments. The lower half of her hair cascades down her back like a silken waterfall and is blowing dramatically to the left, caught in a gentle breeze, adding a strong sense of motion.\n\nShe is wearing an exquisite, multi-layered white and pale blue Hanfu. The outer layers are made of incredibly sheer, translucent silk and chiffon that catch the sunlight. The garment features elegant, flowing wide sleeves and intricate, light silver-blue floral embroidery along the edges, cuffs, and skirt. The long, voluminous skirt and its sheer, trailing train sweep elegantly across the stone-paved ground. Her right hand is gently lifted, delicately pinching and lifting a layer of the sheer fabric of her skirt, revealing the intricate lace-like texture. \n\nThe environment is a picturesque ancient water town. In the immediate foreground, she stands beside a rustic, dark wooden bridge railing. The ground is paved with large stone slabs. The background features traditional Chinese architecture with whitewashed walls, dark grey tiled roofs, and wooden window frames, blurred gently by a shallow depth of field. Lush green tree branches with vibrant leaves hang down from the upper right corner, framing the shot. \n\nThe lighting is the defining feature, utilizing brilliant, warm golden-hour sunlight streaming in from the upper left. This strong backlight creates a magnificent, glowing halo effect around her hair and the sheer edges of her dress, highlighting the translucency of the fabric. The light casts long, distinct, diagonal shadows of the wooden railing across the stone ground in the lower right. There is a beautiful, soft atmospheric haze and a slight cinematic lens flare near the top left, enhancing the dreamy quality. \n\nThe color palette is harmonious and luminous, dominated by the brilliant whites and icy blues of her dress, the deep black of her hair, the warm golden tones of the sunlight, and the rich greens of the foliage. The image boasts ultra-high definition, with the textures of the sheer fabric, the embroidery, and her hair in razor-sharp focus, while the background architecture softly recedes. The overall atmosphere is poetic, timeless, and ethereal. No text, no watermark, no UI elements."
+    },
+    {
+      "id": "2120092475083866360",
+      "author": "Chisuhe",
+      "title": "玫瑰立体花朵婚纱新娘",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-10 17:53",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/Chisuhe_2120092475083866360_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 680
+        }
+      ],
+      "prompt": "A high-end, fine-art bridal fashion portrait of a beautiful young East Asian woman, captured in a moment of quiet, downward contemplation. The image is a medium shot with a vertical aspect ratio, focusing on her upper body and the voluminous details of her wedding dress. The medium is ultra-realistic studio photography with an ethereal, elegant, and cinematic quality.\n\nThe woman is positioned in the center. Her head is tilted gently downward and slightly to the right, with her eyes softly closed or cast down, revealing a serene and delicate expression. She has flawless, pale porcelain skin with soft, natural makeup and a gentle peach-toned lip color. Her jet-black hair is smoothly parted in the middle and pulled back neatly into a classic, low elegant style. She wears a single, luminous pearl stud earring on her visible left ear.\n\nShe is wearing a stunning, structured white wedding gown. The bodice is strapless with a classic sweetheart neckline, made of smooth, crisp white satin that perfectly contours her figure and accentuates her bare shoulders and prominent collarbones. Below the natural waist, the skirt flares into a massive, voluminous ballgown made of layers of airy, sheer white tulle. The skirt is heavily embellished with oversized, sculptural 3D rose appliques crafted from the same fabric, creating a dramatic and romantic textural contrast against the smooth bodice.\n\nA delicate, sheer white tulle veil drapes gracefully over her head, cascading down her back and billowing dynamically towards the left side of the frame. The veil is so fine that it catches the air like a soft mist, its fine hexagonal mesh and crinkled edges visible where it catches the light. \n\nThe background is a stark, deep black, creating a dramatic high-contrast environment that completely isolates the subject. The lighting is the defining element, utilizing a strong, cool-toned, directional studio light coming from the upper left. This light acts as a brilliant rim light, creating a glowing, ethereal halo effect through the sheer veil and illuminating the edges of her face, shoulders, and the intricate 3D floral textures of her dress. Soft, gradual shadows fall across the right side of her face and body, emphasizing her bone structure and the volume of the gown. \n\nThe color palette is strictly limited and highly refined: the pristine, luminous white of the satin, tulle, and 3D roses; the deep, ink-black of her hair and the background; and the soft, natural warm tones of her skin. The image features a shallow depth of field, keeping her face and the front of the dress in razor-sharp focus while the edges of the veil and the back of the skirt gently blur into the dark background. The overall atmosphere is romantic, melancholic, and breathtakingly beautiful. No text, no watermark, no UI elements."
+    },
+    {
+      "id": "2120092141145784429",
+      "author": "Chisuhe",
+      "title": "暗调空间黑色深V裙戏剧光影",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-10 17:52",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/Chisuhe_2120092141145784429_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 680
+        }
+      ],
+      "prompt": "A high-end, photorealistic fashion editorial portrait of a beautiful young East Asian woman sitting gracefully on the floor in a dark, minimalist corridor. The image is a full-body shot with a vertical aspect ratio, characterized by a dramatic, moody atmosphere and low-key lighting. The medium is realistic commercial photography with a cinematic and mysterious aesthetic.\n\nThe woman is positioned in the center-right of the frame, sitting on the floor with her legs elegantly extended to the left and crossed at the ankles. She is looking directly at the camera with an intense, captivating, and slightly aloof gaze. She has a flawless, pale porcelain complexion that contrasts sharply with her deep, crimson-red lipstick. Her dark, straight hair is parted slightly off-center, cascading softly down her shoulders and framing her delicate facial features. \n\nShe is wearing a tightly fitted, long-sleeve black mini dress with a deep V-neckline that accentuates her elegant collarbones and figure. Her legs are clad in sheer black pantyhose that subtly catch the light, revealing the smooth contours of her legs. On her feet, she wears glossy black patent leather pointed-toe stiletto heels that reflect the ambient light. Her right hand rests gently on her left knee, while her left hand is placed flat on the floor behind her to support her seated posture. Her fingernails are neatly manicured with a natural, glossy finish.\n\nThe environment is a stark, minimalist space. The walls are a matte, deep black, and the floor is composed of large, dark grey square tiles with subtle grout lines. The composition utilizes a vast amount of negative space on the left side, drawing the viewer's eye directly to the subject and the striking light play. \n\nThe lighting is the most defining element, utilizing a strong, cool-toned directional light coming from an unseen doorway or window on the far left. This light creates a sharp, geometric patch of illumination on the floor, stretching across the frame and catching the front of her legs, tights, and shoes. The light gradually falls off, casting a dramatic, elongated shadow of her body against the dark floor to the right. The rest of her body and the background are enveloped in rich, deep, velvety shadows, creating a classic chiaroscuro effect. \n\nThe color palette is strictly limited to deep blacks, dark greys, the sheer translucent black of her tights, the glossy black of her heels, and the warm, pale tones of her skin with the bold red accent of her lips. The image boasts ultra-high definition, with sharp focus on her face and the texture of her clothing, while the background subtly fades into a shallow depth of field. The overall vibe is sophisticated, alluring, and cinematic. No text, no watermark, no UI elements."
+    },
+    {
+      "id": "2120093845744664929",
+      "author": "Chisuhe",
+      "title": "蓝色针织衫夕阳山景自拍",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-10 17:58",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/Chisuhe_2120093845744664929_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 356
+        }
+      ],
+      "prompt": "A high-quality, authentic smartphone selfie photograph of a beautiful young East Asian woman, captured outdoors during a spectacular sunset. The image is an extreme close-up shot with a horizontal aspect ratio, mimicking the wide-angle perspective of a front-facing phone camera held at arm's length. The medium is modern lifestyle photography with a vibrant, warm, and highly energetic aesthetic.\n\nThe woman is positioned in the center, looking directly into the lens with a wide, radiant, and joyful smile that reveals her straight white teeth. She has a flawless, glowing complexion with prominent rosy blush on her cheeks, and her lips are painted with a glossy, bright cherry-red lipstick. Her dark brown eyes sparkle with distinct catchlights from the setting sun. Her long, jet-black hair is blowing wildly in the wind, with thick strands sweeping across her forehead and flying dynamically outwards to the left, catching the sunlight. Her right hand is raised near her face, with her fingers gently touching her hair near her temple. Her left arm extends forward out of the frame, holding the camera.\n\nShe is wearing a vibrant, bright cerulean blue chunky cable-knit sweater, which provides a striking color contrast to the warm sunset. The intricate, raised textures of the knit pattern are clearly visible on her raised right sleeve and shoulder. Around her neck, she wears a very delicate, thin gold chain with a tiny pendant.\n\nThe background is a breathtaking outdoor landscape at golden hour. To the right, a brilliant, glowing sun is setting just above the horizon, casting a fiery orange and yellow light across the sky. Scattered, wispy clouds are illuminated in warm tones of peach and gold. Below the sky, the dark, silhouetted ridges of distant mountains and rolling hills stretch across the horizon. \n\nThe lighting is the defining feature, utilizing intense, warm golden-hour backlighting from the right side. The brilliant sunlight shines directly through her hair, creating a spectacular, glowing, fiery halo effect around her head and highlighting the fine strands. The sun creates a slight, dreamy lens flare and a warm, hazy atmospheric glow that washes over the right side of the image. Despite the strong backlight, her face is perfectly exposed, illuminated by soft, ambient fill light. \n\nThe color palette is rich and high-contrast, dominated by the brilliant golden oranges of the sky, the deep ink-black of her hair, and the vivid, saturated blue of her sweater. The image features a shallow depth of field, keeping her face, hand, and sweater textures in razor-sharp focus, while the sunset background gently blurs. The overall atmosphere is joyful, spontaneous, and full of life. No text, no watermark, no UI elements."
+    },
+    {
+      "id": "2120092953914044795",
+      "author": "Chisuhe",
+      "title": "复古羽毛帽立体花裙新娘",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-10 17:55",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/Chisuhe_2120092953914044795_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 680
+        }
+      ],
+      "prompt": "A high-end, vintage-inspired bridal fashion editorial photograph of a beautiful young East Asian woman. The image is a medium-full shot with a vertical aspect ratio, capturing her from the mid-calf up, perfectly balancing the massive scale of her attire with the rustic environment. The medium is ultra-realistic commercial photography with a romantic, classic, and slightly moody aesthetic.\n\nThe woman is positioned in the center, facing the camera with her head tilted gently downward. Her eyes are cast down in a serene, melancholic expression. She has flawless, pale porcelain skin, softly defined features, and bold, deep burgundy-red lipstick that stands out against the white dress. Her black hair is pulled back neatly into a low, elegant chignon. She wears elegant pearl drop earrings. Her hands are gently clasped together, resting softly against the front of her skirt at waist level.\n\nShe is wearing a breathtaking, voluminous white ballgown. The bodice is strapless with a sweetheart neckline, structured like a corset and heavily embellished with intricate silver beading, pearls, and delicate embroidery. The massive skirt is made of countless layers of fine white tulle, adorned with enormous, sculptural 3D rose appliques crafted from sheer fabric. These oversized fabric roses cascade down the skirt, creating a dramatic and romantic textural contrast against the smooth tulle. \n\nOn her head, she wears a striking, oversized wide-brimmed white hat, entirely covered in soft, fluffy white feathers, casting a delicate shadow over her upper face and adding a dramatic vintage flair. \n\nThe environment is a rustic, vintage-inspired interior. The wall behind her has a mottled, textured finish in faded grey and warm brown tones, resembling old plaster or concrete. To the left, a glimpse of a green potted plant adds a touch of life. To the right, a dark wooden frame holds a piece of art or a mirror, and a large textured vase holds dark, dried branches, enhancing the slightly melancholic, antique atmosphere. The floor is made of dark, aged wood arranged in a classic parquet pattern.\n\nThe lighting is soft, directional, and cinematic, coming from a window on the left. It acts as a natural key light, illuminating her face, bare shoulders, the intricate details of the bodice, and the fluffy feathers of her hat. The light gently falls off towards the right, casting soft, natural shadows across the voluminous skirt and the textured walls, creating a rich, three-dimensional feel and a romantic, chiaroscuro effect. \n\nThe color palette is deeply harmonious: the pristine, luminous whites and creams of the dress and hat, the deep ink-black of her hair, the bold red of her lips, and the earthy, muted warm greys and browns of the rustic background. The image features ultra-high definition, with sharp focus on the dress textures and her face, while the background is slightly softened with a shallow depth of field. The overall atmosphere is elegant, timeless, and deeply atmospheric. No text, no watermark, no UI elements."
+    },
+    {
+      "id": "2120091879329218808",
+      "author": "Chisuhe",
+      "title": "银色露背鱼尾裙水晶吊灯宴会厅",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-10 17:51",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/Chisuhe_2120091879329218808_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 680
+        }
+      ],
+      "prompt": "A hyper-realistic, high-end fashion editorial photograph of an elegant young East Asian woman standing in a lavish, luxurious ballroom. The image is a full-body shot captured from a slightly low angle and from behind, emphasizing her hourglass silhouette and the grandeur of the setting. The medium is high-end commercial photography with a glamorous, cinematic, and opulent aesthetic.\n\nThe woman is positioned in the center, facing away from the camera with her body angled slightly to the left. She is turning her head gently over her left shoulder, revealing a delicate side profile with a serene, poised expression. Her jet-black hair is completely straight, sleek, and cascading down her back like a silken waterfall, extending past her mid-back and slightly parting to reveal the intricate details of her dress. She has a flawless, fair complexion and small, elegant silver earrings that catch the ambient light.\n\nShe is wearing a breathtaking, form-fitting silver mermaid gown. The dress is strapless and features a dramatic open back that dips down to the waist, held together by a delicate, criss-cross corset lacing detail. The fabric of the bodice and hips is heavily embellished with thousands of silver sequins and crystals arranged in a sweeping, upward chevron or feather-like pattern, creating a mesmerizing play of light and texture. The skirt flares out at the knees into a voluminous, sheer silver tulle train that pools elegantly on the floor, with the sequins continuing to scatter down the tulle like stardust.\n\nThe environment is a grand, opulent hall dominated by a massive, towering crystal chandelier situated directly behind her. The chandelier consists of countless cascading strings of faceted crystals, forming a luminous pillar of brilliant white light that perfectly frames her silhouette. The floor is made of highly polished, dark marble with subtle grey veining, acting as a dark mirror that brilliantly reflects the sparkling chandelier, the glowing hem of her dress, and the surrounding lights.\n\nTo the left side of the background, there is a large, lush floral arrangement of soft pink and white roses resting on a white pedestal. Behind the flowers, a warm, glowing neon sign reads \"DREAM\" next to a circular leaf logo, adding a modern luxury touch. To the right, further back in the room, there is a formal banquet setup with round tables draped in crisp white tablecloths, set with fine glassware and more pink rose centerpieces. A secondary crystal chandelier and tall, warm-lit candles in the background add depth to the spatial layers.\n\nThe lighting is sophisticated and multi-layered. The primary light source is the brilliant, cool-toned white light radiating from the central chandelier, creating a rim light effect on the woman's hair and the edges of her silver dress. Soft, warm ambient fill light comes from the room's peripheral fixtures, highlighting the pink flowers and the \"DREAM\" sign. The contrast between the dark, reflective marble floor and the sparkling silver dress creates a highly dynamic and glamorous visual. The overall color palette is dominated by shimmering silvers, deep greys, pure whites, and elegant accents of soft pink. The image is crisp, with a high depth of field that keeps both the dress details and the background architecture legible. No text, no watermark, no UI elements."
+    },
+    {
+      "id": "2120091575661547986",
+      "author": "Chisuhe",
+      "title": "白纱蓝花发饰梦幻逆光肖像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-10 17:49",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/Chisuhe_2120091575661547986_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 680
+        }
+      ],
+      "prompt": "A high-end, ethereal photographic portrait of a young East Asian woman, captured in a delicate moment of downward contemplation. The image is a close-up bust shot with a vertical aspect ratio, dominated by billowing, translucent white tulle that surrounds and frames her. The medium is realistic commercial photography with a soft, dreamy, and romantic cinematic quality. \n\nThe woman is positioned slightly off-center to the right. Her head is tilted gently downward and angled towards the lower left, revealing a serene, almost melancholic expression. Her eyes are cast down, with long, meticulously separated eyelashes and softly blended warm eyeshadow. She has a flawless, pale porcelain complexion with a luminous, natural skin texture. Her lips are painted in a striking, deep crimson matte shade, slightly parted, providing the strongest pop of color against her pale face and the surrounding white environment. The soft lighting highlights the delicate bridge of her nose, her soft jawline, and the gentle curve of her cheek.\n\nHer jet-black hair is pulled back into a neat, low, elegant bun at the nape of her neck. A few delicate, wispy strands of hair have escaped to frame her face and neck, catching the backlight and appearing almost luminescent. On the right side of her head (viewer's right), nested within her dark hair, is a striking floral hair accessory. It features vivid, cerulean blue petals with metallic, silver-toned veins and stamens adorned with tiny sparkling crystals. This cool-toned accessory creates a sharp, beautiful contrast against her black hair and the warm light.\n\nThe woman is wearing a white, sheer, off-the-shoulder garment made of delicate tulle and organza. The fabric slips down to expose her bare shoulders, prominent collarbones, and a graceful neckline. The skin on her chest and shoulders is smooth and softly contoured by the directional light. The sheer fabric drapes elegantly around her chest and arms, with multiple layers creating varying degrees of opacity. \n\nThe white tulle is highly dynamic, acting as both a garment and an environmental element. A large piece of the gauze drapes over her head like a loose veil, creating a soft arch over her hair. In the foreground, massive folds of the translucent fabric billow upwards and across the lower and left sections of the frame. The fabric is so fine that it catches the light like mist, with the foreground layers slightly out of focus, creating a beautiful, dreamy depth of field that directs the viewer's attention back to her face.\n\nThe lighting is the defining feature of the image, utilizing a strong, warm backlight coming from the upper left. This sunlight filters through the sheer white fabric, creating a soft, glowing halo effect and illuminating the edges of her face, hair, and shoulders. The background is entirely composed of the bright, blown-out white light diffused through more layers of tulle, resembling a bright, hazy studio or a sunrise. Soft shadows fall on the right side of her face and neck, ensuring the facial structure is not lost in the high-key lighting.\n\nThe color palette is deliberately minimal and pure: the pristine whites and creams of the fabric and background, the deep ink-black of her hair, the striking blood-red of her lips, and the vivid sapphire blue of the hair accessory. The image features a high-end editorial finish, preserving the realistic pores and fine downy hair on her skin, with a shallow depth of field. The overall atmosphere is ethereal, intimate, and softly romantic. No text, no watermark, no UI elements."
+    },
+    {
+      "id": "2120092678692192457",
+      "author": "Chisuhe",
+      "title": "花纹蕾丝大裙摆婚纱宴会厅",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-10 17:54",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-11/Chisuhe_2120092678692192457_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 680
+        }
+      ],
+      "prompt": "A high-end, fairy-tale bridal fashion editorial photograph of a beautiful young East Asian woman, captured in a grand, sunlit, ornate ballroom. The image is a full-body shot taken from a slightly low angle with a vertical aspect ratio, emphasizing the massive scale of her dress and the theatrical, dynamic movement of the scene. The medium is ultra-realistic commercial photography with a dreamy, ethereal, and cinematic aesthetic.\n\nThe woman is positioned in the center, with her back mostly turned to the camera. She is twisting her torso gracefully to look back over her left shoulder in a striking profile. Her right arm is elegantly raised high above her head, holding a massive piece of flowing sheer fabric, while her left arm rests softly at her side. She has flawless, pale porcelain skin, a delicate facial structure, and her dark eyes are looking softly towards the left. Her jet-black hair is styled in a neat, classic low chignon bun at the nape of her neck. She wears elegant pearl drop earrings that catch the sunlight.\n\nShe is wearing a breathtakingly elaborate, strapless white wedding ballgown. The gown features an open back that dips low, revealing her graceful spine and shoulder blades. The bodice and the enormous, cascading skirt are heavily embellished with intricate lace embroidery, fine beadwork, and large, sculptural 3D white floral appliques. The voluminous skirt spreads out dramatically across the floor, creating a massive train made of layers of sheer tulle, textured lace, and floral textures that pool beautifully on the wooden floorboards.\n\nThe environment is a majestic, vintage-inspired hall. The walls are painted in a soft, muted pale blue with intricate classical paneling and moldings. Tall, arched windows on the left allow bright, warm sunlight to flood the room. The air is filled with a dynamic, swirling arrangement of massive, translucent white tulle veils adorned with delicate silver and gold floral embroidery. These long fabrics billow through the air like magical ribbons, catching the light and creating a sense of wind and motion. Countless white flower petals are frozen in mid-air, gently falling around her and scattering across the expansive dress and the floor.\n\nThe lighting is the defining feature, utilizing intense, warm, directional sunlight from the upper left window, creating a glowing, ethereal halo effect and a strong rim light on her hair, profile, and the sheer fabrics. The light creates a soft, hazy, atmospheric lens flare and illuminates the semi-transparent layers of the tulle. The right side of the image falls into soft, cool-toned shadows, providing depth. \n\nThe color palette is overwhelmingly ethereal and luminous: the brilliant, translucent whites of the tulle and dress, the soft pale blues of the room, the deep ink-black of her hair, and the warm golden sunlight. The image features a shallow depth of field, with her profile and the immediate flying fabrics in sharp focus, while the background architecture and the distant falling petals gently blur into a dreamy haze. The overall atmosphere is magical, romantic, and breathtakingly beautiful. No text, no watermark, no UI elements."
+    }
+  ]
+}
