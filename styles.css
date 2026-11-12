@@ -94,6 +94,10 @@ a { color: inherit; }
 
 .skip:focus { top: 10px; }
 
+.chrome { display: contents; }
+
+.filter-toggle { display: none; }
+
 .wrap {
   width: min(1440px, calc(100% - 32px));
   margin-inline: auto;
@@ -758,18 +762,136 @@ select {
 }
 
 @media (max-width: 680px) {
+  html { overflow-anchor: none; }
   .wrap { width: min(1440px, calc(100% - 24px)); }
-  .mast-inner {
-    flex-direction: column;
-    align-items: stretch;
-    padding-top: 20px;
+  .day-head { scroll-margin-top: calc(var(--chrome-bar, 64px) + 8px); }
+
+  /* Short sticky bar. The date, search, sort, and model chips tuck away
+     so they don't stay pinned over the cards while scrolling. */
+  .chrome {
+    display: block;
+    position: sticky;
+    top: 0;
+    z-index: 6;
+    overflow-anchor: none;
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+    padding-top: env(safe-area-inset-top, 0px);
   }
-  h1 { font-size: 32px; letter-spacing: 0.08em; }
-  .seal { width: 46px; height: 46px; }
-  .mast-side { align-items: stretch; }
-  select { width: 100%; }
-  .toolbar-row { flex-direction: column; align-items: stretch; }
-  .sort { display: grid; grid-template-columns: 1fr 1fr; }
+  .toolbar {
+    position: static;
+    z-index: auto;
+    background: transparent;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    border: 0;
+  }
+  .chrome.is-collapsed .mast-side,
+  .chrome.is-collapsed .toolbar { display: none; }
+
+  .mast-inner {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    column-gap: 10px;
+    row-gap: 8px;
+    padding: 8px 0;
+  }
+  .brand > div { position: relative; }
+  .eyebrow,
+  .tagline {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  h1 {
+    margin: 0;
+    font-size: 22px;
+    letter-spacing: 0.12em;
+  }
+  .seal { width: 32px; height: 32px; }
+  .filter-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    flex: none;
+    min-height: 40px;
+    padding: 0 14px;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: var(--card);
+    font-size: 14px;
+  }
+  .filter-toggle[aria-expanded="true"] {
+    background: var(--chip-on);
+    color: var(--chip-on-ink);
+    border-color: transparent;
+  }
+  .filter-toggle.is-filtered::after {
+    content: "";
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+  .mast-side {
+    grid-column: 1 / -1;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+  }
+  .date-label { flex: none; }
+  .mast-side select {
+    flex: 1;
+    width: auto;
+    min-width: 0;
+    min-height: 40px;
+  }
+  .toolbar-row {
+    flex-direction: row;
+    align-items: center;
+    padding-top: 2px;
+  }
+  .sort { display: flex; }
+  .sort button {
+    min-height: 36px;
+    padding: 0 12px;
+  }
+  .chips { padding: 8px 0 2px; }
+  .result { margin: 4px 0 8px; }
+
+  .chrome.is-float.is-open { border-bottom-width: 0; }
+  .chrome.is-float.is-open .mast-side,
+  .chrome.is-float.is-open .toolbar {
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: var(--bg);
+  }
+  .chrome.is-float.is-open .mast-side {
+    top: 100%;
+    z-index: 1;
+    width: auto;
+    margin: 0;
+    padding: 8px max(12px, env(safe-area-inset-right, 0px)) 0 max(12px, env(safe-area-inset-left, 0px));
+  }
+  .chrome.is-float.is-open .toolbar {
+    top: calc(100% + var(--date-h, 48px) - 1px);
+    z-index: 1;
+    padding: 0 0 6px;
+    border-bottom: 1px solid var(--line);
+    box-shadow: var(--shadow);
+    max-height: min(62svh, 420px);
+    overflow: auto;
+    overscroll-behavior: contain;
+  }
   .lb-stage {
     display: block;
     position: relative;

@@ -21,6 +21,7 @@
 </head>
 <body>
   <a class="skip" href="#gallery">跳到内容</a>
+  <div class="chrome is-collapsed" id="chrome">
   <header class="mast">
     <div class="wrap mast-inner">
       <div class="brand">
@@ -38,14 +39,15 @@
           <p class="tagline">来自 X 的提示词日报</p>
         </div>
       </div>
-      <div class="mast-side">
+      <button type="button" class="filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="mast-side chrome-panel">筛选</button>
+      <div class="mast-side" id="mast-side">
         <label class="date-label" for="date">跳到</label>
         <select id="date" aria-label="跳到某一天"></select>
       </div>
     </div>
   </header>
 
-  <div class="toolbar">
+  <div class="toolbar" id="chrome-panel">
     <div class="wrap">
       <div class="toolbar-row">
         <div class="search">
@@ -64,6 +66,7 @@
       <div class="chips" id="chips" role="toolbar" aria-label="按模型筛选"></div>
       <p class="result" id="result" aria-live="polite"></p>
     </div>
+  </div>
   </div>
 
   <p class="status wrap" id="status">正在加载…</p>
