@@ -467,6 +467,7 @@
     const finished = state.index && state.cursor >= state.index.dates.length && !state.flight;
     els.empty.hidden = shown !== 0 || !finished;
     els.empty.textContent = query || state.group !== "全部" ? "没有匹配的提示词" : "还没有提示词";
+    chromeUi.setFiltered(Boolean(state.query.trim()) || state.group !== "全部" || state.sort !== "heat");
     requestAnimationFrame(syncVisibleExpands);
   }
 
@@ -600,6 +601,8 @@
       toast("这一天没有符合当前筛选的提示词");
       return;
     }
+    if (document.activeElement === els.date) els.date.blur();
+    chromeUi.collapseForNav();
     section.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
@@ -746,6 +749,153 @@
     els.date.value = "";
   }
 
+  const chromeUi = {
+    collapseForNav() {},
+    close() {},
+    expand() {},
+    setFiltered() {},
+  };
+
+  function installChrome(startOpen) {
+    const chrome = document.querySelector("#chrome");
+    const toggle = document.querySelector("#filter-toggle");
+    const mast = document.querySelector(".mast");
+    const mastSide = document.querySelector("#mast-side");
+    if (!chrome || !toggle || !mast || !mastSide) return;
+
+    const mq = window.matchMedia("(max-width: 680px)");
+    let open = !!startOpen;
+    let floatLatch = false;
+    let lastY = window.scrollY || 0;
+    let lastScrollAt = 0;
+    let drift = 0;
+    let guardUntil = 0;
+    let suspendUntil = 0;
+    let touchingChrome = false;
+    let applied = "";
+
+    function editingField() {
+      const el = document.activeElement;
+      return !!(el && chrome.contains(el) && el.matches("input, textarea"));
+    }
+
+    function render(force) {
+      const mobileNow = mq.matches;
+      const y = Math.max(0, window.scrollY || 0);
+      if (!mobileNow || !open) floatLatch = false;
+      else if (y <= 8) floatLatch = false;
+      else if (y > 24) floatLatch = true;
+      const float = mobileNow && open && floatLatch;
+      const key = `${mobileNow ? 1 : 0}${open ? 1 : 0}${float ? 1 : 0}`;
+      if (!force && key === applied) return;
+      applied = key;
+
+      toggle.hidden = !mobileNow;
+      chrome.classList.toggle("is-collapsed", mobileNow && !open);
+      chrome.classList.toggle("is-open", mobileNow && open);
+      chrome.classList.toggle("is-float", float);
+      toggle.setAttribute("aria-expanded", mobileNow && open ? "true" : "false");
+      const label = mobileNow && open ? "收起" : "筛选";
+      if (toggle.textContent !== label) toggle.textContent = label;
+
+      if (float) {
+        const dateH = Math.ceil(mastSide.getBoundingClientRect().height);
+        if (dateH) chrome.style.setProperty("--date-h", `${dateH}px`);
+      }
+      if (!mobileNow || !open || float) {
+        const bar = Math.ceil(chrome.getBoundingClientRect().height);
+        if (bar) document.documentElement.style.setProperty("--chrome-bar", `${bar}px`);
+      }
+    }
+
+    function setOpen(next) {
+      const mobileNow = mq.matches;
+      const resolved = mobileNow ? !!next : false;
+      if (resolved === open && mobileNow) {
+        render();
+        return;
+      }
+      open = resolved;
+      guardUntil = performance.now() + 320;
+      render(true);
+      lastY = Math.max(0, window.scrollY || 0);
+    }
+
+    toggle.addEventListener("click", () => {
+      if (!mq.matches) return;
+      setOpen(!open);
+    });
+    mast.addEventListener("click", (event) => {
+      if (!mq.matches) return;
+      if (event.target.closest("select, label, .filter-toggle, input, button, a")) return;
+      setOpen(!open);
+    });
+    document.addEventListener("click", (event) => {
+      if (!mq.matches || !open || chrome.contains(event.target)) return;
+      setOpen(false);
+    });
+    chrome.addEventListener("touchstart", () => { touchingChrome = true; }, { passive: true });
+    chrome.addEventListener("touchend", () => { touchingChrome = false; }, { passive: true });
+    chrome.addEventListener("touchcancel", () => { touchingChrome = false; }, { passive: true });
+
+    window.addEventListener("scroll", () => {
+      const y = Math.max(0, window.scrollY || 0);
+      const dy = y - lastY;
+      lastY = y;
+      if (!mq.matches || !els.lightbox.hidden) return;
+      const now = performance.now();
+      if (now < suspendUntil || touchingChrome || editingField() || now < guardUntil) {
+        drift = 0;
+        lastScrollAt = now;
+        render();
+        return;
+      }
+      if (now - lastScrollAt > 180) drift = 0;
+      lastScrollAt = now;
+      if ((dy > 0 && drift < 0) || (dy < 0 && drift > 0)) drift = 0;
+      drift += dy;
+      // Phone scroll events often arrive in small steps. Add them up so a
+      // deliberate swipe still opens or closes, without reacting to a nudge.
+      if (drift >= 40 && open) {
+        drift = 0;
+        setOpen(false);
+      } else if (drift <= -40 && !open) {
+        drift = 0;
+        setOpen(true);
+      } else render();
+    }, { passive: true });
+
+    mq.addEventListener("change", () => {
+      if (!mq.matches) open = false;
+      floatLatch = false;
+      lastY = Math.max(0, window.scrollY || 0);
+      render(true);
+    });
+    window.visualViewport?.addEventListener("resize", () => render(true), { passive: true });
+    render(true);
+
+    chromeUi.collapseForNav = () => {
+      suspendUntil = performance.now() + 2200;
+      drift = 0;
+      setOpen(false);
+      const release = () => { suspendUntil = 0; };
+      window.setTimeout(() => {
+        if (!suspendUntil) return;
+        window.addEventListener("scrollend", release, { once: true });
+      }, 80);
+      window.setTimeout(release, 2200);
+    };
+    chromeUi.close = () => setOpen(false);
+    chromeUi.expand = () => {
+      if (!mq.matches) return;
+      suspendUntil = 0;
+      setOpen(true);
+    };
+    chromeUi.setFiltered = (on) => {
+      toggle.classList.toggle("is-filtered", !!on);
+    };
+  }
+
   async function init() {
     const urlState = readUrl();
     state.query = urlState.q;
@@ -754,6 +904,8 @@
     els.q.value = state.query;
     els.clear.hidden = !state.query;
     syncSortButtons();
+    installChrome(Boolean(urlState.q) || (Boolean(urlState.g) && urlState.g !== "全部") || urlState.sort === "time");
+    chromeUi.setFiltered(Boolean(state.query.trim()) || state.group !== "全部" || state.sort !== "heat");
 
     els.date.addEventListener("change", () => {
       const value = els.date.value;
@@ -814,6 +966,7 @@
     document.addEventListener("keydown", (event) => {
       trapTab(event);
       if (event.key === "Escape" && state.lb) closeLightbox();
+      else if (event.key === "Escape") chromeUi.close();
       if (state.lb && (event.key === "ArrowLeft" || event.key === "ArrowRight")) {
         event.preventDefault();
         stepLightbox(event.key === "ArrowRight" ? 1 : -1);
@@ -821,6 +974,7 @@
       const typing = event.target.closest("input, textarea, select");
       if (event.key === "/" && !typing && !state.lb && !event.metaKey && !event.ctrlKey) {
         event.preventDefault();
+        chromeUi.expand();
         els.q.focus();
       }
     });
