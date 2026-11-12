@@ -1,0 +1,730 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-13",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "2120781591140278391",
+      "author": "alicehan_ai",
+      "title": "JSON 结构化人像：日系流行歌姬近景",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "通过 Google AI Studio 生成；提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-12 15:31",
+      "likes": 91,
+      "bookmarks": 20,
+      "images": [
+        {
+          "local": "images/2026-11-13/alicehan_ai_2120781591140278391_1.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/alicehan_ai_2120781591140278391_2.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/alicehan_ai_2120781591140278391_3.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/alicehan_ai_2120781591140278391_4.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 22-year-old adult Japanese pop-glamour performer, 153 cm tall, with a youthful sweet rounded face, luminous expressive eyes, softly rounded cheeks, a delicately shaped nose, naturally plush lips, a cheerful smile, warm auburn waves, and a petite, very dramatic curvy hourglass figure with a full rounded bust, a sharply defined waist, and generous rounded hips (measurements: 94-56-96 cm)\",\n    \"hair\": \"warm auburn soft bouncy waves in one even dye color, with slightly messy natural strands framing forehead and temples\",\n    \"expression\": \"cheeky wink with a lifted cheek, crinkled eye, and radiant mischievous smile\",\n    \"pose\": \"seated sideways in the teal velvet armchair with one knee drawn up onto the cushion, leaning slightly forward with one elbow on her raised knee and fingers resting near her chin\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"second-skin long-sleeve top with an ultra-deep plunging V-neckline, sheer illusion sleeves, and an open back, paired with high-cut micro-shorts and sheer lace-top thigh-high stockings exposing upper thighs\",\n    \"material\": \"pliant contour stretch jersey layered with translucent sheer illusion mesh, delicate floral lace accents, and ultra-sheer nylon hosiery\",\n    \"color\": \"rose, carried by the form-fitting jersey bodice and matching micro-shorts\",\n    \"footwear\": \"black pointed-toe patent stiletto pumps\",\n    \"accessories\": \"minimalist gold knuckle rings, slim chain bracelet\"\n  },\n  \"scene\": {\n    \"location\": \"upscale hotel lounge suite with a plush teal velvet armchair, light-grey wall, and adjacent bedside table with a vintage white corded phone\",\n    \"atmosphere\": \"playful hotel lounge fashion snapshot, tasteful and cheeky, spontaneous late-night glamour\",\n    \"background\": \"light-grey painted wall with soft direct flash cast shadow, edge of the bedside table holding a white corded phone\",\n    \"composition\": \"vertical eye-level full-body portrait, centered subject seated in the teal velvet armchair with generous vertical framing\",\n    \"lighting\": \"direct on-camera flash with crisp highlight roll-off and a soft defined cast shadow against the light-grey wall\",\n    \"camera\": \"vertical full-body flash capture, eye-level angle, 35mm lens perspective, sharp focus across subject with natural optical depth\",\n    \"grade\": \"clean photographic color rendition with authentic flash contrast, restrained retouching, and fine subtle film grain\"\n  },\n  \"scene_text\": {\n    \"text\": \"alicehan_ai\",\n    \"archetype\": \"embroidery\",\n    \"carrier\": \"small tonal cursive garment embroidery\",\n    \"placement\": \"beside the cuff seam in a small monogram area\"\n  },\n  \"compiled_prompt\": \"A vertical full-body flash photograph captures an exceptionally beautiful 22-year-old adult Japanese pop-glamour performer, 153 cm tall, with a youthful sweet rounded face, luminous expressive eyes, softly rounded cheeks, a delicately shaped nose, naturally plush lips, a cheerful smile, and a petite, very dramatic curvy hourglass figure with a full rounded bust, a sharply defined waist, and generous rounded hips. The camera is positioned at eye level for a vertical full-body flash capture with a 35mm lens perspective, keeping one figure centered and filling the height of the picture in a tall vertical frame. She is seated sideways in a plush teal velvet armchair with one knee drawn up onto the cushion, leaning slightly forward with one elbow resting on her raised knee and fingers poised near her chin, offering a cheeky wink with a lifted cheek, crinkled eye, and radiant mischievous smile. Her hair features warm auburn soft bouncy waves in one even dye color, with slightly messy natural strands framing forehead and temples. She wears a second-skin long-sleeve top with an ultra-deep plunging V-neckline, sheer illusion sleeves, and an open back, paired with high-cut micro-shorts and sheer lace-top thigh-high stockings exposing upper thighs, crafted from pliant contour stretch jersey layered with translucent sheer illusion mesh, delicate floral lace accents, and ultra-sheer nylon hosiery. The primary separates are saturated in rose, carried by the form-fitting jersey bodice and matching micro-shorts. On her feet are black pointed-toe patent stiletto pumps, accessorized with minimalist gold knuckle rings and a slim chain bracelet. Beside the cuff seam in a small monogram area, small tonal cursive garment embroidery spells out \\\"alicehan_ai\\\". The setting is an upscale hotel lounge suite with a light-grey painted wall behind her and a bedside table displaying a vintage white corded phone partially visible to one side. Illumination is provided by a direct on-camera flash with crisp highlight roll-off, casting a soft defined shadow against the light-grey wall. Direct flash highlights illuminate the rich rose fabric and define tactile folds, showing realistic skin texture with subtle pores, natural organic glow and micro details, authentic skin undertones, clean color rendition, fine subtle film grain, and restrained retouching.\"\n}"
+    },
+    {
+      "id": "2120936234608365748",
+      "author": "churvikv",
+      "title": "宇宙海洋中的红帆小船绘本插画",
+      "model": "GPT Image 2.5",
+      "group": "GPT Image",
+      "note": "",
+      "needsReference": false,
+      "time": "11-13 01:46",
+      "likes": 48,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-13/churvikv_2120936234608365748_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "Soft painterly digital illustration of A solitary sailboat navigates through a surreal, cosmic ocean under a vibrant, star-filled sky with sailboat, glowing red sail, cosmic sky, featuring Neon red outlines on the sail, Star-like particles in the sky, with Dramatic, internal glow from the sailboat's sail and reflections, with ambient light from a sunset or cosmic phenomena in the sky, limited deep blue, vibrant red, black, white, orange palette, and a minimalist composition with generous negative space"
+    },
+    {
+      "id": "2120684665938047153",
+      "author": "ThiThaoTri17219",
+      "title": "东方电影感奢华时装人像：丝绸礼服立于火山岩前",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原帖未写模型。",
+      "needsReference": false,
+      "time": "11-12 09:06",
+      "likes": 15,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-13/ThiThaoTri17219_2120684665938047153_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Native 3:4 vertical, ultra-high-resolution photorealistic Eastern cinematic luxury fashion portrait. Refined Eastern beauty, tactile material contrast, intimate emotional intensity.\nA breathtakingly beautiful 25-year-old adult East Asian woman with an elegant oval face, beautifully expressive dark almond eyes, luminous natural fair skin, softly defined rose-colored lips, slender narrow shoulders, graceful neck and long dark brown hair.\nShe wears exquisite smoky-blue and champagne-ivory silk couture with a naturally contoured bodice, softly defined waist, elegant neckline and flowing translucent layers. The fabric gently follows her natural silhouette before falling into soft, weightless folds.\nShe stands among immense dark charcoal-gray volcanic rocks, their rough, angular surfaces forming a powerful sculptural backdrop.\nThe image is defined by one dominant contrast: delicate, luminous silk against rough, immovable stone.\nEmotion and gaze: Her body is turned slightly toward the rocks, but her face turns naturally forward. She looks directly into the camera with calm, unwavering eyes. Her expression is quietly confident, subtly alluring, warm but resolute, with the slightest suggestion of a knowing smile.\nThere is no exaggerated head rotation. Her shoulders and neck remain naturally aligned.\nHer right arm extends comfortably toward an adjacent rock, with her right hand resting lightly on its upper surface. Five delicate fingers follow the stone's shape naturally, with a relaxed wrist and realistic proportions. Her left arm falls softly beside her body, with her left hand visible against the silk.\nA gentle breeze moves only the outermost layers of her gown, while the heavy rocks remain completely still.\nEye-level 75mm cinematic medium-long portrait, framed from approximately mid-thigh upward, with her face and eyes as the primary emotional focus. The rocks form bold dark masses behind her, while translucent blue silk creates one soft luminous shape across the foreground.\nA single clean directional side-light illuminates her face, collarbones and silk, revealing realistic skin texture and translucent textile detail. Deep cool stone shadows, subtle warm skin highlights, refined chiaroscuro, exceptional atmospheric clarity, restrained film grain.\nOne powerful material contrast, one direct emotional connection, one unforgettable gaze.\nOne independent native 3:4 image, no collage, no typography, no watermark."
+    },
+    {
+      "id": "2120944675842670879",
+      "author": "edizkan_",
+      "title": "外星入侵时坐在顶层公寓里的超广角角色大片",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需配角色参考图（“uploaded image”）；原帖未写模型。",
+      "needsReference": true,
+      "time": "11-13 02:19",
+      "likes": 17,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/edizkan__2120944675842670879_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 268
+        }
+      ],
+      "prompt": "Ultra wide angle lens, subtle fisheye, low angle, zoomed out  uploaded image with harsh blue rim light on the left side, seated with a relaxed posture on a minimalistic designer chair inside a penthouse loft shown in 3/4 view with towering ceilings and panoramic glass walls. Both feet rest casually on a sleek footstool, one hand holding a whisky glass. A half-finished bottle and a dusty photo frame lie beside a brutalist side table, hinting at a quiet backstory. A vintage turntable spins slowly on a low console, its arm drifting near the edge of a worn-out record  a soft crackling hum filling the space. A cat sleeps on a luxurious carpet with Joan Miró patterns, soft candlelight flickering beside it. The interior glows in rich amber tones  polished wood, designer lighting, and scattered shadows create a cinematic, lived-in atmosphere. Beyond the glass walls, the skyline erupts in chaos: colossal alien ships eclipse parts of the sky, jagged lightning-like energy beams slice through skyscrapers, and fiery explosions bloom across the horizon. Swarms of smaller crafts race between towers, trailing arcs of neon red and violet contrails. Smoke plumes twist upward, refracted in the glass; the alien sky casts dancing reflections across the polished floor. The city flickers with sirens and broken neon depth, motion, and tension swirl outside. Inside remains serene, a calm golden haven. Captured as a cinematic ultra-realistic photograph with deep focus: the tranquil penthouse interior and uploaded image’s cool, composed pose contrast powerfully with the storm of color and motion  beyond  a visual symphony of defiance and destruction.  ar 16:9"
+    },
+    {
+      "id": "2120926383442735351",
+      "author": "Goodmanprotocol",
+      "title": "万能微缩景观 Diorama 生成模板",
+      "model": "GPT Image 2.6",
+      "group": "GPT Image",
+      "note": "把 [TYPE YOUR SUBJECT…] 换成想做的主题。",
+      "needsReference": false,
+      "time": "11-13 01:07",
+      "likes": 13,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-13/Goodmanprotocol_2120926383442735351_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 320
+        },
+        {
+          "local": "images/2026-11-13/Goodmanprotocol_2120926383442735351_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 320
+        }
+      ],
+      "prompt": "THE MINIATURE WORLD | UNIVERSAL CREATIVE DIORAMA GENERATOR\n\nCreate an extraordinary, photorealistic miniature diorama based on [TYPE YOUR SUBJECT, OBJECT, PLACE, ANIMAL, ACTIVITY, OR IDEA HERE].\n\nReimagine the subject through creative visual storytelling, transforming its natural shape, features, textures, or surroundings into an imaginative miniature environment. Introduce tiny, realistic human figures, animals, vehicles, structures, or other relevant elements wherever they enhance the concept. Make them interact naturally with the environment, creating a clever and engaging visual narrative.\n\nUse artistic imagination to develop unexpected visual metaphors, playful scale contrasts, and intricate miniature details. Preserve the recognizable identity of the chosen subject while giving it an entirely fresh interpretation.\n\nRender everything with premium handcrafted diorama craftsmanship, realistic materials, precise miniature details, cinematic lighting, natural shadows, macro photography, and beautiful shallow depth of field. Use a clean, complementary background and a carefully composed perspective that makes the miniature world the clear focal point.\n\nCreative freedom: Adapt the entire scene to the chosen subject. Do not force unrelated elements, repetitive layouts, or predefined compositions. Every generation should have its own original concept, environment, storytelling, and visual arrangement.\n\nFINAL STYLE: Museum-quality miniature artistry, photorealistic macro photography, imaginative storytelling, exceptional craftsmanship, and a visually captivating result. Generate for repairing of the car"
+    },
+    {
+      "id": "2120703926697898204",
+      "author": "derek_wall90176",
+      "title": "换个重力方向：人在天花板/墙面上行走的超现实画面",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "中文模板，把【】里的内容换成自己的；原帖未写模型。",
+      "needsReference": false,
+      "time": "11-12 10:23",
+      "likes": 8,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-13/derek_wall90176_2120703926697898204_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-13/derek_wall90176_2120703926697898204_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-13/derek_wall90176_2120703926697898204_3.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-13/derek_wall90176_2120703926697898204_4.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "生成一张3:4竖版超现实艺术画面：【场景】中，【人物】双脚自然踏在【墙面或天花板】上，以它为地面【动作】；身体姿态、头发和衣服的垂落方向服从这处重力。保留【正常重力参照物】，让两种方向同时清楚可见。人物与建筑、家具尺度一致，脚与支撑面真实接触。采用【视角】、【画面风格】，用【主色】突出主体，背景简洁，画面有一个明确的视觉重点。不要悬浮姿势、杂乱装饰、水印和多余文字。"
+    },
+    {
+      "id": "2120907535783989685",
+      "author": "tealdog2",
+      "title": "大阪夜市里的全身人像（三模型对比）",
+      "model": "Krea2 DMerge / GPT Image 2 / Grok Imagine 1.0",
+      "group": "多模型对比",
+      "note": "三张图依次对应 Krea2 DMerge、GPT Image 2（API）、Grok Imagine 1.0（API）。",
+      "needsReference": false,
+      "time": "11-12 23:52",
+      "likes": 8,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-13/tealdog2_2120907535783989685_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 617
+        },
+        {
+          "local": "images/2026-11-13/tealdog2_2120907535783989685_2.jpg",
+          "remote": "",
+          "width": 452,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/tealdog2_2120907535783989685_3.jpg",
+          "remote": "",
+          "width": 453,
+          "height": 680
+        }
+      ],
+      "prompt": "Subject:\nPhotorealistic 2:3 full-body portrait of a beautiful woman, age 23+,  with long brown hair, rose coral lip, and a small cat tattoo on her thigh, walking down a Osaka night market with food stalls. \n\nScene:\nShe has a hand sweeping her hair back, while she wears dark denim shorts with a pale gray green shirt tied with a knot around her waist. Her body is angled toward the camera from a low-angle perspective, emphasizing her curvaceous form and exposed midsection. Behind her, multiple food stalls in the night market are visible. She is offset to the left of the scene.\n\nLIGHTING: Soft natural evening lighting, intimate yet airy atmosphere, high detail, realistic skin texture, cinematic lighting.\n\nHigh-resolution image; natural details in skin, sub surface scattering, and hair. No filters or AI effects; not a drawing, cartoon, or anime.\n\n[Constraints:]\nNo anatomy distortions"
+    },
+    {
+      "id": "2120796741570294263",
+      "author": "Gdgtify",
+      "title": "不同年代校园零食午餐托盘微缩场景（2×2 网格）",
+      "model": "GPT Image 2.6 / MiniMax H3 Image",
+      "group": "多模型对比",
+      "note": "把 [Country] 和可选的年代换成自己的；原帖只有一张对比图。",
+      "needsReference": false,
+      "time": "11-12 16:32",
+      "likes": 5,
+      "bookmarks": 2,
+      "images": [
+        {
+          "local": "images/2026-11-13/Gdgtify_2120796741570294263_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 479
+        }
+      ],
+      "prompt": "16:9, 2x2 grid, AI picks 4 different decades<instructions> **Role:** School Culture Archivist & Lunch Tray Diorama Engineer **Input:** [Country] + optional [Decade: 80s/90s/2000s/now] Phase 1: Lunch Logic Select 4 lunch tray “hidden gem” components using gates: Must cover: main, side, dessert, drink If decade given: adapt packaging style + utensils to match era Derive: texture, palette, social ritual (trade, line-up, save-best-for-last, share). Phase 2: Visual Execution Goal: 2x2 Grid of “Lunch Trays as Mini School Cafeterias” Rules per Panel: Container: tray compartment is the room; tray lip is the stage border Set: social ritual shown by 2–3 tiny students Props: 5 micro school props (milk carton shape, token, napkin, tiny timetable blocks) Label: [Item | Decade | Country] Camera & Look: Photoreal miniature, 35mm lens across panels, premium studio lighting, shallow DOF, slate-gray seamless, no watermark. </instructions>"
+    },
+    {
+      "id": "2120884287234813979",
+      "author": "krienknight",
+      "title": "国风汉服人像：仰拍白塔石阶",
+      "model": "GPT Image",
+      "group": "GPT Image",
+      "note": "含负面提示词；原帖写“GPT生图”，未写版本。",
+      "needsReference": false,
+      "time": "11-12 22:19",
+      "likes": 3,
+      "bookmarks": 2,
+      "images": [
+        {
+          "local": "images/2026-11-13/krienknight_2120884287234813979_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 679
+        }
+      ],
+      "prompt": "写实国风汉服人像摄影，低机位广角仰拍，全身构图。一位年轻女子站在画面左下方的青灰色石阶上，背对镜头，微微侧身，露出侧脸，抬头望向右上方高耸的白色多层佛塔。她身穿深孔雀蓝与象牙白相间的汉服，衣襟与裙摆绣有细密的金色花枝纹，半透明的米白色披帛和曳地长裙被风吹向左下方。黑发盘成古典发髻，点缀金色花簪与细长流苏。石阶从前景向右上延伸，沿途是雕花白石栏杆。白塔层层收窄，塔顶饰有鎏金宝刹，塔旁露出一角金色飞檐。画面左上方伸入一枝金黄秋叶，背景是湛蓝天空、明亮白云与云雾缭绕的远山。晴朗秋日的自然侧光照亮人物侧脸、金线刺绣与白塔，蓝、白、金配色，通透明亮，保留真实的丝绸和石材质感。\n\n负面提示词\n卡通，塑料质感，过度磨皮，面部变形，肢体畸形，建筑结构扭曲，天空过曝，现代建筑，路人，文字，水印。"
+    },
+    {
+      "id": "2120865943106838991",
+      "author": "KOF97AI",
+      "title": "写实职业人像（按摩店技师）提示词模板",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原帖只有话题标签 #Midjourney，未明确写出所用模型。",
+      "needsReference": false,
+      "time": "11-12 21:06",
+      "likes": 2,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-13/KOF97AI_2120865943106838991_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-13/KOF97AI_2120865943106838991_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-13/KOF97AI_2120865943106838991_3.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-13/KOF97AI_2120865943106838991_4.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Chinese female massage technician, wearing clean modern uniform, standing in a cozy massage parlor, warm ambient lighting, wooden texture background, natural skin details, shot on 85mm f1.8 lens, realistic photography, photorealistic, 8k"
+    },
+    {
+      "id": "2120718963478798575",
+      "author": "learnwithcheer",
+      "title": "香港高层酒店阳台夜景手持自拍（四模型）",
+      "model": "MiniMax H3 Image / Seedream 5.5 / GPT Image 2.6 / Nano Banana 2.1",
+      "group": "多模型对比",
+      "note": "四张图依次对应 MiniMax H3 Image、Seedream 5.5、GPT Image 2.6、Nano Banana 2.1。",
+      "needsReference": false,
+      "time": "11-12 11:22",
+      "likes": 1,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-13/learnwithcheer_2120718963478798575_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/learnwithcheer_2120718963478798575_2.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/learnwithcheer_2120718963478798575_3.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 679
+        },
+        {
+          "local": "images/2026-11-13/learnwithcheer_2120718963478798575_4.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        }
+      ],
+      "prompt": "Create a highly realistic handheld smartphone selfie of an East Asian woman in her early twenties on the balcony of a high-rise hotel in Hong Kong at night. Capture the relaxed, spontaneous feeling of an ordinary travel selfie.  She has a soft oval face, gently tapered jawline, fair skin with a warm pink undertone, dark brown almond-shaped eyes, a delicate nose, and glossy pink lips. She looks into the camera with slightly lowered eyelids and gently pursed lips. A tiny beauty mark is visible on her cheek on the left side of the image. Her makeup features fine eyeliner, defined lashes, soft pink blush, and glossy rosy lips. Keep her skin natural and lightly luminous.  Her jet-black hair is completely straight, smooth, and waist-length, parted slightly off-center and worn loose over both shoulders. A gentle breeze moves a few fine strands.  She wears a fitted white short-sleeve crew-neck crop T-shirt and loose, wide-leg gray sweatpants sitting slightly low on her hips. Only the elastic waistband of her Calvin Klein underwear is visible above the pants, with subtle, readable branding. She also wears two layered silver necklaces with small pendants and a chunky silver bracelet with elongated rectangular links. No glasses.  She faces mostly forward with a slight body angle, gently tilts her head, and lifts her chin toward the camera. Both arms extend toward the camera: one is cropped at the left edge, while the other fills much of the lower-right foreground, with the bracelet visible. Her hands and phone remain outside the frame.  Frame her from slightly above her head to her upper thighs. The camera is held at arm’s length, slightly above eye level and tilted downward, with a subtle diagonal roll. Use a natural wide-angle front-camera perspective with mild foreground enlargement.  Behind her, a glass balcony railing overlooks Victoria Harbour and Hong Kong’s expansive illuminated skyline. City lights reflect on the dark water, and distant buildings remain recognizable with slight atmospheric softness. Include a small section of pale stone flooring and the hotel’s exterior wall or sliding glass door.  Soft frontal light keeps her face bright and clear, while warm light from the hotel room gently illuminates her hair and clothing. Balance the exposure so both she and the nighttime skyline remain visible.  Make it look like an unposed consumer smartphone photo shot with a 24–28mm equivalent lens. Preserve natural skin texture, individual hair strands, realistic fabric, subtle smartphone noise, and moderately deep focus.  No wavy, curly, brown, or short hair; no pigtails or heavy bangs. No visible phone or hands, extra limbs, distorted anatomy, extreme fisheye, daylight, heavy background blur, plastic skin."
+    },
+    {
+      "id": "2120868766229938427",
+      "author": "HBCoop_",
+      "title": "四张参考图合成：两位女子在沙漠加油站引擎盖上吃汉堡",
+      "model": "Seedream 5.5 / GPT Image 2.5 / Nano Banana 2.1",
+      "group": "多模型对比",
+      "note": "需配 4 张参考图（两位人物、车、地点）；三模型对比。",
+      "needsReference": true,
+      "time": "11-12 21:18",
+      "likes": 1,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-13/HBCoop__2120868766229938427_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 271
+        },
+        {
+          "local": "images/2026-11-13/HBCoop__2120868766229938427_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 271
+        },
+        {
+          "local": "images/2026-11-13/HBCoop__2120868766229938427_3.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 272
+        },
+        {
+          "local": "images/2026-11-13/HBCoop__2120868766229938427_4.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 268
+        }
+      ],
+      "prompt": "Figure 1 is the first woman. Figure 2 is the second woman. Figure 3 is the car. Figure 4 is the location.\n\nGenerate one photorealistic film still, 16:9. It is the morning after a long night out. The two women from Figure 1 and Figure 2 sit side by side on the bonnet of the car from Figure 3, which is parked on the forecourt beside the fuel pumps of the desert filling station from Figure 4. They are eating burgers at sunrise.\n\nOn the left: the woman from Figure 1, the same person, with her black hair in a loose low bun and her emerald green silk slip gown. She is barefoot, holds a burger in both hands and is taking a bite, looking out at the empty road.\n\nOn the right: the woman from Figure 2, the same person, with her short copper-red bob, freckles and long-sleeved gold sequin gown. She is barefoot, laughing with her head tipped back, a paper cup with a straw in her left hand and a wrapped burger on her lap.\n\nOn the ground by the front wheel: two pairs of high heels kicked off, and one worn canvas duffel bag.\n\nKeep both faces, hair and skin tones exactly as in Figure 1 and Figure 2. Keep the car's shape, cream paint, chrome trim and whitewall tyres exactly as in Figure 3, with no badges, no logos and a blank number plate. Keep the canopy, the two pumps, the white building and the desert horizon of Figure 4. No readable text anywhere.\n\nLight: the sun is just above the horizon behind them, strong warm backlight, a rim of light on their hair and shoulders, soft cool fill from the open sky on their faces so both faces stay readable, long shadows falling toward the camera, light dust haze.\n\nCamera and texture: wide shot from standing height a few metres in front of the car, the whole car and both women in frame, 35mm lens feel, the desert in soft focus behind, fine film grain, natural skin texture, real fabric detail in the silk and the sequins."
+    },
+    {
+      "id": "2120853823191413137",
+      "author": "punkhuri1",
+      "title": "工业风落地窗边的欧洲女性电影感时装人像（三模型）",
+      "model": "ChatGPT Image 2 / Grok Imagine / Nano Banana 2",
+      "group": "多模型对比",
+      "note": "三张图依次对应 ChatGPT Image 2、Grok Imagine、Nano Banana 2。",
+      "needsReference": false,
+      "time": "11-12 20:18",
+      "likes": 0,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-13/punkhuri1_2120853823191413137_1.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/punkhuri1_2120853823191413137_2.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/punkhuri1_2120853823191413137_3.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        }
+      ],
+      "prompt": "Create an extraordinarily photorealistic, breathtaking cinematic fashion portrait of an exceptionally beautiful adult European woman in her mid-twenties, leaning gracefully toward a tall industrial loft window on a quiet afternoon. The atmosphere evokes effortless femininity, introspective elegance, understated glamour, and the intimate beauty of contemporary editorial photography. The final image must resemble an authentic photograph of a real living woman, never CGI, illustration, or digital artwork.\n\nWoman and Facial Features: A stunning woman with luminous fair ivory-beige skin, delicate peach undertones, an elegantly sculpted oval face, softly defined cheekbones, a refined straight nose, naturally full rose-pink lips, and expressive almond-shaped pale blue-grey eyes framed by long eyelashes. Her makeup is minimal, featuring subtle taupe eyeshadow, delicate mascara, soft peach blush, and naturally tinted nude-rose lips. Her expression is serene, dreamy, and contemplative, with her eyes peacefully closed and face turned toward the window. Preserve realistic skin pores, subtle facial asymmetry, and authentic human anatomy.\n\nHair: Her extraordinarily long, thick, ash-blonde hair cascades freely down her back in abundant, naturally tousled waves, reaching below her waist. Soft champagne-blonde, sandy beige, and muted honey highlights create beautiful natural dimension. A relaxed side part frames her forehead, while loose strands fall delicately across her cheeks and neck. Her hair appears slightly messy, voluminous, and effortlessly styled, with realistic flyaways and individual strands catching the window light.\n\nOutfit and Fabric: She wears an elegant fitted black designer mini dress featuring delicate spaghetti straps, a softly structured V-shaped neckline with secure, fully lined coverage, and a beautifully tailored silhouette. The luxurious matte-black stretch fabric follows her natural figure with subtle folds and realistic texture. The minimalist design creates a sophisticated contrast against her luminous complexion and flowing blonde hair.\n\nPose and Body Language: Capture her leaning forward beside the window in a graceful three-quarter side profile, with both hands resting naturally on a low windowsill outside the lower frame. Her torso inclines gently forward, her shoulders remain relaxed, and her head tilts slightly upward toward the daylight. Her eyes are closed as though peacefully enjoying the warmth of the afternoon sun. Her long blonde hair cascades down her back, creating a naturally flowing silhouette.\n\nSetting and Atmosphere: A minimalist industrial-style urban loft featuring pale ivory walls, exposed concrete columns, visible metallic ceiling ventilation ducts, and a large floor-to-ceiling window. The interior remains uncluttered, with subtle architectural textures and muted neutral tones. The surroundings feel quiet, authentic, and genuinely lived-in.\n\nLighting and Cinematography: Beautiful soft natural daylight enters through the tall window, illuminating her face, shoulders, and flowing blonde hair. Gentle shadows sculpt her features, while subtle highlights reveal realistic skin texture and individual hair strands. Muted charcoal, warm ivory, ash blonde, and soft grey tones dominate the sophisticated cinematic palette.\n\nComposition and Quality: Vertical 9:16 cinematic editorial portrait, medium-full framing from head to upper thighs, eye-level three-quarter side perspective. Professional full-frame photography, 85mm portrait lens, shallow depth of field, realistic skin texture, authentic fabric folds, subtle analogue film grain, natural low-light exposure, and breathtaking photographic realism."
+    },
+    {
+      "id": "2120728176565653759",
+      "author": "laughing_code",
+      "title": "一句话把夏天照片改成下雪的冬夜",
+      "model": "MiniMax H3 Image",
+      "group": "MiniMax H3 Image",
+      "note": "需配原照片作参考（图像编辑）。",
+      "needsReference": true,
+      "time": "11-12 11:59",
+      "likes": 0,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-13/laughing_code_2120728176565653759_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 271
+        },
+        {
+          "local": "images/2026-11-13/laughing_code_2120728176565653759_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 271
+        }
+      ],
+      "prompt": "make it snow gently, warm street lights, cinematic"
+    },
+    {
+      "id": "2120926993852362806",
+      "author": "nansolooo",
+      "title": "岩石上坐着的长发女子手机随拍（Grok vs 香蕉）",
+      "model": "Grok Imagine / Nano Banana 2.1",
+      "group": "多模型对比",
+      "note": "需配人脸参考图；左 Grok Imagine，右 Nano Banana 2.1。",
+      "needsReference": true,
+      "time": "11-13 01:09",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/nansolooo_2120926993852362806_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 424
+        }
+      ],
+      "prompt": "9:16 candid phone photo. Woman with long dark brown hair sits on a smooth rock in a clear shallow river, rinsing her bare feet, jeans rolled up, white linen shirt, sneakers beside her. Late-afternoon light through trees. Real pores, clean, no grain."
+    },
+    {
+      "id": "2120937326050496752",
+      "author": "punkhuri1",
+      "title": "三模型同提示词的欧洲女性电影感时装人像（白色系）",
+      "model": "ChatGPT Image 2 / Grok Imagine / Nano Banana 2",
+      "group": "多模型对比",
+      "note": "三张图依次对应 ChatGPT Image 2、Grok Imagine、Nano Banana 2。",
+      "needsReference": false,
+      "time": "11-13 01:50",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/punkhuri1_2120937326050496752_1.jpg",
+          "remote": "",
+          "width": 382,
+          "height": 679
+        },
+        {
+          "local": "images/2026-11-13/punkhuri1_2120937326050496752_2.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/punkhuri1_2120937326050496752_3.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        }
+      ],
+      "prompt": "Create an extraordinarily photorealistic, breathtaking cinematic lifestyle portrait of an exceptionally beautiful adult woman in her mid-twenties, sitting gracefully on the edge of a bed inside a dimly illuminated modern bedroom. The atmosphere evokes mysterious femininity, intimate elegance, effortless sensuality, and the understated beauty of moody editorial photography. The final image must resemble an authentic photograph of a real living woman, never CGI, illustration, or digital artwork.\n\nWoman and Facial Features: A stunning woman with luminous warm ivory-olive skin, an elegantly sculpted oval face, softly defined cheekbones, a refined straight nose, naturally full rose-pink lips, and expressive almond-shaped dark-brown eyes framed by long eyelashes. Her makeup is minimal, featuring softly smoky brown eyeshadow, delicate eyeliner, subtle peach blush, and muted rose-nude lips. Her expression is dreamy, introspective, and quietly captivating, with her eyes gently closed and lips naturally relaxed. Preserve realistic skin pores, subtle facial asymmetry, and authentic human anatomy.\n\nHair: Her extraordinarily long, thick, glossy dark espresso-brown hair cascades freely past her waist in magnificent, voluminous, naturally defined curls. The abundant waves appear slightly messy and effortlessly styled, with individual strands falling across her forehead, cheeks, and partially covering one eye. Her hair spreads dramatically over both shoulders, creating a beautiful contrast against her pale clothing.\n\nOutfit and Fabric: She wears an oversized ivory-white cotton button-down shirt featuring a relaxed collar, long sleeves, and softly gathered fabric. The shirt is loosely draped around her shoulders over a fitted ivory camisole with a modest, softly curved neckline. Delicate cotton folds and naturally wrinkled textures create an intimate, comfortable silhouette. The outfit feels minimalist, sophisticated, and effortlessly relaxed.\n\nPose and Body Language: Capture her seated comfortably near the edge of a softly upholstered bed, her torso facing slightly toward the camera. Her head tilts gently backward, chin raised, and eyes peacefully closed. Her shoulders remain relaxed, while her long, abundant curls cascade freely around her face and upper body. Her hands rest naturally in her lap, outside the lower frame. The posture feels spontaneous, contemplative, and genuinely unposed.\n\nSetting and Atmosphere: A minimalist contemporary bedroom featuring muted taupe-grey walls, a simple white interior door, softly rumpled charcoal bedding, and understated dark furniture. A small dresser with delicate decorative objects appears in the softly blurred background. The surroundings feel quiet, intimate, and genuinely lived-in.\n\nLighting and Cinematography: Beautiful low-key natural window light illuminates her face, shoulders, flowing curls, and ivory shirt. Gentle shadows partially conceal her features, while subtle warm highlights reveal authentic skin texture and individual hair strands. Deep charcoal, soft ivory, muted taupe, and warm neutral tones dominate the sophisticated cinematic palette.\n\nComposition and Quality: Vertical 9:16 cinematic editorial portrait, medium-close framing from head to waist, eye-level camera angle. Professional full-frame photography, 85mm portrait lens, shallow depth of field, realistic skin texture, individually defined curls, authentic cotton fabric, subtle analogue film grain, natural low-light exposure, and breathtaking photographic realism.\n\nEssential Requirement: A genuine moody lifestyle photograph featuring a real adult woman. No oil painting, illustration, CGI, plastic skin, distorted anatomy, excessive smoothing, exaggerated proportions, text, logos, or watermark."
+    },
+    {
+      "id": "2120768835506913396",
+      "author": "punkhuri1",
+      "title": "三模型同提示词的欧洲女性电影感时装人像（花瓣系）",
+      "model": "ChatGPT Image 2 / Grok Imagine / Nano Banana 2",
+      "group": "多模型对比",
+      "note": "三张图依次对应 ChatGPT Image 2、Grok Imagine、Nano Banana 2。",
+      "needsReference": false,
+      "time": "11-12 14:41",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/punkhuri1_2120768835506913396_1.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/punkhuri1_2120768835506913396_2.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/punkhuri1_2120768835506913396_3.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        }
+      ],
+      "prompt": "Create an extraordinarily photorealistic, breathtaking cinematic lifestyle portrait of an exceptionally beautiful adult Indian woman in her mid-twenties, sitting comfortably on a luxurious cream-coloured armchair while reading a novel inside an elegant, sunlit European-inspired apartment. The atmosphere evokes peaceful solitude, romantic femininity, intellectual charm, effortless elegance, and the nostalgic warmth of a quiet afternoon. The final image must resemble an authentic photograph of a real living woman, never CGI, illustration, or digital artwork.\n\nWoman and Facial Features: A stunning Indian woman with luminous warm ivory-peach skin, delicate cheekbones, a refined straight nose, naturally full rose-pink lips, and expressive almond-shaped dark-brown eyes framed by long eyelashes. Her makeup is minimal, featuring subtle brown eyeliner, delicate peach blush, and naturally tinted lips. Her expression is serene, thoughtful, and softly content as she gazes downward at her open book with a faint, natural smile. Preserve realistic skin pores, subtle facial asymmetry, and authentic human anatomy.\n\nHair: Her extraordinarily long, thick, glossy dark espresso-brown hair cascades freely over one shoulder in abundant, naturally tousled waves. Soft strands frame her cheeks and temples, while warm sunlight creates delicate chestnut highlights throughout her voluminous hair.\n\nOutfit and Fabric: She wears an exquisite dusty-rose pink romantic lounge dress crafted from lightweight cotton chiffon, featuring an elegant off-shoulder neckline, softly gathered bodice, delicate ruffled edges, and voluminous three-quarter sleeves with elasticated cuffs. The flowing skirt features multiple layers of soft ruffles and naturally gathered fabric, draping gracefully across her seated figure. The dress feels feminine, comfortable, and effortlessly sophisticated.\n\nPose and Accessories: Capture her reclining comfortably in a plush ivory bouclé armchair, her torso angled slightly toward the camera. One leg crosses naturally over the other, with her bare feet resting comfortably near the edge of the chair. She holds an open paperback novel in both hands, her eyes focused peacefully on the pages. A delicate silver necklace with a miniature pendant rests against her collarbone.\n\nSetting and Atmosphere: An elegant vintage-inspired apartment featuring warm cream walls, classical decorative mouldings, and beautiful framed Renaissance-inspired artwork. A small sage-green side table holds a glass vase filled with fresh pink carnations and a delicate stemmed glass containing a pale rose-coloured beverage. Soft textured cushions and luxurious upholstery create a cozy, intimate atmosphere.\n\nLighting and Cinematography: Beautiful late-afternoon sunlight streams through a nearby window, illuminating her face, flowing hair, dusty-rose dress, and open book. Soft rectangular window shadows fall across the cream walls, while gentle golden highlights enhance the fabric’s delicate textures. Warm ivory, blush pink, muted sage, and champagne tones dominate the romantic colour palette.\n\nComposition and Quality: Vertical 9:16 cinematic lifestyle portrait, medium-full framing from head to bare feet, slightly elevated eye-level perspective. Professional full-frame photography, 50mm portrait lens, natural depth of field, authentic skin texture, individually defined hair strands, realistic cotton fabric, subtle analogue film grain, sophisticated warm colour grading, and breathtaking photographic realism.\n\nEssential Requirement: A genuine candid lifestyle photograph featuring a real adult Indian woman reading peacefully in a real sunlit apartment. No oil painting, illustration, CGI, plastic skin, distorted anatomy, exaggerated proportions, text ."
+    },
+    {
+      "id": "2120884131999748545",
+      "author": "punkhuri1",
+      "title": "三模型同提示词的欧洲女性电影感时装人像（白色系 2）",
+      "model": "ChatGPT Image 2 / Grok Imagine / Nano Banana 2",
+      "group": "多模型对比",
+      "note": "三张图依次对应 ChatGPT Image 2、Grok Imagine、Nano Banana 2。",
+      "needsReference": false,
+      "time": "11-12 22:19",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/punkhuri1_2120884131999748545_1.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/punkhuri1_2120884131999748545_2.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        },
+        {
+          "local": "images/2026-11-13/punkhuri1_2120884131999748545_3.jpg",
+          "remote": "",
+          "width": 380,
+          "height": 680
+        }
+      ],
+      "prompt": "Create an extraordinarily photorealistic, breathtaking cinematic lifestyle portrait of an exceptionally beautiful adult European woman in her mid-twenties, reclining peacefully among tall wild grasses in a secluded countryside meadow. The atmosphere evokes untamed natural beauty, romantic femininity, peaceful solitude, delicate vulnerability, and the nostalgic warmth of fine-art nature photography. The final image must resemble an authentic photograph of a real living woman, never CGI, illustration, or digital artwork.\n\nWoman and Facial Features: A stunning woman with luminous warm ivory-peach skin, delicate facial features, softly sculpted cheekbones, a refined straight nose, naturally full rose-pink lips, and expressive almond-shaped hazel-green eyes. Her makeup is exceptionally minimal, featuring subtle mascara, natural peach blush, and softly tinted lips. Her expression is serene, dreamy, and deeply contemplative, with her eyes peacefully closed and her face tilted toward the sky. Preserve realistic skin pores, subtle freckles, natural pigmentation, and authentic human anatomy.\n\nHair: Her extraordinarily long, thick, dark chestnut-brown hair spreads freely across the meadow in abundant, naturally tousled waves. Loose strands fall across her cheeks, neck, and shoulders, blending gently with the surrounding grass. Her hair appears slightly windswept, with realistic flyaways and delicate natural texture.\n\nOutfit and Fabric: She wears an exquisite antique-ivory romantic countryside dress crafted from lightweight cotton muslin and delicate semi-sheer linen layered over an opaque lining. The dress features a softly gathered square neckline, graceful puff sleeves, delicate elasticated edges, and a beautifully ruched bodice. Fine natural wrinkles, subtle stitching, and softly weathered fabric textures create an authentic vintage appearance. The flowing skirt gathers loosely around her waist, disappearing naturally into the surrounding grass.\n\nPose and Body Language: Capture her reclining comfortably on her back among tall meadow grasses, her torso angled diagonally across the composition. Her head tilts gently backward, exposing the graceful line of her neck, while her face turns slightly away from the camera. One arm rests naturally beside her body, partially concealed beneath the grass. Her shoulders remain relaxed, creating an intimate, spontaneous moment of complete stillness.\n\nSetting and Atmosphere: A secluded countryside meadow filled with deep olive-green grass, delicate wildflowers, thin seed-bearing stems, and naturally tangled vegetation. Several slender grass stems cross gently over her shoulders and dress, creating beautiful foreground depth. The surroundings feel peaceful, untouched, and genuinely natural.\n\nLighting and Cinematography: Beautiful muted late-afternoon sunlight filters softly through the meadow, illuminating her face, collarbones, and ivory dress. Gentle shadows from the surrounding grass create delicate patterns across her skin. Warm earthy greens, faded champagne, muted bronze, and soft ivory dominate the nostalgic cinematic colour palette.\n\nComposition and Quality: Vertical 9:16 intimate cinematic editorial portrait, close three-quarter side framing from head to waist, slightly elevated camera perspective. Professional full-frame photography, 85mm portrait lens, shallow depth of field, realistic skin texture, individually defined hair strands, authentic cotton fabric, subtle analogue film grain, sophisticated earthy colour grading, and breathtaking photographic realism.\n\nEssential Requirement: A genuine fine-art lifestyle photograph featuring a real adult woman resting peacefully in a real meadow."
+    },
+    {
+      "id": "2121000224877355083",
+      "author": "seeksteve",
+      "title": "1970 年代胶片风南方沼泽木屋",
+      "model": "MiniMax H3 Image / GPT Image 2.5",
+      "group": "多模型对比",
+      "note": "四张图：前两张 MiniMax H3 Image，后两张 GPT Image 2.5。",
+      "needsReference": false,
+      "time": "11-13 06:00",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/seeksteve_2121000224877355083_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 268
+        },
+        {
+          "local": "images/2026-11-13/seeksteve_2121000224877355083_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 268
+        },
+        {
+          "local": "images/2026-11-13/seeksteve_2121000224877355083_3.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 270
+        },
+        {
+          "local": "images/2026-11-13/seeksteve_2121000224877355083_4.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "1970s photochemical motion-picture image, 35mm spherical. Shot on ARRIFLEX 35BL with Cooke Speed Panchro / vintage 32-50mm spherical. Captured on Eastman 5247, ECN-2. Midday sun kept hard; negative fill; practical interiors; minimal beauty fill. Physical/optical texture: heat haze; lens flare; dusty atmosphere; grain in shade; slight underexposure; imperfect focus. Period-authentic analog acquisition and photochemical finishing. subject: rural lowcountry swamp shack. Authentic raw analog image and scanned upload, not digital. No modern digital-clean sharpness, no contemporary teal-orange LUT, no synthetic 'vintage filter' overlay, no text."
+    },
+    {
+      "id": "2120754551711989933",
+      "author": "FuguiChen1314",
+      "title": "健身房运动后的素颜手机自拍质感人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原帖未写模型。",
+      "needsReference": false,
+      "time": "11-12 13:44",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/FuguiChen1314_2120754551711989933_1.jpg",
+          "remote": "",
+          "width": 383,
+          "height": 680
+        }
+      ],
+      "prompt": "9:16 竖版构图，超写实生活方式摄影，真实手机前置摄像头自拍质感，近距离面部特写，轻微广角透视，自然随拍，不刻意摆拍。\n\n人物设定\n\n一位成年中国年轻女生，甜美清纯的东方面容，深棕色眼睛，柔和的眉眼，微微嘟起的自然唇形。黑色头发随意扎起，几缕被汗水打湿的碎发自然贴在额头和脸颊两侧。穿白色运动背心，灰色高腰瑜伽裤，刚完成一组高强度训练。\n\n面部与皮肤质感\n\n运动后的自然状态，额头、鼻尖、鼻翼、脸颊和颈部布满细小汗珠，皮肤微微泛红，鼻尖和脸颊有真实的油脂反光。保留毛孔、细小皮肤纹理、轻微肤色不均、淡淡的黑眼圈和自然唇纹。不化妆，不磨皮，不使用美颜滤镜，不刻意修饰五官。眼神放松，嘴唇微微张开，带一点运动后的疲惫感和无辜甜妹气质。\n\n拍摄环境\n\n真实健身房环境，背景可见模糊的力量训练器械、深色橡胶地板和镜面反光。自然的室内顶灯与窗户散射光混合照明，人物脸部曝光真实，背景略微虚化，但不使用夸张的电影景深。\n\n摄影参数与真实感\n\n35mm 胶片颗粒质感，50mm 镜头的自然人像透视，近距离手持自拍，轻微构图偏斜，真实曝光与自然阴影。衣物呈现真实棉质与弹力面料纹理，汗水具有透明度和不规则分布，保留细节，不做商业人像精修。\n\n负面提示词\n\n磨皮，美颜滤镜，塑料皮肤，过度锐化，假汗珠，浓妆，厚重睫毛，夸张卧蚕，过度饱和，影棚布光，电影感调色，CGI，3D渲染，过度修图，蜡像质感，刻意摆拍。"
+    },
+    {
+      "id": "2121003823938597248",
+      "author": "Kina_0300",
+      "title": "半人半陶瓷的女性仿生人特写",
+      "model": "MiniMax H3 Image / Grok",
+      "group": "多模型对比",
+      "note": "左 MiniMax H3 Image，右 Grok 生图（原帖只有一张对比图）。",
+      "needsReference": false,
+      "time": "11-13 06:14",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/Kina_0300_2121003823938597248_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 399
+        }
+      ],
+      "prompt": "feminine android, extreme three-quarter close-up, half human skin, half aged ivory ceramic, red cables, warm off-white wall."
+    },
+    {
+      "id": "2120999834450903383",
+      "author": "niftydaimoku",
+      "title": "阿尔泰山脉的 Vogue 风亚洲模特黑卫衣大片",
+      "model": "Nano Banana",
+      "group": "Nano Banana",
+      "note": "",
+      "needsReference": false,
+      "time": "11-13 05:59",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/niftydaimoku_2120999834450903383_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 643
+        }
+      ],
+      "prompt": "Vogue editorial, asian model with long black hair, oversized black hoodie, Altai mountains, natural light, shot on film, shallow depth of field"
+    },
+    {
+      "id": "2120951891135697131",
+      "author": "92digitalartArt",
+      "title": "叛逆浣熊赛车手漂移怪兽卡车（3D 动画电影风）",
+      "model": "GPT Image 2.6",
+      "group": "GPT Image",
+      "note": "",
+      "needsReference": false,
+      "time": "11-13 02:48",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/92digitalartArt_2120951891135697131_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "A rebellious raccoon racer wearing oversized goggles and a bright yellow racing suit, drifting a customized monster truck across a surreal pink desert filled with giant crystal formations and floating cacti, , vibrant colors, stylized 3D animated movie aesthetic, exaggerated cartoon proportions, glossy plastic textures, playful character design, candy-colored gradients, dynamic fisheye perspective, whimsical arcade racing atmosphere, spectacular clouds of turquoise dust, high-energy composition."
+    },
+    {
+      "id": "2120923212850581859",
+      "author": "Tuseefali47516",
+      "title": "雾中高地上骑黑马的暗黑奇幻战士",
+      "model": "GPT Image 2.5",
+      "group": "GPT Image",
+      "note": "",
+      "needsReference": false,
+      "time": "11-13 00:54",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/Tuseefali47516_2120923212850581859_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "A dark fantasy warrior riding a massive black warhorse through a foggy, desolate highland. The rider wears an elaborate spiked horned helmet with multiple sharp black spikes, a tattered dark cloak and fur mantle, heavy layered black armor."
+    },
+    {
+      "id": "2120917575131419071",
+      "author": "timedoctor_nft",
+      "title": "JSON 结构化人像：Sydney Sweeney 红色超现实荷兰角构图",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "",
+      "needsReference": false,
+      "time": "11-13 00:32",
+      "likes": 0,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-13/timedoctor_nft_2120917575131419071_1.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 596
+        },
+        {
+          "local": "images/2026-11-13/timedoctor_nft_2120917575131419071_2.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 596
+        },
+        {
+          "local": "images/2026-11-13/timedoctor_nft_2120917575131419071_3.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 596
+        },
+        {
+          "local": "images/2026-11-13/timedoctor_nft_2120917575131419071_4.jpg",
+          "remote": "",
+          "width": 480,
+          "height": 596
+        }
+      ],
+      "prompt": "{\n  \"vibe_title_en\": \"Crimson Surreal Surrender\",\n  \"master_prompt\": \"The Vertigo Dutch Angle: A severe 25-degree tilted horizon line creates immediate spatial instability. Captured on a Medium Format Hasselblad H6D-100c with a 50mm f/1.4 prime lens. The Protagonist is caught in 'The Ethereal Surrender'—eyes closed, head tilted back, radiating calm, weightless vulnerability amidst extreme physical chaos. They wear an impossibly structured, voluminous ribbed crimson architectural coat with origami-like folds. Dark, twisted wooden branches and deep red roses organically sprout from the garment's collar, wrapping gently around the neck like a living organic sculpture. Setting: A wildly dense, claustrophobic luthier's workshop that acts as a 'Hoarder's Archive.' The environment is intensely busy, entirely choked with hundreds of stacked and shattered red violins, mountains of decaying sheet music, and cascades of fresh red apples. Photographic Surrealism: Levitating red apples and broken violin bows are suspended in mid-air by taut, barely visible tension wires, creating extreme foreground occlusion dangerously close to the blurred lens. Lighting: Harsh, directional cinematic rim lighting slices through thick, swirling volumetric dust motes, while a highly specific, soft ethereal diffused bounce light illuminates the delicate skin pores and completely relaxed facial features of the protagonist. Rich analog Kodak Portra 400 film stock, authentic heavy grain, profound chiaroscuro shadows, tactile physical realism. NO NEON.\",\n  \"meta\": {\n    \"intent\": \"Create a hyper-realistic, surreal fashion editorial using practical-effect illusions and extremely dense environmental storytelling.\",\n    \"priorities\": \"Surrealism translated to physical textures, extreme dense clutter, Dutch angle framing, serene subject pose.\",\n    \"device_profile\": \"Hasselblad H6D-100c, 50mm lens, Analog Film aesthetic\"\n  },\n  \"frame\": {\n    \"aspect\": \"Portrait 4:5\",\n    \"composition\": \"Claustrophobic, foreground-heavy, extreme foreground occlusion with suspended apples and violin bows\",\n    \"layout\": \"Subject centered but heavily tilted, framed by chaotic suspended objects\",\n    \"camera_angle\": \"The Vertigo Dutch Angle, significantly tilted from the horizon to create psychological imbalance\",\n    \"tilt_roll_degrees\": \"25 degrees\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist, an ethereal archetype\",\n    \"demographics\": \"Universal adult\",\n    \"face\": \"Serene, hyper-detailed skin pores, soft features, completely relaxed muscles\",\n    \"hair\": \"Flowing, slightly disheveled, blending into the surrounding twisting branches\",\n    \"body\": \"Relaxed, weightless posture, draped in heavy structured fabric\",\n    \"expression\": \"The Ethereal Surrender: peaceful, dreamlike submission, calm vulnerability\",\n    \"pose\": \"Head tilted back, eyes closed, neck exposed, radiating absolute stillness\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Impossibly structured architectural coat with origami-like folds\",\n        \"material\": \"Heavy ribbed crimson wool\",\n        \"color\": \"Deep crimson red\",\n        \"fit\": \"Voluminous, sculptural and rigid\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Living dark wooden branches and red roses sprouting from the collar\",\n        \"color\": \"Dark brown and blood red\",\n        \"material\": \"Organic wood and velvet petals\",\n        \"brand_style\": \"Avant-Garde High-Fashion Surrealism\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"A claustrophobic, wildly dense luthier's workshop and organic archive\",\n    \"surfaces\": \"Weathered wood, shattered violin varnish, piles of decaying paper, organic vines\",\n    \"depth\": \"Extreme depth complexity. Foreground occlusion with suspended items, dense midground, completely opaque cluttered background\",\n    \"atmosphere\": \"Thick swirling dust motes, heavy air, volumetric light rays slicing through the chaos\",\n    \"lens_interaction\": \"Foreground elements like apples and strings dangerously close to the lens, heavily blurred with creamy bokeh\"\n  },\n  \"lighting\": {\n    \"key\": \"Soft, ethereal diffused key light specifically on the face for delicate texture\",\n    \"fill\": \"Deep, rich Rembrandt shadows in the recesses of the dense clutter\",\n    \"rim\": \"Harsh, directional cinematic rim light slicing through the dust from the side\",\n    \"shadows\": \"High-contrast chiaroscuro, pitch-black deep shadows\",\n    \"color_temperature\": \"Warm, dramatic tungsten mixed with muted natural light (3200K - 4500K)\",\n    \"sensor_flare\": \"Subtle warm halation around the directional light leaks\"\n  },\n  \"camera\": {\n    \"lens_type\": \"Prime portrait lens\",\n    \"focal_length\": \"50mm\",\n    \"aperture\": \"f/1.4\",\n    \"focus\": \"Tack-sharp on the subject's eyelashes and skin pores\",\n    \"sensor_format\": \"Medium Format\",\n    \"perspective_distortion\": \"Disorienting tilt due to extreme Dutch Angle, creating a sense of falling\"\n  },\n  \"post_processing\": {\n    \"color\": \"Rich, analog Kodak Portra 400 palette. Deep crimson reds, earthy browns, and muted greys\",\n    \"tonality\": \"High contrast, cinematic film emulation, deep rich blacks\",\n    \"texture\": \"Heavy, authentic 35mm film grain, tactile physical presence\",\n    \"digital_sharpening\": \"None. Pure optical sharpness\",\n    \"chromatic_aberration\": \"Slight fringe on the extreme edges of the tilted frame\"\n  },\n  \"negative_specifications\": [\n    \"neon\",\n    \"cyberpunk\",\n    \"empty room\",\n    \"minimalist\",\n    \"clean modern office\",\n    \"flat lighting\",\n    \"digital painting\",\n    \"3d render\",\n    \"cartoon\",\n    \"text\",\n    \"watermark\",\n    \"cliché library\",\n    \"smooth plastic skin\"\n  ]\n}"
+    }
+  ]
+}
