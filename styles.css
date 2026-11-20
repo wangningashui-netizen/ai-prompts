@@ -426,7 +426,8 @@ select {
 }
 
 .badge,
-.tag-ref {
+.tag-ref,
+.tag-compare {
   display: inline;
   min-width: 0;
   max-width: 100%;
@@ -460,10 +461,25 @@ select {
 .badge[data-group="Midjourney"] .dot { background: #7a5cbf; }
 .badge[data-group="Seedream"] .dot { background: #3f8f72; }
 .badge[data-group="多模型对比"] .dot { background: #2a8f9a; }
+.badge[data-group="Seedance"] .dot { background: #3f8f72; }
+.badge[data-group="Kling"] .dot { background: #3d74b8; }
+.badge[data-group="Wan"] .dot { background: #2a8f9a; }
+.badge[data-group="Muse"] .dot { background: #7a5cbf; }
+.badge[data-group="Google"] .dot { background: #c6a03a; }
+.badge[data-group="FLUX"] .dot { background: #c46a3a; }
 
 .tag-ref {
   background: color-mix(in srgb, var(--accent) 14%, transparent);
   color: var(--accent);
+}
+
+.tag-compare {
+  background: color-mix(in srgb, #2a8f9a 16%, transparent);
+  color: #1a6c74;
+}
+
+@media (prefers-color-scheme: dark) {
+  .tag-compare { color: #9adbe3; }
 }
 
 .note {
@@ -918,5 +934,161 @@ select {
   *, *::before, *::after {
     transition: none !important;
     scroll-behavior: auto !important;
+  }
+}
+
+.section-switch {
+  display: flex;
+  flex: none;
+  align-self: center;
+  padding: 3px;
+  border-radius: 999px;
+  background: var(--chip);
+}
+
+.section-switch a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 36px;
+  padding: 0 16px;
+  border-radius: 999px;
+  color: var(--ink-soft);
+  font-size: 14px;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.section-switch a[aria-current="page"],
+html[data-view="video"] .section-switch a[data-view="video"] {
+  background: var(--card);
+  color: var(--ink);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+}
+
+html[data-view="video"] .section-switch a[data-view="image"] {
+  background: transparent;
+  color: var(--ink-soft);
+  box-shadow: none;
+}
+
+.player {
+  position: relative;
+  background: #141311;
+}
+
+.player video {
+  display: block;
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+  background: #141311;
+  object-fit: contain;
+}
+
+.card:has(.player.is-playing) {
+  border-color: color-mix(in srgb, var(--accent) 55%, var(--line));
+}
+
+.count-pill.is-top {
+  top: 10px;
+  bottom: auto;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.play-hit {
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 44px;
+  display: grid;
+  place-items: center;
+  padding: 0;
+  border: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.05), transparent 36%);
+  color: #fff;
+}
+
+.player.is-playing .play-hit { display: none; }
+
+.play-glyph {
+  width: 58px;
+  height: 58px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: rgba(18, 14, 10, 0.55);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+}
+
+.play-glyph::before {
+  content: "";
+  display: block;
+  margin-left: 4px;
+  border-style: solid;
+  border-width: 10px 0 10px 16px;
+  border-color: transparent transparent transparent #fff;
+}
+
+.clips {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 8px 10px 0;
+  scrollbar-width: none;
+}
+
+.clips::-webkit-scrollbar { display: none; }
+
+.clip-btn {
+  flex: none;
+  width: 116px;
+  padding: 0 0 6px;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  background: var(--prompt);
+  overflow: hidden;
+  text-align: left;
+  color: var(--ink);
+}
+
+.clip-btn[aria-selected="true"] { border-color: var(--accent); }
+
+.clip-btn img {
+  display: block;
+  width: 100%;
+  height: 64px;
+  object-fit: cover;
+  background: #141311;
+}
+
+.clip-btn span {
+  display: block;
+  padding: 4px 6px 0;
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+@media (max-width: 860px) and (min-width: 681px) {
+  .mast-inner { flex-wrap: wrap; }
+  .section-switch { flex-basis: 100%; }
+}
+
+@media (max-width: 680px) {
+  .section-switch {
+    grid-column: 1 / -1;
+    width: 100%;
+    margin: 0;
+  }
+
+  .section-switch a {
+    flex: 1;
+    min-height: 40px;
+    padding: 0 8px;
+    letter-spacing: 0;
   }
 }

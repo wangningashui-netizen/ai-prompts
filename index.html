@@ -6,16 +6,22 @@
   <meta name="color-scheme" content="light dark">
   <meta name="theme-color" content="#f3efe7" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#12110f" media="(prefers-color-scheme: dark)">
-  <meta name="description" content="每日整理来自 X 的 AI 图像生成提示词，可按模型筛选、搜索并一键复制。">
+  <meta name="description" content="每日整理来自 X 的 AI 图像与视频生成提示词，可按模型筛选、搜索并一键复制。">
   <meta name="application-name" content="如水如画">
   <meta property="og:title" content="如水如画 · AI 图像提示词日报">
-  <meta property="og:description" content="每日整理来自 X 的 AI 图像生成提示词，可按模型筛选、搜索并一键复制。">
+  <meta property="og:description" content="每日整理来自 X 的 AI 图像与视频生成提示词，可按模型筛选、搜索并一键复制。">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="zh_CN">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="如水如画 · AI 图像提示词日报">
-  <meta name="twitter:description" content="每日整理来自 X 的 AI 图像生成提示词，可按模型筛选、搜索并一键复制。">
+  <meta name="twitter:description" content="每日整理来自 X 的 AI 图像与视频生成提示词，可按模型筛选、搜索并一键复制。">
   <title>如水如画 · AI 图像提示词日报</title>
+  <script>
+    if (new URLSearchParams(location.search).get("view") === "video") {
+      document.documentElement.dataset.view = "video";
+      document.title = "如水如画 · AI 视频提示词日报";
+    }
+  </script>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -40,6 +46,10 @@
         </div>
       </div>
       <button type="button" class="filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="mast-side chrome-panel">筛选</button>
+      <nav class="section-switch" aria-label="内容分区">
+        <a href="./" data-view="image" aria-current="page">图片提示词</a>
+        <a href="./?view=video" data-view="video">视频提示词</a>
+      </nav>
       <div class="mast-side" id="mast-side">
         <label class="date-label" for="date">跳到</label>
         <select id="date" aria-label="跳到某一天"></select>
@@ -114,5 +124,6 @@
     <p class="status wrap">请启用 JavaScript 以浏览每日提示词。</p>
   </noscript>
   <script src="app.js" defer></script>
+  <script src="videos.js" defer></script>
 </body>
 </html>
