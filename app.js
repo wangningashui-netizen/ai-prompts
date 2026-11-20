@@ -1087,5 +1087,8 @@
     }
   }
 
+  // Video prompts are a separate dataset and renderer (videos.js).
+  // ?view=video must not run the image loader or rewrite the image URL contract.
+  if (new URLSearchParams(location.search).get("view") === "video") return;
   init();
 })();
