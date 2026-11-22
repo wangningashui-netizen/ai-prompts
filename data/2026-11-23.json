@@ -1,0 +1,589 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-23",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "2124442768584089682",
+      "author": "_a5_s_",
+      "title": "角色「休日早上 7 点」生活照",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "日文提示词在作者回复里；先把提示词发给 ChatGPT，再上传角色图片。",
+      "needsReference": true,
+      "time": "11-22 18:00",
+      "likes": 275,
+      "bookmarks": 280,
+      "images": [
+        {
+          "local": "images/2026-11-23/_a5_s__2124442768584089682_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXZEGqIaIAAWUVK.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/_a5_s__2124442768584089682_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXZEGqJaUAAyBEQ.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/_a5_s__2124442768584089682_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXZEGqIawAAe-Fj.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/_a5_s__2124442768584089682_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXZEGqIaYAArbzM.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/_a5_s__2124442768584089682_5.jpg",
+          "remote": "https://pbs.twimg.com/media/HXZEGqBakAEda34.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/_a5_s__2124442768584089682_6.jpg",
+          "remote": "https://pbs.twimg.com/media/HXZEGqHb0AA_3ej.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/_a5_s__2124442768584089682_7.jpg",
+          "remote": "https://pbs.twimg.com/media/HXZEGqIaEAAUao2.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/_a5_s__2124442768584089682_8.jpg",
+          "remote": "https://pbs.twimg.com/media/HXZEGqJaIAAE0x8.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "【人物分析型・オリジナル画像生成｜キャラクター×休日AM7:00】\n\nこのプロンプトを受信したら、まず「キャラクター画像（複数枚）を送ってください」と要求する。キャラクター画像を受信したら、追加質問をせず、以下の指示に従って自動的に画像を生成する。\n\n【Concept】\nキャラクターそれぞれの個性や性格、世界観から、休日のAM7:00に何をして過ごしているのかを想像し、その何気ない日常の一瞬を一枚のイラストとして描く。単なる朝の風景ではなく、「このキャラクターなら、休日の朝7時にこんなことをしていそう」と自然に納得できる、そのキャラクターならではの生活を表現する。\n\n【01｜キャラクター分析】\n入力されたキャラクター画像を総合的に分析し、外見、表情、雰囲気、服装、装飾品、種族、身体的特徴、世界観などからキャラクターの個性を読み取る。キャラクターの性格や価値観、生活習慣、趣味、行動傾向などを推測し、休日の朝の過ごし方へ反映する。複数の画像がある場合は、同一キャラクターの特徴を統合して判断する。\n\n【02｜休日のAM7:00を考案する】\nキャラクターの個性をもとに、休日の朝7時にしていそうな行動や状況を自律的に考案する。\nまだ眠っている、二度寝している、すでに身支度を整えて朝食を食べている、朝の運動をしている、趣味に没頭している、徹夜明けを迎えているなど、幅広い可能性から最もキャラクターらしいシチュエーションを選択する。一般的なイメージに当てはめず、意外性や独特の習慣、少し変わった行動なども積極的に取り入れる。典型的な朝の行動だけに偏らず、行動・場所・状況・演出の組み合わせに意外性を持たせる。安易な寝起きや朝食の描写に逃げず、そのキャラクターならではの具体的な日常を優先する。複数キャラクターの場合は、それぞれ異なるシチュエーションを設定し、行動や状況が似通わないようにする。現代的な生活に無理やり当てはめず、ファンタジーなどの世界観を持つキャラクターには、その世界に自然に馴染む朝の過ごし方を考案する。\n\n【03｜キャラクターデザインの維持と変更】\n元のキャラクターの顔立ち、髪型、髪色、目、体格、種族、身体的特徴、固有の装飾品など、本人と認識できる重要な特徴を維持する。表情は朝の状況や行動に自然に合ったものへ変更し、ポーズはその場面の行動が伝わる自然な姿勢とする。服装も休日の朝にふさわしいものへ変更し、パジャマ、部屋着、運動着など、シチュエーションとキャラクターの個性に合わせて選択する。表情・ポーズ・服装の3要素は必ず変更する。元画像の表情・ポーズ・服装をそのまま再現しない。変更後もキャラクター本来の魅力と世界観を損なわないこと。腕・脚・手指・関節・胴体のつながりや本数を正確に描写し、自然な骨格と身体構造を維持する。欠損・増殖・融合・不自然な変形を防ぐ。耳・尻尾・翼・角などの種族固有の特徴も正確に維持し、動作や姿勢に自然に連動させる。\n\n【04｜構図とシチュエーション】\nキャラクターの休日の一瞬を偶然切り取ったような、自然な日常スナップとして描写する。\nカメラ目線は禁止。顔や視線はこちらに向けず、カメラの存在を意識させない。撮影用のポーズではなく、何かをしている最中の自然な姿を描く。\n表情、視線、手足の動き、身体の重心を一つの行動として連動させる。動作の途中にある自然な瞬間を描き、状況と無関係な表情や不自然なポーズを避ける。キャラクターの行動が明確に伝わる構図とし、家具、持ち物、食器、衣類、趣味の道具などにも個性や生活習慣を反映する。整頓された空間や散らかった部屋、使い込まれた道具などを適切に配置し、背景や小物からもキャラクターらしさが伝わるようにする。\n\n【05｜朝7時の演出】\n休日の朝7時ならではの空気感を表現する。\n窓から差し込む柔らかな朝日、朝焼け、室内の自然光、早朝の街並みなど、シチュエーションに合わせた光と環境を選択する。徹夜明けなどの場合は、朝日が差し込む薄暗い部屋など、行動と時間帯の対比も活用する。時間帯が朝7時であることが視覚的に伝わるようにする。\n\n【06｜ビジュアル表現】\n画像比率は必ず3:4の縦長。高品質で繊細なアニメイラストとする。キャラクターの魅力を引き立てる美しい色彩、自然な陰影、丁寧な描き込み、背景との調和を重視する。キャラクターを明確な主役としながら、生活空間や周囲の環境も丁寧に描写する。背景や小物はシチュエーションを補完する範囲に留め、キャラクターの視認性と存在感を最優先する。情報を詰め込みすぎず、主役・背景・余白のバランスを整える。過度な装飾を避け、日常の一瞬として自然で完成度の高い作品に仕上げる。\n\n【07｜文字情報】\n画像の左上に「休日AM7:00」と正確に表示する。文字はイラストの世界観に馴染む洗練されたデザインとし、読みやすさを確保する。指定していない文字は追加しない。"
+    },
+    {
+      "id": "2124458060265766923",
+      "author": "chichipuijaian",
+      "title": "2015 年 iPhone 6 质感的卧室抓拍",
+      "model": "Grok Imagine",
+      "group": "Grok",
+      "note": "日文提示词，来自图片 ALT；需上传人物参考图，先用引用帖做初图。",
+      "needsReference": true,
+      "time": "11-22 19:00",
+      "likes": 150,
+      "bookmarks": 158,
+      "images": [
+        {
+          "local": "images/2026-11-23/chichipuijaian_2124458060265766923_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXuXV4ebQAEUKBa.jpg?name=large",
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "縦9:16。2015年頃のiPhone 6背面8MPカメラで撮影した無加工実写写真。24歳の成人女性。持ち込み画像の顔立ち、目の色、髪型、髪色、長さ、前髪、分け目、毛流れ、体格、表情以外の特徴を完全維持。アニメ調にしない。\n\n昼間の明るい寝室。白い壁、大きな窓、左端に暗いカーテン。強い自然光で背景が白飛びしている。\n\n女性はカメラの正面に立ち、上半身を少し前傾。顔をわずかに傾け、目を細め、頬をほんのり赤らめ、唇を軽く緩める。口角を少し上げ、恥ずかしそうに微笑みながらうっとりとした表情。\n\n最重要は男性の一人称POV。カメラを持つ男性の両腕が画面下端の左右から上方向へ伸びている。男性の右手は画面左下から、左手は画面右下から入る。両肘と前腕の一部は画面外。両手は女性の胸元の高さにあり、指先を上向きに揃える。\n\n男性の両手は胸の左右に下から添え、軽く支える。胸元は完全に覆い、透けや隙間を作らない。女性本人の両腕は自然に下ろす。\n\nカメラは男性の目線より少し低い位置から正面撮影。顔を上部中央、男性の両手を中央、腹部を下部に配置。頭頂部からウエストまで収める。画面下から伸びる両腕の遠近感を最優先。\n\niPhone 6特有の29mm広角、8MPの柔らかな画質、狭いダイナミックレンジ、強い白飛び、暖色の色ムラ、暗部ノイズ、わずかな手ブレ。美肌補正、CG光沢、HDR、映画風照明は禁止。SFW。"
+    },
+    {
+      "id": "2124347804785271268",
+      "author": "chichipuijaian",
+      "title": "写ルンです感的暖光卧室写真",
+      "model": "Grok Imagine",
+      "group": "Grok",
+      "note": "日文提示词，来自图片 ALT；需上传人物参考图，先用引用帖做初图。",
+      "needsReference": true,
+      "time": "11-22 11:42",
+      "likes": 114,
+      "bookmarks": 116,
+      "images": [
+        {
+          "local": "images/2026-11-23/chichipuijaian_2124347804785271268_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXszEWtboAAFJJX.jpg?name=large",
+          "width": 480,
+          "height": 439
+        }
+      ],
+      "prompt": "横長16:9。写ルンですで撮影したようなフォトリアルな無加工実写写真。24歳の成人女性。持ち込み画像の顔立ち、目の色、髪型、髪色、長さ、前髪、分け目、毛流れ、毛量、体格、表情を完全維持。アニメ調にしない。  暖色の室内照明が灯るシンプルな寝室。背景はクリーム色の壁と木製家具。  女性はカメラのすぐ前に立ち、上半身を大きく前傾させる。頭を画面左上へ傾け、顎を軽く引き、目を半分閉じた穏やかな表情。髪は重力に従って画面左側へ自然に垂れる。  右肘を外側へ曲げ、右前腕を胸元の正面で斜め水平に配置。右手のひらを左肩付近に添え、指を自然に揃える。肩と腕の位置関係、前傾角度を元画像に合わせる。  胸全体を完全に覆い、右前腕上から重ねる。肩、鎖骨、首元、腕は自然に見える。  最重要はカメラアングル。カメラを胸より低い位置に置き、約35度上向きに撮影。身体が手前に大きく、顔が奥に小さく写る強い遠近感。顔を左上、曲げた腕を中央上部、上半身を中央から下部に配置。  写ルンです特有の近距離直射フラッシュ。暖色の色かぶり、軽い白飛び、粗いフィルム粒子、自然な肌の毛穴と陰影。美肌補正、CG光沢、HDR、人工的なボケ、映画風照明は禁止。SFW。"
+    },
+    {
+      "id": "2124276683578458602",
+      "author": "EvaGlitchAI",
+      "title": "真实木桌上的 D&D 跑团抓拍",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "提示词在作者第一条回复里（本周 Prompt Meet 游戏主题）。",
+      "needsReference": true,
+      "time": "11-22 07:00",
+      "likes": 90,
+      "bookmarks": 14,
+      "images": [
+        {
+          "local": "images/2026-11-23/EvaGlitchAI_2124276683578458602_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXpw6TCbcAETxjj.jpg?name=large",
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "Generate one candid 16:9 photograph of a D&D session in progress at a real wooden table. The only miniature figures in the photograph are the adventurers defined by the character sheets attached to this request.\n\nCAST LOCK — Before planning the scene, count the actual attached character-sheet files. That count is the exact number of physical miniatures to render. Each file depicts one distinct adult character; front, side, back, portrait and outfit panels in that file are all views of the same person. Read them together for identity, never as separate subjects. Bind each uploaded file to one miniature on one round base. With a single attachment, render a single miniature and a single base; leave the rest of the map open. With multiple attachments (up to five), use each file once. The roster ends at the last attached file. Empty spaces stay empty. Different poses, costumes or classes never justify another copy of a character.\n\nDESIGN — Preserve each character's face, hair, coloring, build, species and distinctive markings from their own sheet. Independently choose one D&D class per character based on their style and attitude. Dress each in flattering, sexy, clothes-on adventuring gear tailored to that class. Give each mini one clear silhouette and its own gear; do not borrow features across sheets. The refs define identity, not the output layout. Make the figures look like small, hand-painted tabletop resin miniatures with solid bases.\n\nMID-TURN — Shoot across the table from a seated player's three-quarter view. Show the gridded battle map lying flat on the wood, rolled polyhedral dice and a marked-up character sheet near the edge. Catch a player's thumb and forefinger sliding one miniature by its base into an adjacent square. Any other minis occupy different squares at different depths, turned toward the route ahead instead of the camera. Leave enough space around each base to count it. Use warm room light and natural shadows. Terrain is inanimate. No lineup, inset views, duplicate minis, monsters, standees or extra figures."
+    },
+    {
+      "id": "2124289015327359026",
+      "author": "alicehan_ai",
+      "title": "电音舞者偶像写真（JSON 提示词）",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "JSON 结构提示词，在作者回复里；通过 AI Studio 生成。",
+      "needsReference": false,
+      "time": "11-22 07:49",
+      "likes": 48,
+      "bookmarks": 37,
+      "images": [
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124289015327359026_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXr9ifUbMAAJX7G.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124289015327359026_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXr9ieaasAAGAQR.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124289015327359026_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXr9ieabUAA3Htk.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124289015327359026_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXr9ieXb0AAhksP.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 19-year-old adult Japanese electro-pop dancer, 158 cm tall, with a youthful heart-shaped face with natural facial proportions and subtle asymmetry, expressive eyes of natural size relative to her face with visible eyelid folds, gently defined cheeks, a softly tapered jawline, naturally defined lips, a playful mischievous smile that lifts her cheeks and forms small creases beside her eyes, subtle skin-tone variation, a sleek dark chocolate-brown bob, and a compact curvy athletic hourglass figure with a full bust and rounded dancer-trained hips (measurements: 90-58-93 cm)\",\n    \"hair\": \"glossy dark chocolate-brown chin-length bob with slightly messy natural strands framing forehead and temples\",\n    \"expression\": \"playful mischievous smile subtly lifting her cheeks and creating delicate creases beside her expressive dark eyes, with lips parted slightly\",\n    \"pose\": \"standing full-length in a straight-on eye-level stance with weight shifted slightly onto her left hip, her right hand resting lightly against her cinched corset waist while her left arm hangs naturally at her side with fingers gently relaxed\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"A revealing boudoir maid ensemble featuring an ultra-cropped sheer puff-sleeve blouse unbuttoned into an ultra-plunging neckline baring sculpted cleavage, an underbust waist-cinching corset with exposed boning channels that aggressively lifts the bustline while exposing the midriff, and a micro-mini ruffled apron skirt cut high across the hips to bare the upper thighs and garter lines.\",\n    \"material\": \"Luminous silk satin, sheer floral Chantilly lace, translucent illusion mesh, and elasticized satin ribbon trim.\",\n    \"color\": \"burgundy, carried by the luminous silk satin corset and micro-mini apron accents\",\n    \"footwear\": \"glossy white chunky block-heel Mary Jane platform shoes with silver buckles\",\n    \"accessories\": \"frilled navy-and-white lace maid headband with pastel-blue satin side bows, sheer white Chantilly lace wrist cuffs, and black sheer thigh-high stockings with wide scalloped floral lace tops attached to elastic satin garter straps\"\n  },\n  \"scene\": {\n    \"atmosphere\": \"Clean, luminous, and elegant high-key studio environment with a soft, pristine photographic finish\",\n    \"background\": \"Softly draped, seamless white fabric studio backdrop cascading gently onto a smooth matching white studio floor with soft contact shadows\",\n    \"camera\": \"Full-length vertical eye-level portrait (9:16 capture) framing the standing subject head-to-toe from a straight-on frontal perspective with crisp optical focus and natural depth of field\",\n    \"composition\": \"Centered full-body vertical 9:16 framing with balanced headroom and clear floor perspective capturing complete silhouette and footwear\",\n    \"grade\": \"Neutral high-key studio color balance with gradual highlight roll-off, transparent midtones, and rich, deep shadows retaining textural clarity\",\n    \"lighting\": \"Bright, even, diffused high-key studio softbox lighting producing gentle wrap-around illumination, natural skin specular roll-off, and subtle, soft-edged contact floor shadows\",\n    \"location\": \"Professional high-key photography studio with seamless white drapery\"\n  },\n  \"scene_text\": {\n    \"archetype\": \"embroidery\",\n    \"carrier\": \"small tonal cursive garment embroidery\",\n    \"placement\": \"beside the cuff seam in a small monogram area\",\n    \"text\": \"alicehan_ai\"\n  },\n  \"compiled_prompt\": \"A full-length vertical photograph captures an exceptionally beautiful 19-year-old adult Japanese electro-pop dancer, 158 cm tall, standing in a clean, luminous high-key photography studio. The camera is positioned at eye level for a straight-on frontal view, framing her head-to-toe with one figure centered and filling the height of the picture in a tall vertical frame. She stands with her weight shifted slightly onto her left hip, her right hand resting lightly against her cinched corset waist while her left arm hangs naturally at her side with fingers gently relaxed. Her youthful heart-shaped face displays natural facial proportions, subtle asymmetry, and a playful mischievous smile subtly lifting her cheeks and creating delicate creases beside her expressive dark eyes, with lips parted slightly. Her glossy dark chocolate-brown chin-length bob features slightly messy natural strands framing forehead and temples, exhibiting realistic skin texture with subtle pores, natural organic glow and micro details, and authentic skin undertones under pristine lighting.\\n\\nShe wears a revealing boudoir maid ensemble featuring an ultra-cropped sheer puff-sleeve blouse unbuttoned into an ultra-plunging neckline baring sculpted cleavage, an underbust waist-cinching corset with exposed boning channels that aggressively lifts the bustline while exposing the midriff, and a micro-mini ruffled apron skirt cut high across the hips to bare the upper thighs and garter lines. The tailored pieces are constructed from luminous silk satin, sheer floral Chantilly lace, translucent illusion mesh, and elasticized satin ribbon trim. The ensemble is rendered in burgundy, carried by the luminous silk satin corset and micro-mini apron accents, accompanied by a frilled navy-and-white lace maid headband with pastel-blue satin side bows, sheer white Chantilly lace wrist cuffs, black sheer thigh-high stockings with wide scalloped floral lace tops attached to elastic satin garter straps, and glossy white chunky block-heel Mary Jane platform shoes with silver buckles. Delicate cursive tonal garment embroidery reading \\\"alicehan_ai\\\" is subtly placed beside the cuff seam in a small monogram area.\\n\\nThe seamless backdrop consists of softly draped white fabric cascading gently onto a smooth matching white studio floor. Bright, even, diffused high-key studio softbox lighting provides wrap-around illumination, revealing gentle specular roll-off along the burgundy silk satin, distinct tactile lace weave, and soft-edged contact shadows on the floor without harsh clipping or flat airbrushing.\"\n}"
+    },
+    {
+      "id": "2124276672748814485",
+      "author": "CandyTravelight",
+      "title": "同一人同一套运动装的 4 张贴地仰拍",
+      "model": "GPT Image",
+      "group": "GPT Image",
+      "note": "中文提示词，一次出 4 张同人同装。",
+      "needsReference": false,
+      "time": "11-22 07:00",
+      "likes": 51,
+      "bookmarks": 11,
+      "images": [
+        {
+          "local": "images/2026-11-23/CandyTravelight_2124276672748814485_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXrZCgbXYAERcja.jpg?name=large",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-23/CandyTravelight_2124276672748814485_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXrZDgOW0AA4rRJ.jpg?name=large",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-23/CandyTravelight_2124276672748814485_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXrZEibXYAAmL8H.jpg?name=large",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-23/CandyTravelight_2124276672748814485_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXrZFi4XUAAqC8v.jpg?name=large",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "生成一组4张图片，保证是同一个人，同一套穿着，一位20岁以上的年轻亚洲运动美女，五官精致自然，发型：精致齐耳短发；身材：修长、匀称、极致细腰、极致腰臀比，着装：浅粉色修身运动拉链上衣、墨绿色高腰紧身瑜伽裤，搭配浅灰色运动鞋（柠檬黄点缀），提现曼妙身材。\n姿势：1、自然深蹲在手机镜头前，双膝并拢朝向镜头，上半身微微前倾，一只手主动伸向镜头，仿佛正在拿起手机，另一只手自然支撑身体，眼神直视镜头，表情放松自然。2、人物自然站立，凸显修长笔直的大长腿曲线，低头看镜头。3、背对镜头站立、双腿并拢，右手伸出举过头顶比出胜利姿势，左手自然垂下，极致的身材曲线。4、侧身站立，一只手托着下巴，头部微微下倾，腿部自然摆放，凸显修长的大长腿和极致的身材曲线。\n摄影视角： 手机贴近地面拍摄，极低机位仰拍，超广角近距离透视，人物面部和上半身靠近镜头，腿部产生明显的透视纵深感，人物位于画面中央。\n环境： 晴朗清晨的城市楼顶天台，蓝天、城市天际线、护栏作为背景，自然日光照明。\n画面风格： 高度真实的手机随手拍摄影，真实皮肤纹理，自然面部细节，真实布料褶皱，生活化抓拍质感，轻微镜头畸变，真实光影，避免过度磨皮和塑料质感。\n竖屏9:16，高清写实摄影。\n负面提示词：\n动漫风格，3D渲染，AI塑料脸，过度磨皮，假皮肤，僵硬表情，畸形手指，多余肢体，错误人体结构，过度锐化，棚拍质感，人物偏离画面中心，文字，水印。"
+    },
+    {
+      "id": "2124527712404713954",
+      "author": "AIjee_tpe",
+      "title": "婚纱时尚大片：四模型对比",
+      "model": "GPT2.6 / Krea2+ LoRA / Grok-Image 2.0 / Moss Image",
+      "group": "多模型对比",
+      "note": "四张图依次对应四个模型；后两张额外用了参考图。提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-22 23:37",
+      "likes": 43,
+      "bookmarks": 14,
+      "images": [
+        {
+          "local": "images/2026-11-23/AIjee_tpe_2124527712404713954_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXvWrw3bUAAOf4c.jpg?name=large",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-23/AIjee_tpe_2124527712404713954_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXvWrwyawAAN9vk.jpg?name=large",
+          "width": 480,
+          "height": 851
+        },
+        {
+          "local": "images/2026-11-23/AIjee_tpe_2124527712404713954_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXvWrw2bUAAwEaP.jpg?name=large",
+          "width": 480,
+          "height": 715
+        },
+        {
+          "local": "images/2026-11-23/AIjee_tpe_2124527712404713954_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXvWrwyawAEDf2e.jpg?name=large",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "## **[Subject Description]**\n\nA highly detailed, photorealistic full-body bridal-inspired fashion editorial portrait of an adult East Asian woman with fair, smooth skin, naturally full breasts,S-shaped female figure, a delicate oval face, large expressive dark eyes, and refined feminine features. She has long, glossy black hair styled with straight full bangs and softly curled ends, with a small white floral hair ornament and a delicate white bridal veil attached near the crown. Her makeup is elegant and refined, featuring subtle eyeliner, softly flushed cheeks, and natural rosy-pink lips. She has a calm, gentle expression and looks directly at the camera.\n\nShe wears an elaborate white bridal-inspired fantasy costume featuring a structured strapless sweetheart-neckline corset bodice with delicate lace embroidery, intricate floral embellishments, subtle silver detailing, and a decorative jeweled centerpiece at the bust. A delicate lace choker collar with sparkling embellishments encircles her neck. The dress has voluminous white puff sleeves positioned around the upper arms, a fitted corset waist, and a short layered ruffled skirt decorated with intricate lace and embroidered floral patterns.\n\nA dramatic, translucent white overskirt with extensive flowing fabric, layered ruffles, and delicate lace-trimmed edges extends from the waist. She holds both sides of the sheer fabric outward with her arms extended, creating a wide, elegant, wing-like silhouette.\n\nShe wears white lace-top thigh-high stockings with intricate floral bands and diamond-pattern fishnet sections, paired with sparkling silver platform high heels featuring glittering surfaces and thick platforms.\n\nHer pose is elegant and symmetrical, standing upright with one leg slightly crossed in front of the other, both arms extended sideways while gracefully lifting the flowing overskirt.\n\nShe possesses the best head-to-body ratio, naturally full breasts,a perfect, curvaceous, S-shaped female figure,Hourglass figure,long legs with perfect leg lines, and a slender waist, perfect foots,perfect foot lines\n\n## **[Scene / Background]**\n\nAn elaborate indoor wedding-themed photography studio with a luxurious romantic fantasy atmosphere. The background features large, layered white and deep navy-blue fabric drapes arranged across the ceiling and walls, creating flowing theatrical arches and elegant folds.\n\nDelicate hanging crystal bead strands descend from the ceiling at different heights. A decorative white classical column with an ornate capital stands on the right side, supporting an arrangement of white flowers and foliage.\n\nThe lower corners of the scene feature floral arrangements in white, cream, and muted blue tones, along with decorative ivory candles and elegant vintage-style candleholders. The floor is highly polished, dark silver-gray reflective material, mirroring the subject, flowers, candles, and surrounding decorations.\n\n## **[Light / Atmosphere]**\n\nSoft, controlled studio lighting with a cool, elegant color temperature. A gentle frontal spotlight illuminates the woman's face, white costume, and intricate lace details, while subtle side lighting emphasizes the translucent fabric and the layered folds of the dress.\n\nBalanced highlights on the satin, lace, crystal decorations, and reflective floor. Soft shadows provide depth without obscuring details. The overall atmosphere is luxurious, ethereal, romantic, theatrical, and dreamlike.\n\n## **[Composition / View]**\n\nfull-body fashion portrait, straight-on camera angle, eye-level perspective. The woman is positioned centrally and occupies most of the frame, with her entire figure visible from head to high heels.\n\nBoth arms extend outward symmetrically, displaying the wide translucent overskirt as a dramatic visual frame around her body. Her crossed-leg stance adds elegance and visual movement.\n\nThe composition preserves the surrounding decorative environment, including the overhead drapery, hanging crystal strands, classical column, floral arrangements, candles, and reflective floor.\n\nBalanced framing with clear separation between the subject and background. Sharp focus on the woman, costume details, and flowing fabric.\n\n## **[Style Reference]**\n\nLuxury bridal fashion editorial photography, romantic gothic-inspired wedding aesthetics, elegant fantasy couture, sophisticated theatrical studio photography, photorealistic textures, refined feminine styling, intricate costume craftsmanship, cinematic visual presentation.\n\n## **[Quality Parameters]**\n\nUltra-high resolution, photorealistic, professional fashion photography, highly detailed facial features, realistic skin texture, anatomically correct body proportions, accurate hands and fingers, intricate lace embroidery, realistic translucent fabric, detailed satin and crystal textures, natural fabric folds, realistic reflective surfaces, balanced exposure, sharp focus, sophisticated cool-toned color grading, cinematic lighting, 8K quality,No cropped limbs or truncated feet."
+    },
+    {
+      "id": "2124525299224441023",
+      "author": "serc1n",
+      "title": "像素角色变 3D 体素竞技场海报",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需上传自己的像素角色图；提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-22 23:27",
+      "likes": 52,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-23/serc1n_2124525299224441023_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXvUWAPXEAAJQtQ.jpg?name=large",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "Transform the uploaded 2D pixel-art character into an epic cinematic 3D voxel character portrait for Normies Arena.\n\nCHARACTER ACCURACY\nPreserve the original character's identity exactly: same facial features, hairstyle, accessories, outfit, colors, proportions, expression, and silhouette. Translate every pixel-art detail into chunky 3D voxel blocks. Do not invent or remove accessories. The result must be instantly recognizable as the original character.\n\nRENDER STYLE\nPremium stylized voxel art with large, clearly defined cubic geometry, detailed block-based surfaces, crisp geometric edges, strong ambient occlusion, soft painterly shading, and cinematic AAA fantasy-game lighting. A beautiful combination of Minecraft-like voxel geometry and high-end animated fantasy film rendering. Never smooth the character into realistic human anatomy.\n\nCOMPOSITION\nLarge heroic character portrait, shown from the waist or chest up, filling most of the frame. Slight three-quarter camera angle, character facing slightly toward the viewer. Dramatic low camera perspective. Keep the face as the main focal point.\n\nENVIRONMENT\nA mysterious medieval fantasy stone castle interior, constructed entirely from voxel blocks. Massive stone arches, glowing wall torches, ancient stone stairs, and deep blue illuminated windows. Atmospheric depth with subtle volumetric fog.\n\nLIGHTING\nWarm golden-orange torchlight illuminating the character from the left, contrasting with vibrant electric-blue ambient light from the right. Strong cinematic rim lighting on the silhouette, soft global illumination, deep shadows, and rich color grading.\n\nFINAL LOOK\nHighly detailed, cinematic, colorful, polished, premium fantasy video-game key art. Extremely sharp voxel geometry, dramatic depth, beautiful warm/cool contrast, and a powerful heroic presence.\n\nVertical portrait composition, 4:5 aspect ratio. No text, no typography, no badges, no interface, no watermarks.\n\nFirst 2 free entry weeks holder cannot change their Normies. It will be possible in Game 3 which is paid and requires opt-in again."
+    },
+    {
+      "id": "2124525561594904584",
+      "author": "CyberTotal2026",
+      "title": "红色糖果马克杯照风写真",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "日文分段提示词（主题/主体/构图/质感）。",
+      "needsReference": false,
+      "time": "11-22 23:29",
+      "likes": 30,
+      "bookmarks": 18,
+      "images": [
+        {
+          "local": "images/2026-11-23/CyberTotal2026_2124525561594904584_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXgCTLpaUAIrt89.jpg?name=large",
+          "width": 480,
+          "height": 639
+        }
+      ],
+      "prompt": "主題：\n赤いキャンディのマグショット\n\n主体：\n20代の成人女性。身長目盛風の壁を背にして正面を向き、黒いプレートを腹の前で掲げる。反対の手を口元へ上げる。\n\n人物・表情：\n画面左の目を閉じ、開いた画面右の目を左へ向ける。口を開き、舌先に赤い丸飴を当てる。\n灰みの茶の肩下ウェーブ。透ける細い前髪と、画面右の耳に複数の銀色のピアス。\n淡い桃みのベージュの肌。頬に血色、鼻先と肩に正面光の艶。\n\n服装・ポーズ：\nワイン色のレース縁の細肩ひもサテンビスチェ、胸に小さなリボン。灰茶のファーを肩から落とす。色落ちした黒デニムのプリーツとカーゴ風ポケット、太いベルトと銀チェーン、腰に赤い布と飾り。首に丸い環の銀色チョーカーと細いチェーンを重ね、赤いハートと十字の飾りを下げる。\n画面左手で白い棒の赤い飴を持ち、右手でプレート右下を握る。長い爪に銀色の装飾と複数のリング。脚と足は画角外。\n\n背景・光：\n灰白い壁に黒い横線を引き、右端に200から100へ下がる赤い数字を並べる。プレートは白文字で、上から「RIVERMORE CITY BOOKINGS」「ALIAS : RIN」「ID : RM-772318」「CHARGE : HEART STEALING ♡」。\n\n構図・カメラ：\n縦1087:1447。顔の高さに近い正面。頭頂から腿上までを中央に大きく置き、右に赤い目盛を残す。\n\n質感・スタイル：\n正面の硬めのフラッシュ。ファーの毛先、擦れたプレート、赤いサテンと銀チェーンの反射を明瞭に。"
+    },
+    {
+      "id": "2124278492296785933",
+      "author": "listudio",
+      "title": "庭院石椅上的街拍抓拍",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-22 07:07",
+      "likes": 32,
+      "bookmarks": 15,
+      "images": [
+        {
+          "local": "images/2026-11-23/listudio_2124278492296785933_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXrzk9vaoAAc0Qn.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Create a vertical 3:4 candid street-style portrait of a distinct fictional, clearly adult East Asian woman, age 22, seated on a long gray stone bench in a bright courtyard. Frame her near the center at seated eye height, from some open space above her head down through the sweep of her skirt. She has long straight dark brown hair with wispy parted bangs. She smiles toward the camera with her eyes, lifting the soft cuff of a black knit cardigan to partly hide her mouth. Her other hand rests on her lap holding a dark phone at a relaxed angle. Keep her finger positions and both wrists natural.\n\nDress her in an opaque oatmeal rib-knit midi dress with narrow straps and a modest rounded neckline. The black cardigan is loose around her upper arms and the raised sleeve drapes naturally from elbow to wrist. She sits with her knees angled loosely toward camera left. Use normal adult proportions, fine skin texture and no visible tattoos. A plain black shoulder bag rests beside her on the bench, leaving space around the hand and phone.\n\nBehind the bench, show a glass windbreak with muted reflections, a small leafy tree growing toward the upper center, and a red-brown brick facade with a large pale blue-gray window. The edge of a cream patio umbrella cuts into the upper right. A small existing white CLOSED sign hangs at the upper left near a cream door. Keep other surfaces free of readable branding. Bright natural sunlight falls across the tree, skirt and stone, while the bench wall and black sleeve give the portrait cooler shadows. Keep the place ordinary and unposed, with the face, sleeve and seated gesture clearly readable.\n\n更多提示➡️"
+    },
+    {
+      "id": "2124322611501187147",
+      "author": "AIjee_tpe",
+      "title": "酒吧正装日 Cosplay 大片：四模型对比",
+      "model": "GPT2.6 / Krea2+ LoRA / Grok-Image 2.0 / Moss Image",
+      "group": "多模型对比",
+      "note": "四张图依次对应四个模型；后两张额外用了参考图。提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-22 10:02",
+      "likes": 30,
+      "bookmarks": 6,
+      "images": [
+        {
+          "local": "images/2026-11-23/AIjee_tpe_2124322611501187147_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXscJNSaEAAUD7X.jpg?name=large",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-23/AIjee_tpe_2124322611501187147_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXscJMnacAAH9RY.jpg?name=large",
+          "width": 480,
+          "height": 851
+        },
+        {
+          "local": "images/2026-11-23/AIjee_tpe_2124322611501187147_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXscJNSacAAZwyQ.jpg?name=large",
+          "width": 480,
+          "height": 715
+        },
+        {
+          "local": "images/2026-11-23/AIjee_tpe_2124322611501187147_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXscJMnbcAAtauj.jpg?name=large",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "## **[Subject Description]**\n\nA highly detailed, photorealistic full-body cosplay fashion editorial portrait of an adult woman with fair, smooth skin, naturally full breasts,S-shaped female figure, and delicate facial features. She has long, straight, champagne-blonde hair with soft bangs, with one side partially covering her eye. Her visible eye is accented with subtle pink-toned makeup, long eyelashes, and a gentle, slightly playful expression. She wears a decorative hair accessory featuring white and gold floral elements with bright turquoise-blue ribbons on the side of her head.\n\nShe is dressed in an elegant, vibrant turquoise-blue fantasy-inspired cocktail costume featuring a fitted halter-neck bodice with a deep V-shaped neckline, delicate gold chain details, and decorative white-and-turquoise floral ornaments at the waist. The outfit has a short, asymmetrical skirt with flowing turquoise fabric draped along the sides.\n\nHer accessories include a dark-blue choker with a small jeweled centerpiece, long white satin opera gloves with black lace trim around the upper arms, sheer dark charcoal-black thigh-high stockings with ornate black lace bands, and white platform Mary Jane high heels with thick platforms and ankle straps.\n\nShe sits elegantly on a polished black bar counter, with one hand resting beside her for support and the other raised gracefully near her chest. Her legs are crossed at the knees, with one foot slightly lifted forward. The pose emphasizes the flowing costume, coordinated accessories, and elegant fashion silhouette.\n\nShe possesses the best head-to-body ratio, naturally full breasts,a perfect, curvaceous, S-shaped female figure,Hourglass figure,long legs with perfect leg lines, and a slender waist, perfect foots,perfect foot lines\n\n## **[Scene / Background]**\n\nAn opulent, vintage-style luxury bar interior featuring predominantly black marble or polished dark stone surfaces with elaborate gold ornamental decorations. Behind the subject are multiple rows of liquor bottles arranged neatly on illuminated shelves. The bar features intricate gold moldings, decorative carved flourishes, and an elaborate gilded crest mounted on the upper black stone wall.\n\nThe glossy black countertop and lower cabinetry feature gold trim and decorative gold relief panels. A cocktail glass is visible at the far left, adding to the sophisticated bar atmosphere.\n\n## **[Light / Atmosphere]**\n\nBright, balanced frontal photography lighting illuminates the subject evenly, revealing the textures of her satin costume, sheer stockings, lace details, and accessories. Warm golden accent lighting highlights the liquor bottles and ornate gold decorations in the background. Strong contrast between the luminous turquoise outfit, fair complexion, and dark luxurious interior. Elegant, glamorous, theatrical atmosphere.\n\n## **[Composition / View]**\n\nfull-body portrait, straight-on camera angle, eye-level perspective. The woman is positioned centrally, seated on the bar counter with her entire figure visible from head to shoes. Her crossed legs and white platform heels are clearly displayed. The ornate gold decorations and liquor shelves frame the subject symmetrically, creating visual depth and a luxurious editorial composition.\n\n## **[Style Reference]**\n\nHigh-end photorealistic cosplay photography, luxury bar fashion editorial, elegant fantasy-inspired costume design, polished commercial photography, realistic human anatomy, intricate fabric and lace textures, natural skin details, refined styling, rich black-and-gold interior aesthetics, vivid turquoise color accents.\n\n## **[Quality Parameters]**\n\nUltra-high resolution, highly detailed, photorealistic, professional DSLR photography, sharp focus, realistic proportions and anatomy, accurate hands and fingers, detailed facial features, natural hair strands, realistic satin reflections, finely rendered lace and sheer fabric, crisp costume details, balanced exposure, rich contrast, professional color grading, vertical composition,No cropped limbs or truncated feet.\n\nThis is an AI-generated portrait with a strong visual impact and a theme perfectly suited to a bar setting. It leverages bold color contrasts—cyan-green, gold, black, and white—alongside an opulent background to evoke the sense of occasion and dramatic tension characteristic of a\n\nWith long, champagne-gold hair, a direct gaze into the lens, and a subtle smile, the look conveys a sweet yet playful vibe—confident and engaging with the camera.😊\n\nThe composition—featuring a figure seated at the bar with legs extended forward, complemented by the sweeping train of a magnificent gown—creates a powerful sense of theatricality and dramatic presence, with a clearly defined visual focal point.😊"
+    },
+    {
+      "id": "2124289245787656617",
+      "author": "alicehan_ai",
+      "title": "健身风写真（JSON 提示词）",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "JSON 结构提示词，在作者回复里；通过 AI Studio 生成。",
+      "needsReference": false,
+      "time": "11-22 07:49",
+      "likes": 22,
+      "bookmarks": 7,
+      "images": [
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124289245787656617_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXr9zg0bQAA-y_6.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124289245787656617_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXr9zgzaMAAaOLB.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124289245787656617_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXr9ziKbIAAswqx.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124289245787656617_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXr9zg4bIAA-hg6.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 24-year-old adult Chinese athletic glamour model, 168 cm tall, with a youthful softly angular oval face with subtle facial asymmetry, naturally proportioned expressive eyes, softly varied cheek contours, a graceful jawline, naturally full lips, a confident smile with slightly unequal lip corners and small cheek and eyelid creases, subtle skin-tone variation, a dark ash-brown asymmetrical lob, and a sculpted curvy athletic hourglass figure with a full balanced bust, a defined waist, and rounded powerful hips (measurements: 91-59-95 cm)\",\n    \"hair\": \"asymmetrical textured dark ash-brown lob with slightly messy natural strands framing forehead and temples\",\n    \"expression\": \"a cool, composed gaze meeting the flash directly, with relaxed parted lips and subtle confident asymmetry in her expression\",\n    \"pose\": \"an upright, sculpted three-quarter stance beside the fireplace with one arm loosely draped along the mantel edge, displaying poised athletic posture and elongated lines\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"elegant tailored backless one-piece mini-romper bodysuit featuring a structured sweetheart neckline framed by delicate lace ruffle lapels, a contoured mid-back scoop, solid boned bodice paneling, a structured tailored boyshort hemline, and a dramatic tied bow at the rear waist\",\n    \"material\": \"opaque lustrous stretch silk satin body panels structured with tailored boned seams, paired with delicate scalloped lace ruffles along the lapels and softly draping silk satin for the rear waist bow\",\n    \"color\": \"deep slate teal, carried by the opaque lustrous stretch silk satin bodysuit panels\",\n    \"footwear\": \"glossy black leather sharp pointed-toe pumps with sculptured 9cm heels\",\n    \"accessories\": \"a small white fabric orchid blossom pinned behind her ear, a solid black matte satin choker, smoky gray ultra-sheer thigh-high stockings with intricate lace tops, and an antique brass candlestick resting beside the mantel edge\"\n  },\n  \"scene\": {\n    \"location\": \"Indoor European vintage room with a carved dark wood fireplace mantel and aged plaster walls\",\n    \"atmosphere\": \"Cool, quiet, slightly languid vintage nighttime intimacy with a raw, unpolished aesthetic.\",\n    \"background\": \"European vintage room with a deep reddish-brown carved solid wood fireplace mantel, warm gray-brown textured plaster wall, framed black-and-white photography, soft white ostrich plumes, and an illuminated black metal wall sconce with a milky white glass shade.\",\n    \"composition\": \"Vertical three-quarter framing with the subject positioned center-right, framed by the architectural carved mantel on the right and the ambient wall sconce and textured wall on the left.\",\n    \"lighting\": \"Direct on-camera flash providing crisp primary illumination from the front, complemented by warm yellow ambient glow from the wall sconce on the left, casting distinct sharp shadows behind the subject and props with prominent specular highlights on silk satin.\",\n    \"camera\": \"Approximately 35-50mm equivalent portable digital camera lens at waist-abdomen level, framing a 9:16 vertical three-quarter portrait from head to lower calf with deep depth of field and no optical distortion.\",\n    \"grade\": \"Authentic raw digital flash photography look with slightly warm undertones, natural skin tonal variation, gradual highlight roll-off, and realistic textural grain without over-sharpening or airbrushing.\"\n  },\n  \"scene_text\": {\n    \"archetype\": \"embroidery\",\n    \"carrier\": \"small tonal cursive garment embroidery\",\n    \"placement\": \"beside the garment hem seam\",\n    \"text\": \"alicehan_ai\"\n  },\n  \"compiled_prompt\": \"A real-world medium-shot portrait photograph of an exceptionally beautiful 24-year-old adult Chinese athletic glamour model, 168 cm tall, with a youthful softly angular oval face with subtle facial asymmetry, naturally proportioned expressive eyes, softly varied cheek contours, a graceful jawline, naturally full lips, and realistic skin texture with subtle pores, natural organic glow and micro details, authentic skin undertones, styled with an asymmetrical textured dark ash-brown lob with slightly messy natural strands framing forehead and temples. Captured from waist-abdomen level using an approximately 35-50mm equivalent portable digital camera lens, framing a tall vertical frame three-quarter portrait with one figure centered and filling the height of the picture, captured from head to lower calf with deep depth of field and no optical distortion. She stands in an upright, sculpted three-quarter stance beside the fireplace with one arm loosely draped along the mantel edge, displaying poised athletic posture and elongated lines, her face showing a cool, composed gaze meeting the flash directly, with relaxed parted lips and subtle confident asymmetry in her expression. She wears an elegant tailored backless one-piece mini-romper bodysuit featuring a structured sweetheart neckline framed by delicate lace ruffle lapels, a contoured mid-back scoop, solid boned bodice paneling, a structured tailored boyshort hemline, and a dramatic tied bow at the rear waist, tailored from opaque lustrous stretch silk satin body panels structured with tailored boned seams, paired with delicate scalloped lace ruffles along the lapels and softly draping silk satin for the rear waist bow in deep slate teal, carried by the opaque lustrous stretch silk satin bodysuit panels. Visible beside the garment hem seam is small tonal cursive garment embroidery reading \\\"alicehan_ai\\\". Styled with glossy black leather sharp pointed-toe pumps with sculptured 9cm heels, a small white fabric orchid blossom pinned behind her ear, a solid black matte satin choker, and smoky gray ultra-sheer thigh-high stockings with intricate lace tops. Set in an indoor European vintage room with a deep reddish-brown carved solid wood fireplace mantel on the right, an antique brass candlestick resting beside the mantel edge, framed black-and-white photography, soft white ostrich plumes, and an illuminated black metal wall sconce with a milky white glass shade on the warm gray-brown aged plaster wall. Direct on-camera flash delivers crisp frontal illumination producing sharp cast shadows behind the subject and props, balanced by warm yellow ambient glow from the left sconce, producing sharp specular highlights across the deep slate teal silk satin while preserving retained highlight detail and authentic texture.\"\n}"
+    },
+    {
+      "id": "2124398247477445064",
+      "author": "alicehan_ai",
+      "title": "原宿偶像海滩穿搭（JSON 提示词）",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "JSON 结构提示词，在作者回复里；通过 AI Studio 生成。",
+      "needsReference": false,
+      "time": "11-22 15:03",
+      "likes": 18,
+      "bookmarks": 6,
+      "images": [
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124398247477445064_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtg6ZlboAAac7a.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124398247477445064_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtg6ZlaMAE_G6T.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124398247477445064_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtg6ZjbkAAuR07.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124398247477445064_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtg6aYacAAqUzV.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 19-year-old adult Japanese Harajuku pop idol, 155 cm tall, with a naturally proportioned heart-shaped face with subtle facial asymmetry, expressive eyes of natural size relative to her face, softly rounded cheeks, a gently defined nose, naturally shaped lips, and a playful smile with small cheek and eyelid creases and subtle skin-tone variation, solid cherry-blossom pink hair, and a petite curvy dancer's hourglass figure with a full bust, narrow waist, and rounded hips (measurements: 88-56-91 cm)\",\n    \"hair\": \"solid cherry-blossom pink layered waves with slightly messy natural strands framing forehead and temples\",\n    \"expression\": \"gentle, shy smile with subtle cheek lift, looking down toward her feet with genuine playfulness\",\n    \"pose\": \"seated directly on the firm wet sand at the shoreline, leaning forward gracefully with knees angled to brush sand from her bare feet with one hand\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"structured leather corset with front steel busk clasps, riveted D-rings, and a deep sweetheart plunge with structured opaque cups, paired with high-waisted tailored leather micro-shorts offering structured opaque coverage\",\n    \"material\": \"heavy saddle leather, steel corset boning, riveted D-rings, and lustrous silk trim\",\n    \"color\": \"blush pink carried by the structured leather corset and matching tailored leather micro-shorts\",\n    \"footwear\": \"barefoot with delicate wet sand dusting her arched feet and toes as the tide laps nearby\",\n    \"accessories\": \"padded blush-pink leather wrist cuffs clipped to corset waist D-rings, thin gold chain bracelet, and a slim nameplate necklace in cursive lettering resting just below her collarbone spelling 'alicehan_ai'\"\n  },\n  \"scene\": {\n    \"location\": \"empty ocean shoreline on wet tidal beach sand\",\n    \"atmosphere\": \"polished coastal fashion editorial ambiance with an ocean breeze and quiet coastal tranquility\",\n    \"background\": \"gentle rolling ocean waves, receding tide over wet sand, and a vast misty coastal horizon\",\n    \"composition\": \"full-body portrait framed at the edge of the shoreline on wet sand, with generous natural negative space\",\n    \"lighting\": \"soft late afternoon natural daylight with gentle directional warmth and soft ambient fill from open sky\",\n    \"camera\": \"eye-level full-length editorial perspective, portrait lens equivalent, balanced natural depth of field\",\n    \"grade\": \"clean natural tonal balance with retained skin highlight texture, gradual roll-off, and authentic coastal contrast\"\n  },\n  \"scene_text\": {\n    \"text\": \"alicehan_ai\",\n    \"archetype\": \"necklace\",\n    \"carrier\": \"slim nameplate necklace in cursive lettering\",\n    \"placement\": \"resting just below her collarbone\"\n  },\n  \"compiled_prompt\": \"A full-length vertical photograph captures an exceptionally beautiful 19-year-old adult Japanese Harajuku pop idol with solid cherry-blossom pink layered waves with slightly messy natural strands framing forehead and temples, seated on wet tidal beach sand at the shoreline. The camera frames her from an eye-level full-length editorial perspective with a portrait lens equivalent, balanced natural depth of field, tall vertical frame, one figure centered and filling the height of the picture against gentle rolling ocean waves and a misty coastal horizon. She is seated directly on the firm wet sand, leaning forward gracefully with knees angled to brush sand from her bare feet with one hand, her face tilted gently downward with a shy smile, subtle cheek lift, and genuine playfulness in her expressive eyes. She wears a structured leather corset with front steel busk clasps, riveted D-rings, and a deep sweetheart plunge with structured opaque cups, paired with high-waisted tailored leather micro-shorts offering structured opaque coverage, tailored from heavy saddle leather, steel corset boning, riveted D-rings, and lustrous silk trim in blush pink carried by the structured leather corset and matching tailored leather micro-shorts. Her wrists are secured in padded blush-pink leather wrist cuffs clipped to the corset waist D-rings, complemented by a thin gold chain bracelet, while her feet are barefoot with delicate wet sand dusting her arched feet and toes as the tide laps nearby. Resting just below her collarbone is a slim nameplate necklace in cursive lettering clearly displaying the text \\\"alicehan_ai\\\". Soft late afternoon natural daylight casts a gentle directional warmth across the shore with ambient fill from the open sky, revealing realistic skin texture with subtle pores, natural organic glow and micro details, authentic skin undertones, and smooth highlight roll-off. Soft sea breezes gently lift loose tendrils of her pink hair while the warm directional rays emphasize the blush pink leather grain and lustrous silk trim, contrasted against the damp reflective sheen of wet packed sand.\"\n}"
+    },
+    {
+      "id": "2124461388760580251",
+      "author": "CyberTotal2026",
+      "title": "港口祖母绿长裙配金手套",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "日文分段提示词（主题/主体/构图/质感）。",
+      "needsReference": false,
+      "time": "11-22 19:14",
+      "likes": 18,
+      "bookmarks": 6,
+      "images": [
+        {
+          "local": "images/2026-11-23/CyberTotal2026_2124461388760580251_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXf-RbEbcAAyH8j.jpg?name=large",
+          "width": 480,
+          "height": 639
+        }
+      ],
+      "prompt": "主題：\n港のエメラルドと金の手袋\n\n主体：\n20代の成人女性。腰を画面右下へ寄せ、上体をレンズ側へ。画面左腕を高く、右腕をやや低くして両手を手前へ突き出す。\n\n人物・表情：\n茶色の瞳でレンズをまっすぐ見る。濃いまつ毛と赤く艶のある唇を少し開いた表情。\n茶色の肩下レイヤー。額に長い束前髪、肩に緩いウェーブ。緑の石と金の大きな耳飾り。\n明るい暖色ベージュの肌。頬にコーラルの血色、鼻筋と肩に日差しが反射する。\n\n服装・ポーズ：\n深い青緑のサテンの身体に沿うドレス。胸上を帯が交差し、胸元と腰に斜めの重なり。右下にスリット。両腕に肘を越える金色の長手袋。\n画面左手のひらを広げてレンズへ向け、緑の角形リングを見せる。画面右手は指をやや曲げて手前に置き、手首に緑の石のブレスレット。脚と足の支持は画角外。\n\n背景・光：\n淡い石張りのテラス、画面左に桃色のアーチと濃桃の花、右に白い輪の彫刻。奥に青い水と白い船、快晴の青空。\n\n構図・カメラ：\n縦1087:1447。顔の高さに近い正面。左右の手を広角的に大きく、間の奥に顔を置く。下は太腿まで、背景の水平線は軽く傾く。\n\n質感・スタイル：\n晴天の明るい光と濃緑サテンの深い面反射、金色手袋の光沢と石の輝き。青空と青い水を鮮やかに描く。"
+    },
+    {
+      "id": "2124416536337322157",
+      "author": "alicehan_ai",
+      "title": "原宿偶像派对造型（JSON 提示词）",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "JSON 结构提示词，在作者回复里；通过 AI Studio 生成。",
+      "needsReference": false,
+      "time": "11-22 16:15",
+      "likes": 17,
+      "bookmarks": 6,
+      "images": [
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124416536337322157_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtxim-bQAAw1Vo.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124416536337322157_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtxilraEAAWo9g.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124416536337322157_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtxiljaIAAI8fE.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-23/alicehan_ai_2124416536337322157_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtxilnagAAG-3q.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 19-year-old adult Japanese Harajuku pop idol, 155 cm tall, with a naturally proportioned heart-shaped face with subtle facial asymmetry, expressive eyes of natural size relative to her face, softly rounded cheeks, a gently defined nose, naturally shaped lips, and a playful smile with small cheek and eyelid creases and subtle skin-tone variation, solid cherry-blossom pink hair, and a petite curvy dancer's hourglass figure with a full bust, narrow waist, and rounded hips (measurements: 88-56-91 cm)\",\n    \"hair\": \"solid cherry-blossom pink layered waves with slightly messy natural strands framing forehead and temples\",\n    \"expression\": \"playful bright smile with lifted cheeks, gentle eyelid creases, and softly parted lips\",\n    \"pose\": \"seated on the blue and white striped lounge chair, leaning back casually with her left elbow resting on the armrest and her right hand lightly brushing her pink hair near her shoulder, legs angled to the side\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"second-skin bodycon micro-mini dress with ultra-thin spaghetti straps, a deep plunging sweetheart neckline, an open low-cut back, exposed side-waist cutouts anchored by a decorative metallic waist buckle, and a thigh-baring micro-mini hem with a high side slit\",\n    \"material\": \"semi-sheer fine-gauge horizontal ribbed stretch lurex knit with a luminous metallic shimmer finish\",\n    \"color\": \"ivory, carried by the semi-sheer horizontal ribbed stretch lurex knit\",\n    \"footwear\": \"open-toe resort sandals (out of frame below the mid-thigh crop)\",\n    \"accessories\": \"small gold hoop earrings, a delicate gold necklace, and a two-tone watch paired with a blue fabric wristband on her left wrist\"\n  },\n  \"scene\": {\n    \"location\": \"sunny luxury beach resort on a sandy beach seated on a blue and white striped lounge chair\",\n    \"atmosphere\": \"sunny, breezy daytime resort atmosphere under bright direct midday sun with clean highlights on hair, skin, and sand and natural ambient bounce\",\n    \"background\": \"sandy beach dotted with white beach umbrellas and matching blue and white striped lounge chairs, a partially visible beachgoer reclining and reading to the left, scattered palm trees and tropical greenery, and a white multi-story luxury hotel with tiered balconies against a clear blue sky in the distance\",\n    \"composition\": \"vertical 9:16 medium shot from the mid-thigh up, subject centered in the frame seated on the lounge chair facing the camera\",\n    \"lighting\": \"bright direct overhead midday sunlight creating clean specular highlights on hair, sand, and metallic lurex knit alongside softer natural skin reflections, coherent contact shadows, and warm sand bounce light\",\n    \"camera\": \"live-action high-resolution photograph with crisp optical clarity and a shallow depth of field that keeps the subject and lounge chair in sharp focus while softly blurring the distant umbrellas, hotel balconies, and beachgoers\",\n    \"grade\": \"crisp, natural photographic contrast with retained highlight detail, gradual highlight roll-off, natural shadow transitions, and restrained retouching preserving natural skin texture\"\n  },\n  \"scene_text\": {\n    \"archetype\": \"embroidery\",\n    \"carrier\": \"small tonal cursive garment embroidery\",\n    \"placement\": \"beside the garment hem seam\",\n    \"text\": \"alicehan_ai\"\n  },\n  \"compiled_prompt\": \"A live-action daytime photograph of an exceptionally beautiful 19-year-old adult Japanese Harajuku pop idol, 155 cm tall, with a petite curvy dancer's hourglass figure (88-56-91 cm), a naturally proportioned heart-shaped face with subtle facial asymmetry, expressive eyes, softly rounded cheeks, a gently defined nose, and naturally shaped lips. Framed in a tall vertical frame from an eye-level camera angle facing her straight-on, this medium shot captures her from the mid-thigh up, one figure centered and filling the height of the picture. Seated on a blue and white striped lounge chair at a sunny luxury beach resort, she leans back casually with her left elbow resting on the armrest, her legs angled to the side, and her right hand lightly brushing her solid cherry-blossom pink layered waves near her shoulder, with slightly messy natural strands framing forehead and temples. She wears a playful bright smile with lifted cheeks, gentle eyelid creases, and softly parted lips. Her outfit is an ivory second-skin bodycon micro-mini dress with ultra-thin spaghetti straps, a deep plunging sweetheart neckline, an open low-cut back, exposed side-waist cutouts anchored by a decorative metallic waist buckle, and a thigh-baring micro-mini hem with a high side slit, crafted from a semi-sheer fine-gauge horizontal ribbed stretch lurex knit with a luminous metallic shimmer finish, with small tonal cursive garment embroidery reading 'alicehan_ai' beside the garment hem seam. She accessorizes with small gold hoop earrings, a delicate gold necklace, and a two-tone watch paired with a blue fabric wristband on her left wrist, while her open-toe resort sandals remain out of frame below the mid-thigh crop. Behind her, a sandy beach is dotted with white beach umbrellas and matching striped lounge chairs, a partially visible beachgoer reclining and reading to the left, scattered palm trees and tropical greenery, and a white multi-story luxury hotel with tiered balconies against a clear blue sky. Bright direct overhead midday sunlight creates clean specular highlights on her hair, the sand, and the ivory semi-sheer horizontal ribbed stretch lurex knit, while her exposed skin shows realistic skin texture with subtle pores, natural organic glow and micro details, authentic skin undertones, softer natural reflections, and coherent contact shadows warmed by sand bounce light. Shot with crisp optical clarity and a shallow depth of field that keeps her and the lounge chair crisp while softly blurring the distant umbrellas, hotel, and beachgoers, finished with natural photographic contrast, retained highlight detail, gradual highlight roll-off, and restrained retouching.\"\n}"
+    },
+    {
+      "id": "2124608869645078660",
+      "author": "antrospike",
+      "title": "午夜手机夜拍氛围人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-23 05:00",
+      "likes": 17,
+      "bookmarks": 6,
+      "images": [
+        {
+          "local": "images/2026-11-23/antrospike_2124608869645078660_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXwfc-taEAAQ4ox.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Style: Ultra-realistic nighttime smartphone photography, cinematic low-light aesthetic.\n\nHair/outfit: Young woman with long messy black hair, loose face-framing strands, black thin-strap top, silver hoop earrings and chunky chain necklace.\n\nPose/face expression: Leaning forward on bed while using a smartphone, one index finger lightly touching her lower lip, other fingers curled near chin, eyes looking down toward the phone screen, slightly parted lips.\n\nSetting/light: Dark bedroom, smartphone clearly visible in foreground; bright blue-white screen glow illuminating her face, eyes, fingers and upper body from below, subtle violet reflections and deep background shadows.\n\nPalette/framing: Cool blue, lavender and navy tones, close-medium shot, slightly elevated angle, patterned bedding, vertical 3:4.\n\nNegative: Camera flash, warm studio lighting, artificial glow, distorted hands, extra fingers, blurry face, text, watermark."
+    },
+    {
+      "id": "2124465418102521875",
+      "author": "81680085AI",
+      "title": "工业风工作室低角度人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "提示词来自图片 ALT。",
+      "needsReference": false,
+      "time": "11-22 19:30",
+      "likes": 14,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-23/81680085AI_2124465418102521875_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXuAvd3aUAAdOyd.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "A low-angle indoor editorial portrait set in a dimly lit, industrial-style workshop filled with vintage shelves and equipment. She leans casually against a wooden table edge holding a tactical rifle, looking toward the camera with a calm, composed gaze, her dark hair tied back with wispy bangs. Her detailed wardrobe consists of a fitted dark charcoal graphic tank top, distressed blue denim cut-off shorts, and an oversized striped button-up flannel shirt draped loosely off her shoulders. Backlit natural daylight filters through large windows, creating atmospheric haze, soft rim lighting, and cinematic chromatic depth without any text or logos. Photographed in the moody, nostalgic, muted tones and curated editorial stillness."
+    },
+    {
+      "id": "2124351549480866153",
+      "author": "DeepBlueX0",
+      "title": "云朵理发店：复古超现实时尚摄影",
+      "model": "GPT Image 2.6 / Muse Image / Nano Banana 2.1 / Grok Image 2.0 / Seedream 5.5 / Kling Image 4.0 / Hy Image 3.5",
+      "group": "多模型对比",
+      "note": "图片从左到右依次对应七个模型。",
+      "needsReference": false,
+      "time": "11-22 11:57",
+      "likes": 10,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-23/DeepBlueX0_2124351549480866153_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXs2d3dacAAvQ8B.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/DeepBlueX0_2124351549480866153_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXs2d3ZbMAAkmno.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/DeepBlueX0_2124351549480866153_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXs2d3iaAAAcGAk.jpg?name=large",
+          "width": 480,
+          "height": 643
+        },
+        {
+          "local": "images/2026-11-23/DeepBlueX0_2124351549480866153_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXs2d3eboAAxMW4.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/DeepBlueX0_2124351549480866153_5.jpg",
+          "remote": "https://pbs.twimg.com/media/HXs2d3baQAAvUGp.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-23/DeepBlueX0_2124351549480866153_6.jpg",
+          "remote": "https://pbs.twimg.com/media/HXs2d03bMAI9sAs.jpg?name=large",
+          "width": 480,
+          "height": 637
+        },
+        {
+          "local": "images/2026-11-23/DeepBlueX0_2124351549480866153_7.jpg",
+          "remote": "https://pbs.twimg.com/media/HXs0wwfaAAE2eXL.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Cloud Barber｜超現實高訂攝影 × 巨物尺度 × 複雜物理交互\n\nA spectacular, playful yet sophisticated surreal high-fashion editorial photograph, blending 1960s retro fashion photography, monumental-scale surrealism, cinematic wide-angle perspective, and intricate physical interactions.\n\nOn a vividly saturated emerald-green hill beneath an immense cobalt-blue sky, an oversized cherry-red vintage barber chair stands like a surreal sculptural monument. Seated inside is an enormous, exquisitely detailed living cumulus cloud, billowing far above the chair, wearing a flowing mint-green satin barber cape.\n\nBeside the chair stands an elegant adult female fashion model with a perfectly sculpted glossy black retro bob, wearing a fitted pale-lavender short-sleeved blouse, a deep-purple pencil skirt, and immaculate white knee-high leather boots.\n\nCapture the exact split second of an impossible haircut.\n\nWith one hand, the model delicately lifts a long, semi-transparent strand of cloud between her fingers. With the other, she closes a pair of polished silver scissors precisely through the floating strand. Her fingers, scissors, and the delicate cloud fibers form a visually convincing point of contact.\n\nThe freshly severed cloud fragment curls and separates, breaking into hundreds of delicate wisps of varying sizes. Some drift through the sunlight, some spiral gently around the chair, while others settle onto the vivid grass like freshly cut hair.\n\nA consistent breeze subtly lifts the edges of the mint satin cape, bends the surrounding grass, and carries the cloud fragments in a coherent direction. The model’s posture responds naturally to the action, her focused expression contrasting with the absurdity of the scene.\n\nThe giant cloud exhibits extraordinary volumetric complexity: luminous semi-translucent edges, intricate wispy filaments, dense cotton-like interiors, soft internal shadow gradients, delicate light scattering, and realistic atmospheric depth. Its silhouette remains monumental, sculptural, and immediately recognizable.\n\nThe barber chair features rich lacquered red leather, polished chrome armrests, subtle wear, intricate mechanical components, and convincing reflections. The cape has elegant flowing folds, realistic fabric tension, and soft specular highlights.\n\nComposition: A dramatic ground-level 24mm wide-angle fashion photograph. The enormous cloud dominates the upper-middle composition, the model creates an elegant diagonal gesture toward the cutting point, and the red chair anchors the scene. A few large cloud fragments float close to the lens, creating layered foreground, middle-ground, and background depth.\n\nThe blue sky occupies a generous portion of the frame, preserving a striking minimalist graphic silhouette. The landscape remains clean and uncluttered.\n\nLighting: Brilliant late-morning sunlight, subtle direct-flash fill, realistic contact shadows, luminous cloud edges, finely controlled highlights, and coherent reflections across every surface.\n\nVisual aesthetic: Premium analog fashion editorial, vivid yet sophisticated color separation, subtle Kodak Ektar-style film grain, tactile photographic realism, precise surreal art direction, playful visual irony, and exceptional material detail.\n\nThe final image should feel like an extraordinary real-world fashion photograph documenting an impossible event, with sophisticated visual storytelling and astonishing physical coherence.\n\n3:4 vertical composition. No text, no logos, no borders."
+    }
+  ]
+}
