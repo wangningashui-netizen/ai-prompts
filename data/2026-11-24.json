@@ -1,0 +1,601 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-24",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "2124668913514647849",
+      "author": "DuaFatimaAi",
+      "title": "碎花套装头巾女子的奢华时装广告",
+      "model": "Gemini / Grok / GPT Image 2.0（任选）",
+      "group": "未注明",
+      "note": "需上传自己的照片；作者说 Gemini、Grok、GPT Image 2.0 都可用，提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-23 08:58",
+      "likes": 90,
+      "bookmarks": 59,
+      "images": [
+        {
+          "local": "images/2026-11-24/DuaFatimaAi_2124668913514647849_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXxW14-bwAAy3x9.jpg?name=large",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "Create a high-end, ultra-realistic luxury fashion commercial featuring a beautiful young woman wearing a modest floral two-piece outfit. She wears a beige hijab, a soft pastel pink and beige floral long-sleeve layered peplum blouse with balloon sleeves, and a matching flowing long skirt. She carries a small elegant cream handbag and wears matching beige heels.\n\nScene & Action:\nThe woman confidently walks along a stylish modern city street surrounded by tall glass skyscrapers and luxury storefronts. Capture her walking naturally toward the camera, gently swinging her handbag, smiling softly, and occasionally turning to showcase the outfit from different angles.\n\nInclude cinematic slow-motion shots of her flowing skirt, delicate floral fabric, balloon sleeves, layered blouse details, and elegant silhouette. Add beautiful close-up shots highlighting the stitching, fabric texture, floral patterns, and garment design.\n\nVisual Effects:\nSoft pink and white flower petals gently float around her in a dreamy fashion moment. Natural sunlight, subtle wind movement, realistic fabric physics, and beautiful reflections on the glass buildings.\n\nCamera Work:\n\n- Smooth cinematic tracking shots.\n- Full-body front and side views.\n- Elegant walking shots.\n- Detailed fashion close-ups.\n- Slow-motion fabric movement.\n- Professional commercial-style transitions.\n\nVisual Style:\nLuxury fashion brand advertisement, photorealistic 4K, premium editorial photography, natural skin texture, soft daylight, shallow depth of field, realistic shadows, sophisticated color grading, polished commercial production.\n\nConsistency: Maintain the same woman's face, beige hijab, outfit colors, floral pattern, handbag, and body proportions throughout the video.\n\nFormat: Vertical 9:16, cinematic fashion campaign, realistic human movement, premium clothing advertisement."
+    },
+    {
+      "id": "2124812708554117555",
+      "author": "ArtistaNozomu",
+      "title": "「うちの子」日常拟声词变立体字",
+      "model": "ChatGPT Image 2",
+      "group": "GPT Image",
+      "note": "需上传自己的角色图；日文提示词在作者回复里，可指定动作和拟声词。",
+      "needsReference": true,
+      "time": "11-23 18:30",
+      "likes": 69,
+      "bookmarks": 38,
+      "images": [
+        {
+          "local": "images/2026-11-24/ArtistaNozomu_2124812708554117555_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXu86pbaQAApOry.jpg?name=large",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "local": "images/2026-11-24/ArtistaNozomu_2124812708554117555_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXu8_54acAAA-C9.jpg?name=large",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "local": "images/2026-11-24/ArtistaNozomu_2124812708554117555_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXu9A4ra4AALEJO.jpg?name=large",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "local": "images/2026-11-24/ArtistaNozomu_2124812708554117555_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXu9kj8aUAAY-_u.jpg?name=large",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "# 【うちの子、音が立体になりました！】\n\n【入力項目】\n\n- 日常の動作：【おまかせ／指定可】\n- 擬音：【おまかせ／指定可】\n- 画像比率：【4:5縦長】\n\n【最重要｜キャラクター再現】\\\n今回添付されたキャラクター画像のみを最重要参照にし、顔・瞳・髪型・髪色・年齢感・体格・元の画風を忠実に維持。別人化禁止。自然な人体、両手各5本指。\n\n【制作内容】\\\n添付キャラクターの何気ない日常動作から生まれた「音」を、巨大な立体タイポグラフィとして可視化した、ハイセンスなグラフィックアートを制作してください。\n\n動作と擬音が未指定なら、毎回異なる組み合わせを選択してください。\n\n擬音は日本語2〜4文字程度。文字を単なる背景にせず、階段・椅子・足場・壁などの立体構造として成立させ、キャラクターが実際に触れたり、腰掛けたり、飛び越えたりする構図にしてください。\n\n【構図】\\\n4:5縦長。主役と巨大な擬音を大胆に配置し、文字の形に合わせて人物のポーズ・表情・カメラアングルを変化させてください。\n\n擬音の色・質感・立体形状は、音の特徴とキャラクターの雰囲気からデザイン。毎回同じ構図や配色に固定しないでください。\n\n主役の顔と瞳を明瞭に描き、文字で顔を隠さないこと。\n\n【デザイン】\\\nプロの広告クリエイティブのような、大胆な余白、強い色面、洗練されたタイポグラフィ。\n\n擬音以外の文字は最小限。キャラクター名が入力されている場合のみ、小さく表示してください。\n\n不要なUI、レア度、ランク、複雑な装飾、実在ロゴは禁止。\n\n**「自分のキャラなら、どんな音がデザインになる？」と試したくなる、インパクトのある完成イラストを1枚生成してください。**"
+    },
+    {
+      "id": "2124888201211056543",
+      "author": "antrospike",
+      "title": "黑白电影感时装大片",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文结构化提示词（风格/主体/场景/光线）。",
+      "needsReference": false,
+      "time": "11-23 23:30",
+      "likes": 78,
+      "bookmarks": 24,
+      "images": [
+        {
+          "local": "images/2026-11-24/antrospike_2124888201211056543_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX0KJeza4AAPGGm.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Style: Black-and-white cinematic editorial photography, high-fashion studio portrait, dark minimalist aesthetic.\n\nSubject: A woman posing low to the ground in a dramatic, seductive fashion pose, with an intense, mysterious expression.\n\nSetting: Minimalist dark photography studio with a deep charcoal-black seamless background and dark reflective floor.\n\nLighting: Strong direct camera flash, soft luminous highlights on the subject, dramatic shadows, high-contrast monochrome lighting.\n\nMain Prompt: Create an image of a fashionable woman posing on the floor in a low, forward-leaning position, supporting herself with one hand while extending the other arm toward the camera. One knee is bent and positioned prominently in the foreground, creating a dynamic editorial composition. She wears a fitted white long-sleeve mini dress with a simple scoop neckline. Her long, straight hair falls naturally over both shoulders, with a few loose strands crossing her face. Give her a serious, intense, mysterious expression while looking directly into the camera. Use a deep charcoal-black background, dark floor, dramatic direct flash illuminating the white outfit, subtle glowing highlights, rich shadows and elegant black-and-white film grain, vertical portrait format 3:4\n\nNegative Prompt: no color, no gray bright background, no extra people, no text, no watermark, no excessive blur, no distorted hands, no extra fingers, no unnatural pose, no cartoon effects."
+    },
+    {
+      "id": "2124637999858319498",
+      "author": "CLEETX627",
+      "title": "狗狗趴在头顶的亲密合影",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需上传人物照片；提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-23 06:55",
+      "likes": 67,
+      "bookmarks": 2,
+      "images": [
+        {
+          "local": "images/2026-11-24/CLEETX627_2124637999858319498_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXw6_vLXIAA9AYZ.jpg?name=large",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "“Use the uploaded image of the person as the exact base, preserving their face, features, expression, hair, lighting, and identity with zero changes. Place the dog gently resting its head on top of the person’s head in a close, intimate pose. The person is lying down with their head on a soft dark pillow, looking toward the camera with a subtle soft smile. Photorealistic black-and-white monochrome style, dramatic soft studio lighting, deep black background, highly detailed fur texture, cinematic close-up composition, shallow depth of field, emotional and tender atmosphere. Do not alter the person’s appearance in any way.”\nNegative’s\n“changing face, different person, altered features, color, extra limbs, deformed, bad anatomy, different hair, different expression”\nWatermark:  Chic AI Art"
+    },
+    {
+      "id": "2124661709591683292",
+      "author": "ArtRunoa",
+      "title": "角色破墙而出的 3D 浮雕壁画",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需上传 4 张角色图，一次出 4 张；提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-23 08:30",
+      "likes": 47,
+      "bookmarks": 10,
+      "images": [
+        {
+          "local": "images/2026-11-24/ArtRunoa_2124661709591683292_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtzzqxbkAAerJo.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/ArtRunoa_2124661709591683292_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtzzq1bQAA7jj8.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/ArtRunoa_2124661709591683292_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtzzqvaIAAKVuQ.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/ArtRunoa_2124661709591683292_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXtzzq0acAAHwFF.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Use the 4 attached images as 4 distinct characters.\n\nCreate 4 separate standalone images:\n- Output 1 = Character from Image 1 only\n- Output 2 = Character from Image 2 only\n- Output 3 = Character from Image 3 only\n- Output 4 = Character from Image 4 only\n\nDo not mix identities or reuse the same character. Preserve each character’s face, hairstyle, hair color, eye color, body proportions, signature accessories, overall vibe, and original gender presentation. Keep the same premium art quality across all 4 outputs, but vary the outfit, weapon, element, pose, and camera angle.\n\nBREAKING THROUGH REALITY\nUltra-Deep Embossed Relief × Premium 3D Figure\n\nCreate one dramatic physical sculpture of the character bursting out from an ornate embossed wall. The form must transition continuously from shallow carved relief in the background, to deep high-relief in the midground, to a fully freestanding premium 3D anime figure in the foreground.\n\nChoose ONE fantasy theme:\nDark Military Knight / Elemental Swordmaster / Gothic Commander / Crystal Warrior / Shrine Guardian / Arcane Sorcerer / Mechanical Soldier / Celestial Knight / Shadow Assassin / Royal Battle Guardian.\n\nDesign one original outfit to match the chosen theme, using fantasy uniforms, kimono-inspired battlewear, layered armor, coats, belts, boots, gloves, capes, metallic ornaments, and tasteful battle damage such as scratches, torn fabric, cracks, dust, and chipped details.\n\nChoose ONE element:\nCrimson Fire / Violet Lightning / Absolute Ice / Emerald Wind / Dark Shadow / Ruby Crystal / Golden Light / Lunar Energy / Azure Plasma.\n\nChoose ONE matching weapon:\nKatana / Greatsword / Military Saber / Spear / Battle Axe / Mechanical Blade / Magic Staff / Crystal Halberd.\n\nUse one dynamic breakthrough pose such as an explosive charge, midair strike, stepping through shattered stone, one-knee landing, twisting counterattack, or powerful weapon draw. The weapon must project strongly toward the viewer with correct thickness, natural grip, and convincing anatomy.\n\nThe wall must fracture around the character, with carved fragments, broken metal plates, dust, and decorative relief pieces exploding outward. Some fragments remain attached while others project forward. Elemental effects should look like physically sculpted translucent resin, not flat painted light.\n\nEmphasize strong depth layering:\n1. Flying fragments\n2. Projecting weapon and elemental effects\n3. Freestanding limbs\n4. Sculpted face and torso\n5. Deep embossed character silhouette\n6. Ornate carved wall surface\n7. Recessed relief background\n\nMake it look like a real luxury collectible made of painted PVC, ABS, and resin: sculpted facial volume, glossy inset eyes, individually separated hair locks, deep clothing folds, layered armor, realistic metallic finishes, translucent effects, strong contact shadows, and clear material thickness. Randomize the wall material from black marble, ancient limestone, dark bronze, silver metal, obsidian, carved jade, or weathered gold.\n\nVertical 3:4 composition for X. Use dramatic low-angle three-quarter macro photography, cinematic side lighting, rim light, ambient occlusion, and sharp shadows to emphasize the embossed depth and forward projection.\n\nFinal result: one spectacular ultra-detailed 3D anime collectible figure violently emerging from a deeply carved wall.\n\nExactly one character per image. No text, no collage, no duplicate characters, no extra limbs, no malformed hands, and no disconnected weapons."
+    },
+    {
+      "id": "2124636917220446580",
+      "author": "kyankyan_3",
+      "title": "巧克力主题洋装角色立绘",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "标签式提示词，来自图片 ALT；改颜色词即可换配色。",
+      "needsReference": false,
+      "time": "11-23 06:51",
+      "likes": 35,
+      "bookmarks": 22,
+      "images": [
+        {
+          "local": "images/2026-11-24/kyankyan_3_2124636917220446580_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXw6A8zaMAAAkiO.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "1girl, solo, full body, dynamic composition, centered composition, surrounded by decorations,\n\n\n**【衣装】**\nelaborate chocolate-themed fantasy dress, dark brown dress, chocolate-colored corset, pink heart-shaped neck ribbon, puff sleeves, frilled shoulder decorations, layered skirt, white lace frills, brown and pink color scheme, strawberry decorations, chocolate decorations, striped thighhighs, brown boots, large frilled bonnet, decorative hair accessories, heart ornaments,"
+    },
+    {
+      "id": "2124794851682312656",
+      "author": "pocky2914",
+      "title": "公园徒步的前倾广角抓拍",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "日文提示词来自图片 ALT。",
+      "needsReference": false,
+      "time": "11-23 17:19",
+      "likes": 25,
+      "bookmarks": 29,
+      "images": [
+        {
+          "local": "images/2026-11-24/pocky2914_2124794851682312656_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXzJTEpawAAD-Vx.jpg?name=large",
+          "width": 480,
+          "height": 480
+        }
+      ],
+      "prompt": "縦長3:4、フォトリアル、高精細、晴れた日の緑豊かな公園や森林で撮影した自然なスナップ写真。20代以上の成人日本人女性1人。人物はカメラの真正面で腰から大きく前屈し、上半身と顔をレンズへぐっと近づける。カメラは胸より少し低い位置から24〜28mm相当の広角で至近距離撮影し、顔を画面中央〜右上へ大きく配置。女性は顔をわずかに傾けながらダークブラウンの瞳でレンズをまっすぐ見つめ、唇を閉じて口角を軽く上げた親しみやすい微笑み。柔らかな卵型の小顔、自然な細眉、小ぶりな鼻、淡いローズピンクの唇、頬に自然な血色。黒〜ダークブラウンの顎下程度のショートボブ、深いサイドパート、長い斜め前髪が額と頬へ自然にかかる。画面左前景へ片腕を大きく伸ばし、顔のすぐ横で人差し指と中指を開いた大きなVサイン。手がレンズに近いため顔より大きく見える強い広角遠近感。Vサインしている方の肩が上がって、もう片方が下がっている。衣装は白〜アイボリー地に紫・ピンク系の小花柄を散らしたノースリーブトップス、襟ぐりと肩周りに細かなフリル、胸元中央に細いピンクのリボン。ボトムは落ち着いたグレー系。背景は濃い緑の木々、葉、草地が大きくボケ、木漏れ日による青緑色の玉ボケ。強い自然光、顔の一部に明るいハイライト、やや白飛びした2000年代デジカメらしい色調、軽いJPEG圧縮感、低めのダイナミックレンジ、自然な肌の質感。ネガティブ：未成年、裸、過度な露出、アニメ、3DCG、プラスチック肌、過度な美肌加工、余分な指、崩れたVサイン、不自然な手、文字、ロゴ、透かし。"
+    },
+    {
+      "id": "2124713571691221278",
+      "author": "iamsofiaijaz",
+      "title": "人群动态模糊中的静止人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文关键词式提示词。",
+      "needsReference": false,
+      "time": "11-23 11:56",
+      "likes": 45,
+      "bookmarks": 8,
+      "images": [
+        {
+          "local": "images/2026-11-24/iamsofiaijaz_2124713571691221278_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXx_uF_asAEP-Qf.jpg?name=large",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-24/iamsofiaijaz_2124713571691221278_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXx_un5bgAAp0O8.jpg?name=large",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style."
+    },
+    {
+      "id": "2124736007106961603",
+      "author": "abs_crea8or",
+      "title": "宝蓝色奢华风头像写真",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需上传自己的照片作人脸参考。",
+      "needsReference": true,
+      "time": "11-23 13:25",
+      "likes": 32,
+      "bookmarks": 15,
+      "images": [
+        {
+          "local": "images/2026-11-24/abs_crea8or_2124736007106961603_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXyUIXiXwAAL_Fl.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "PREMIUM ROYAL BLUE LUXURY PORTRAIT — CLEAN-SHAVEN, CLASSY & SOPHISTICATED\n\nUse my uploaded reference photo as the primary facial identity reference. Create an ultra-realistic, high-resolution luxury studio fashion portrait of the exact same young African man. Preserve his original facial identity, face shape, forehead, eyes, nose, lips, ears, skin tone, complexion, age, and natural facial proportions.\n\nFacial Appearance: Completely clean-shaven face with absolutely NO beard, NO moustache, NO goatee, NO stubble, and NO facial hair whatsoever. Maintain a smooth, naturally realistic clean-shaven jawline. Give him neat, short, naturally curly black hair with a well-defined hairline.\n\nOutfit & Styling: Dress him in a perfectly tailored royal navy-blue three-piece luxury suit, featuring a matching waistcoat, vibrant royal-blue formal dress shirt, elegant black textured necktie, and a neatly folded black pocket square. Add premium transparent-frame sunglasses with dark blue gradient lenses.\n\nPose & Composition: Capture him in a sophisticated three-quarter side profile, looking confidently toward the right side of the frame. His expression should be calm, confident, mature, and professional. Frame from the chest upward, highlighting the suit's premium tailoring and elegant styling.\n\nLighting & Background: Use dramatic professional studio lighting with intense electric-blue rim lighting outlining his hair, shoulders, and suit. Add soft, balanced frontal lighting to reveal natural facial details. Use a deep midnight-blue seamless studio background.\n\nPhotography Style: Luxury editorial menswear photography, premium fashion campaign, cinematic color grading, realistic skin texture, sharp facial details, natural proportions, exquisite fabric textures, professional studio photography, 85mm portrait lens, shallow depth of field, ultra-detailed, photorealistic, 8K quality.\n\nIMPORTANT: Preserve the exact identity of the reference subject. Absolutely no beard, moustache, goatee, stubble, or facial hair. Do not alter his natural facial structure, skin tone, age, or recognizable identity. Avoid artificial skin smoothing, exaggerated facial features, cartoon effects, or unrealistic retouching."
+    },
+    {
+      "id": "2124812984551694641",
+      "author": "Minahil42298354",
+      "title": "风中的芥末黄长裙肖像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文提示词。",
+      "needsReference": false,
+      "time": "11-23 18:31",
+      "likes": 40,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-24/Minahil42298354_2124812984551694641_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXzaI-KXIAAZqhV.jpg?name=large",
+          "width": 480,
+          "height": 715
+        }
+      ],
+      "prompt": "​A graceful young woman with flowing, wind-swept dark brown hair and a calm, poised expression stands turned slightly toward the camera against a deep, dark background. She wears a flowing, pleated mustard-yellow sleeveless gown with a deep V-neckline and a gathered waist, the lightweight fabric catching subtle motion as she holds a portion of the skirt gently. Soft, directional studio lighting highlights the natural texture of her skin, the strands of her hair, and the rich folds of the yellow dress while letting the shadows fade seamlessly into darkness, captured as a realistic, cinematic portrait with shallow depth of field."
+    },
+    {
+      "id": "2124640858041680124",
+      "author": "listudio",
+      "title": "夜晚沙发侧坐的暖光人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文长提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-23 07:07",
+      "likes": 32,
+      "bookmarks": 9,
+      "images": [
+        {
+          "local": "images/2026-11-24/listudio_2124640858041680124_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXw9MD9aYAAyy9r.jpg?name=large",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "Create a vertical 2:3 photograph of a fictional, clearly adult 22-year-old East Asian woman seated sideways in a textured taupe sofa in a living room at night. Frame from above her head to about mid-thigh at the near end of the sofa. The close end of the sofa occupies the lower left, and its cushions recede behind her left shoulder. Her weight settles into the back cushion as she turns her head toward the camera with an easy, quiet half-smile. She looks directly at the lens with relaxed eyelids. Her nearer arm follows a diagonal toward her near knee, and her other forearm rests lightly beside her on the cushion. Keep the scene seated and relaxed, with believable adult anatomy, a slight frame, and natural adult head-to-shoulder proportions. Let the relaxed posture set the silhouette.\n\nHer face has a soft oval taper, natural eyebrows, dark almond-shaped eyes, a gently rounded nose tip, warm cheek color, and muted pink lips. Maintain a little asymmetry in the smile, fine natural skin texture and soft facial shadows. Dark, long, gently wavy hair has a subtle off-center part and a few soft face-framing strands, then falls over the back of her near shoulder against the sofa. She wears a softly fitted opaque ivory ribbed cotton tank with a modest round neckline and wide enough shoulder straps to sit flat. The coordinating opaque drawstring lounge shorts have an elastic waist and a comfortable loose leg opening. Maintain the fine ribs, the small folds where the fabric meets the seat, and natural fabric weight. Visible skin is free of tattoos.\n\nA small cream dome lamp glows against a dark walnut wall behind her, near the upper middle of the composition. A matte pale ceramic vase with a small cluster of dusty blue and cream flowers sits on a ledge below it, offset slightly so the shapes read clear of her hair. At the right, a tall dark window and plain curtain frame soft specks of blue and neutral city light. A warm soft light from in front of and slightly above the camera models her face and near shoulder gently. Keep warmth on the upholstery and the cotton, with a cooler window behind and enough shadow detail to read the brown wall and dark hair. Leave a clear margin above the hair. Capture the ordinary feeling of settling into the sofa at night, with no lettering or identifiable location."
+    },
+    {
+      "id": "2124639059876196708",
+      "author": "runaroseee",
+      "title": "绿墙前的极简时装侧影",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文提示词。",
+      "needsReference": false,
+      "time": "11-23 07:00",
+      "likes": 39,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-24/runaroseee_2124639059876196708_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXvtV1ZbcAEOTbB.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "A chic young woman in a minimalist high-fashion studio portrait, standing in profile with her body turned to the side while her head faces the camera with a calm, cool and mysterious gaze. She has dark hair in auburn color pulled back in a sleek low bun with a clean hairline, fair porcelain skin, and bold red lips. She wears round black thick-framed sunglasses, a black turtleneck underneath, and an oversized dark charcoal grey wool coat with structured shoulders. Background is a plain solid deep emerald green studio wall. Soft diffused studio lighting, moody cinematic tones, high fashion editorial style, shallow depth of field, ultra realistic, sharp details, 8k."
+    },
+    {
+      "id": "2124729659996918158",
+      "author": "antrospike",
+      "title": "「沙漠女王」时装大片",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-23 13:00",
+      "likes": 38,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-24/antrospike_2124729659996918158_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXyNaE_aYAAuLsA.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Style: Desert Royalty\nShot: Medium shot, 50mm, warm canyon light, drifting sand\nHair/outfit: Young woman in her mid-20s, blonde hair in a long braid with turquoise beads, saffron and indigo silk kaftan-gown with an embroidered V-neckline (opaque), gold head chain\nPose/face expression: Standing in a carved rose-red canyon doorway, pouring water from a copper jug onto dry ground where a single green sprout emerges. Quiet hope, a soft awed smile\nSetting/light: Rose-red sandstone canyon with carved facades, soft dawn light with warm reflected glow\nPalette/framing: Saffron, indigo, rose-red. Vertical 3:4.\nNegative: no text, no watermark, no signature, no extra fingers, no cartoon look, no crowds."
+    },
+    {
+      "id": "2124920589739811292",
+      "author": "tealdog2",
+      "title": "镜前人像：三模型对比",
+      "model": "GPT Image 2 / Grok Imagine v2 / Nano Banana 2.1",
+      "group": "多模型对比",
+      "note": "三张图依次对应 GPT Image 2（API）、Grok Imagine v2、Nano Banana 2.1（API）。",
+      "needsReference": false,
+      "time": "11-24 01:38",
+      "likes": 22,
+      "bookmarks": 15,
+      "images": [
+        {
+          "local": "images/2026-11-24/tealdog2_2124920589739811292_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX08Ax9awAAxsFy.jpg?name=large",
+          "width": 480,
+          "height": 723
+        },
+        {
+          "local": "images/2026-11-24/tealdog2_2124920589739811292_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX08Ax5bwAAw1XB.jpg?name=large",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-24/tealdog2_2124920589739811292_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX08AysawAAoYZe.jpg?name=large",
+          "width": 480,
+          "height": 715
+        }
+      ],
+      "prompt": "Photorealistic Subject & Action: \nA 20 year old, medium full-length shot of a beautiful young Russian woman, refined features, pale skin tone, large eyes, full lips, with a athletic yet curvy feminine figure and natural proportions. She has long blonde straight hair and blue eyes.\n\nWearing a stylish grey halter-neck mini dress with a plunging neckline, ruched bodice, and a flowy flared skirt. \n\n94-58-92 body proportion anchor, narrow defined waist, rounded hips, dramatic but lean bust-waist-hip curve.\n\nShe leans against a light pink wall, hands raised near her head, looking at the camera. Her clear reflection is visible in a tall, arched full-length mirror to her right. The background features light wooden door and a white ceiling with recessed lights. Soft, bright, even indoor lighting. Realistic photography.\n\nSony A7R IV photography, natural perspective, clean aesthetic, bright and airy composition.\n\nHigh-resolution image; natural details in skin, sub surface scattering, and hair. No filters or AI effects; not a drawing, cartoon, or anime.\n\nThe overall style is hyperrealistic photography, 8K resolution, extremely high image quality, finely detailed skin texture, shallow depth of field, and cinematic lighting and shadows.\n\n#aiart"
+    },
+    {
+      "id": "2124690517719941288",
+      "author": "SonicElkOG",
+      "title": "电影感纸艺摔角面具特写",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文长提示词，3:4 竖版纸艺绘画风。",
+      "needsReference": true,
+      "time": "11-23 10:24",
+      "likes": 31,
+      "bookmarks": 5,
+      "images": [
+        {
+          "local": "images/2026-11-24/SonicElkOG_2124690517719941288_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXxqhTcXMAAq2TE.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/SonicElkOG_2124690517719941288_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXxqW9TWQAAlQna.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/SonicElkOG_2124690517719941288_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXxqa1BWkAALOQF.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/SonicElkOG_2124690517719941288_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXxqcphWsAAtDXs.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/SonicElkOG_2124690517719941288_5.jpg",
+          "remote": "https://pbs.twimg.com/media/HXxqeV5XkAAG1S9.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/SonicElkOG_2124690517719941288_6.jpg",
+          "remote": "https://pbs.twimg.com/media/HXxqf5eXYAAlG4Z.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "🎭🔥 CINEMATIC LUCHADOR MASK — “THE MASKED LEGEND”\n\nModel-Inspired Custom Luchador Mask | Traditional Mexican Wrestling Design | Cinematic Paper Painting Style | Extreme Close-Up | Bold Colors | Dramatic Shadows | Vertical 3:4\n\nCreate ONE breathtaking cinematic 2D paper painting-style illustration featuring EXACTLY ONE clearly adult model wearing a spectacular, custom-designed Mexican Luchador wrestling mask, inspired entirely by the reference model's original appearance.\n\nThe mask must incorporate the model's signature colors, facial features, patterns, personality, and recognizable design elements, transforming them into an intimidating yet stylish professional wrestling mask.\n\nDesign the mask with intricate symmetrical patterns, sharp angular eye outlines, embroidered details, metallic accents, and beautifully layered fabric textures. Preserve the model's original eye color and recognizable identity wherever visible.\n\n🎭 MASK DESIGN: A fully fitted, premium Luchador mask covering the entire head, featuring personalized decorations inspired by the model. Include dramatic eye openings, reinforced stitching, and striking wrestling-inspired ornamentation.\n\n🎨 ART STYLE: Cinematic hand-painted paper illustration with textured watercolor washes, bold ink outlines, layered gouache brushstrokes, subtle paper grain, rich colors, and dramatic comic-book shadows.\n\n📸 CAMERA: Extreme close-up portrait showing the head, mask, and upper shoulders. The model faces the camera with an intense, fearless championship stare.\n\n🔥 LIGHTING: Dramatic arena-inspired rim lighting, deep cinematic shadows, subtle glowing highlights, and a dark atmospheric background.\n\nFINAL REQUIREMENTS: Exactly ONE adult model, accurate anatomy, original identity preserved through the mask design, no extra faces, no distorted eyes, no text, no logos, and no watermark.\n\nAspect Ratio: 3:4 Vertical | Ultra-Detailed | Cinematic Paper Painting Masterpiece.\n\n@Luciel_D31M05"
+    },
+    {
+      "id": "2124902644854710766",
+      "author": "oye_samia",
+      "title": "雪山湖上小木船人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文提示词。",
+      "needsReference": false,
+      "time": "11-24 00:27",
+      "likes": 29,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-24/oye_samia_2124902644854710766_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX0rsGxawAA4COg.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "Hyper-realistic 8K cinematic portrait of a young woman sitting on a traditional wooden shikara boat on a calm lake. She wears a black turtleneck, a patterned shawl, white trousers, white sneakers, and sunglasses. The background features majestic snow-capped mountains under a partly cloudy sky. The word ‘Kashmir’ is written in large, elegant black cursive typography at the top. The boat includes a floral canopy and a sign reading ‘TREKKING IN THE NATURE GHAT No 4’. 85mm lens, f/1.8 aperture, DSLR quality."
+    },
+    {
+      "id": "2124891691589284120",
+      "author": "meng_dagg695",
+      "title": "鸣人与木叶村电影感动漫海报",
+      "model": "MiniMax H3 Image",
+      "group": "MiniMax",
+      "note": "作者注明用 Minimax H3 image（socialsight）生成。",
+      "needsReference": false,
+      "time": "11-23 23:43",
+      "likes": 27,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-24/meng_dagg695_2124891691589284120_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX0hFD7akAA-326.jpg?name=large",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-24/meng_dagg695_2124891691589284120_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX0hKRpbkAADLxs.jpg?name=large",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-24/meng_dagg695_2124891691589284120_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX0hQRhaoAA5BOs.jpg?name=large",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "MASTER IMAGE GENERATION PROMPT\n\nCreate a highly detailed, cinematic anime poster in a vertical 9:16 aspect ratio, featuring a powerful, nostalgic and emotionally uplifting composition centered around Naruto Uzumaki and the Hidden Leaf Village.\n\nCOMPOSITION & LAYOUT:\n\nDesign a layered cinematic composition with two representations of Naruto. The upper half of the image features an enormous, close-up side-profile portrait of Naruto Uzumaki, occupying most of the upper-right and central background. His face is angled toward the right, displaying a calm, determined and reflective expression. His spiky golden-blond hair, blue eye, whisker-like facial markings, Leaf Village forehead protector and distinctive facial structure are rendered in dramatic detail. This giant portrait should feel like an artistic, atmospheric background mural integrated naturally into the environment.\n\nIn the lower foreground, depict Naruto as a full-body character sitting on a rugged rocky ledge. He is positioned slightly left of center, sitting in a relaxed but thoughtful pose, with one knee raised, one arm resting casually over his knee, and his other leg extending downward along the rock. His head is slightly raised as he gazes toward the distant horizon and the sunset. His posture should convey determination, reflection, nostalgia and quiet confidence.\n\nCHARACTER DETAILS:\n\nNaruto Uzumaki wears his iconic orange and black ninja outfit, featuring a black upper jacket with orange accents, orange pants, a high collar, the Leaf Village symbol on his shoulder, black ninja sandals, and a metal forehead protector bearing the engraved Hidden Leaf symbol. His blond spiky hair is illuminated by warm sunset light. Include his recognizable three whisker-like marks on each cheek.\n\nThe character in the foreground should have clean anime linework, carefully rendered facial expressions, realistic anime proportions, intricate clothing folds, detailed fabric textures and strong visual consistency.\n\nBACKGROUND & ENVIRONMENT:\n\nThe setting is a breathtaking panoramic view of the Hidden Leaf Village (Konoha) during a golden sunset. The village stretches across the lower-right and middle distance, featuring traditional Japanese-inspired architecture, tiled rooftops, multi-story buildings, small structures, winding streets and distant mountain ranges.\n\nInclude the iconic Hokage Rock in the distant background, with the carved faces of the Hokage visible along the mountainside. The monumental stone faces should be integrated into the landscape and appear naturally illuminated by the sunset.\n\nInclude distant mountains silhouetted against the glowing horizon, layered atmospheric perspective, small village rooftops, towers, buildings, greenery and a waterfall or flowing water feature in the lower-right area of the composition.\n\nThe rocky foreground should be uneven, textured and rugged, covered with small patches of grass, green plants, scattered leaves and natural vegetation. Include a small Leaf Village emblem engraved or represented on a metallic plate embedded into the rock near the lower-left foreground.\n\nSKY & LIGHTING:\n\nThe sky is filled with an intense golden-orange sunset, blending warm amber, burnt orange, yellow and dark navy-blue tones. The sun is low near the horizon, creating an intense glowing focal point behind the mountains.\n\nUse dramatic cloud formations, textured brushstroke-like clouds and painterly atmospheric effects. The sky should transition from glowing orange near the horizon to deep navy, dark blue and black toward the upper-left areas.\n\nCreate strong cinematic rim lighting around Naruto's hair, shoulders, clothing and silhouette. The sunset should cast warm golden highlights across his face, clothing, rocks and village rooftops, while shadows remain deep, dramatic and richly textured.\n\nART STYLE & VISUAL TREATMENT:\n\nHigh-end anime cinematic illustration, premium Japanese anime movie poster aesthetic, expressive anime character design, dramatic painterly composition, textured ink-brush strokes, rough grunge painting details, cinematic atmospheric depth, detailed cel shading, intricate environmental rendering, dynamic contrast, sophisticated color grading, epic storytelling composition, nostalgic anime atmosphere, masterful background painting.\n\nBlend traditional anime illustration with modern cinematic poster art. Use visible textured brush strokes, distressed paint effects, dark ink-like splashes, subtle grain, painterly clouds and rugged textures throughout the composition.\n\nThe giant Naruto portrait in the background should blend seamlessly with the sky using expressive painterly strokes, while the foreground Naruto remains sharply detailed and clearly defined.\n\nCOLOR PALETTE:\n\nDominant burnt orange, golden amber, fiery yellow, deep navy blue, charcoal black, warm brown, muted green and sunset gold.\n\nUse a strong complementary contrast between the warm orange sunset and the deep blue-black shadows.\n\nCAMERA & FRAMING:\n\nVertical portrait composition, 9:16 aspect ratio, cinematic poster framing, low-angle perspective toward the seated character, expansive background panorama, foreground character clearly visible from head to feet, large atmospheric portrait dominating the upper section, strong depth of field through layered landscape, carefully balanced visual hierarchy.\n\nThe image should feel like an iconic anime poster, emotionally powerful, cinematic, atmospheric, detailed and visually unforgettable.\n\nQUALITY:\n\nUltra-detailed anime illustration, high-resolution digital painting, cinematic lighting, professional anime poster composition, highly detailed character rendering, expressive face, detailed environment, rich textures, dramatic shadows, atmospheric depth, premium illustration quality.\n\nAvoid photorealism. Maintain a consistent anime illustration style throughout the entire image."
+    },
+    {
+      "id": "2124635284990276048",
+      "author": "Tanvir48992",
+      "title": "黑白局部上色的画笔艺术肖像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文提示词。",
+      "needsReference": false,
+      "time": "11-23 06:45",
+      "likes": 28,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-24/Tanvir48992_2124635284990276048_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXwBwcUagAA6soW.jpg?name=large",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "Vertical fine-art selective-color portrait of a striking young woman crouching low on a polished concrete floor, hugging a giant artist's paintbrush that stands upright beside her. The entire image is black-and-white except for the brush handle and the wet paint on the floor, which are a vivid golden yellow. She kneels on one knee with the other knee raised, one arm wrapped around the brush handle with her hand gripping it near her face, and the other hand resting on her knee. She looks straight into the camera from a low angle with an intense, confident, slightly parted-lip expression.\n\nShe has a short, tousled, messy pixie cut in dark brown-black, with wispy strands falling across her forehead and catching a soft rim light. Her skin is luminous and textured, with a dusting of natural freckles across her nose and cheeks, defined brows, light eyes, and soft matte natural lips. She is barefoot.\n\nShe wears an oversized white cotton button-up shirt, worn open and loosely draped, with the sleeves rolled and a wrinkled, lived-in texture, over dark shorts.\n\nThe brush is a huge, glossy yellow lacquered wooden handle with a hammered silver metal ferrule engraved with \"ZN\" and long, natural grey bristles. The bristle tips are dipped in thick, glossy yellow paint that smears and pools across the floor in a bold, wet stroke with splatters.\n\nSetting: a moody, dark charcoal studio with a textured concrete wall and a glossy, slightly reflective floor. A soft beam of window light falls diagonally across the upper left corner.\n\nLighting: dramatic, soft chiaroscuro with a gentle key light from the upper left, a subtle rim light on the hair and shoulders, deep shadows, and glowing highlights on the skin, the lacquered handle, and the wet paint. The palette is monochrome grey and black with a single saturated golden-yellow accent.\n\nStyle: hyper-realistic high-fashion fine-art photography, selective color, conceptual gallery editorial, ultra-detailed skin, fabric, bristle, and paint texture, low-angle wide-angle perspective, shallow depth of field, sharp focus on the face, 8K, vertical 4:5 composition."
+    },
+    {
+      "id": "2124737205914477053",
+      "author": "Monaqbuv",
+      "title": "奢华时尚杂志感人像",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文提示词。",
+      "needsReference": false,
+      "time": "11-23 13:30",
+      "likes": 21,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-24/Monaqbuv_2124737205914477053_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXyB_9ObQAAMnlT.jpg?name=large",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "An ultra-realistic luxury fashion editorial portrait of a stunning young woman with delicate feminine facial features, glowing warm skin, captivating dark brown eyes, glossy nude-pink lips, and shoulder-length voluminous tousled dark brown hair. She wears an elegant shimmering black metallic backless evening gown with dramatic draped fabric and a deep open-back design, paired with oversized silver hoop earrings. She poses gracefully with her back partially turned toward the camera, looking over her shoulder with a seductive, confident expression. Dramatic dark charcoal studio background, soft directional side lighting, beautiful shadows, cinematic atmosphere, natural skin texture, sophisticated high-fashion photography, photorealistic, ultra-detailed, vertical 9:16 composition."
+    },
+    {
+      "id": "2124745684507340907",
+      "author": "yakkgsk888",
+      "title": "和风军乐队服装设计图",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文提示词来自图片 ALT；有中式和日式两版。",
+      "needsReference": false,
+      "time": "11-23 14:03",
+      "likes": 15,
+      "bookmarks": 7,
+      "images": [
+        {
+          "local": "images/2026-11-24/yakkgsk888_2124745684507340907_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXyc79naoAAFH1b.jpg?name=large",
+          "width": 480,
+          "height": 801
+        },
+        {
+          "local": "images/2026-11-24/yakkgsk888_2124745684507340907_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXyc79kbAAA30bc.jpg?name=large",
+          "width": 480,
+          "height": 801
+        }
+      ],
+      "prompt": "A fashionable men's marching band costume with a subtle Japanese-inspired aesthetic. Classic marching band uniform design combined with elegant traditional Japanese influences. A sophisticated military-style silhouette featuring a structured jacket, decorative shoulder epaulettes, ornamental buttons, braided cords, elegant trims, and a distinctive high collar. Subtle Japanese design elements such as kimono-inspired details, traditional Japanese patterns, delicate embroidery, and refined ornamental accents. A stylish fusion of Western marching band tradition and modern Japanese elegance. Masculine, sophisticated, artistic, theatrical, and visually striking. Full-body costume design, head-to-toe view, front-facing pose, highly detailed fashion illustration, clean white background."
+    },
+    {
+      "id": "2124866237624922616",
+      "author": "Ozayrr_irl",
+      "title": "纯黑背景的暗调电影人像",
+      "model": "Nano Banana 2",
+      "group": "Nano Banana",
+      "note": "需上传自己的照片；作者注明用 Google Gemini Nano Banana 2。",
+      "needsReference": true,
+      "time": "11-23 22:02",
+      "likes": 13,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-24/Ozayrr_irl_2124866237624922616_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX0Ki0baIAAL6m6.jpg?name=large",
+          "width": 480,
+          "height": 693
+        }
+      ],
+      "prompt": "Use the exact same face and identity from the reference image, preserving all facial characteristics. Create an ultra-photorealistic cinematic portrait of a man from the shoulders up against a pure black background. His dark tousled hair, sharp jawline and soulful eyes remain naturally realistic. Behind his head, place a large subtle circular red light resembling a distant eclipse, partially obscured by his silhouette. The primary face lighting remains dramatic Rembrandt/chiaroscuro from the upper-left, illuminating one eye and cheekbone while the opposite side falls into darkness. A faint crimson rim light traces one edge of his hair and shoulder. Black textured turtleneck. Expression: calm, intense, mysterious, almost otherworldly. High-fashion editorial, neo-noir, cinematic psychological poster aesthetic, realistic skin texture, controlled highlights, deep blacks, subtle film grain, 8K. \"OzairAI\" subtly embedded in the darkest bottom-center shadow. Vertical 9:13, no text overlays."
+    },
+    {
+      "id": "2124773845500604527",
+      "author": "yasu1035",
+      "title": "角色变 GTA6 风游戏封面",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需上传自己的角色图；日文提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-23 15:55",
+      "likes": 10,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-24/yasu1035_2124773845500604527_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXy2jL3aUAAGxiu.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/yasu1035_2124773845500604527_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXy2jL4aMAAwr-_.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/yasu1035_2124773845500604527_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HXy2jL0bgAAGmzX.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/yasu1035_2124773845500604527_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HXy2jMAa0AAFbl7.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/yasu1035_2124773845500604527_5.jpg",
+          "remote": "https://pbs.twimg.com/media/HXy2jMCbsAACLF1.jpg?name=large",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-24/yasu1035_2124773845500604527_6.jpg",
+          "remote": "https://pbs.twimg.com/media/HXy2jMCakAAKpZU.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "🎮 GTA6風パロディパッケージ＆MAXテンション紹介イラスト生成プロンプト\n\n添付されたキャラクター画像を参考に、PlayStation 5用ゲーム「Grand Theft Auto VI（GTA6）」のパッケージをモチーフにした、ユーモラスで可愛らしいパロディイラストを制作する。\n\n【最重要：全体コンセプト】\n添付されたキャラクター本人が、自分が主人公のGTA6風ゲームパッケージを、テンションMAXでカメラに向かって大きく差し出している。\n\n主役はあくまでもゲームパッケージ。\nパッケージが画面の約60〜70％を占めるほど大きく、手前に迫って見える構図にする。\n\n【キャラクターの忠実な再現】\n・添付画像のキャラクターの髪型、髪色、顔立ち、瞳、服装、アクセサリー、体格、モチーフを忠実に再現。\n・別人にならないよう、キャラクターの個性を最優先。\n・動物やマスコットが一緒にいる場合は、相棒として登場させてもよい。\n・キャラクターはパッケージの後ろに配置し、顔と上半身が見えるようにする。\n\n【構図・カメラアングル】\n・3:4縦長画像。\n・超広角レンズで撮影したような強烈な遠近感。\n・パッケージは画面中央の最前面に巨大に配置。\n・主人公は後ろから腕を伸ばしてパッケージをこちらに突き出す。\n・パッケージの表紙全体が見え、デザインとロゴがはっきり確認できる。\n・人物の顔は隠さず、パッケージの上や横から覗くような位置に配置。\n・単なるパッケージ画像ではなく、キャラクターが実際にゲームケースを持っている一枚のイラストにする。\n\n【キャラクターの表情・演技】\n・嬉しさ爆発、テンションMAX！\n・満面の笑顔、キラキラした目、興奮気味の表情。\n・「見て見てー！」「これ最高でしょ！」と自慢しているような勢い。\n・躍動感のあるポーズと、少しオーバーで可愛らしいリアクション。\n・キャラクター本来の性格も反映する。\n\n【パッケージデザイン】\n・上部に白いPS5風ヘッダー。\n・中央に巨大な「grand theft auto VI」風タイトルロゴ。\n・白い極太立体文字、黒い縁取り、ピンク〜紫〜オレンジのVIロゴ。\n・8〜10個程度の大小異なるパネルを、太い黒い枠線で区切ったコラージュ構成。\n・南国の夕焼け、ネオン街、ヤシの木、スポーツカー、バイクなど、GTA6らしい華やかで刺激的な世界観。\n・下部には架空のゲーム会社ロゴとレーティング表示。\n・本物のゲームケースらしい厚み、プラスチックの光沢、精密な印刷表現。\n\n【パッケージ内のストーリー】\n添付キャラクター自身を各パネルの主人公として繰り返し登場させる。\n\n・カッコいい決めポーズ。\n・派手なスポーツカーやバイクで疾走。\n・サングラス姿でセレブ気取り。\n・動物やマスコットとのコミカルな冒険。\n・ちょっと間抜けなハプニング。\n・夕焼けを背景にした映画のような場面。\n・キャラクターの特徴やモチーフを活かしたユニークなアクション。\n\nシーンはあくまで例であり、添付キャラクターに合わせて毎回新しい内容を創作する。\n元のGTA6パッケージの人物や場面をそのままコピーしない。\nパネルごとに人物の表情、ポーズ、アングルを変える。\n\n【画風・色彩】\n・GTA6のキービジュアルを連想させるアメリカンコミック調＋セミリアルな高精細イラスト。\n・鮮やかなピンク、パープル、オレンジ、ターコイズ。\n・映画の宣伝ポスターのような迫力と完成度。\n・可愛らしさ、カッコよさ、少しおバカなユーモアを融合。\n・ゲームパッケージはシャープで鮮明に、人物は奥行きのある自然な描写。\n\n【絶対に避けること】\n・パッケージが小さくなること。\n・人物のほうが目立つこと。\n・パッケージの表紙が手や指で隠れること。\n・人物の顔がケースで完全に隠れること。\n・キャラクターが別人になること。\n・手や腕、指の増殖や不自然な形。\n・各パネルで同じポーズや場面を繰り返すこと。\n・パッケージが単なる平面的な背景になること。\n\n【最終イメージ】\n「ついに俺（私）のGTA6が発売されたー！！」\n\n添付キャラクターが、自分のゲームパッケージを最高の笑顔でカメラにドーン！と突き出している。\n\nとにかくパッケージが大きい！\nキャラクターはテンションMAX！\n可愛くて、ちょっと笑えて、圧倒的に目を引く一枚。\n\n3:4縦長、超高精細、ダイナミックな遠近法、パッケージ最優先。"
+    }
+  ]
+}
