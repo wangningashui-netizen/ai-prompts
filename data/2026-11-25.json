@@ -1,0 +1,640 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-25",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "2125152446422843773",
+      "author": "ai_sorano_e3",
+      "title": "警察官风 cosplay 写真",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "日文提示词来自图片 ALT。",
+      "needsReference": false,
+      "time": "11-24 17:00",
+      "likes": 389,
+      "bookmarks": 384,
+      "images": [
+        {
+          "local": "images/2026-11-25/ai_sorano_e3_2125152446422843773_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX0Kev5aUAAjA-N.jpg?name=large",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "フォトリアル。\n20代の成人日本女性。小顔、鼻筋の通った小さい鼻、艶やかなピンクの唇、くっきりとした二重。\n服装はスタイリッシュな警察官風のコスチューム。\n水色のYシャツは胸元がゆったりとV字に開いており、ボトムスは紺色のタイトなミニスカート。\n紺のネクタイを首に巻き、首元から体の中央に沿って真っすぐ垂れ下がっている。\n帽子は制帽タイプで、後頭部に載せるような形で浅くかぶっている。\nポーズは少し腰を曲げて、上半身をこちらに傾けている。\n片手には銀色の金属製小道具を持ち、腕を曲げて顔の横に寄せている。\n背景は明るい自室。\n高精細、画像比率2:3縦長、4K。"
+    },
+    {
+      "id": "2125179007507595630",
+      "author": "abulu8",
+      "title": "红底极简漫画风海报",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "提示词来自图片 ALT；作者用 Somake 制作。",
+      "needsReference": false,
+      "time": "11-24 18:45",
+      "likes": 95,
+      "bookmarks": 2,
+      "images": [
+        {
+          "local": "images/2026-11-25/abulu8_2125179007507595630_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX4mi__aIAAmDy3.jpg?name=large",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "Ultra-minimal comic poster, deep crimson background, a tiny black adult woman silhouette strutting glamorously on a thin white ground line in tiny black sunglasses, flanked by two tiny white birds in tiny black shades acting as bodyguards, one holding a white flower like an earpiece, vast red negative space, small clean white sans-serif text 'Morning VIP coming through.' near the bottom, white, black and red, cheeky and seductive, flat vector, exact text."
+    },
+    {
+      "id": "2125129410454212632",
+      "author": "alicehan_ai",
+      "title": "原宿流行偶像 JSON 写真",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana Pro（AI Studio）；JSON 结构化提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-24 15:28",
+      "likes": 44,
+      "bookmarks": 24,
+      "images": [
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125129410454212632_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX353vZbwAAVNbE.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125129410454212632_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX353vebsAAsV3N.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125129410454212632_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX353vAaQAAwCaO.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125129410454212632_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX353vEakAANCBY.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 19-year-old adult Japanese Harajuku pop idol, 155 cm tall, with a naturally proportioned heart-shaped face with subtle facial asymmetry, expressive eyes of natural size relative to her face, softly rounded cheeks, a gently defined nose, naturally shaped lips, and a playful smile with small cheek and eyelid creases and subtle skin-tone variation, solid cherry-blossom pink hair, and a petite curvy dancer's hourglass figure with a full bust, narrow waist, and rounded hips (measurements: 88-56-91 cm)\",\n    \"hair\": \"solid cherry-blossom pink layered waves\",\n    \"expression\": \"Playful, bright smile with lifted cheeks, soft eyelid creases, and slightly parted lips.\",\n    \"pose\": \"Kneeling sideways on the black leather sofa with her torso angled three-quarters right, leaning slightly forward with one hand resting lightly on the sofa cushion beside her thigh and the other hand touching the silver garter clip, head tilted toward the camera.\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"Glossy halter-neck plunging zip-front corset bodice with a pointed front hem, minimal matching bottom, and garter straps with silver clips attached to thigh-high boots.\",\n    \"material\": \"High-gloss latex and vinyl with crisp environment-shaped specular reflections, silver metal zipper and garter clip hardware, and matte-to-sheen leather on the tufted sofa.\",\n    \"color\": \"cherry blossom pink, carried by the glossy latex corset bodice, minimal matching bottom, and garter strap accents, paired with glossy black thigh-high boots\",\n    \"footwear\": \"Glossy black thigh-high boots with matching cherry blossom pink garter strap accents.\",\n    \"accessories\": \"Slim nameplate necklace resting just below her collarbone, silver front zipper and garter clips, and a small pink enamel hair clip.\"\n  },\n  \"scene\": {\n    \"location\": \"Moody, dimly lit minimalist interior room with a matte pale off-white wall behind a glossy black tufted leather sofa.\",\n    \"atmosphere\": \"Intimate, quiet, moody late-evening studio-like interior with cool-neutral shadows and subtle specular sheen on glossy surfaces.\",\n    \"background\": \"Matte pale off-white interior wall with clean, unlettered minimalist surfaces behind the glossy black tufted leather sofa.\",\n    \"composition\": \"Vertical 9:16 framing adapted from 3:4 with slightly more vertical headroom and lower thigh/sofa framing, keeping a three-quarter seated/kneeling crop from above the head down to mid-thigh and the tops of the thigh-high boots.\",\n    \"lighting\": \"Dim cool-neutral ambient lighting from an off-camera soft source to the front-right, producing gentle highlight roll-off on natural skin and crisp specular sheen on the glossy corset, boots, and leather sofa.\",\n    \"camera\": \"Eye-level to slightly high-angle three-quarter front-side live-action photograph from the subject's right-front, capturing natural optical depth, fine skin texture, and sharp focus on the subject.\",\n    \"grade\": \"Natural, restrained photographic retouching with rich shadow depth, retained highlight detail, and cool-neutral tonal balance without artificial smoothing.\"\n  },\n  \"scene_text\": {\n    \"archetype\": \"necklace\",\n    \"carrier\": \"slim nameplate necklace in cursive lettering\",\n    \"placement\": \"resting just below her collarbone\",\n    \"text\": \"alicehan_ai\"\n  },\n  \"compiled_prompt\": \"A candid live-action portrait photograph of an exceptionally beautiful 19-year-old adult Japanese Harajuku pop idol, 155 cm tall, with a naturally proportioned heart-shaped face, subtle facial asymmetry, expressive eyes of natural size, softly rounded cheeks, a gently defined nose, and naturally shaped lips. Captured from an eye-level to slightly high-angle three-quarter front-side viewpoint from her right-front with a 50mm lens at f/2.8, the tall vertical frame shows one figure centered and filling the height of the picture, cropped from above her head down to mid-thigh and the tops of her boots. Her solid cherry-blossom pink hair falls in layered waves with slightly messy natural strands framing forehead and temples, secured on one side by a small pink enamel hair clip. She wears a playful, bright smile with lifted cheeks, soft eyelid creases, and slightly parted lips, her head tilted toward the camera. Kneeling sideways on a glossy black tufted leather sofa with her torso angled three-quarters right, she leans slightly forward with one hand resting lightly on the sofa cushion beside her thigh and the other hand touching a silver garter clip. She has a petite curvy dancer's hourglass figure with a full bust, narrow 56 cm waist, and rounded hips (88-56-91 cm). Her outfit is a cherry blossom pink high-gloss latex and vinyl halter-neck plunging zip-front corset bodice with a pointed front hem and silver front zipper, paired with a minimal matching cherry blossom pink bottom, garter straps with silver clips, and glossy black thigh-high boots accented with matching cherry blossom pink garter straps. Resting just below her collarbone is a slim nameplate necklace in cursive lettering reading \\\"alicehan_ai\\\". The setting is a moody, dimly lit minimalist interior room with a matte pale off-white wall behind the tufted leather sofa. Dim cool-neutral ambient lighting from an off-camera soft source to the front-right illuminates the scene, casting natural shadows and creating crisp environment-shaped specular sheen across the cherry blossom pink glossy latex corset, vinyl boots, and leather sofa, while her exposed skin retains realistic skin texture with subtle pores, natural organic glow and micro details, authentic skin undertones, gradual highlight roll-off, and restrained photographic retouching with rich shadow depth.\"\n}"
+    },
+    {
+      "id": "2125000258543591477",
+      "author": "Arbel_Gaming",
+      "title": "你是哪位 X 战警：角色变身",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需上传自己的角色图；英文长提示词在作者第一条回复里。",
+      "needsReference": true,
+      "time": "11-24 06:55",
+      "likes": 39,
+      "bookmarks": 15,
+      "images": [
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX15L-8WoAAhHNp.jpg?name=large",
+          "width": 480,
+          "height": 800
+        },
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX15tbRWQAECdke.jpg?name=large",
+          "width": 480,
+          "height": 800
+        },
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX16yJXW8AEKiZ3.jpg?name=large",
+          "width": 480,
+          "height": 800
+        },
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX17T7qWkAAx6YV.jpg?name=large",
+          "width": 480,
+          "height": 800
+        },
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_5.jpg",
+          "remote": "https://pbs.twimg.com/media/HX18t5SWAAAsLHF.jpg?name=large",
+          "width": 480,
+          "height": 800
+        },
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_6.jpg",
+          "remote": "https://pbs.twimg.com/media/HX19b0_WsAACFdP.jpg?name=large",
+          "width": 480,
+          "height": 800
+        },
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_7.jpg",
+          "remote": "https://pbs.twimg.com/media/HX1-4HtXIAEtULo.jpg?name=large",
+          "width": 480,
+          "height": 800
+        },
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_8.jpg",
+          "remote": "https://pbs.twimg.com/media/HX1_Y6CWAAABr20.jpg?name=large",
+          "width": 480,
+          "height": 800
+        },
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_9.jpg",
+          "remote": "https://pbs.twimg.com/media/HX2CzZ9X0AAnKYP.jpg?name=large",
+          "width": 480,
+          "height": 800
+        },
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_10.jpg",
+          "remote": "https://pbs.twimg.com/media/HX2EHELWoAEv0jt.jpg?name=large",
+          "width": 480,
+          "height": 800
+        },
+        {
+          "local": "images/2026-11-25/Arbel_Gaming_2125000258543591477_11.jpg",
+          "remote": "https://pbs.twimg.com/media/HX2EbyTWMAAnxQX.jpg?name=large",
+          "width": 480,
+          "height": 800
+        }
+      ],
+      "prompt": "@image1 - is the main and only character reference.\n\nThe character must remain fully recognizable and faithful to the original reference image.\n\nDo not change, invent, obscure, or drift from the character's original design.\n\nPreserve the following characteristics exactly as seen in @image1: face shape, eye color, eye shape, mouth, hairstyle, hair color, ears, race, gender, species, age, markings, body proportions, and overall silhouette.\n\nCharacter name: [Your Name].\n\nCarefully analyze the reference character's color scheme, visual aesthetic, personality, temperament, character archetype, and overall vibe before making a selection.\n\nBased on this analysis, select ONE X-Men character from the 1992–1997 X-Men animated series whose personality, mutant abilities, visual aesthetic, and overall character concept best complement the original character.\n\nThe selection must be based on genuine overall compatibility rather than superficial similarities such as gender, hairstyle, hair color, or popularity.\n\nConsider the ENTIRE available character roster before making the final selection.\n\nDo not automatically gravitate toward the most recognizable or frequently associated characters. Avoid repeatedly choosing Rogue, Jean Grey, or Psylocke for female characters, and Gambit or Wolverine for male characters. These characters remain valid choices when they genuinely offer the strongest match, but they must not be treated as default selections.\n\nGive equal consideration to less frequently selected characters. Explore the full range of available personalities, powers, aesthetics, and character archetypes. Unexpected but meaningful combinations are encouraged whenever they offer a compelling match.\n\nEach reference sheet must be evaluated independently. Do not allow previous character selections to influence the current selection.\n\nAvailable female characters include: Jean Grey, Storm (Ororo Munroe), Rogue, Jubilee (Jubilation Lee), Psylocke (Betsy Braddock), Emma Frost, Mystique (Raven Darkholme), Scarlet Witch (Wanda Maximoff), Polaris (Lorna Dane), Moira MacTaggert, Madelyne Pryor, Lilandra Neramani, Deathbird (Cal'syee Neramani), Spiral, and Lady Deathstrike (Yuriko Oyama).\n\nAvailable male characters include: Wolverine (Logan), Cyclops (Scott Summers), Beast (Hank McCoy), Gambit (Remy LeBeau), Professor X (Charles Xavier), Archangel (Warren Worthington III), Nightcrawler (Kurt Wagner), Forge, Cable (Nathan Summers), Bishop (Lucas Bishop), Iceman (Bobby Drake), Morph (Kevin Sidney), Colossus (Piotr Rasputin), Sunfire (Shiro Yoshida), Longshot, Shatterstar, Thunderbird (John Proudstar), Havok (Alex Summers), Strong Guy (Guido Carosella), and Warlock.\n\nSelect a character appropriate to the original character's gender. Never change the original character's gender or physical identity.\n\nDress the original character in a highly recognizable and faithful interpretation of the selected X-Men character's iconic costume from the 1992–1997 animated series.\n\nThe original character's face, hairstyle, hair color, physical features, and overall identity must remain unchanged. The character is COSPLAYING as the selected X-Men character, not transforming into them.\n\nNaturally adapt the selected X-Men character's costume, signature accessories, and iconic design elements to the original character's proportions and appearance.\n\nThe character must visibly demonstrate the signature mutant powers of the selected X-Men character, integrated naturally and dramatically into the scene. The displayed powers must be recognizable, visually impressive, and consistent with the selected character's actual abilities.\n\nCreate a dynamic, cinematic scene that captures the selected X-Men character's personality, powers, and visual identity while allowing the original character's own personality and aesthetic to shine through.\n\nGenerate a high-quality anime illustration highly inspired by the 1992–1997 X-Men animated series, featuring its distinctive character designs, expressive facial features, bold outlines, vibrant colors, dramatic comic-book compositions, dynamic poses, and classic cel-shading aesthetics.\n\nGenerate a 3:5 portrait composition.\n\nPosition the character prominently within the scene, ensuring the full costume and signature mutant powers are clearly visible.\n\nAt the bottom of the image, incorporate a beautifully designed, visually integrated information box.\n\nThe information box must contain:\n\nOriginal Character: [Your Name]\n\nX-Men Cosplay: [Selected X-Men Character]\n\nWhy This Match: A short, thoughtful explanation of why the selected X-Men character complements the original character, referencing their personality, color palette, visual aesthetic, or other defining characteristics.\n\nEnsure all text is correctly spelled, legible, and neatly arranged without obscuring the character or important scene details.\n\nThe final artwork should have a masterpiece-level finish, with crisp rendering, beautiful color composition, intricate costume details, polished cel shading, professional promotional-poster quality, and exceptional visual clarity.\n\nAvoid:\nIncorrect character selection, repetitive character selections, defaulting to popular characters, changing the original character's identity, altered facial features, changed hairstyles, changed hair colors, gender changes, inaccurate costumes, inaccurate mutant powers, generic superhero costumes, low quality, worst quality, blurry images, bad anatomy, extra fingers, missing fingers, extra digits, missing digits, deformed features, ugly appearances, ugly faces, JPEG artifacts, logos, watermarks, unreadable text, cropped subjects, and unwanted cropping."
+    },
+    {
+      "id": "2125182660406550918",
+      "author": "dreamydigiarts",
+      "title": "精灵短发女子写实肖像",
+      "model": "Nano Banana 2",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana 2（WeryAI）。",
+      "needsReference": false,
+      "time": "11-24 19:00",
+      "likes": 39,
+      "bookmarks": 13,
+      "images": [
+        {
+          "local": "images/2026-11-25/dreamydigiarts_2125182660406550918_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXymReYbkAAHrnE.jpg?name=large",
+          "width": 480,
+          "height": 643
+        }
+      ],
+      "prompt": "Ultra-realistic portrait of a young woman, short dark brown pixie haircut with soft side-swept bangs partially covering the forehead, natural olive skin, defined jawline, small beauty mark near the lips, subtle winged eyeliner, soft nude lips, elegant facial features, looking slightly downward with a calm and thoughtful expression.\n\nWearing a black fitted spaghetti-strap top and a black leather choker with a small heart pendant, small gold hoop earrings. No headband, no hair accessories.\n\nWarm cinematic studio lighting, soft shadows, smooth green-gray background, shallow depth of field, highly detailed skin texture, photorealistic, professional fashion photography, 85mm lens, ultra sharp focus, realistic eyes, natural skin pores, high-end editorial portrait, 8k quality."
+    },
+    {
+      "id": "2125310760687694023",
+      "author": "81soud81",
+      "title": "水彩铅笔混合艺术肖像",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "需上传自己的照片；作者注明用 ChatGPT。",
+      "needsReference": true,
+      "time": "11-25 03:29",
+      "likes": 27,
+      "bookmarks": 12,
+      "images": [
+        {
+          "local": "images/2026-11-25/81soud81_2125310760687694023_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX6e3j-WAAAeIH9.jpg?name=large",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-25/81soud81_2125310760687694023_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX6e3j6XMAAZ1ZZ.jpg?name=large",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "A breathtaking fine-art portrait of a beautiful young woman with short, voluminous, tousled dark brown wavy hair and subtle chestnut highlights. She is smiling radiantly with natural, expressive eyes, looking slightly upward and away from the camera, gently resting her chin on her hand. She wears an oversized ivory-white knitted turtleneck sweater with long, cozy sleeves.\n\nA sophisticated blend of hyperrealistic portraiture, delicate watercolor painting, graphite pencil sketching, and colored pencil illustration. Beautifully detailed facial features, natural skin texture, soft rosy cheeks, delicate eyelashes, and finely rendered individual hair strands.\n\nSoft diffused lighting, warm pastel tones, subtle peach and beige watercolor washes, an off-white textured paper background, expressive unfinished pencil strokes, delicate paint splashes, and elegant vertical paint drips. The lower portion of the portrait gradually dissolves into abstract watercolor brushstrokes.\n\nDreamy, joyful, feminine atmosphere, refined artistic composition, exceptional craftsmanship, museum-quality fine art, ultra-detailed, 8K resolution, vertical portrait, aspect ratio 2:3."
+    },
+    {
+      "id": "2125061861729058923",
+      "author": "dreamydigiarts",
+      "title": "夜晚卧室手机自拍",
+      "model": "Nano Banana 2",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana 2（WeryAI）。",
+      "needsReference": false,
+      "time": "11-24 11:00",
+      "likes": 25,
+      "bookmarks": 10,
+      "images": [
+        {
+          "local": "images/2026-11-25/dreamydigiarts_2125061861729058923_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXyk1OQa8AAvdU2.jpg?name=large",
+          "width": 480,
+          "height": 643
+        }
+      ],
+      "prompt": "Ultra-realistic selfie of a young woman named Yara in her bedroom at night, taken on a phone camera. The room is dimly lit with a single warm bedside lamp and faint city light leaking through partially closed curtains. She’s sitting on her bed, relaxed but emotionally distant, wearing cozy winter clothes — an oversized hoodie and soft fabric pants.\n\nHer hair is down, slightly messy, natural and unstyled, falling over her shoulders. Her expression is calm, introspective, slightly tired — not sad, but caught in a quiet loop of thought. Subtle eye bags, natural skin texture, realistic pores, no heavy makeup.\n\nThe vibe is dark, moody, and introspective, inspired by industrial/alternative music aesthetics — a sense of repetition, numbness, and “here we go again” energy. The photo feels candid, imperfect, and human, like a late-night selfie taken during a moment of emotional pause.\n\nShot on a smartphone, shallow depth of field, slight grain, low noise, imperfect framing, realistic lighting, no studio look, no exaggerated beauty, no fantasy elements."
+    },
+    {
+      "id": "2125310986571686277",
+      "author": "NayaVerseee",
+      "title": "浮世绘风江户猫女",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "提示词来自图片 ALT；作者建议换成自己的角色。",
+      "needsReference": false,
+      "time": "11-25 03:30",
+      "likes": 33,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-25/NayaVerseee_2125310986571686277_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXwLymiWMAAt9q5.jpg?name=large",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "Japanese woodblock print, ukiyo-e, flat colors and bold outlines. Rear low shot, Naya, a red-haired woman in her late twenties in a black leather catsuit, prowls along a roof ridge, back arched, whip coiled, looking back over her shoulder at five stray cats following in single file, huge pale moon."
+    },
+    {
+      "id": "2125318540068585613",
+      "author": "antrospike",
+      "title": "GTA 6 风游戏房写真",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文结构化提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-25 04:00",
+      "likes": 28,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-25/antrospike_2125318540068585613_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX6SfRLasAALhr9.jpg?name=large",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "Style: Ultra-realistic DSLR photography, cinematic gaming-room portrait, natural skin texture, authentic photographic details.\n\nHair/outfit: Young woman with long, voluminous silver-white hair, wispy bangs, black off-shoulder crop top, distressed denim shorts, sheer black thigh-high stockings, black gaming headphones with blue LED accents around her neck.\n\nPose/expression: Reclining sideways in a black leather gaming chair, one hand supporting her cheek, head slightly tilted, direct eye contact, relaxed dreamy gaze, softly parted lips.\n\nSetting/light: Modern gaming bedroom at night, large window overlooking a blue-lit city skyline, RGB keyboard, gaming monitor, decorative warm lamp. Cool blue-violet monitor light illuminating her face and hair, subtle amber background glow, realistic shadows and reflections.\n\nCamera: Vertical 2:3, 50mm DSLR, slightly low angle, medium-close composition, sharp facial details, natural depth of field.\n\nNegative: Anime, cartoon, illustration, CGI, plastic skin, doll face, exaggerated proportions, distorted hands, extra fingers, blurry face, watermark."
+    },
+    {
+      "id": "2125135799348088944",
+      "author": "alicehan_ai",
+      "title": "床头慵懒的啦啦队偶像",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana Pro（AI Studio）；JSON 提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-24 15:53",
+      "likes": 24,
+      "bookmarks": 7,
+      "images": [
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125135799348088944_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX3_okibMAAk5BZ.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125135799348088944_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX3_okfa8AAiG3A.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125135799348088944_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX3_okZaYAA8y56.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125135799348088944_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX3_pBFa0AAGKRB.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 21-year-old adult Taiwanese cheerleader idol, 160 cm tall, with a youthful sweet heart-shaped face, sparkling expressive eyes, softly lifted cheek contours, full softly curved lips, a dazzling open smile, dark chestnut-brown waves, and a perky, very dramatic curvy hourglass figure with a full lifted bust, a sharply cinched waist, and rounded feminine hips (measurements: 93-55-95 cm)\",\n    \"hair\": \"voluminous dark chestnut-brown loose waves\",\n    \"expression\": \"dazzling open smile with brightly lifted cheek contours, softly parted lips, and sparkling eyes directed at the lens\",\n    \"pose\": \"lounging back at a relaxed three-quarter angle against stacked pillows and the wooden headboard, torso slightly turned toward the camera with one arm bent behind her head and one knee softly raised over her extended leg\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"oversized sheer button-down shirt worn completely unbuttoned and slipping low off one shoulder with a high-cut curved shirttail, layered over a curve-hugging cropped camisole featuring an ultra-plunging sweetheart neckline, ultra-thin spaghetti straps, sheer lace side and underbust panels, and a midriff-baring hem\",\n    \"material\": \"semi-translucent fine cotton voile with a crisp poplin collar over liquid silk charmeuse satin and sheer scalloped Chantilly floral lace\",\n    \"color\": \"warm gold, carried by the liquid silk charmeuse satin and sheer scalloped Chantilly floral lace of the cropped camisole beneath the off-white cotton voile shirt\",\n    \"footwear\": \"barefoot\",\n    \"accessories\": \"dainty warm-gold stud earrings, slim gold bangle, and a speckled ceramic coffee mug resting on the rustic bedside table\"\n  },\n  \"scene\": {\n    \"location\": \"sunlit private bedroom with an unmade bed in early morning\",\n    \"atmosphere\": \"quiet, intimate early-morning bedroom stillness with unhurried, tactile warmth and natural lived-in comfort\",\n    \"background\": \"rumpled white cotton and linen sheets, a warm wooden headboard, sheer white window blinds, and a rustic wooden bedside table in the softly out-of-focus background depth layer\",\n    \"composition\": \"vertical 9:16 full-length candid portrait framed from head to feet on the unmade bed with natural breathing room around the reclining figure\",\n    \"lighting\": \"soft directional early-morning sunlight filtering through sheer white window blinds, casting subtle striped light, gentle specular highlights on silk and skin, and soft natural shadows across the bedding\",\n    \"camera\": \"live-action 35mm film photograph shot on a Canon AE-1 SLR with a 50mm f/1.4 lens, capturing natural perspective, smooth focus falloff, and crisp detail on the subject's eyes and fabric weave\",\n    \"grade\": \"Kodak Portra 400 film stock rendering with soft pastel highlights, warm lifelike skin tones, natural skin grain and subtle tonal variation, restrained retouching, and subtle organic film grain\"\n  },\n  \"scene_text\": {\n    \"text\": \"alicehan_ai\",\n    \"archetype\": \"collar\",\n    \"carrier\": \"garment collar label embroidered in cursive\",\n    \"placement\": \"on the exposed collar tab\"\n  },\n  \"compiled_prompt\": \"A candid live-action 35mm film photograph of an exceptionally beautiful 21-year-old adult Taiwanese cheerleader idol, 160 cm tall with a youthful sweet heart-shaped face, sparkling expressive eyes, softly lifted cheek contours, full softly curved lips, and a perky, very dramatic curvy hourglass figure with a full lifted bust, sharply cinched 55 cm waist, generous rounded hips, and toned shapely legs (93-55-95 cm). Shot on a Canon AE-1 SLR with a 50mm f/1.4 lens in a tall vertical frame, this full-length portrait captures one figure centered and filling the height of the picture from head to feet on an unmade bed. She lounges back at a relaxed three-quarter angle against stacked pillows and a warm wooden headboard, her torso slightly turned toward the camera with one arm bent behind her head and one knee softly raised over her extended barefoot leg. Voluminous dark chestnut-brown loose waves spill over her shoulders as she flashes a dazzling open smile with brightly lifted cheek contours, softly parted lips, and sparkling eyes directed straight into the lens. She wears an oversized sheer button-down shirt worn completely unbuttoned and slipping low off one shoulder with a high-cut curved shirttail, layered over a curve-hugging cropped camisole featuring an ultra-plunging sweetheart neckline, ultra-thin spaghetti straps, sheer lace side and underbust panels, and a midriff-baring hem, crafted from semi-translucent fine cotton voile with a crisp poplin collar over liquid silk charmeuse satin and sheer scalloped Chantilly floral lace. Warm gold is carried by the liquid silk charmeuse satin and sheer scalloped Chantilly floral lace of the cropped camisole beneath the off-white voile shirt, while a garment collar label embroidered in cursive reads \\\"alicehan_ai\\\" on the exposed collar tab. Dainty warm-gold stud earrings and a slim gold bangle accent her look, with a speckled ceramic coffee mug resting on a rustic wooden bedside table in the softly out-of-focus background alongside rumpled white cotton and linen sheets and sheer white window blinds. Soft directional early-morning sunlight filters through the blinds, casting subtle striped light and soft shadows across the bedding while grazing the warm gold liquid silk charmeuse satin and sheer lace with gentle specular highlights, distinct from the softer natural finish of her skin. Rendered on Kodak Portra 400 film stock, the photograph preserves smooth focus falloff, crisp detail on her eyes and fabric weave, soft pastel highlights, warm lifelike skin tones with natural skin grain, subtle tonal variation, restrained retouching, and subtle organic film grain.\"\n}"
+    },
+    {
+      "id": "2125003253092139290",
+      "author": "listudio",
+      "title": "夜晚靠枕的随手自拍",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文长提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-24 07:07",
+      "likes": 24,
+      "bookmarks": 7,
+      "images": [
+        {
+          "local": "images/2026-11-25/listudio_2125003253092139290_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX2Gt1cagAAHxEk.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Create a vertical 3:4 casual indoor selfie of a fictional, clearly adult 22-year-old East Asian woman resting on her forearms among cool-toned cushions at night. Keep an everyday close camera angle, slightly below eye level, with the face in the upper middle and the near forearm traveling diagonally toward the lower right. Put a little space above her dark hair and keep the pendant and both shoulders inside the picture. Her torso is angled gently toward the right and her head turns back toward the lens. She meets the camera with a level attentive gaze and relaxed closed lips. Keep a believable adult jaw and cheek shape, naturally scaled dark eyes, straight subtle brows, a softly rounded nose, muted coral lips and fine skin texture. Make her adult head-to-shoulder proportions natural, with a slender relaxed frame and no exaggeration.\n\nHer dark hair is tied back loosely behind her head. Two narrow strands fall by her temples and the part is slightly off-center. Add a small stud on the visible ear and a fine gold chain with a small oval ring pendant. The chain follows the turn of her neck and its pendant hangs naturally. Dress her in a securely fitted, fully opaque pale blue-gray ribbed bandeau-style top with a modest straight-to-softly-curved neckline. Keep its fine cotton ribs and small folds natural. Her forearms rest on textured neutral bedding, with hands partly outside the close crop. Keep visible skin free of tattoos.\n\nSet the portrait against a dim blue-gray room corner. On the right behind her, show a softly defocused screen showing only a patch of ultramarine and violet light, with a dark patterned curtain and a few gray cushions nearby. Keep the room softly lit and the identifying details absent. Use a broad warm-neutral light close to the camera, enough to shape the nearer cheek and shoulder. Keep a faint cool edge on the opposite side, low-key shadows and realistic soft grain. Allow subtle bedding pattern changes and maintain the quietly informal feeling of taking a quick picture in a dim room. Keep the screen and background free of lettering and logos."
+    },
+    {
+      "id": "2125310315734643092",
+      "author": "abs_crea8or",
+      "title": "男士编辑感写真拼图",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "需上传自己的照片作身份参考。",
+      "needsReference": true,
+      "time": "11-25 03:27",
+      "likes": 19,
+      "bookmarks": 12,
+      "images": [
+        {
+          "local": "images/2026-11-25/abs_crea8or_2125310315734643092_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX6edO8WAAA_U90.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Use my uploaded reference photo as the primary identity reference. Create an ultra-realistic, high-resolution professional editorial photography collage featuring the exact same man in every frame.\n\n1. IDENTITY PRESERVATION — HIGHEST PRIORITY\n\nPreserve the subject's exact facial identity throughout all nine photographs. Maintain his original face shape, forehead, eyes, eyebrows, nose, lips, ears, jawline, skin tone, hairstyle, hairline, age, and natural facial proportions.\n\nEvery panel must feature the same recognizable person. Do not change his identity, facial structure, hairstyle, or physical appearance between photographs. Avoid artificial facial enhancement, excessive retouching, or unrealistic skin smoothing.\n\n2. PHOTOGRAPHY STYLE\n\nCreate a sophisticated black-and-white luxury editorial photoshoot with:\n\n- Timeless monochrome photography.\n- Professional fashion magazine aesthetics.\n- Soft studio lighting and natural shadows.\n- Beautifully balanced highlights and deep blacks.\n- Realistic skin texture and fine facial details.\n- Minimalist grey studio background.\n- Elegant, masculine, confident, and relaxed expressions.\n- Professional DSLR photography quality.\n\n3. COLLAGE LAYOUT — NINE DIFFERENT PHOTOGRAPHS\n\nArrange nine different photographs into one cohesive, asymmetrical editorial collage.\n\n- Frame 1: Extreme close-up facial portrait, looking directly into the camera with a calm, confident expression.\n- Frame 2: Medium portrait, sitting casually with one hand supporting his head, wearing a black T-shirt and wristwatch.\n- Frame 3: Side-angle portrait wearing a simple white T-shirt, looking slightly upward.\n- Frame 4: Close-up portrait with one hand resting thoughtfully near his chin, wearing a black shirt and wristwatch.\n- Frame 5: Stylish side-profile portrait wearing dark sunglasses and a black jacket.\n- Frame 6: Relaxed smiling portrait with one hand running through his hair, wearing a black hoodie.\n- Frame 7: Full-body seated fashion portrait wearing a black jacket, white T-shirt, black trousers, and stylish sneakers.\n- Frame 8: Casual seated portrait wearing a white button-up shirt and dark trousers, with a relaxed pose.\n- Frame 9: Dramatic low-angle close-up portrait highlighting his facial features and natural expression.\n\n4. COMPOSITION AND DESIGN\n\n- Vertical 9:16 aspect ratio.\n- Nine individual photographs arranged in an asymmetrical magazine-style grid.\n- Mix of close-up, medium, side-profile, and full-body compositions.\n- Clean white diagonal and horizontal dividers separating each photograph.\n- Slightly varied panel sizes for a sophisticated editorial layout.\n- Consistent grey studio background across all frames.\n- No overlapping photographs.\n- Balanced spacing and carefully aligned borders.\n- Every photograph must look like an individual professional studio shot from the same photoshoot.\n\n5. CLOTHING AND ACCESSORIES\n\nUse coordinated minimalist outfits in black and white, including black T-shirts, white shirts, black jackets, hoodies, dark trousers, sneakers, and a stylish wristwatch. Keep the wardrobe elegant, contemporary, and understated.\n\n6. FINAL QUALITY REQUIREMENTS\n\nThe final image must look like a professionally art-directed luxury fashion magazine contact sheet, not an ordinary photo collage.\n\nPrioritize photorealism, consistent facial identity, natural expressions, realistic anatomy, accurate hands, detailed clothing textures, balanced monochrome contrast, and premium editorial composition.\n\nSTRICT NEGATIVE INSTRUCTIONS: No duplicated faces, no identity changes, no inconsistent hairstyles, no distorted facial features, no extra fingers, no unnatural hands, no cartoon effects, no color photographs, no text, no logos, no watermarks, and no unnecessary decorative elements.\n\nFINAL OUTPUT: One seamless, ultra-realistic, premium black-and-white nine-photo editorial portrait collage in vertical 9:16 format."
+    },
+    {
+      "id": "2125161484477169919",
+      "author": "borryshasian",
+      "title": "乐高积木风产品广告",
+      "model": "Gemini Hydrogen",
+      "group": "Gemini",
+      "note": "需上传产品实拍图；作者注明用 Gemini Hydrogen，也可换其他生图模型。",
+      "needsReference": true,
+      "time": "11-24 17:35",
+      "likes": 8,
+      "bookmarks": 21,
+      "images": [
+        {
+          "local": "images/2026-11-25/borryshasian_2125161484477169919_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX4WnLebAAAWoH5.jpg?name=large",
+          "width": 480,
+          "height": 596
+        },
+        {
+          "local": "images/2026-11-25/borryshasian_2125161484477169919_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX4Wj20b0AACbNr.jpg?name=large",
+          "width": 480,
+          "height": 596
+        },
+        {
+          "local": "images/2026-11-25/borryshasian_2125161484477169919_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX4Wkf4aEAAOK6D.jpg?name=large",
+          "width": 480,
+          "height": 596
+        },
+        {
+          "local": "images/2026-11-25/borryshasian_2125161484477169919_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX4Wn65bUAAZXb-.jpg?name=large",
+          "width": 480,
+          "height": 596
+        },
+        {
+          "local": "images/2026-11-25/borryshasian_2125161484477169919_5.jpg",
+          "remote": "https://pbs.twimg.com/media/HX4Wi41asAAjws5.jpg?name=large",
+          "width": 480,
+          "height": 596
+        },
+        {
+          "local": "images/2026-11-25/borryshasian_2125161484477169919_6.jpg",
+          "remote": "https://pbs.twimg.com/media/HX4WotmbcAAvoWc.jpg?name=large",
+          "width": 480,
+          "height": 596
+        }
+      ],
+      "prompt": "Using the attached product photo, create a bold 4:5 product advertisement for [product name, e.g Sambal ABC Extra Pedas]. Turn into toy bricks: the product's exact shape, proportions, label, colors, cap, and every physical detail. Show the real product floating tilted at the center of a bright studio scene, with no tabletop, platform, floor, or other surface. Surround it with clearly recognizable tiny toy-like builders wearing jetpacks, miniature tools, and colorful floating toy bricks, arranged around the bottle without covering its branding or silhouette. The builders should feel like playful non-human miniature figures rather than a full-size human model.\n\nUse a strong product-focused composition viewed from slightly above at a three-quarter angle. Build the background and surrounding atmosphere from the product’s own vivid tones, with bold saturated color blocks, deep shadows, and crisp directional lighting. Add a soft, subtle floating shadow beneath the bottle to suggest suspension in midair. Keep the image energetic, graphic, and dramatic, with sharp silhouettes, lively motion, and plenty of clean space around the product. No hands, body parts, extra objects, or readable text beyond the original packaging."
+    },
+    {
+      "id": "2125230088589611421",
+      "author": "alicehan_ai",
+      "title": "海滩健身运动员逛街写真",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana Pro（AI Studio）；JSON 提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-24 22:08",
+      "likes": 18,
+      "bookmarks": 10,
+      "images": [
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125230088589611421_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5Vbp5bgAAw7D2.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125230088589611421_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5VbpvboAAWeO2.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125230088589611421_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5VcSAaAAAhK3z.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125230088589611421_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5VcR5bkAATPWe.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 23-year-old adult Taiwanese beach-fitness athlete, 167 cm tall, with a youthful softly oval face, warm almond-shaped eyes, gently sculpted cheekbones, naturally full lips, a radiant relaxed smile, flowing chestnut-brown hair with subtle caramel highlights, warm sun-kissed skin, and a powerful curvy athletic hourglass figure with defined shoulders and strong rounded thighs (measurements: 90-60-94 cm)\",\n    \"hair\": \"flowing chestnut-brown silky locks with subtle caramel highlights and natural soft volume\",\n    \"expression\": \"Confident relaxed smile with warm almond eyes and sun-kissed poise\",\n    \"pose\": \"Pausing mid-stride with weight shifted to her back hip, resting one hand lightly on her waist while holding her leather shoulder bag strap, jacket slipping off both shoulders\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"layered ensemble featuring a cropped lightweight bomber jacket slipping off the shoulders over an ultra-plunging boned corset camisole top with exposed midriff and a thigh-skimming micro-mini skirt with a daring side slit\",\n    \"material\": \"fluid high-gloss satin bomber jacket, fine-gauge stretch knit and sheer Chantilly floral lace corset bodice with satin boning channels, and matching lightweight woven satin micro-mini skirt\",\n    \"color\": \"warm sunlit terracotta\",\n    \"footwear\": \"Strappy black leather block-heel sandals over sheer black nylon pantyhose\",\n    \"accessories\": \"Dainty gold chain choker with heart pendant, gold huggie hoop earrings, black leather shoulder bag with cursive embossing along the strap\"\n  },\n  \"scene\": {\n    \"location\": \"upscale outdoor boutique shopping sidewalk with light pale stone pavement\",\n    \"atmosphere\": \"chic metropolitan late afternoon warmth and effortless luxury\",\n    \"background\": \"elegant glass boutique display windows reflecting the sunny streetscape and lush potted green plants\",\n    \"composition\": \"eye-level medium-to-three-quarter vertical portrait framed from mid-thigh up in 9:16 aspect ratio\",\n    \"lighting\": \"warm bright golden late afternoon sunlight casting crisp natural shadows with soft specular highlights\",\n    \"camera\": \"eye-level crisp 50mm portrait lens with shallow depth of field gently blurring the boutique background\",\n    \"grade\": \"natural contrast with gradual highlight roll-off, clean shadow depth, and restrained authentic skin texture processing\"\n  },\n  \"scene_text\": {\n    \"text\": \"alicehan_ai\",\n    \"archetype\": \"embossing\",\n    \"carrier\": \"small cursive leather embossing\",\n    \"placement\": \"along the leather bag strap\"\n  },\n  \"compiled_prompt\": \"A live-action vertical portrait of an exceptionally beautiful 23-year-old adult Taiwanese beach-fitness athlete captured outdoors from an eye-level camera angle, viewing straight-on in a tall vertical frame, medium-to-three-quarter composition framed from mid-thigh up, with one figure centered and filling the height of the picture. She is pausing mid-stride with weight shifted to her back hip, resting one hand lightly on her waist while holding her leather shoulder bag strap, jacket slipping off both shoulders. She wears a confident relaxed smile with warm almond eyes and sun-kissed poise, her flowing chestnut-brown silky locks with subtle caramel highlights and natural soft volume framing her youthful softly oval face, with slightly messy natural strands framing forehead and temples. Her athletic hourglass physique is styled in a layered ensemble featuring a cropped lightweight bomber jacket slipping off the shoulders over an ultra-plunging boned corset camisole top with exposed midriff and a thigh-skimming micro-mini skirt with a daring side slit. The garments are crafted from fluid high-gloss satin bomber jacket, fine-gauge stretch knit and sheer Chantilly floral lace corset bodice with satin boning channels, and matching lightweight woven satin micro-mini skirt, rendered in a warm sunlit terracotta tone across the bodice and skirt. Accessories include a dainty gold chain choker with heart pendant, gold huggie hoop earrings, and a black leather shoulder bag featuring small cursive leather embossing of alicehan_ai along the leather bag strap, paired with strappy black leather block-heel sandals over sheer black nylon pantyhose. The upscale outdoor boutique shopping sidewalk with light pale stone pavement is lined with elegant glass boutique display windows reflecting the sunny streetscape and lush potted green plants under chic metropolitan late afternoon warmth. Warm bright golden late afternoon sunlight casts crisp natural shadows with soft specular highlights, illuminating authentic skin undertones, realistic skin texture with subtle pores, natural organic glow and micro details, and picking up rich highlights across the warm sunlit terracotta fabric. Crisp 50mm portrait lens at chest level with gradual optical falloff and restrained authentic skin texture processing.\"\n}"
+    },
+    {
+      "id": "2125220391194915071",
+      "author": "dreamydigiarts",
+      "title": "篮球场运动女孩全身照",
+      "model": "Nano Banana 2",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana 2（WeryAI）。",
+      "needsReference": false,
+      "time": "11-24 21:30",
+      "likes": 18,
+      "bookmarks": 10,
+      "images": [
+        {
+          "local": "images/2026-11-25/dreamydigiarts_2125220391194915071_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXymq5AakAAm8aW.jpg?name=large",
+          "width": 480,
+          "height": 643
+        }
+      ],
+      "prompt": "A medium full-body portrait of an athletic beautiful young woman, posing outdoors on a sunny outdoor asphalt basketball court. She has wavy dark brown hair tied back in a high, slightly messy ponytail with a few loose strands framing her face. She wears a heather white crop sports Nike top and fitted low waisted black athletic Nike shorts. She holds a classic orange leather basketball tucked under one arm, looking directly at the camera with a confident, intense expression. She has a black piercing in her navel.\n\nBright, natural golden-hour sunlight casts realistic highlights and soft dappled shadows across her skin. In the background, the asphalt court shows faded white painted lines, surrounded by a chain-link fence and lush green trees illuminated by sunlight. Shot on 35mm film, grainy texture, candid athletic aesthetic, natural skin texture, highly detailed, photorealistic, 8k resolution.e"
+    },
+    {
+      "id": "2125230521198535142",
+      "author": "alicehan_ai",
+      "title": "韩国健身偶像写真",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana Pro（AI Studio）；JSON 提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-24 22:10",
+      "likes": 18,
+      "bookmarks": 9,
+      "images": [
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125230521198535142_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5V00QaIAAOT3d.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125230521198535142_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5V00baMAAtCm1.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125230521198535142_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5V00YagAAN5W_.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125230521198535142_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5V1SGakAASMje.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 23-year-old adult Korean fitness idol, 171 cm tall, with a youthful softly rounded oval face, luminous expressive eyes, balanced delicate features, gently defined cheeks, naturally full lips, a bright warm smile, blonde hair with pink tips, and an athletic fitness S-curve hourglass figure with a taut flat stomach, long toned legs, and sculpted feminine curves (measurements: 89-60-92 cm)\",\n    \"hair\": \"blonde hair with pink tips, slightly messy natural strands framing forehead and temples\",\n    \"expression\": \"Flirtatious captivating expression with a subtle one-sided lip lift, raised eyebrow, and direct luminous eye contact\",\n    \"pose\": \"Graceful standing full-body frontal stance poised on the balls of her feet, left arm curving around the central black chrome pole at chest height, right fingertips lightly grazing her collarbone, hips angled into an elegant S-curve\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"strapless high-gloss liquid latex bunny bodysuit with structured underwire demi-cups, an ultra-plunging sweetheart neckline, exposed corset boning, low open back, and extreme high-cut leg openings\",\n    \"material\": \"mirror-shine high-gloss liquid latex with structured patent leather boning trim and sheer nylon fishnet accents\",\n    \"color\": \"blush pink\",\n    \"footwear\": \"ankle-strap patent stiletto pumps\",\n    \"accessories\": \"glossy latex bunny ears, sleek patent choker collar featuring an exposed tab embroidered with cursive 'alicehan_ai', delicate waist garter straps, and ultra-sheer glossy black pantyhose\"\n  },\n  \"scene\": {\n    \"atmosphere\": \"sophisticated glamorous cinematic mood with opulent evening allure\",\n    \"background\": \"dark polished mahogany wall paneling, ornate antique mirror vanity, crystal chandeliers, and rich deep burgundy-red carpeting\",\n    \"camera\": \"eye-level straight-on frontal perspective, 50mm portrait lens, neutral optical depth with clear foreground and balanced background separation\",\n    \"composition\": \"vertical full-body portrait framed centrally at eye-level straight-on frontal perspective with generous vertical negative space\",\n    \"grade\": \"rich filmic contrast, deep lustrous shadow tones, clean highlight roll-off, and warm golden tonal balance\",\n    \"lighting\": \"warm ambient golden chandelier illumination with soft balanced frontal fill and crisp specular reflections on high-gloss surfaces\",\n    \"location\": \"elegant private hotel suite European-inspired lounge interior\"\n  },\n  \"scene_text\": {\n    \"archetype\": \"collar\",\n    \"carrier\": \"garment collar label embroidered in cursive\",\n    \"placement\": \"on the exposed collar tab\",\n    \"text\": \"alicehan_ai\"\n  },\n  \"compiled_prompt\": \"A vertical full-body photograph captures an exceptionally beautiful 23-year-old adult Korean fitness idol standing centered at eye-level straight-on frontal perspective, one figure centered and filling the height of the picture within an opulent European-inspired private hotel lounge suite. Poised gracefully on the balls of her feet, her hips angle into a sculpted athletic S-curve while her left arm curves smoothly around a tall central polished black chrome pole at chest height, and her right fingertips lightly graze her collarbone. She directs a flirtatious captivating expression toward the lens with a subtle one-sided lip lift, a gently raised eyebrow, and direct luminous eye contact. Her styling features blonde hair with pink tips, styled with slightly messy natural strands framing forehead and temples, topped with tall upright glossy latex bunny ears. She wears a form-sculpting strapless high-gloss liquid latex bunny bodysuit with structured underwire demi-cups, an ultra-plunging sweetheart neckline, exposed corset boning, low open back, and extreme high-cut leg openings, executed in a lustrous blush pink mirror-shine high-gloss liquid latex with structured patent leather boning trim and sheer nylon fishnet accents. Encircling her neck is a sleek black patent choker collar featuring an exposed tab embroidered with cursive 'alicehan_ai', styled alongside delicate waist garter straps, ultra-sheer glossy black pantyhose, and black ankle-strap patent stiletto pumps. The background displays rich deep burgundy-red carpeting beneath her feet, dark polished mahogany wall paneling, an ornate antique mirror vanity, and crystal chandeliers casting warm ambient golden chandelier illumination with soft balanced frontal fill. The camera captures her full height through a 50mm portrait lens at eye level, presenting natural optical depth with clear foreground focus and soft background separation. The lighting creates sharp specular gleams across the polished black chrome pole and reflective blush pink liquid latex bodysuit while maintaining realistic skin texture with subtle pores, natural organic glow and micro details, authentic skin undertones, gradual highlight roll-off, and deep lustrous shadow tones across the rich evening setting.\"\n}"
+    },
+    {
+      "id": "2125080208760049805",
+      "author": "Ozayrr_irl",
+      "title": "极近景皮肤美妆肖像",
+      "model": "Nano Banana 2",
+      "group": "Nano Banana",
+      "note": "需上传参考照片；作者注明用 Google Gemini Nano Banana 2。",
+      "needsReference": true,
+      "time": "11-24 12:12",
+      "likes": 16,
+      "bookmarks": 11,
+      "images": [
+        {
+          "local": "images/2026-11-25/Ozayrr_irl_2125080208760049805_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX3NK_Ya8AAnFOi.jpg?name=large",
+          "width": 480,
+          "height": 693
+        }
+      ],
+      "prompt": "Use the exact same face and identity from the reference image, preserving her facial structure, proportions, eyes, nose, lips, hairstyle, and recognizable identity with maximum accuracy.\n\nCreate an extreme close-up studio beauty portrait of the woman, framing from forehead to chin. Her face fills almost the entire frame. Show authentic natural skin with highly realistic pores, fine facial hairs, subtle peach fuzz, tiny natural imperfections, realistic skin texture, and delicate variations in complexion. Do NOT smooth, blur, airbrush, or plasticize the skin.\n\nSoft directional light from the upper-left reveals every natural detail across her cheeks, nose, forehead, and under-eye area. One eye catches a sharp natural catchlight while the other falls into gentle shadow.\n\nMinimal makeup, natural lips, realistic eyelashes and eyebrows. Dark neutral background fading softly into shadow. Luxury skincare campaign meets cinematic editorial photography. Extremely detailed macro photography, realistic subsurface skin, physically accurate texture, ultra-photorealistic 8K, sophisticated cinematic grading, vertical 9:13, no text overlays."
+    },
+    {
+      "id": "2125084495095218593",
+      "author": "dreamydigiarts",
+      "title": "黑麦田小路回眸",
+      "model": "Nano Banana 2",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana 2（WeryAI）。",
+      "needsReference": false,
+      "time": "11-24 12:30",
+      "likes": 16,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-25/dreamydigiarts_2125084495095218593_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXylTBIbEAA1y5v.jpg?name=large",
+          "width": 480,
+          "height": 643
+        }
+      ],
+      "prompt": "A woman, dark blonde hair and a thoughtful expression, pauses on a dirt path in an, field of ripened rye field. She looks back over her shoulder, as if considering something or someone behind her. she is tall and slim. her legs are long. The wind gently rustles her hair. The scene is bathed in warm, natural light. wheats very short, flowered red mini skirt"
+    },
+    {
+      "id": "2125144895576809913",
+      "author": "dreamydigiarts",
+      "title": "黄绿色丝质泳装超模竖幅人像",
+      "model": "Nano Banana 2",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana 2（WeryAI）。",
+      "needsReference": false,
+      "time": "11-24 16:30",
+      "likes": 14,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-25/dreamydigiarts_2125144895576809913_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXynDKSa0AE_2Qa.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/dreamydigiarts_2125144895576809913_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HXynEd3bUAAB6jq.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "Image is a high resolution full-hight vertical portrait photograph, soft dreamy atmosphere, of a lithe supermodel, early 20s, long windswept platinum blonde hair, vivid sapphire blue eyes, fair skin, Chartreuse silk swimsuit, warm golden hour light, pastel colours."
+    },
+    {
+      "id": "2125250590162960748",
+      "author": "dreamydigiarts",
+      "title": "湿发雀斑室内人像",
+      "model": "Nano Banana 2",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana 2（WeryAI）。",
+      "needsReference": false,
+      "time": "11-24 23:30",
+      "likes": 14,
+      "bookmarks": 2,
+      "images": [
+        {
+          "local": "images/2026-11-25/dreamydigiarts_2125250590162960748_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXynkqhbQAAvXg2.jpg?name=large",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "A high-resolution indoor portrait photograph of a young woman with long, wet-look wavy hair cascading down her shoulders and visible freckles on her face and arms. She is looking directly at the camera with a neutral expression.\n\nWearing a ribbed strapless tube top and a delicate silver tennis necklace. The top color is determined by the reference image.\n\nThe background features a bright modern minimalist room with concrete flooring, a large glass window, a white couch, and art frames. All background elements are softly blurred to create depth.\n\nPhotorealistic, ultra-detailed textures, natural lighting, sharp focus on the subject, shallow depth of field, professional editorial photography, 8K resolution, cinematic composition, realistic skin and fabric rendering."
+    },
+    {
+      "id": "2125229046103707873",
+      "author": "alicehan_ai",
+      "title": "古典舞者的拉伸写真",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana Pro（AI Studio）；JSON 提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-24 22:04",
+      "likes": 9,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125229046103707873_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5UehIaUAAXxE9.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125229046103707873_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5Ueg6aIAAEx-T.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125229046103707873_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5Ueg5akAAxeKg.jpg?name=large",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-25/alicehan_ai_2125229046103707873_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX5UegybwAIXKiD.jpg?name=large",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 22-year-old adult Chinese classical dancer, 169 cm tall, with a youthful softly tapered oval face, expressive gently curved eyes, delicate harmonious features, soft cheek contours, finely shaped lips, a serene smile, silky jet-black hair, and a supple, softly sculpted curvy hourglass figure with a defined waist, rounded hips, and expressive carriage (measurements: 88-58-92 cm)\",\n    \"hair\": \"cascading silky jet-black hair with natural movement\",\n    \"expression\": \"Serene, poised smile with soft relaxed lips, gently lifted cheeks, and calm expressive eyes meeting the camera\",\n    \"pose\": \"Standing with feet slightly apart in a poised dancer's turnout, torso upright facing the camera, left arm lifted gracefully above shoulder height with wrist softly curved and right hand resting lightly near her collarbone\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"Ultra-cropped plunging V-scoop athletic top with a bare midriff and thin crossed straps spanning a wide open back, paired with second-skin high-cut compression leggings featuring a low dipped V-cut front waistband, curved hip-contouring seams, open side-hip cutouts bridged by narrow elastic straps, and sleek ankle-strap stiletto heels\",\n    \"material\": \"Matte high-tension compression stretch jersey with flatlock contour seams, smooth satin-finish stretch side panels, and fine elastic back and hip straps\",\n    \"color\": \"jade, carried by the matte compression stretch jersey athletic crop top, high-cut contour leggings, satin-finish stretch side panels, elastic straps, and satin-finish ankle-strap stiletto heels\",\n    \"footwear\": \"Jade satin-finish sleek ankle-strap stiletto heels\",\n    \"accessories\": \"Small sculpted silver hoop earrings and a delicate silver pendant necklace\"\n  },\n  \"scene\": {\n    \"location\": \"Clean minimalist indoor photography studio\",\n    \"atmosphere\": \"Polished, playful, and subtly seductive luxury fashion studio mood\",\n    \"background\": \"Seamless plain off-white backdrop curving smoothly into a matching light-colored studio floor, free of furniture, decorations, or distracting objects\",\n    \"composition\": \"Full-body vertical 9:16 framing centered and balanced, capturing the entire subject from head to stiletto heels completely with balanced negative space around her\",\n    \"lighting\": \"Soft, bright, diffused studio lighting with even illumination across face, body, and outfit, subtle specular highlights along the satin-finish stretch panels and metallic hardware, and gentle natural contact shadows on the floor without harsh contrast\",\n    \"camera\": \"Professional DSLR photograph in vertical 9:16 portrait orientation, front-facing at approximately eye level, using a 50mm lens at f/5.6 for sharp focus across the full subject from head to stiletto heels\",\n    \"grade\": \"Clean digital finish with clear fine detail, crisp grainless detail, true-to-life color reproduction, restrained beauty retouching, retained natural skin texture, smooth highlight roll-off, and rich saturated garment tones\"\n  },\n  \"scene_text\": {\n    \"text\": \"alicehan_ai\",\n    \"archetype\": \"embroidery\",\n    \"carrier\": \"small tonal cursive garment embroidery\",\n    \"placement\": \"beside the cuff seam in a small monogram area\"\n  },\n  \"compiled_prompt\": \"A full-body studio portrait photograph of an exceptionally beautiful 22-year-old adult Chinese classical dancer, 169 cm tall, with a supple, softly sculpted curvy hourglass figure (88-58-92 cm), a youthful softly tapered oval face, delicate harmonious features, soft cheek contours, and finely shaped lips. Captured from a front-facing, eye-level camera viewpoint in a tall vertical frame, the professional DSLR photograph uses a 50mm lens at f/5.6 so the entire figure from head to stiletto heels remains clearly resolved, with one figure centered and filling the height of the picture. She stands with feet slightly apart in a poised dancer's turnout, her torso upright facing the camera, her left arm lifted gracefully above shoulder height with wrist softly curved and her right hand resting lightly near her collarbone. Her cascading silky jet-black hair falls with natural movement around her shoulders, framing her serene, poised smile with soft relaxed lips, gently lifted cheeks, and calm expressive gently curved eyes meeting the camera. She wears a jade ultra-cropped plunging V-scoop athletic top with a bare midriff and thin crossed straps spanning a wide open back, paired with second-skin high-cut compression leggings featuring a low dipped V-cut front waistband, curved hip-contouring seams, open side-hip cutouts bridged by narrow elastic straps, and sleek ankle-strap stiletto heels, crafted from matte high-tension compression stretch jersey with flatlock contour seams, smooth satin-finish stretch side panels, and fine elastic back and hip straps, completed by jade satin-finish sleek ankle-strap stiletto heels, small sculpted silver hoop earrings, and a delicate silver pendant necklace. Beside the cuff seam in a small monogram area, small tonal cursive garment embroidery reads 'alicehan_ai'. She is positioned in a clean minimalist indoor photography studio against a seamless plain off-white backdrop curving smoothly into a matching light-colored studio floor, free of furniture, decorations, or distracting objects. Soft, bright, diffused studio lighting illuminates her face, body, and outfit evenly, casting gentle natural contact shadows beneath her heels without harsh contrast. Subtle specular highlights gleam along the jade satin-finish stretch side panels, sleek ankle-strap stiletto heels, and silver jewelry, while the jade matte compression stretch jersey absorbs light evenly and her exposed skin retains a softer, varied finish with natural skin texture, subtle pores, authentic undertones, smooth highlight roll-off, and restrained beauty retouching in a clean digital finish with clear fine detail, crisp grainless detail, true-to-life color reproduction, and rich saturated garment tones.\"\n}"
+    }
+  ]
+}
