@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-25",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "2125178147096408158",
+      "author": "Zyrellix",
+      "authorName": "Zyrella",
+      "title": "秋日溪边的电影感生活短片",
+      "model": "Wan 3.0",
+      "models": [
+        "Wan 3.0"
+      ],
+      "note": "作者用 Wan 3.0（Flova）生成；原提示词为 30 秒多场景，视频只截取前 15 秒。",
+      "needsReference": false,
+      "time": "11-24 18:42",
+      "likes": 131,
+      "bookmarks": 15,
+      "url": "https://x.com/Zyrellix/status/2125178147096408158",
+      "videos": [
+        {
+          "src": "videos/2026-11-25/Zyrellix_2125178147096408158_1.mp4",
+          "poster": "videos/2026-11-25/Zyrellix_2125178147096408158_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "Create a 30-second cinematic autumn lifestyle video featuring a young woman in a peaceful forest beside a flowing stream, surrounded by golden-orange autumn leaves. She wears a cozy dark knitted sweater, a cream-colored scarf, and a light skirt. The atmosphere is warm, dreamy, peaceful, and natural, with soft golden sunlight filtering through the trees.\n\nScene 1 (0–5 seconds): Wide cinematic establishing shot of the woman standing beside a small flowing river in a golden autumn forest. She gently looks upward toward the falling leaves, enjoying the peaceful scenery. Slow cinematic camera movement, natural wind moving her hair and the leaves.\n\nScene 2 (5–8 seconds): Transition into a close-up of the woman holding a beautiful golden maple leaf with both hands. She looks at it with a gentle smile, admiring its details. Soft background bokeh, warm sunlight illuminating the leaf.\n\nScene 3 (8–13 seconds): Medium-wide shot of the woman standing beside the river, holding the leaf while golden leaves drift slowly through the air. The river flows gently in the background. Smooth cinematic camera movement.\n\nScene 4 (13–17 seconds): She slowly crouches beside the river and gently places the maple leaf onto the water. Capture the delicate interaction, subtle ripples, reflections of golden trees, and the leaf floating away naturally.\n\nScene 5 (17–21 seconds): Cinematic rear and side shot of the woman standing beside the river, watching the water and autumn scenery. Her long hair moves gently in the breeze as the sunlight creates a magical golden glow.\n\nScene 6 (21–25 seconds): She slowly turns toward the camera with a warm, natural smile. Medium close-up, realistic facial expressions, soft sunlight, beautifully blurred golden forest background.\n\nScene 7 (25–30 seconds): Final intimate close-up portrait. She gently smiles with relaxed eyes while golden autumn leaves and warm sunlight create a dreamy cinematic bokeh behind her. Slow camera push-in, subtle natural movement, peaceful ending.\n\nVisual style: Ultra-realistic cinematic photography, warm autumn color grading, golden-hour lighting, shallow depth of field, soft bokeh, natural skin texture, realistic hair movement, smooth camera motion, peaceful storytelling, photorealistic environment, high cinematic quality, 4K detail, seamless scene transitions, no text, no watermark."
+    },
+    {
+      "id": "2125037216175190527",
+      "author": "DuaFatimaAi",
+      "authorName": "Dua Fatima",
+      "title": "粉色头巾时装广告",
+      "model": "Gemini / Grok / GPT Image 2.0",
+      "models": [
+        "Gemini",
+        "Grok",
+        "GPT Image 2.0"
+      ],
+      "note": "需上传自己的照片；作者说在 Gemini、Grok 或 GPT Image 2.0 里先出图再出视频，提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-24 09:22",
+      "likes": 60,
+      "bookmarks": 57,
+      "url": "https://x.com/DuaFatimaAi/status/2125037216175190527",
+      "videos": [
+        {
+          "src": "videos/2026-11-25/DuaFatimaAi_2125037216175190527_1.mp4",
+          "poster": "videos/2026-11-25/DuaFatimaAi_2125037216175190527_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 854
+        }
+      ],
+      "prompt": "Create a premium modest fashion commercial featuring a beautiful young woman wearing a dusty rose pink hijab paired with a matching loose-fit blouse and elegant pink floral wide-leg palazzo pants. She carries a small cream-colored crossbody handbag.\n\nScene 1 – Product Introduction: Start with the woman unboxing and presenting the pink outfit, showing the fabric and beautiful floral details.\n\nScene 2 – Indoor Fashion Showcase: She stands in a beautifully decorated boutique with warm lighting, gracefully showcasing the outfit from different angles. Capture close-ups of the blouse neckline, sleeve details, fabric texture, and floral pants.\n\nScene 3 – Outdoor Fashion Walk: Transition to a stylish urban shopping street. She walks naturally toward the camera, smiles softly, adjusts her handbag, and poses elegantly. Include front, side, and back views of the complete outfit.\n\nScene 4 – Detail Shots: Show cinematic close-ups of the flowing fabric, floral patterns, loose sleeves, handbag, and overall outfit styling.\n\nScene 5 – Final Hero Shot: End with a full-body shot of the model standing confidently on the street, smiling gently while showcasing the complete outfit.\n\nVisual Style: Ultra-realistic fashion photography, luxury modest fashion advertisement, soft natural daylight, warm cinematic lighting, smooth camera movements, elegant transitions, realistic fabric physics, professional commercial cinematography, 4K quality, vertical 9:16 aspect ratio.\n\nImportant: Maintain consistent model appearance, hijab, outfit color, floral patterns, handbag, and clothing design throughout every scene. Natural human movements, realistic proportions, no outfit distortion, no flickering, no unwanted text or watermarks."
+    },
+    {
+      "id": "2125236962005324069",
+      "author": "borryshasian",
+      "authorName": "Borrys Hasian",
+      "title": "爆炸分解式 5 秒产品广告",
+      "model": "Gemini Omni Flash 1.2",
+      "models": [
+        "Gemini Omni Flash 1.2"
+      ],
+      "note": "需上传一张产品图，替换 [PRODUCT NAME] 和 [TAGLINE]；提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-24 22:35",
+      "likes": 16,
+      "bookmarks": 18,
+      "url": "https://x.com/borryshasian/status/2125236962005324069",
+      "videos": [
+        {
+          "src": "videos/2026-11-25/borryshasian_2125236962005324069_1.mp4",
+          "poster": "videos/2026-11-25/borryshasian_2125236962005324069_1.jpg",
+          "duration": 5.1,
+          "width": 480,
+          "height": 854
+        },
+        {
+          "src": "videos/2026-11-25/borryshasian_2125236962005324069_2.mp4",
+          "poster": "videos/2026-11-25/borryshasian_2125236962005324069_2.jpg",
+          "duration": 5.1,
+          "width": 480,
+          "height": 854
+        },
+        {
+          "src": "videos/2026-11-25/borryshasian_2125236962005324069_3.mp4",
+          "poster": "videos/2026-11-25/borryshasian_2125236962005324069_3.jpg",
+          "duration": 5.1,
+          "width": 480,
+          "height": 854
+        }
+      ],
+      "prompt": "A 5-second vertical 9:16 hyper-motion product commercial in an exploded-view style with dynamic, energetic movement, music, and minimal typography. The attached image is the product reference: first identify what the product is and its real internal components and layers, then reproduce the product exactly as it appears in the image — same shape, proportions, colors, materials, logo, and label text, which stay sharp and legible — in every frame where it is assembled.\n\nSetting: an empty, seamless studio backdrop in a deep, rich tone of the product's own dominant color, with a subtle gradient and soft glow behind the product. No other objects, no people, no hands.\n\n[0–1s] The product floats in the vertical frame, tilted about 20 degrees on a dynamic diagonal, gently spinning and bobbing as if weightless. The camera pushes in quickly with a slight Dutch angle and eases to a slower drift. Crisp rim light outlining its silhouette, soft key light from top-left, using the product's accent color as a subtle light tint.\n\n[1–3s] The product bursts apart into its real internal components, which fly outward along the tilted diagonal axis and then decelerate into slow motion. Each part drifts at a slightly different speed and slowly rotates on its own axis, staggered and layered in depth like a living exploded diagram. Each part is realistic and catches specular highlights. The camera sweeps in a smooth arc around the floating parts, revealing depth between the layers.\n\n[3–3.8s] Sudden speed ramp: all components rush back together and slam into place in one fast, satisfying motion, with a tiny overshoot and settle on impact, a brief flash of light, and a subtle shockwave ripple in the air.\n\n[3.8–5s] The fully assembled product, identical to the reference image, settles at a tilted three-quarter hero angle in the upper-middle of the frame, logo facing the camera, tack-sharp focus, still floating gently. In the lower third, the text \"[PRODUCT NAME]\" appears in a bold, clean, modern sans-serif in white, with a short tagline \"[TAGLINE]\" below it in smaller, lighter type. The text slides up and fades in quickly, stays perfectly legible, and does not overlap the product. The camera eases to a soft drift, never fully static.\n\nStyle: premium high-energy commercial cinematography, photorealistic, high contrast, shallow depth of field, motion blur on fast movements only, physically accurate reflections, fluid eased motion, single continuous shot with no cuts.\n\nAudio: no dialogue or voiceover. Modern electronic music with a punchy, premium feel: a short rising synth build from 0 to 3 seconds, a near-silent pause during the slow-motion peak, then a hard bass drop and beat hit exactly when the parts lock together at 3 seconds, carrying a confident groove to the end. Layered sound design under the music: a fast whoosh as the parts burst apart and a crisp mechanical click on impact."
+    },
+    {
+      "id": "2125277321531654525",
+      "author": "adam_james_hill",
+      "authorName": "Adam James Hill",
+      "title": "红颜料跳床作画拍出天价",
+      "model": "Kling 3.0",
+      "models": [
+        "Kling 3.0"
+      ],
+      "note": "作者说用 Picsart 里的 Kling 3.0 生成，提示词即正文描述段落。",
+      "needsReference": false,
+      "time": "11-25 01:16",
+      "likes": 19,
+      "bookmarks": 8,
+      "url": "https://x.com/adam_james_hill/status/2125277321531654525",
+      "videos": [
+        {
+          "src": "videos/2026-11-25/adam_james_hill_2125277321531654525_1.mp4",
+          "poster": "videos/2026-11-25/adam_james_hill_2125277321531654525_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 854
+        }
+      ],
+      "prompt": "a performer in a red cowboy hat and yellow briefs pours a bucket of red paint over himself in a packed white gallery, bounces off a mini trampoline straight into a blank canvas and slides down. the next shot is an auction room, his red silhouette on the wall and $6,000,000 on the screen"
+    },
+    {
+      "id": "2125111406920138878",
+      "author": "AIwithMinal",
+      "authorName": "AIwithMinal",
+      "title": "雨夜东京街头漫步",
+      "model": "Seedance 2.0",
+      "models": [
+        "Seedance 2.0"
+      ],
+      "note": "多场景电影感动漫风真人提示词。",
+      "needsReference": false,
+      "time": "11-24 14:16",
+      "likes": 22,
+      "bookmarks": 0,
+      "url": "https://x.com/AIwithMinal/status/2125111406920138878",
+      "videos": [
+        {
+          "src": "videos/2026-11-25/AIwithMinal_2125111406920138878_1.mp4",
+          "poster": "videos/2026-11-25/AIwithMinal_2125111406920138878_1.jpg",
+          "duration": 10.1,
+          "width": 480,
+          "height": 854
+        }
+      ],
+      "prompt": "Ultra-Realistic Cinematic Anime-Inspired Live-Action Video Prompt\n\nA beautiful young Japanese woman with long, straight, silky black hair walks alone through a modern Japanese city street at night after rainfall. She wears an elegant navy-blue school uniform blazer with a golden embroidered crest, white collared shirt, black ribbon tie, pleated navy skirt, black knee-high socks, and carries a black backpack.\n\nScene 1: Cinematic close-up of her face as she walks along a wet city sidewalk. Colorful neon lights and traffic create beautiful reflections and creamy bokeh in the background.\n\nScene 2: Full-body tracking shot as she walks gracefully across a rain-soaked street. Her hair moves gently in the night breeze, with glowing streetlights illuminating the scene.\n\nScene 3: She stops beside a brightly illuminated Japanese vending machine, looks at the colorful drinks, and gently presses a selection button.\n\nScene 4: Close-up as she wears stylish black over-ear headphones, closes her eyes briefly, and enjoys the music. Soft neon reflections illuminate her face.\n\nScene 5: She slowly turns toward the camera, opens her eyes, and gives a gentle, natural smile while adjusting her headphones.\n\nVisual Style: Ultra-photorealistic cinematic photography, Japanese nighttime atmosphere, realistic skin texture, natural facial expressions, 85mm lens, shallow depth of field, soft neon lighting, beautiful reflections on wet pavement, professional color grading, 4K quality, smooth camera movement, dreamy cinematic bokeh.\n\nAudio: Soft Japanese city-pop instrumental, gentle lo-fi beats, distant traffic ambience, subtle footsteps on wet pavement, vending machine button sounds.\n\nFormat: Vertical 9:16, 10 seconds, ultra-realistic, smooth transitions, consistent face and outfit throughout, no subtitles, no text overlays, no distorted hands."
+    },
+    {
+      "id": "2125268073372385551",
+      "author": "PrometheanAIX",
+      "authorName": "Promethean",
+      "title": "未来鹿特丹夜街 vlog",
+      "model": "未注明",
+      "models": [
+        "未注明"
+      ],
+      "note": "需配角色参考；手持镜头、多地点切换的城市夜游提示词。",
+      "needsReference": true,
+      "time": "11-25 00:39",
+      "likes": 20,
+      "bookmarks": 0,
+      "url": "https://x.com/PrometheanAIX/status/2125268073372385551",
+      "videos": [
+        {
+          "src": "videos/2026-11-25/PrometheanAIX_2125268073372385551_1.mp4",
+          "poster": "videos/2026-11-25/PrometheanAIX_2125268073372385551_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 642
+        }
+      ],
+      "prompt": "Character is interacting with people in the city as they go about their night. They speak in english with people. Don't be weird. Handheld camera. Vary the length of the cuts from 1.5 seconds to 4 seconds.\n\nSome of the scenes they're talking with friends.\n\nChange the location to make it look like they're moving around the neighborhood. They're visiting popular as well as off the beaten path place in the neighborhood.\n\nNo twinning, cloned characters, duplicated faces, or multiple instances of the same person within a shot. Every character must maintain a distinct, consistent identity, and only the assigned speaker may deliver their dialogue.\n \nAUDIO: Location ambience only—footsteps, crowd chatter, traffic, passing cars. Minimal background music in venues where it makes sense. No continuous music, soundtrack, score, beat, melody, or instrumental audio. All audio levels should be normalized. Human voices sound realistic, authentic. Avoid robotic speech patterns.\n\nLOCATION: Rotterdam, Netherlands — M4H District in the year 2126. All Spelling must be in english and/or the local language. all text and signs must be real words that make sense and fit the context of the video. All scenes must look like the city and fit the context of life in the city. Character talks to people in most scenes. Have some urban street art and graffiti, but don't overdo it.\n\nTHEME: Rotterdam, Netherlands — M4H District in the year 2126: Repurposed shipyards, monumental kinetic sculptures, autonomous transit, and futuristic waterfront creative spaces.\n\nNEGATIVE PROMPT: Do not misspell any text in the video. No gibberish or made up words in any text.  The character should never walk away from the camera. No rainbow imagery. Don't distort the audio. Nobody should say “this place is insane.”"
+    },
+    {
+      "id": "2125213120490815626",
+      "author": "carolletta",
+      "authorName": "Carolina Delgado",
+      "title": "折纸克莱因瓶 360° 旋转循环",
+      "model": "Grok Imagine",
+      "models": [
+        "Grok Imagine"
+      ],
+      "note": "先用图片提示词生图，再用视频提示词让它动起来。",
+      "needsReference": true,
+      "time": "11-24 21:01",
+      "likes": 12,
+      "bookmarks": 0,
+      "url": "https://x.com/carolletta/status/2125213120490815626",
+      "videos": [
+        {
+          "src": "videos/2026-11-25/carolletta_2125213120490815626_1.mp4",
+          "poster": "videos/2026-11-25/carolletta_2125213120490815626_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 884
+        }
+      ],
+      "prompt": "Image prompt:\nklein bottle sculpture made of folded white origami paper, crisp creases and facets, the neck curving back into its own body, dark charcoal studio backdrop, random dark illumination, heavy film texture with hasselblad type of shot\n\nVideo prompt:\nthe paper klein bottle slowly rotates a full 360 degrees, light crawls along the crease facets, seamless loop, static camera, soft paper rustle sounds, no music"
+    },
+    {
+      "id": "2125348683378045228",
+      "author": "adam_james_hill",
+      "authorName": "Adam James Hill",
+      "title": "往火山口倒面糊变出松饼",
+      "model": "Kling 3.0",
+      "models": [
+        "Kling 3.0"
+      ],
+      "note": "作者说用 Picsart 里的 Kling 3.0 生成，提示词即正文描述段落。",
+      "needsReference": false,
+      "time": "11-25 05:59",
+      "likes": 5,
+      "bookmarks": 4,
+      "url": "https://x.com/adam_james_hill/status/2125348683378045228",
+      "videos": [
+        {
+          "src": "videos/2026-11-25/adam_james_hill_2125348683378045228_1.mp4",
+          "poster": "videos/2026-11-25/adam_james_hill_2125348683378045228_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 854
+        }
+      ],
+      "prompt": "a pilot leans out of a helicopter over a glowing crater and empties a steel pitcher of batter into the lava, then a second pour of syrup. the crater throws back a tower of golden pancakes that flies into the cabin and lands stacked on his plate"
+    },
+    {
+      "id": "2125334056091201567",
+      "author": "keepgoingAnnie",
+      "authorName": "Lala",
+      "title": "第五元素风舞者自拍编辑",
+      "model": "未注明",
+      "models": [
+        "未注明"
+      ],
+      "note": "需上传自己的照片；含图片提示词和 15 秒视频提示词，可换成自己喜欢的舞种。",
+      "needsReference": true,
+      "time": "11-25 05:01",
+      "likes": 8,
+      "bookmarks": 1,
+      "url": "https://x.com/keepgoingAnnie/status/2125334056091201567",
+      "videos": [
+        {
+          "src": "videos/2026-11-25/keepgoingAnnie_2125334056091201567_1.mp4",
+          "poster": "videos/2026-11-25/keepgoingAnnie_2125334056091201567_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 264
+        }
+      ],
+      "prompt": "Image Prompt:\na female model realism with waifu aesthetic and fifth element vibes cinematic dynamic action pose mid motion no blur mid 30s same hair from photo upload with bangs mid distance closeup colorscheme matte white pearl opal opaque matte black mint green pale blue lighting. high fashion. opaque partially. lightweight fabric. setting is a giant retro parts in same colorscheme machineshop warehouse with intense depth of scene giving a distinct far view. clean crisp. high end. Should look like it's out of a 90s or 80s movie.\n\nVideo Prompt (using 15 second option):\nno machines should move. no movement of surroundings. only dancer moves. \n\nseconds 1-5: no cut scenes. no transitions. no speaking. (Insert Artist here) influence to motions. elevated. current pose use as continuous motion into the dance already underway. up down down on the floor back up and pose\n\nseconds 5-10: no cut scenes. no transitions. no speaking.  (Insert Artist here) influence to motions. elevated. current pose use as continuous motion into the dance already underway. up down down on the floor back up and pose\n\nseconds 10-15: no cut scenes. no transitions. no speaking. (Instert artist here) influence to motions. elevated. current pose use as continuous motion into the dance already underway. up down down on the floor back up and pose\n\nMusic style prompt (to use in like Suno):\nRetro beat with chopped sampled breakbeats and deep, slapping low end; the user's own recorded female voice, close and direct, driving a repeated hook; old-fashioned warm tape texture; rushing, propulsive groove"
+    },
+    {
+      "id": "2125174352945525058",
+      "author": "JoeBrand_studio",
+      "authorName": "JoeBrand",
+      "title": "肝细胞 3D 医学动画",
+      "model": "未注明",
+      "models": [
+        "未注明"
+      ],
+      "note": "简短英文视频提示词。",
+      "needsReference": false,
+      "time": "11-24 18:27",
+      "likes": 4,
+      "bookmarks": 1,
+      "url": "https://x.com/JoeBrand_studio/status/2125174352945525058",
+      "videos": [
+        {
+          "src": "videos/2026-11-25/JoeBrand_studio_2125174352945525058_1.mp4",
+          "poster": "videos/2026-11-25/JoeBrand_studio_2125174352945525058_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 854
+        }
+      ],
+      "prompt": "LScientific 3D medical animation zooming into a Nigerian adult’s liver, revealing healthy hepatocytes functioning like microscopic factories. Glowing AST and ALT enzymes remain inside intact cell membranes, with miniature workers operating cellular machinery."
+    }
+  ]
+}

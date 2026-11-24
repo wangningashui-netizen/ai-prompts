@@ -2,6 +2,11 @@
   "schemaVersion": 1,
   "dates": [
     {
+      "date": "2026-11-25",
+      "file": "data/2026-11-25.json",
+      "count": 21
+    },
+    {
       "date": "2026-11-24",
       "file": "data/2026-11-24.json",
       "count": 22
