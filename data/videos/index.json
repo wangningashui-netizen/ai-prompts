@@ -2,6 +2,11 @@
   "schemaVersion": 1,
   "dates": [
     {
+      "date": "2026-11-26",
+      "file": "data/videos/2026-11-26.json",
+      "count": 7
+    },
+    {
       "date": "2026-11-25",
       "file": "data/videos/2026-11-25.json",
       "count": 10
