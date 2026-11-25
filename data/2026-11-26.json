@@ -1,0 +1,457 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-26",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "2125489141576343622",
+      "author": "Sairah_0",
+      "title": "照片人物配手绘涂鸦的前后对比图",
+      "model": "GPT Image 2",
+      "group": "GPT Image",
+      "note": "需上传自己的照片；作者注明在 ChatGPT 里用 GPT Image 2。",
+      "needsReference": true,
+      "time": "11-25 15:17",
+      "likes": 77,
+      "bookmarks": 32,
+      "images": [
+        {
+          "local": "images/2026-11-26/Sairah_0_2125489141576343622_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX9BGkwaUAAG_JN.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-26/Sairah_0_2125489141576343622_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX9BGk3aEAAp-N3.jpg",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Create a vertical image \"before\" and \"after\" in 3:4 format, divided into two panels of the same height.\n\nTOP PANEL (\"before\"): The original photo is exactly as it was provided, completely unedited — the same subject, pose, background, colors, and lighting. Trim the edges of the panel completely.\n\nBOTTOM PANEL (after): the same person or people, still completely photographic and realistic, cut out of the original photograph and placed in the center on a warm cream-colored white paper background. Keep their faces, personality, facial expression, posture, clothing, and proportions exactly as in the photo—never illustrate, style, smooth, or redraw the subject. Carefully cut out the edges, including the hair.\n\nReplace the entire background with charming hand-drawn drawings made with thin black pencil lines - monolinear, without fill, light and free, like in a sketchbook, with a little character and personality in the lines.\n\nUse about eight drawing elements distributed throughout the panel. Draw one or two simplified landmarks or buildings on the original background, one on each side of the object at a reduced scale. Add two or three small cartoon figures performing light actions appropriate to the setting — cycling, walking the dog, taking pictures, waving from the store, holding a balloon. Add three or four small accents scattered in open spaces: a cloud, one or two sparks, a paper airplane with a dotted pattern, a musical note, several flowers or small plants near the ground.\n\nCreate a composition so that you have enough free space. Keep each drawing at a height of about a third of the object's height or less, and place buildings and shapes along a common horizon line so that the panel has a clear horizon. Place accents higher in the empty upper corners to slightly fill the space. Leave a clean layer of untouched cream around the object on all sides — the drawings should never overlap or come into contact with them — and leave visible gaps between adjacent elements so that nothing accumulates.\n\nDraw a thin horizontal line around the object under your feet, make a few short strokes and leave a soft natural shadow. Try to make the drawing light, not dense.\n\nPlace a short handwritten signature in the open upper-left corner: three lines, three to five words each, in a careless lowercase handwriting, in thin black ink, warm and thoughtful in tone. Add one small red hand-drawn heart directly below it, and mark a space around it.\n\nEverything on the bottom panel is made in the form of a black line on a cream background, except for three or four tiny color accents — a red heart, pink flowers and yellow glitter. Only the subject remains fully colored.\n\nAvoid: cluttered or animated backgrounds, drawings that fill every corner, drawings that overlap or touch the object, large drawings that compete in size with the object, three or more buildings, thick shadows, dense lines, shading or cross-shading, long captions, more than three lines of text, illustrations or cartoons. subject matter, altered face or identity, improved skin, altered clothing or posture, color or three-dimensional drawings, 3D rendering, parallel panels, watermark."
+    },
+    {
+      "id": "2125580491264770257",
+      "author": "ZoltanMerczel",
+      "title": "赛博机械臂的金冠女帝",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-25 21:20",
+      "likes": 84,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-26/ZoltanMerczel_2125580491264770257_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-PU7rWwAAl5YJ.jpg",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-26/ZoltanMerczel_2125580491264770257_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-PWunXUAApvz3.jpg",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-26/ZoltanMerczel_2125580491264770257_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-PYaiWgAAaE0j.jpg",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-26/ZoltanMerczel_2125580491264770257_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-PaT0WMAA-T-P.jpg",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "A graceful young woman with dark wind-swept hair and an ornate golden headpiece stands in a dynamic pose, looking to the side with a calm, intense expression. Her right arm is fully cybernetic - sleek metallic plating with visible joints and a claw-like mechanical hand extended forward. She wears an elaborate, flowing gown of layered pink and lavender silk and sheer fabric with intricate gold embroidery and patterns; the tattered, billowing fabric swirls around her body, revealing cybernetic components on her torso and legs. Gold jewelry, earrings, and subtle facial markings complete her look. The setting is a luxurious, ornate interior with golden architectural details and drapery, standing on a reflective patterned floor. Soft dreamy bokeh lights in pink, purple, and gold fill the background. Cinematic lighting, ethereal atmosphere, highly detailed cyber-fantasy digital art, vertical composition."
+    },
+    {
+      "id": "2125506742796656707",
+      "author": "SakiH_AI",
+      "title": "酒红背景下的铂金短发特写",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "作者注明用 Gemini Nano Banana Pro。",
+      "needsReference": false,
+      "time": "11-25 16:27",
+      "likes": 34,
+      "bookmarks": 9,
+      "images": [
+        {
+          "local": "images/2026-11-26/SakiH_AI_2125506742796656707_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX9RBjAaEAAllQp.jpg",
+          "width": 480,
+          "height": 643
+        },
+        {
+          "local": "images/2026-11-26/SakiH_AI_2125506742796656707_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX9RDCCboAAH8Pb.jpg",
+          "width": 480,
+          "height": 643
+        },
+        {
+          "local": "images/2026-11-26/SakiH_AI_2125506742796656707_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX9RD92bQAAEByG.jpg",
+          "width": 480,
+          "height": 643
+        },
+        {
+          "local": "images/2026-11-26/SakiH_AI_2125506742796656707_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX9RGIwasAASWBM.jpg",
+          "width": 480,
+          "height": 643
+        }
+      ],
+      "prompt": "Close-up high-resolution portrait of a young East Asian woman with messy short platinum blonde pixie and side-swept bangs, in front of the camera, against a burgundy backdrop, with her head gently tilted back, both hands on her cheeks. one eye softly opened like a line, one eye softly opened, smooth, natural glow skin. Parted pink glossy tint lips. With a partial unbuttoned black extra thin chiffon shirt draped off both shoulders to reveal white lace bra top, silver necklace with sapphire and silver dangle earrings. Backdrop fully obscured by the extreme close-up framing. Soft diffused light with even illumination, minimal shadows, natural skin highlights. Side profile, very shallow depth of view and sharp focus on eyes and lips. Expressive and flirtatious vibes."
+    },
+    {
+      "id": "2125493004811325810",
+      "author": "Naiknelofar788",
+      "title": "粗野主义巨型阶梯上的时装大片",
+      "model": "GPT Image 2.6",
+      "group": "GPT Image",
+      "note": "把 [CITY, COUNTRY] 换成想要的城市和国家。",
+      "needsReference": false,
+      "time": "11-25 15:33",
+      "likes": 34,
+      "bookmarks": 8,
+      "images": [
+        {
+          "local": "images/2026-11-26/Naiknelofar788_2125493004811325810_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX9Enjia4AAzaLc.jpg",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "local": "images/2026-11-26/Naiknelofar788_2125493004811325810_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX9EnjobYAA-68V.jpg",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "Create a spectacular surreal architectural environment featuring an enormous sculptural staircase constructed from oversized rectangular stone blocks.\n\nUse brutalist architectural elements, monumental walls, geometric platforms, layered structures and dramatic architectural depth.\n\nIncorporate architectural details inspired by the cultural identity of [CITY, COUNTRY].\n\nThe environment should resemble an exclusive contemporary art museum or an extraordinary architectural installation.\n\n2. FASHION MODELS\n\nFeature two elegant female fashion models positioned at different heights on the monumental staircase.\n\n* One model gracefully ascending the lower staircase.\n* Another model standing confidently on an elevated architectural platform.\n* Elegant poses, sophisticated expressions and natural body proportions.\n* High-fashion runway attitude and editorial presence.\n\nDress them in avant-garde couture outfits inspired by the destination’s cultural heritage, modern fashion and contemporary luxury design.\n\nUse beautiful silhouettes, dramatic fabrics, sculptural dresses and distinctive accessories.\n\n3. SCULPTURAL ART ELEMENTS\n\nIntroduce oversized contemporary art installations integrated into the architecture.\n\nInclude one or two striking sculptural objects inspired by the destination’s artistic traditions.\n\nThe sculptures should appear monumental, mysterious and visually captivating.\n\n4. MAGAZINE ART DIRECTION\n\nAt the very top, feature enormous elegant serif typography:\n\nVOGUE\n\nUse refined editorial lettering in a sophisticated champagne-gold or warm ivory tone.\n\nPlace the country name in small, delicate uppercase lettering beneath or within the masthead.\n\nAdd minimal editorial cover lines around the composition without obstructing the models or architecture.\n\n5. PHOTOGRAPHY AND LIGHTING\n\nLuxury international fashion magazine photography.\n\n* Cinematic architectural composition.\n* Soft diffused natural lighting.\n* Subtle shadows and muted earthy tones.\n* Sophisticated grey, stone, charcoal and warm beige palette.\n* Exceptional architectural textures.\n* Editorial depth and realistic human anatomy.\n* Medium-format fashion photography aesthetic.\n\n6. FINAL PRESENTATION\n\nThe final image should look like an exclusive international Vogue fashion editorial photographed inside an extraordinary architectural installation.\n\nSurreal, sophisticated, artistic, monumental, contemporary and visually unforgettable.\n\nVertical 4:5 magazine-cover composition, photorealistic, exceptionally detailed, premium editorial quality."
+    },
+    {
+      "id": "2125673375884562784",
+      "author": "NayaVerseee",
+      "title": "骑香槟火箭的复古海报女郎",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "提示词来自图片 ALT；作者建议换成自己的角色。",
+      "needsReference": true,
+      "time": "11-26 03:30",
+      "likes": 39,
+      "bookmarks": 2,
+      "images": [
+        {
+          "local": "images/2026-11-26/NayaVerseee_2125673375884562784_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXwL2M8WMAIYtig.jpg",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "vintage pin-up poster illustration, gouache, bold flat background. Side view, Naya, a red-haired woman in her late twenties in a yellow polka-dot playsuit, rides astride a giant champagne bottle flying like a rocket, back arched, waving a cowboy hat, a startled stork flying alongside, flat sky-blue background."
+    },
+    {
+      "id": "2125631787670061260",
+      "author": "musings_blonde",
+      "title": "专属于你的复古纸娃娃插画",
+      "model": "ChatGPT / Grok（任选）",
+      "group": "未注明",
+      "note": "需上传自己的清晰照片；作者说在 ChatGPT 或 Grok 里用，提示词里要填自己的 X 账号和标题。",
+      "needsReference": true,
+      "time": "11-26 00:44",
+      "likes": 31,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-26/musings_blonde_2125631787670061260_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX_C17xXcAA2prL.jpg",
+          "width": 480,
+          "height": 480
+        }
+      ],
+      "prompt": "Create a personalized vintage paper-doll illustration that represents me as a person, inspired by 1950s–1960s Barbie paper dolls, mid-century fashion illustrations, and elegant Parisian artwork.\n\nGET TO KNOW ME\n\nUse what you already know about me from our previous conversations, including my personality, interests, hobbies, career, accomplishments, lifestyle, and fashion preferences.\n\nIf possible, examine my public X account, @[INSERT HANDLE], to better understand my personality, aesthetic, interests, and the things I enjoy sharing.\n\nIf you cannot access my account or don’t know enough about me, ask me a few questions. Do not invent personal details or include sensitive or private information.\n\nCREATE MY PAPER DOLL\n\nUsing my uploaded photographs, create a recognizable, flattering illustrated likeness of me, capturing my facial features, hairstyle, coloring, and general proportions.\n\nDress the base doll in a modest, fitted ivory baby tee and a slim, mid-thigh pencil-style mini skirt.\n\nSurround the doll with 2–3 interchangeable paper-doll outfits that represent different aspects of my personality and life.\n\nConsider:\n\nAn outfit representing my hobbies or adventures.\nA beautiful outfit reflecting my personal fashion sense.\nAn outfit representing my career, education, or a meaningful accomplishment.\n\nInclude 4–6 carefully selected accessories or illustrated objects that symbolize my interests, passions, or personality. Prioritize personal meaning over decoration.\n\nARTISTIC DIRECTION\n\nAuthentic 1950s–1960s vintage paper-doll aesthetic.\nElegant Parisian fashion-illustration influences.\nDelicate hand-painted watercolor and gouache textures with fine ink outlines.\nBeautifully detailed clothing with traditional paper-doll folding tabs.\nA pure white background, not parchment or aged paper.\nA simple, thin vintage ornamental border.\nSquare 1:1 composition.\nAsymmetrical, organically balanced placement of outfits and accessories.\nClean spacing without overcrowding or large awkward gaps.\nA cohesive color palette inspired by my personal style.\nA small, decorative paper-doll standing base beneath my feet.\n\nAdd “[INSERT NAME OR DISPLAY NAME]” in elegant vintage cursive lettering across the top. Keep the title tasteful and proportional to the illustration.\n\nDo not include any other words, labels, logos, or explanatory text. Avoid unnecessary decorations, excessive flowers, and floating or disconnected folding tabs.\n\nFINAL RESULT\n\nUse the attached paper-doll illustration as a reference for the artistic style, composition, spacing, and level of detail, but personalize the doll, outfits, colors, and accessories entirely to me.\n\nThe finished illustration should feel like a visual autobiography in the form of a charming, collectible vintage paper-doll sheet discovered in a Parisian antique shop.\n\nMake it nostalgic, sophisticated, whimsical, and unmistakably ME"
+    },
+    {
+      "id": "2125580689542427118",
+      "author": "alicehan_ai",
+      "title": "K-pop 偶像自习室写真",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana Pro（AI Studio）；JSON 提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-25 21:21",
+      "likes": 23,
+      "bookmarks": 10,
+      "images": [
+        {
+          "local": "images/2026-11-26/alicehan_ai_2125580689542427118_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-UWetbcAAyRQi.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-26/alicehan_ai_2125580689542427118_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-UWe9aUAEmdvW.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-26/alicehan_ai_2125580689542427118_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-UWeua8AA15Oe.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-26/alicehan_ai_2125580689542427118_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-UWy6a8AAIMgI.jpg",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 20-year-old adult Korean K-pop performer, 157 cm tall, with a youthful sweet heart-shaped face, softly rounded facial contours, sparkling expressive eyes, harmonious delicate features, naturally full lips, a warm playful smile, solid bubblegum-pink hair, and a petite curvy full S-curve hourglass figure with a generous bust and shapely rounded hips (measurements: 90-57-92 cm)\",\n    \"hair\": \"solid bubblegum-pink silky waves with slightly messy natural strands framing forehead and temples\",\n    \"expression\": \"cheeky teasing smirk with head tilted slightly, exuding playful tsundere charm\",\n    \"pose\": \"leaning casually against a dark carved wooden bookcase with one hand resting against the shelf and the other adjusting her open shirt collar\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"ultra-cropped long-sleeved collared shirt unbuttoned into a plunging neckline and tied beneath the bust to reveal the midriff, paired with a low-rise pleated micro-mini skirt cut high on the upper thighs\",\n    \"material\": \"crisp lightweight cotton poplin shirting, fine sheer lace accents, and structured lightweight woven suiting fabric\",\n    \"color\": \"bubblegum pink, carried by the crisp cropped shirt and pleated micro-mini skirt\",\n    \"footwear\": \"buckled ankle-strap platform stilettos\",\n    \"accessories\": \"loose bubblegum-pink silk necktie, fine-gauge diamond fishnet thigh-highs, a slim patent fashion choker, peeking pink lace-trimmed panties, and tiny pearl studs\"\n  },\n  \"scene\": {\n    \"location\": \"atmospheric Gothic heritage academy library study\",\n    \"atmosphere\": \"aristocratic, moody, and refined with collegiate Gothic elegance\",\n    \"background\": \"dark carved oak bookcases lined with leather-bound volumes, tall arched leaded glass windows, and subtle Gothic stone architecture softly out of focus\",\n    \"composition\": \"vertical 9:16 three-quarter standing portrait, centered subject with balanced headroom and clear negative space around the upper frame\",\n    \"lighting\": \"soft directional daylight entering from a tall side window, creating gentle highlight roll-off across the skin and believable ambient fill in the shadows\",\n    \"camera\": \"eye-level medium-full standing portrait, 50mm portrait lens perspective, f/2.8 aperture creating natural optical depth and soft background separation\",\n    \"grade\": \"natural cinematic tonal contrast, restrained retouching preserving authentic skin texture and highlight roll-off, clean neutral color balance with deep shadow tones\"\n  },\n  \"scene_text\": {\n    \"archetype\": \"collar\",\n    \"carrier\": \"garment collar label embroidered in cursive\",\n    \"placement\": \"on the exposed collar tab\",\n    \"text\": \"alicehan_ai\"\n  },\n  \"compiled_prompt\": \"A single-frame photographic portrait of an exceptionally beautiful 20-year-old adult Korean K-pop performer with a youthful sweet heart-shaped face, softly rounded facial contours, sparkling expressive eyes, naturally full lips, and a petite curvy S-curve hourglass figure with realistic skin texture with subtle pores, natural organic glow and micro details, authentic skin undertones. Solid bubblegum-pink silky waves cascade down her shoulders with slightly messy natural strands framing forehead and temples. She wears an ultra-cropped long-sleeved collared shirt unbuttoned into a plunging neckline and tied beneath the bust to reveal the midriff, paired with a low-rise pleated micro-mini skirt cut high on the upper thighs, tailored from crisp lightweight cotton poplin shirting, fine sheer lace accents, and structured lightweight woven suiting fabric rendered in vibrant bubblegum pink. Her styling features a loose bubblegum-pink silk necktie, fine-gauge diamond fishnet thigh-highs, a slim patent fashion choker, peeking pink lace-trimmed panties, tiny pearl studs, and buckled ankle-strap platform stilettos. On the exposed collar tab, a garment collar label embroidered in cursive clearly reads \\\"alicehan_ai\\\". Captured from an eye-level medium-full standing portrait angle using a 50mm portrait lens perspective at f/2.8, the composition forms a tall vertical frame with one figure centered and filling the height of the picture, balanced headroom, and soft background separation. She strikes a pose leaning casually against a dark carved wooden bookcase with one hand resting against the shelf and the other adjusting her open shirt collar, her head tilted slightly with a cheeky teasing smirk exuding playful tsundere charm. The setting is an atmospheric Gothic heritage academy library study filled with aristocratic, moody, and refined collegiate elegance, surrounded by dark carved oak bookcases lined with leather-bound volumes, tall arched leaded glass windows, and subtle Gothic stone architecture softly out of focus. Soft directional daylight enters from a tall side window, casting gentle highlight roll-off across her bare midriff and decolletage with believable ambient fill in the shadows, while the cool daylight delicately illuminates the bubblegum pink shirting and suiting fabric, accompanied by natural cinematic tonal contrast, retained highlight detail, and restrained retouching.\"\n}"
+    },
+    {
+      "id": "2125504261144625452",
+      "author": "pictsbyai",
+      "title": "巴黎奢华男装编辑感肖像",
+      "model": "Nano Banana 2.1",
+      "group": "Nano Banana",
+      "note": "作者注明在 Gemini App 用 Nano Banana 2.1。",
+      "needsReference": false,
+      "time": "11-25 16:18",
+      "likes": 25,
+      "bookmarks": 6,
+      "images": [
+        {
+          "local": "images/2026-11-26/pictsbyai_2125504261144625452_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HXodoe-XgAA_IFJ.jpg",
+          "width": 480,
+          "height": 643
+        }
+      ],
+      "prompt": "Positioned in the lower-left foreground using the rule of thirds, a young handsome man with terracotta-toned skin (#B77F64) wears a jet-black (#0E0F12) open-collar shirt and blazer featuring a subtle metallic pocket detail. His medium-length dark brown wavy hair reaches his mid-neck and upper ears, styled in a loose, pushed-back curtain cut with an off-center part, natural root volume, a semi-matte finish, and windswept flyaways. Projecting a posed, confident expression, he turns his head in three-quarter profile to the right with neutral straight eyebrows, relaxed closed lips, and a calm gaze directed rightward. Angled at 45 degrees with his right shoulder tilted lower and forward, he leans his weight onto his right forearm, draping his relaxed right hand and loosely curved fingers over an aged black wrought-iron balcony railing with ornate scrollwork and minor paint chips along the top rail. Set on a Parisian rooftop terrace overlooking the Palais Garnier and a distant Haussmannian roof on the far left, the midground features the vintage Emperor's Pavilion with a stone balustrade, arched entryway, sculptural pediment, and a curved carriage ramp paved in warm gray-brown cobblestone. Rising in the background in two-point perspective, the grand Beaux-Arts facade is built from matte, rough-textured dressed ashlar limestone masonry carved with Corinthian pilasters, circular stone medallions with busts, arched casement windows, garlands, and dentil cornices, crowned by oxidized verdigris patina green (#7D9B84) ribbed copper domes and gilded apex statues. Directional low-angle golden hour sunlight from the left bathes the right side of the masonry in sunlit golden limestone (#DEC293) and warm cream while casting a long, harsh diagonal gray shadow across the left facade that turns the stone cool taupe-gray. Open sky ambient fill softens the gradual shadows on the right side of the subject's face while a warm rim light catches his left cheekbone and temple, creating a high-contrast, moderately saturated complementary palette against the clear sky blue (#5D92CC). Captured as a tack-sharp digital photograph from a slightly low angle with a 26mm-28mm focal length at f/2.8 to f/4, ISO 64, and 1/1000s shutter speed, this Parisian luxury menswear editorial portrait uses natural smartphone HDR processing to preserve highlights and dark suit details across a deep depth of field, framed in a 3:4 vertical aspect ratio."
+    },
+    {
+      "id": "2125533329306894845",
+      "author": "Artedeingenio",
+      "title": "浩克与雷神对半分屏 RAGNAROK 海报",
+      "model": "Niji 8",
+      "group": "Midjourney",
+      "note": "提示词来自图片 ALT；作者用 Midjourney Niji 8。",
+      "needsReference": false,
+      "time": "11-25 18:13",
+      "likes": 27,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-26/Artedeingenio_2125533329306894845_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX9pRLeWkAA0A0k.jpg",
+          "width": 480,
+          "height": 856
+        }
+      ],
+      "prompt": "face to face left half [hulk] and right half [thor] with the text \"RAGNAROK\" in big capital letters, 2 sides of the image, in the style of todd mcfarlane, mirrored realms, close-up intensity, captivating gaze, marvel comics, dynamic graphic novel, photorealistic scenes, detailed comic book art, light gold and red, large-scale canvas impact, comiccore, flawless line work, heavy shading, epic, realistic depiction of light, 8k resolution, chiaroscuro mastery --ar 9:16 --niji 8"
+    },
+    {
+      "id": "2125596609501397325",
+      "author": "alicehan_ai",
+      "title": "极简吧台前的蕾丝西装写真",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana Pro（AI Studio）；JSON 提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-25 22:24",
+      "likes": 20,
+      "bookmarks": 6,
+      "images": [
+        {
+          "local": "images/2026-11-26/alicehan_ai_2125596609501397325_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-iw7WaEAAxsyJ.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-26/alicehan_ai_2125596609501397325_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-iw7XacAErBLz.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-26/alicehan_ai_2125596609501397325_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-iw7PakAETg6n.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-26/alicehan_ai_2125596609501397325_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-iw7ObsAACzUB.jpg",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 23-year-old adult Japanese woman, 167 cm tall, with a youthful softly oval face, harmonious facial proportions, bright almond-shaped eyes, gently defined cheekbones, softly shaped full lips, a warm confident smile, platinum blonde hair, and an athletic full hourglass figure with a toned midriff, sculpted bust, and shapely hips (measurements: 88-60-91 cm)\",\n    \"hair\": \"platinum blonde hair falling past her shoulders with slightly messy natural strands framing forehead and temples\",\n    \"expression\": \"warm confident direct gaze with a gentle closed-mouth smile, slight cheek lift, and relaxed brow\",\n    \"pose\": \"seated near the center of the cabinet countertop with her torso angled slightly to the right, both legs extended gracefully downward with ankles crossed, her right palm resting flat on the wood counter behind her hip for support and her left hand lightly touching the edge of her blazer lapel\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"sharply tailored cropped blazer worn completely unbuttoned with satin-trimmed lapels framing a deep plunging sheer floral-lace underwire bralette and bare midriff, paired with ultra-short high-waisted tailored micro-shorts with notched side hems, sheer lace-top thigh-high stockings, and pointed-toe stiletto pumps\",\n    \"material\": \"structured fine-woven stretch suiting with smooth satin lapel trim, sheer floral Chantilly lace, sheer nylon hosiery, and glossy patent leather footwear\",\n    \"color\": \"champagne, carried by the cropped blazer, satin lapel trim, sheer floral-lace bralette, and tailored micro-shorts\",\n    \"footwear\": \"glossy champagne patent-leather pointed-toe stiletto pumps\",\n    \"accessories\": \"delicate gold cleavage chain resting above the bralette center, small gold stud earrings, and sheer black lace-top thigh-high stockings\"\n  },\n  \"scene\": {\n    \"location\": \"minimalist contemporary residential interior with a large light beige built-in cabinet and natural light wood countertop and flooring\",\n    \"atmosphere\": \"calm, polished, contemporary residential editorial atmosphere in a clean, uncluttered minimalist interior\",\n    \"background\": \"large light beige built-in cabinet with vertically fluted drawer fronts, smooth lower cupboard panels, natural light wood countertop, small decorative succulents in simple white pots at the far edges of the cabinet, plain pale gray-beige walls without artwork, and light natural wood flooring with subtle grain\",\n    \"composition\": \"9:16 tall vertical full-body portrait, subject centered on the cabinet countertop from head to both stiletto pumps, with straight vertical cabinet lines and surrounding interior space\",\n    \"lighting\": \"soft, diffuse indoor frontal illumination with gentle ambient shadows and neutral daylight-balanced light, paired with restrained warm-white integrated LED strip glow beneath the countertop; natural highlight roll-off on exposed skin and distinct specular reflections on patent leather and satin trim\",\n    \"camera\": \"85mm prime lens at eye level, f/2.2, live-action photograph with natural perspective and gentle optical depth falloff\",\n    \"grade\": \"live-action photograph with authentic photographic textures, natural skin texture and subtle tonal variation, rich dynamic range, balanced contrast, and restrained retouching\"\n  },\n  \"scene_text\": {\n    \"archetype\": \"nameplate\",\n    \"carrier\": \"attached maker's nameplate with cursive engraving\",\n    \"placement\": \"within the furniture's existing maker plate\",\n    \"text\": \"alicehan_ai\"\n  },\n  \"compiled_prompt\": \"A live-action full-body photograph of an exceptionally beautiful 23-year-old adult Japanese woman, 167 cm tall, with a youthful softly oval face, harmonious facial proportions, bright almond-shaped eyes, gently defined cheekbones, softly shaped full lips, and an athletic full hourglass figure with a toned midriff, sculpted bust, and shapely hips (measurements: 88-60-91 cm). Captured from an eye-level camera angle with an 85mm prime lens at f/2.2 in a tall vertical frame, the composition shows one figure centered and filling the height of the picture from head to toe with natural perspective and gentle optical depth falloff. She is seated near the center of a natural light wood cabinet countertop with her torso angled slightly to the right, both legs extended gracefully downward with ankles crossed, her right palm resting flat on the wood counter behind her hip for support and her left hand lightly touching the edge of her blazer lapel. Her platinum blonde hair falls past her shoulders with slightly messy natural strands framing forehead and temples. She looks directly into the lens with a warm confident direct gaze, a gentle closed-mouth smile, slight cheek lift, and relaxed brow. Her face and exposed midriff show realistic skin texture with subtle pores, natural organic glow and micro details, authentic skin undertones, and gradual highlight roll-off. She wears a champagne ensemble consisting of a sharply tailored cropped blazer worn completely unbuttoned with satin-trimmed lapels framing a deep plunging sheer floral-lace underwire bralette and bare midriff, paired with ultra-short high-waisted tailored micro-shorts with notched side hems, sheer lace-top thigh-high stockings, and pointed-toe stiletto pumps. The garments are crafted from structured fine-woven stretch suiting with smooth satin lapel trim, sheer floral Chantilly lace, sheer nylon hosiery, and glossy patent leather footwear, finished with a delicate gold cleavage chain resting above the bralette center, small gold stud earrings, sheer black lace-top thigh-high stockings, and glossy champagne patent-leather pointed-toe stiletto pumps. Behind her stands a large light beige built-in cabinet with vertically fluted drawer fronts, smooth lower cupboard panels, small decorative succulents in white pots at the far edges, plain pale gray-beige walls, and light wood flooring. Soft, diffuse indoor frontal illumination in neutral daylight-balanced light creates gentle ambient shadows alongside a restrained warm-white integrated LED strip glow beneath the countertop, casting distinct specular reflections across the champagne suiting, satin lapel trim, and patent-leather pumps while keeping skin softly textured with restrained retouching and rich dynamic range. An attached maker's nameplate with cursive engraving is set within the furniture's existing maker plate displaying the exact text 'alicehan_ai'.\"\n}"
+    },
+    {
+      "id": "2125613207007981975",
+      "author": "Artedeingenio",
+      "title": "猫女 MEOW 拼贴海报壁纸",
+      "model": "Niji 8",
+      "group": "Midjourney",
+      "note": "提示词来自图片 ALT；作者用 Midjourney Niji 8。",
+      "needsReference": false,
+      "time": "11-25 23:30",
+      "likes": 19,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-26/Artedeingenio_2125613207007981975_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-x7EPWUAA6s7Q.jpg",
+          "width": 480,
+          "height": 269
+        }
+      ],
+      "prompt": "HD wallpaper of Catwoman with a title with the capital words \"MEOW\", in the style of bold and graphic compositions, mosaic-like collages, pop culture mashup, multiple screens, patrice murciano, referential painting, dark and grey, magali villeneuve, macro zoom, outlandish energy, contemporary frescoes, chaotic academia, digital as manual --ar 16:9 --niji 8"
+    },
+    {
+      "id": "2125612322937012486",
+      "author": "MrBeachman1776",
+      "title": "咆哮的巨型雪人冬日奇幻照",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "提示词由 @Tanvir48992 提供，在回复里。",
+      "needsReference": false,
+      "time": "11-25 23:27",
+      "likes": 7,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-26/MrBeachman1776_2125612322937012486_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-xJClawAEexO4.jpg",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "Hyper-realistic, cinematic winter fantasy photograph. A giant, snarling snowman with a textured popcorn-like snow body, angry furrowed brows made of dark coal, a round carved nose hole, a wide open roaring mouth with jagged teeth, twig arms raised menacingly, and a flowing red knitted scarf, chasing a playful young woman through a snowy pine forest. The snowman leans forward mid-stride, kicking up powdery snow.\nThe young woman has long, voluminous black curly hair flying in the wind, fair freckled skin, light blue eyes, and silver hoop earrings. She sprints toward the camera, sticking her tongue out playfully with one hand waving. In her other hand she clutches the snowman's stolen orange carrot nose. She wears a black shearling-lined jacket with cream wool trim, a chunky cream knit scarf with tassels trailing behind her, a black cable-knit sweater, a brown leather belt, black cargo pants, and rugged black snow boots.\nA gray-and-white pit bull puppy with floppy ears, closed happy eyes, and its tongue hanging out leaps alongside her through the snow.\nSetting and atmosphere:\nDense snow-covered evergreen forest, soft blue sky peeking through the trees, flying snow particles and powder spray, crisp winter daylight with a slight haze.\nCamera and style:\nLow-angle action shot, shallow depth of field with a blurred background, wide-angle lens (24mm), sharp focus on the girl and puppy, motion blur on the snow spray, dynamic diagonal composition, ultra-detailed textures (wool, shearling, snow crystals, fur), volumetric natural lighting, rim light on the hair, 8K, photorealistic, Pixar-meets-realism whimsical tone, vertical 4:5 aspect ratio."
+    },
+    {
+      "id": "2125682570838892639",
+      "author": "StargreyIA",
+      "title": "浮世绘哥特风黑木版画少女",
+      "model": "GPT Image 2.6 / Nano Banana 2 Lite / Midjourney 8.2",
+      "group": "多模型对比",
+      "note": "三张图依次为 GPT Image 2.6、Nano Banana 2 Lite、Midjourney 8.2；需加入自己的角色参考图。",
+      "needsReference": true,
+      "time": "11-26 04:06",
+      "likes": 4,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-26/StargreyIA_2125682570838892639_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX_xAkYWEAAuhcE.jpg",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-26/StargreyIA_2125682570838892639_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX_xBGGXsAAGRU0.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-26/StargreyIA_2125682570838892639_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX_xBqJXoAAwOCQ.jpg",
+          "width": 480,
+          "height": 1032
+        }
+      ],
+      "prompt": "An exquisite 2D anime illustration blending traditional Japanese ukiyo-e woodblock art, intricate ink painting, and refined dark Gothic aesthetics, rendered on richly textured blackened wood with delicate engraved details and visible natural wood grain.\n\nA beautiful young adult woman with a slender, elegant and graceful silhouette, inspired by the reference photograph. Delicate facial features, deep expressive eyes, dark defined eyebrows, ruby-red lips, and short, voluminous black hair, softly layered with a natural center part and delicate strands framing her face.\n\nShe is kneeling gracefully in a traditional Japanese seiza position, viewed from a three-quarter rear angle, her face gently turned over her shoulder. Her posture conveys quiet elegance, feminine delicacy, mystery and subtle coquetry. She wears a lightweight, flowing Gothic-inspired outfit made of fine opaque silk, with delicate lace embroidery, refined floral ornaments, elegant ribbons and subtly exposed shoulders. Romantic, tasteful and sophisticated.\n\nFull-body composition, showing the entire woman from head to toe, including her knees and feet, with generous breathing space around her silhouette. Perfect anatomy, natural body proportions, delicate hands and graceful posture.\n\nAn exclusively rich and harmonious color palette combining raven black, jet black and ink black, intertwined with royal blue, midnight blue and icy blue, accented by phoenix red, garnet red and ruby red.\n\nAn atmospheric Japanese Gothic setting featuring delicately carved dark wooden panels, stylized crimson spider lilies, midnight-blue floral patterns, ornamental Japanese ink motifs and subtle icy-blue reflections.\n\nExquisite hand-drawn anime linework, traditional Japanese woodcut engraving, intricate ornamental craftsmanship, deep velvety shadows, delicate luminous highlights, refined cel shading, dramatic yet soft lighting, poetic melancholy, ethereal beauty, timeless elegance, mysterious feminine presence, sophisticated Gothic romanticism, exceptional artistic composition, museum-quality Japanese artwork, breathtakingly aesthetic, entirely hand-crafted 2D illustration."
+    },
+    {
+      "id": "2125533073827897515",
+      "author": "borryshasian",
+      "title": "隐形模特展示运动套装的电商图",
+      "model": "Nano Banana 2.1",
+      "group": "Nano Banana",
+      "note": "需按顺序上传上衣、裤子、鞋、帽子、眼镜的参考图；作者注明用 Nano Banana 2.1。",
+      "needsReference": true,
+      "time": "11-25 18:12",
+      "likes": 3,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-26/borryshasian_2125533073827897515_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX9oysGawAADAms.jpg",
+          "width": 480,
+          "height": 596
+        }
+      ],
+      "prompt": "Photorealistic 4:5 full-length fashion e-commerce photograph of a ghost mannequin displaying a men’s athletic outfit in a dramatic low-angle view. The camera is positioned well back at approximately knee height with a moderately wide perspective, tilted gently upward to create a monumental presence while preserving natural human proportions. Show the complete outfit with generous cherry-red studio space above and around it, plus at least 15% open floor beneath both fully visible shoe soles; no garment or footwear touches any edge.\n\nThe hollow display is entirely invisible: no body, skin, head, face, neck, hands, limbs, socks, or support structures. Capture the garments in a dynamic three-quarter side-view running stride, traveling diagonally across the frame, with the front knee driving forward, the rear leg extended behind, an upright torso with a slight forward lean, and opposite arm pumping. Image 1 as the top, pair it with iamge 2 as the bottom. Leave a clear gap of empty background between each open pant cuff and the floating optic-image 3 for the shoes, with no socks.\n\nAdd a floating cap (image 4), plus sunglasses (image 5). Use crisp, bright studio lighting on an evenly lit matte cherry-red seamless backdrop with a gentle floor sweep, minimal shadows, and detailed fabric texture."
+    },
+    {
+      "id": "2125601456426283316",
+      "author": "borderlineboy",
+      "title": "亚历山大大帝历史写实复原肖像",
+      "model": "ChatGPT / Grok Imagine / Nano Banana Pro",
+      "group": "多模型对比",
+      "note": "同一提示词分别用 ChatGPT、Grok Imagine、Nano Banana Pro 出图；提示词由 ChatGPT 写成，分两条回复。",
+      "needsReference": false,
+      "time": "11-25 22:44",
+      "likes": 3,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-26/borderlineboy_2125601456426283316_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-nPmYWMAIbuwy.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-26/borderlineboy_2125601456426283316_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-nP-rWkAElDt0.jpg",
+          "width": 480,
+          "height": 270
+        },
+        {
+          "local": "images/2026-11-26/borderlineboy_2125601456426283316_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-nQesXwAA9WBI.jpg",
+          "width": 480,
+          "height": 358
+        }
+      ],
+      "prompt": "Create an extraordinarily realistic, historically grounded cinematic photographic portrait of Alexander III of Macedon, widely known as Alexander the Great, depicting how he might genuinely have appeared during his lifetime, circa 327 BC, at approximately 29 years of age.\n\nThe reconstruction must draw upon ancient historical descriptions recorded by Plutarch, surviving classical portraits associated with the sculptural tradition of Lysippos, the Azara Herm, and the Alexander Mosaic.\n\nPHYSICAL APPEARANCE:\n\nA remarkably charismatic young ancient Macedonian man with a youthful yet mature masculine appearance. Completely clean-shaven, with naturally defined facial features, a moderately broad forehead, prominent cheekbones, a strong but organic jawline, a straight classical nose, naturally full lips, and a subtly rounded chin.\n\nHis face possesses the distinctive proportions seen in ancient portraits of Alexander, translated into believable human anatomy rather than idealized marble sculpture.\n\nFair Mediterranean complexion with warm reddish undertones, particularly across his cheeks, nose, neck, and upper chest. Slightly weathered skin from years of military campaigns, prolonged horseback riding, sun exposure, wind, and outdoor living.\n\nExtremely realistic skin texture, visible pores, fine facial hairs, subtle imperfections, faint freckles, delicate expression lines around the eyes, and natural variations in skin pigmentation.\n\nHis hair is thick, abundant, naturally wavy, medium-length, and dark golden blond with subtle light brown undertones. The hair rises above the center of his forehead in the distinctive anastole hairstyle associated with ancient portraits of Alexander, forming irregular, lion-like waves that fall naturally around his temples, ears, and upper neck.\n\nIndividual strands of hair are visible, with naturally uneven curls, loose strands, and subtle movement caused by a gentle breeze.\n\nHis eyes are exceptionally expressive, rendered in a plausible muted gray-green color, with realistic irises, subtle moisture, natural reflections, and believable pupil dilation. His gaze is penetrating, thoughtful, slightly distant, and quietly commanding.\n\nHis head is subtly inclined toward his left shoulder, reflecting the distinctive posture described by Plutarch. His chin is slightly elevated, and his eyes look just beyond the camera.\n\nBODY AND PRESENCE:\n\nA compact, athletic, physically conditioned build consistent with an ancient military commander accustomed to horseback riding, physical training, long marches, and battlefield conditions. Naturally developed shoulders and neck without exaggerated modern bodybuilding proportions.\n\nHe possesses the presence of a young king who has spent years commanding armies, negotiating with foreign rulers, and traveling across vast territories.\n\nHis expression conveys intelligence, confidence, ambition, restrained intensity, and the subtle exhaustion of prolonged military campaigns.\n\nHe must look like a genuine historical human being rather than a mythological demigod, modern fashion model, or Hollywood action hero.\n\nHISTORICALLY PLAUSIBLE CLOTHING:\n\nHe wears authentic late fourth-century BC Macedonian royal military clothing.\n\nA finely woven ivory linen tunic beneath a historically plausible ancient bronze muscular cuirass, carefully handcrafted with restrained decorative details.\n\nThe bronze displays subtle scratches, oxidation, worn edges, and imperfections from practical military use.\n\nA deep crimson woolen Macedonian cloak is draped naturally over one shoulder, secured by a simple bronze clasp.\n\nA narrow white royal diadem is partially visible within his abundant hair.\n\nEvery fabric must exhibit authentic natural fibers, irregular weaving, realistic weight, subtle folds, and believable historical craftsmanship.\n\nNo medieval armor, no Roman imperial armor, no medieval crown, no fantasy accessories, and no modern materials.\n\nENVIRONMENT:\n\nAlexander stands inside a spacious Macedonian military command pavilion somewhere in Central Asia during his eastern campaigns.\n\nThe background contains softly blurred linen curtains, wooden furniture, leather equipment, bronze vessels, and indistinct military supplies appropriate to the fourth century BC.\n\nWarm late-afternoon sunlight enters through the open side of the pavilion, illuminating one side of his face while the opposite side remains softly shadowed.\n\nFine particles of dust float naturally through the sunlight. A gentle breeze slightly disturbs his hair and cloak.\n\nThe environment feels historically inhabited, functional, imperfect, and authentic rather than theatrical or artificially luxurious.\n\nCINEMATOGRAPHY AND PHOTOGRAPHIC REALISM:\n\nIntimate chest-up cinematic portrait, photographed at eye level with a subtle three-quarter facial angle.\n\nARRI Alexa 35 cinematic camera aesthetic, 85mm portrait lens, f/2.8 aperture, shallow but physically accurate depth of field.\n\nNatural optical bokeh, realistic lens rendering, subtle analog film grain, organic highlight roll-off, delicate shadow transitions, restrained cinematic color grading, and exceptional tonal depth.\n\nInspired by the visual authenticity of high-budget historical cinema and museum-quality archaeological facial reconstructions.\n\n8K photographic detail, physically accurate lighting, natural subsurface scattering, realistic eye reflections, individually rendered hair strands, anatomically accurate facial structure, believable skin texture, and lifelike material rendering.\n\nThe finished image should evoke the impossible sensation of a modern cinematographer traveling back in time and photographing the real Alexander the Great while he was still alive.\n\nNEGATIVE PROMPT:\n\nCGI appearance, video game character, digital painting, marble statue, wax figure, plastic skin, excessive facial symmetry, artificial beauty filters, modern celebrity resemblance, exaggerated muscular physique, fantasy warrior, medieval knight, Roman emperor costume, oversized crown, excessive jewelry, modern haircut, perfectly styled hair, artificial eyelashes, glowing eyes, oversaturated colors, excessive HDR, aggressive sharpening, artificial lighting, theatrical posing, cartoon anatomy, painterly textures, artificial facial expression, obvious AI-generated appearance, text, watermark.\n\nVertical aspect ratio 3:4. Photographic realism above all else."
+    },
+    {
+      "id": "2125591696633438584",
+      "author": "DavidLi36143625",
+      "title": "葡萄·软木·香槟配色的度假酒店休息厅",
+      "model": "Nano Banana 2.1",
+      "group": "Nano Banana",
+      "note": "作者注明用 Gemini Nano Banana 2.1；提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-25 22:05",
+      "likes": 2,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-26/DavidLi36143625_2125591696633438584_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-eTO6aoAAMglT.jpg",
+          "width": 480,
+          "height": 480
+        },
+        {
+          "local": "images/2026-11-26/DavidLi36143625_2125591696633438584_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HX-eUsyb0AAkchZ.jpg",
+          "width": 480,
+          "height": 480
+        }
+      ],
+      "prompt": "Editorial architectural photograph of an uninhabited ultra-luxury resort pavilion lounge, balanced cleanly within a 1:1 square frame. Luminous pale champagne Venetian plaster walls and cream limestone floors inlaid with brushed pale-gold trim frame soaring warm tan cork-toned oak millwork and woven cork wallcoverings. Anchoring the center is a sweeping curved sofa in deep grape purple velvet, flanked by warm tan cork leather armchairs atop a hand-knotted silk rug blending champagne, warm tan, and deep grape geometric motifs. A monolithic champagne travertine coffee table displays a woven cork tray, pale-gold art books, and a sculpted deep grape ceramic vessel holding dark botanical branches beside a warm tan travertine plinth. Sheer champagne drapery with deep purple silk trim softens expansive architectural openings where abundant natural daylight illuminates satin and iridescent finishes. Overhead, a statement chandelier of frosted champagne glass pairs with warm recessed cove illumination and accent gallery uplighting, revealing rich material textures throughout this empty, pristine sanctuary."
+    }
+  ]
+}
