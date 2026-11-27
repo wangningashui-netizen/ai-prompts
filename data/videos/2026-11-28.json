@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-28",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "2126281185588555807",
+      "author": "Viniai_",
+      "authorName": "Vini",
+      "title": "史诗圣经题材电影短片",
+      "model": "Seedance 2.5",
+      "models": [
+        "Seedance 2.5"
+      ],
+      "note": "作者写 Opus 5.5 配合 Seedance 2.5；提示词在作者回复里；视频只截取前 15 秒。",
+      "needsReference": false,
+      "time": "11-27 19:45",
+      "likes": 1142,
+      "bookmarks": 359,
+      "url": "https://x.com/Viniai_/status/2126281185588555807",
+      "videos": [
+        {
+          "src": "videos/2026-11-28/Viniai__2126281185588555807_1.mp4",
+          "poster": "videos/2026-11-28/Viniai__2126281185588555807_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "STYLE + CHARACTER LOCK\n\nStyle: photorealistic epic biblical film, dark moody overcast sky, muted desaturated grey-brown colour grade, soft diffused stormy light, light drizzle and mist, a flat muddy wet plain stretching to the horizon, anamorphic 35mm cinematic look, shallow depth of field, slow deliberate camera moves, 16:9, 24fps, no text, no subtitles.\nCharacters (keep identical in every shot):\nNOAH – old man around 70, long wavy grey hair, long thick grey-white beard, weathered wrinkled face, pale blue eyes, rough beige-grey woven linen tunic, wooden walking staff.\nT-REX – huge realistic Tyrannosaurus rex, dark grey-brown scaly skin with bumpy ridges over the eyes, glowing amber-orange eyes with slit pupils, rows of sharp teeth, gentle sad behaviour (not aggressive).\nEGG – one big smooth cream-white dinosaur egg, about the size of a large beach ball.\nARK – enormous dark weathered wooden ark with iron-studded planks, a big wooden ramp to a doorway, a small square shuttered window, a warm lantern glow inside.\nSound (always): loud, crisp, full-range cinematic sound design — heavy dinosaur footsteps that shake the ground, deep breathing and soft rumbling purrs, wood creaking, rain and wind, rolling thunder, a huge emotional roar, crashing waves, an emotional orchestral score with low strings, choir and solo cello, deep clean bass, no muffled audio, no dialogue.\n\nClip 1 (0:00–0:15)\n\nLow wide shot at the base of the ARK: the T-REX's huge legs walk past camera toward the wooden ramp, carrying the EGG gently in its mouth, while a pair of giraffes and an elephant walk up the ramp into the ark's doorway. NOAH steps into the doorway. Medium shot: NOAH leans on the door frame with one arm, looking up, staff in hand, awed. Extreme close-up of the T-REX's amber eye blinking slowly, soft and emotional. Close-up: the T-REX lowers its head to the doorway and gently places the EGG into NOAH's arms; NOAH hugs the egg, looking at the dinosaur with tears in his eyes, the teeth just inches from his face.\nSound: earth-shaking footsteps, ramp wood creaking, animal hooves, low dinosaur breathing, a soft emotional rumble, rising cello melody.\n\nClip 2 (0:15–0:24)\n\nOver-the-shoulder shot from behind NOAH standing in the dark doorway holding the EGG: the T-REX turns and slowly walks away across the muddy plain, looking back once. Inside the dark ark, NOAH closes the door, holding the EGG next to a warm oil lantern, only the egg and his face lit. Wide shot: under a dark stormy sky, the T-REX climbs alone up a tall pointed mound of dark rocks in the middle of the empty plain.\nSound: slow heavy footsteps fading, a soft sad rumble, the heavy wooden door slamming shut and echoing, lantern flicker, wind, distant thunder, strings swelling.\n\nClip 3 (0:24–0:37)\n\nLow-angle shot: the T-REX on the rock looks up at the storm and lets out a huge long roar into the dark clouds. High shot over the plain: dark floodwater spreads fast across the land toward the rock, mist rolling. The T-REX turns its head in fear as spray and mist hit it. Wide shot: the ARK sits on the wet plain with a warm lit window, the T-REX tiny on top of the rock behind it; a big wave crashes against the rock as the water rises.\nSound: a massive emotional roar echoing, booming thunder, rushing floodwater rumble, waves crashing, choir rising.\n\nClip 4 (0:37–0:48)\n\nHigh drone shot circling: the T-REX stands alone on top of a small rock pillar in the middle of an endless grey sea, waves hitting the rock, it roars at the sky. Close-up of the ARK wall: the small wooden window shutter opens and NOAH looks out with sad eyes. His view through the dark window frame: far away on the grey sea, a white splash rises where the rock and the dinosaur go under, then the sea goes calm. Final extreme close-up: NOAH's wet face, beard dripping, blue eyes full of tears, mouth slightly open in grief.\nSound: wind and waves, a last fading roar, window latch creak, a distant splash, silence with soft rain, a single cello note and deep low swell ending the film."
+    },
+    {
+      "id": "2126362784724349392",
+      "author": "ou_zhen599",
+      "authorName": "Loriel.AI",
+      "title": "绿幕实拍转城市广告镜头",
+      "model": "MiniMax-H3",
+      "models": [
+        "MiniMax-H3"
+      ],
+      "note": "作者注明用 Krea 2 + MiniMax-H3（ComfyUI）；需用 <Picture 1> 人物图作参考；提示词在作者回复里；视频只截取前 15 秒。",
+      "needsReference": true,
+      "time": "11-28 01:09",
+      "likes": 15,
+      "bookmarks": 16,
+      "url": "https://x.com/ou_zhen599/status/2126362784724349392",
+      "videos": [
+        {
+          "src": "videos/2026-11-28/ou_zhen599_2126362784724349392_1.mp4",
+          "poster": "videos/2026-11-28/ou_zhen599_2126362784724349392_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 480
+        }
+      ],
+      "prompt": "[Subjects]\nS1 = adult brown-haired woman from <Picture 1>: exact face, features, long brown hair, proportions, cream-white suit jacket, burgundy inner top, dark-gray wide-leg trousers, black ankle boots. Exclude green studio background/floor and all green spill on hair strands and white jacket edges.\nS2 = daytime modern-city street from <Picture 2>: sidewalk, roadway, trees, buildings, traffic, pedestrians, daylight direction, urban atmosphere, realistic human scale.\nS3 = street billboard on left of <Picture 2>: original matte-black metal frame + exact printed poster (featured person, product, title, typography, hierarchy, colors, composition, layout) — no redesign, replace, translate, regenerate, or rewrite.\n\nSUMMARY: 15s, 16:9, realistic cinematic ad sequence. S1 walks along S2's sidewalk and inspects her work on S3. She briefly verifies the poster's product placement/composition via a restrained spatial HUD, then relaxes into a subtle authentic satisfaction. Pacing: fast movement → controlled slowdown → sudden brief acceleration → gradual verification → relaxed release.\n\nRETENTION: S1 (all shots) full identity preserved; remove green screen + green edge contamination. S2 (all shots) same street/sidewalk/roadway/trees/traffic/pedestrians/atmosphere/perspective/depth/daylight as sole environment. S3 (all shots) physical billboard screen-left, frame/poster content preserved exactly; HUD added only in front, never alters printed content.\n\nSTYLE: Realistic cinematic commercial — moderately high contrast, controlled saturation, soft highlight roll-off, clear (not oversharpened) street materials, natural motion blur, realistic DOF. Warm beige-gold daylight follows S2's direction onto pavement, building edges, her lit side; restrained blue-gray shadows. Skin healthy; cream jacket keeps fabric detail and reflections; burgundy top keeps color; matte-black frame stays physical. Billboard always screen-left, roadway screen-right; camera stays on the billboard's frontal street-facing side, preserving travel direction through every cut.\n\n[Shot 1 · 0.00s] Fast ground-level low-angle tracking on her moving black ankle boots. Decisive balanced stride with correct sole contact, weight transfer, contact shadow, trouser movement. One boot compresses a real dry leaf — it fractures into small pieces, fragments lift briefly then slide close to pavement; footfall and fracture precisely synced. Background pedestrian feet and traffic stay naturally active. Camera finishes beside S3's base as she approaches from the billboard's right-side sidewalk.\n\n[Shot 2 · 1.2s] Cut to fast moving medium shot. Eyes turn to S3 before the head follows; gaze locks on the poster while the body keeps moving left-forward. One short rapid pan left along the head turn lands accurately on the full billboard. Focus settles right after the pan; poster stays stable and readable — no warped person, shifted product, rewritten title, or changing layout. She never stops to pose.\n\n[Shot 3 · 2.6s] Cut to slower street-side medium. She walks two or three steps along S3's front; camera makes a smooth small-amplitude quarter-arc for realistic parallax among frame, poster, her face, street. Gaze scans title and featured person, then refocuses on clothing and shoes, with small natural search movements and ordinary blinks. At the shoes her speed dips slightly, mouth corners flatten, brow gathers subtly, a short inhale pauses in her chest. She reaches the frame's right edge and brushes it with fingertips — fingers stop against solid metal without penetration/deformation, soft metallic contact + tactile feedback. Shot ends with fingertips, side profile, billboard together.\n\n[Shot 4 · 6.8s] Cut to fixed close-up on fingertips touching the metal frame. Focus transfers smoothly from fingertips to the poster product behind the frame. The instant her hand leaves the metal it traces a short air arc, and thin cold-white light begins exactly at the former contact point. The line travels rapidly around the real metal boundary, with one brief electronic activation sound. Matte-black frame stays solid, stationary, undamaged — never bends, fragments, or becomes a luminous digital object.\n\n[Shot 5 · 7.7s] Cut to side-front medium with S1 + S3. Camera slowly pushes in as she advances another half-step, then decelerates into a close framing keeping eyes + part of poster + part of frame. A single coherent holographic verification interface unfolds only in the shallow space in front of the poster. Near layer (almost touching surface): extremely fine ice-blue product-contour lines; second sparse layer a few cm forward: cold-white compositional guides. Both keep accurate perspective/parallax to camera and her viewpoint. Her hand, frame, and pedestrians correctly occlude the lines; no HUD element crosses her face, passes through the frame, or changes the poster.\n\nHer gaze lowers to the shoes. Unrelated guide lines thin immediately; a short scanning light passes over only the existing shoe image. Slightly misaligned guides converge into exact registration. At alignment, one restrained pale-gold confirmation point flashes, casting only a faint reflection onto fingertips, face side, white cuff — no street recolor, no neon-night turn. Holographic layers retract into the frame in correct near-to-far order and extinguish.\n\nAfter confirmed alignment she exhales naturally: brow releases, gaze softens; satisfaction starts at outer eye and one mouth corner before a slight sincere closed-mouth smile. Hand lowers, stride eases, camera push-in decelerates in sync, stopping at the emotional endpoint.\n\n[Shot 6 · 12.2s] Cut to wider street-side composition, pull out smoothly at slow speed. She continues forward in the same direction, passes beyond S3's immediate side, and looks back once at her work without performing to camera. Subtle smile remains. Pull-out reunites her + full billboard + traffic + pedestrians + trees + continuous street in one frame. People/vehicles pass naturally but never obscure the final look or the billboard's key content. At 15.0s she keeps leaving along the sidewalk, S3 integrated into the city. End in real daylight with active traffic, pedestrians, hair/clothing/tree movement — no cut to black, freeze, or location switch.\n\nGLOBAL: Keep S1 at realistic pedestrian scale from S2; match perspective, foot contact, ground shadows, DOF, motion blur, environmental reflections. Hair/cuffs/trouser legs move only from walking inertia and light wind. She never enters the roadway, crosses through the billboard, reverses direction, teleports, or shifts position across cuts. One face/body/outfit, correct hands, continuous billboard placement, unchanged poster text/imagery, consistent daylight color temp. No green-screen residue/spill, facial drift, extra or duplicated limbs, poster mutation, spatial mirroring, HUD penetration, broken glass, exaggerated particles, sudden night lighting, subtitles, watermarks.\n\nSOUNDSCAPE: Continuous modern-city ambience — distant vehicles, sparse pedestrian steps, light street wind. Foreground in sequence: synced boot impacts + crisp dry-leaf fracture, soft fingertip tap on matte metal, brief electronic HUD activation, restrained clear confirmation tone. No dialogue/narration/vocalization beyond subtle inhale and relaxed exhale.\n\nMUSIC: Restrained low electronic pulse under the city ambience at moderate tempo. Minimal during inspection, one clearly defined beat at HUD alignment, then reduces and resolves softly through the final pull-out."
+    },
+    {
+      "id": "2126164114385023107",
+      "author": "tappyai007",
+      "authorName": "Tappy",
+      "title": "不可思议的时装缪斯",
+      "model": "未注明",
+      "models": [
+        "未注明"
+      ],
+      "note": "可用于文生图、图生视频或文生视频；未写所用模型。",
+      "needsReference": false,
+      "time": "11-27 12:00",
+      "likes": 19,
+      "bookmarks": 2,
+      "url": "https://x.com/tappyai007/status/2126164114385023107",
+      "videos": [
+        {
+          "src": "videos/2026-11-28/tappyai007_2126164114385023107_1.mp4",
+          "poster": "videos/2026-11-28/tappyai007_2126164114385023107_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 854
+        }
+      ],
+      "prompt": "The Impossible Fashion Muse 🌠\nAn extraordinarily beautiful adult woman with flowing silver, violet and emerald hair wears a breathtaking impossible couture creation combining feathers, liquid chrome, translucent crystal panels and sculptural floral elements, with an elegant plunging neckline and dramatically enhanced hourglass silhouette. She playfully tosses her hair, catches a floating crystal butterfly, spins slowly and finishes with a confident wink directly into the camera. Her outfit continuously transforms into different colours while remaining perfectly consistent in structure. Surreal luxury runway, spectacular lighting, cinematic 360-degree movement, photorealistic 8K detail.\nAspect ratio 9:16. Give video watermark at the bottom right corner as 'X: @tappyai007 Art' with attractive fonts and colors."
+    },
+    {
+      "id": "2126096162071478355",
+      "author": "iamzvai",
+      "authorName": "iamzv",
+      "title": "《凯旋门·破晓圣旗》金翼女武神",
+      "model": "Seedance 2.5",
+      "models": [
+        "Seedance 2.5"
+      ],
+      "note": "作者注明图用 Midjourney 8.2、视频用 Seedance 2.5；需用 @图1 人物图作参考。",
+      "needsReference": true,
+      "time": "11-27 07:30",
+      "likes": 8,
+      "bookmarks": 1,
+      "url": "https://x.com/iamzvai/status/2126096162071478355",
+      "videos": [
+        {
+          "src": "videos/2026-11-28/iamzvai_2126096162071478355_1.mp4",
+          "poster": "videos/2026-11-28/iamzvai_2126096162071478355_1.jpg",
+          "duration": 9.6,
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "【全局视觉、物理光效与合规总控】\n9:16竖屏院线级真人半CG 3D电影质感，虚幻5电影级光追渲染与高定商业大片摄影融合，起幅严格承接85mm长焦平视正面全身肖像与面部眼部极清锐焦，随后流畅切入35mm/24mm宽广电影推轨、环绕与史诗升摇，保留奶油般浅景深、1/4黑柔滤镜柔光溢出、通透十字星芒逆光耀斑与细腻自然胶片微粒，全程24fps电影帧率与真实光学运动模糊。全片严格单图锚定@图1的东方绝美骨相、清晰自然眼部结构（眼白清澈、瞳孔与虹膜纹理分明且无发光糊眼）、恒定渐变发色、巴洛克高定战甲长裙及巨型圣器细节，发色自始至终绝对恒定不变；严禁转为2D扁平动画或塑料人偶质感；全程依托实景白石渡槽、云巅广场与星穹圣库地面走位发力，杜绝脚踏虚空魔法。全片特效强制执行高阶物理光学管线：采用Emissive自发光三层亮度独立受控，内核高亮凝练、过渡层通透、外缘柔雾弥散且绝不污染主体面部与晴空背景；水流体、织锦光旗与棱镜光束严格契合对应物理特征；收招均触发Afterglow余辉滞留分层衰减，滞留微粒随自然气流缓慢飘散；高光折射仅作用于白石建筑、整体剪影、发丝轮廓、甲胄金属棱线与空气悬浮微粒。\n\n【0.0s-10.0s｜单图绑定@图1（破晓圣旗）｜云巅白石凯旋广场·破晓圣旗】\n[0.0s-2.0s] 85mm平视正面全身干脆起幅，精准对齐@图1面部极清锐焦、澄澈琥珀金眸直视镜头、晨曦香槟金渐变珊瑚琥珀瀑发向左飘扬、锻金圣翼发冠、纯白垂坠丝绒与流金蝉翼纱高开衩战裙、黄金羽翼浮雕肩甲及身侧巴洛克鎏金圣旗长矛与流光战旗。柔和日光面光干净映照细腻骨相，她神情威严圣洁，右手发力将鎏金长矛由斜持转为凌厉上挑，右侧半展的液态金光织锦战旗瞬间引爆Emissive三层亮度独立受控，炽白金芯顺着锦旗繁复几何圣纹骤然点亮，旗面在晨风中猎猎暴涨。\n[2.0s-4.0s] 镜头以平滑高速轨道向后弧形拉远至35mm宏伟广角中全景，完整交代云海之巅的白石凯旋广场与远方虚化古典石柱。她在阳光炙烤的大理石广场上大跨步潇洒旋身挥矛，纯白重磅丝绒长裙摆与流金蝉翼纱大幅扬起自然勾勒修长身姿与镜面鎏金高跟腿甲；巨型鎏金圣旗长矛在高速挥舞间触发华丽光学展翼——液态金光织锦战旗骤然脱离矛身延展化作一片横贯广场上空的巨型半透明流金丝光天幕，表面金线圣纹流转生辉，暖金热流令空气泛起柔和折射。\n[4.0s-6.0s] 机位压低至24mm广角高速前冲推轨强化史诗压迫感。她单手振矛重重顿击白石广场地面，以矛尾为圆心骤然在身后立体浮现三层错位反向公转的巨型同心几何圣纹光环；伴随圣纹环高速旋转，数百片由高纯度日光凝结的炽白与暖金光羽自光环与战旗边缘井喷而出，分左右两股紧贴镜头前景边缘呼啸穿掠，拉出华丽克制的香槟金微距虚化流光；强劲晨风剧烈掀动她香槟珊瑚长发与纯白衣摆外缘。\n[6.0s-8.0s] 镜头紧随冲霄圣羽急剧仰摇拉升展现云巅凯旋广场的宗教级恢弘尺度。她高举巴洛克鎏金长矛斜指破晓烈日，三层同心几何圣纹光环瞬间向外轰然释放一道环状破晓金光脉冲横扫整座白石广场与下方翻涌云海；炽烈晨光穿透织锦光旗与漫天圣羽，激发出数道壮观斜向熔金丁达尔光柱，将古典巨柱、大理石地面与她黄金羽翼铠甲棱线照耀得神圣璀璨且绝不死白过曝。\n[8.0s-10.0s] 镜头平稳回推至85mm平视正面构图稳稳定格，焦点锁死高贵威严面庞与锻金翼冠。她优雅旋腕收矛斜立身侧，漫天流金织锦天幕顺势回敛缠绕复原为身侧发光战旗，高空几何圣纹光环与漫天炽白光羽同步触发Afterglow余辉滞留状态，金纹由外向内分层衰减淡出，残留的亿万颗细密流金微尘与慢镜圣羽随暖风缓缓飘升；一道通透十字晨曦星芒点亮黄金翼冠，她直视镜头傲然定格。音效：巨型丝锦战旗破风猎猎闷响，接宏大管弦铜管圣咏、金属圣环嗡鸣与金羽清脆微鸣。"
+    },
+    {
+      "id": "2126291714742816779",
+      "author": "bywind_art",
+      "authorName": "往事随风",
+      "title": "热带庭院里打镜头的傻猫",
+      "model": "未注明",
+      "models": [
+        "未注明"
+      ],
+      "note": "先用图片提示词生图，再用视频提示词生成一镜到底视频；两段提示词都在作者回复里；未写所用模型。",
+      "needsReference": true,
+      "time": "11-27 20:27",
+      "likes": 3,
+      "bookmarks": 5,
+      "url": "https://x.com/bywind_art/status/2126291714742816779",
+      "videos": [
+        {
+          "src": "videos/2026-11-28/bywind_art_2126291714742816779_1.mp4",
+          "poster": "videos/2026-11-28/bywind_art_2126291714742816779_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "图片提示词：Architectural editorial film frame: a minimalist tropical-modernist courtyard residence - an open-plan living and dining space seamlessly connected to a walled white atrium - late afternoon overcast daylight. Vertical 3:4 wide-angle view at eye level looking diagonally across the room: a vast, smooth warm-white dropped ceiling fills the upper third; in the left foreground, a concrete-topped island counter with two black wooden Wishbone barstools; across the center-left, floor-to-ceiling sliding glass walls open onto a gravel courtyard with a sculptural leaning tree; in the middle-right, a faded vintage rug with a raw stone coffee table and two sling lounge chairs; on the far right edge, a cream fabric sofa and a sleek black floor lamp; large matte limestone tiles cover the floor throughout.\n\nTHE ARCHITECTURE & COURTYARD: smooth warm-white painted plaster ceilings with a stepped soffit drop in the foreground, clean plaster walls, and a raw concrete cylindrical structural column near the glass corner. Large-format matte pale-greige stone floor tiles with fine grout lines. Along the left-center wall, ultra-slim dark bronze-framed floor-to-ceiling glass doors are slid wide open, with a sheer white linen curtain gathered at the far left edge. Outside in the enclosed white-walled atrium, a single sculptural multi-branched tree rises from a bed of dark gray river pebbles, with a covered veranda and black ceiling fan in the background.\n\nFOREGROUNDS & FURNITURE: in the left foreground, a monolithic micro-cement kitchen island with a warm timber base, holding a small brushed-brass mushroom table lamp; two matte-black Y-back woven-cord barstools sit side-by-side in front of it. In the center-right living area, a faded beige-and-brown vintage Persian rug lies on the stone floor, topped by a low, rough-hewn monolithic white limestone coffee table with two dark hardcover books, flanked by two minimalist chrome-and-canvas sling chairs. Along the back-right wall, a low white plastered bench runs above a concealed warm LED strip, next to a gray partition wall, a minimalist black floor lamp, and the edge of an off-white linen sofa.\n\nTHE LIGHT, natural overcast skylight & warm accents: soft, diffused, shadowless overcast daylight floods down from the open atrium, washing the white courtyard walls, tree, and stone floor in cool-neutral natural light. Two low-intensity warm tungsten accents balance the coolness: the small brass mushroom lamp casts a soft golden glow onto the micro-cement counter, and the hidden cove light strip washes the back wall base in warm amber.\n\nLENS & FILM: shot on a 24mm tilt-shift architectural lens at f/8, keeping all vertical walls, columns, and glass mullions razor-straight with deep focus throughout. Shot on Kodak Portra 400 medium-format film: soft, creamy highlight roll-off, subtle neutral-warm shadow tones, delicate natural film grain, and quiet, serene architectural stillness.\n\n视频提示词：\nONE SINGLE CONTINUOUS UNBROKEN TAKE — from the very first frame to the very last frame, absolutely no cuts, no scene changes, no jump cuts, no invisible editing. The camera physically flies through one continuous flowing path.\n\n超写实 35mm 胶片质感，粗粝胶片颗粒，高光柔和滚降，阴影提亮不发黑，庭院冷调天光与室内暖米黄调交织。空间严格参考[图片 3 (4)]：开放式客餐厨、清水混凝土方柱、黑框落地玻璃推拉门、内庭院孤植乔木与灰色砾石、米色哑光瓷砖、白色微水泥墙面、左侧石材吧台配黄铜台灯与两把黑色编织吧椅、右侧白色布艺沙发配毛石茶几、墙面暖光灯带、黑色落地灯。飞行路线参考[现代合院FPV游历-路径规划图]黄色流线顺序，图中黄色线条、圆点、标签、中文文字最终画面完全不可见。\n\n快速 FPV 第一人称飞行，机身自然倾斜带轻微摇晃。镜头从左侧吧台前低机位快速起飞，低角度掠过黑色吧椅，石材吧台与黄铜台灯从左侧后退；快速抬升、右倾绕过清水混凝土方柱；接着快速倾斜穿过打开的玻璃推拉门，从室内暖调进入庭院冷亮天光，砾石地面在脚下后退；镜头贴着孤植乔木快速掠过半圈，树与白墙在两侧快速滑动；紧接着镜头不减速地流畅转向，再次穿过玻璃门飞回室内，抬升至人眼高度沿墙面暖光灯带横飘，朝白色沙发减速靠近。节奏在此处突然放慢：一只黑白奶牛猫从沙发扶手轻巧跳上坐垫，转头看向镜头，伸出一只前爪朝镜头快速挥出，爪子拍在镜头前，画面猛地被带歪，最后停在猫的鼻子几乎贴到镜头上的大特写。\n\n只有同期环境音：室内空气底噪、庭院微风、树叶轻响、远处鸟鸣、猫跳上沙发的布料摩擦声、猫爪挥出的轻破空声。绝对禁止任何背景音乐、配乐、人声、旁白、对白、字幕、水印。画面中绝不出现任何标注图形或文字。"
+    },
+    {
+      "id": "2126182622577774853",
+      "author": "SKYEVAL_AI",
+      "authorName": "SKYEVAL",
+      "title": "镜头穿过雪景球玻璃",
+      "model": "Gemini 4 Carbon / Gemini 4 Hydrogen / Gemini 4 Neon",
+      "models": [
+        "Gemini 4 Carbon",
+        "Gemini 4 Hydrogen",
+        "Gemini 4 Neon"
+      ],
+      "note": "同一句提示词的三模型对比。",
+      "needsReference": false,
+      "time": "11-27 13:13",
+      "likes": 5,
+      "bookmarks": 1,
+      "url": "https://x.com/SKYEVAL_AI/status/2126182622577774853",
+      "videos": [
+        {
+          "src": "videos/2026-11-28/SKYEVAL_AI_2126182622577774853_1.mp4",
+          "poster": "videos/2026-11-28/SKYEVAL_AI_2126182622577774853_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 360
+        }
+      ],
+      "prompt": "Orbit a snow globe beside a warm fire, then push the camera through the glass into the winter scene inside."
+    },
+    {
+      "id": "2126088618854748314",
+      "author": "prjcthrzn_",
+      "authorName": "PROJECT HORIZON",
+      "title": "1930 年代午夜古城的 BMX 特技",
+      "model": "未注明",
+      "models": [
+        "未注明"
+      ],
+      "note": "作者注明在 Higgsfield 制作，未写具体模型；视频只截取前 15 秒。",
+      "needsReference": false,
+      "time": "11-27 07:00",
+      "likes": 3,
+      "bookmarks": 0,
+      "url": "https://x.com/prjcthrzn_/status/2126088618854748314",
+      "videos": [
+        {
+          "src": "videos/2026-11-28/prjcthrzn__2126088618854748314_1.mp4",
+          "poster": "videos/2026-11-28/prjcthrzn__2126088618854748314_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "prompt": "20-SECOND LIVE-ACTION BRUTAL BMX FREESTYLE — 1930s MIDNIGHT CITY\nCreate a 20-second ultra-realistic live-action cinematic BMX freestyle video featuring a beautiful adult woman performing brutal, high-level street BMX tricks through an empty 1930s city at night. The action is fast, aggressive, acrobatic, physically believable, naturally connected and progressively more spectacular. Every stunt must flow seamlessly into the next without stopping.\nFEMALE CHARACTER:\nA beautiful adult woman approximately 25 years old, athletic and lean with strong legs, toned arms and a natural professional BMX rider physique. Realistic facial features, expressive eyes, natural skin texture, dark hair tied loosely with several strands moving freely during the stunts. She wears an original 1930s-inspired street outfit: a fitted dark leather jacket, slightly worn dark shirt, high-waisted charcoal trousers, leather gloves and rugged vintage boots. Her clothing looks practical, naturally fitted and slightly weathered. Her appearance remains consistent throughout the video. No logos or modern sportswear.\nBMX BIKE:\nAn original professional freestyle BMX bicycle with a compact steel frame, black finish, small wheels, thick tires, metal handlebars, reinforced pedals and realistic stunt-ready construction. Slightly worn metallic surfaces, visible chain, spokes, brake cables and mechanical details. The bicycle behaves realistically during jumps, spins, landings and impacts. The rider maintains physically believable grip, balance, body positioning and bike control. No bicycle deformation or morphing.\nENVIRONMENT:\nAn empty 1930s city at midnight. Art Deco buildings, old brick architecture, narrow streets, vintage storefronts, stone staircases, abandoned tram tracks, old street signs, vintage parked cars, classic streetlights, wet cobblestone pavement, reflections of warm amber lights, light fog and drifting steam. The city feels deserted, atmospheric and slightly dangerous. No pedestrians, no modern cars, no modern buildings, no neon cyberpunk aesthetics.\nBMX FREESTYLE STYLE:\nProfessional street BMX freestyle combining aggressive bunny hops, manuals, wall rides, bar spins, aerial rotations, backflips, 360 spins, stair jumps, precision landings and fast transitions. Tricks must be physically connected and naturally chained together. Realistic body movement, proper bike control, believable rotational momentum, accurate gravity, natural suspension of the rider's body and realistic tire contact. The stunts feel dangerous, powerful and brutally executed but controlled by an exceptionally skilled professional rider.\nCHOREOGRAPHY — EXACTLY 20 SECONDS:\n0:00–0:03 — EXPLOSIVE OPENING\nA low camera follows the BMX front wheel racing over wet cobblestones. The woman aggressively accelerates, stands on the pedals and approaches a stone staircase. She pulls the handlebars upward into a powerful bunny hop, launches off several steps, briefly becomes airborne with the bicycle and lands hard on the street. Tires compress, her arms and knees absorb the landing naturally, water splashes outward. She immediately continues riding without stopping.\n0:03–0:07 — BRUTAL STREET COMBO\nA lateral tracking shot follows her at high speed. She performs a long manual with the front wheel lifted, maintaining balance across the wet street. She transitions directly into a powerful bunny hop over the hood of a parked vintage automobile. While airborne, she performs a clean bar spin, catches the handlebars correctly and lands hard on both wheels. The landing is aggressive, with a realistic tire compression, slight frame vibration and water spray. She instantly accelerates forward.\n0:07–0:11 — WALL RIDE AND BACKFLIP\nShe approaches a low stone wall at speed, rides up the angled surface and launches into a high aerial backflip with the BMX. Rider and bicycle rotate together naturally, with realistic body positioning and controlled rotation. She completes the rotation, aligns the bike with the ground and lands aggressively on the wet pavement. Both tires make clear contact. Her body compresses deeply to absorb the landing, the bike rebounds naturally and she continues riding. Brief slow motion only during the apex and landing impact.\n0:11–0:15 — HIGH-SPEED CHAOS\nA front three-quarter tracking camera follows her charging down a narrow street. She performs a fast 360-degree spin jump, rotating her body and bicycle together while keeping her hands and feet correctly connected to the bike. She lands and immediately executes a sharp sideways drift across the old tram tracks. The rear tire slides naturally across the wet cobblestones, throwing water and small gravel outward. She counter-steers, recovers traction and accelerates aggressively toward the next obstacle.\n0:15–0:18 — FINAL INSANE STUNT\nA wide cinematic shot reveals a large stone staircase leading down into an empty street. She approaches at full speed, lifts the front wheel and launches into an enormous double-rotation aerial BMX trick. Rider and bicycle rotate together with realistic momentum and clear separation from the ground. She completes the rotations, aligns the bike and lands violently but successfully at the bottom of the staircase. Tires compress, her body absorbs the impact, the bike momentarily shakes and she rides out cleanly without losing control. The landing is the most powerful and spectacular moment of the video.\n0:18–0:20 — NOCTURNAL EXIT\nA low-angle side-tracking camera follows her riding away beneath old streetlights. She pedals aggressively through drifting fog and reflections on the wet road. Her silhouette and bicycle gradually disappear into the dark 1930s street. The camera continues briefly as the freewheel clicks and the sound of the bicycle fades into the empty city ambience. Cut to black.\nCAMERA & CINEMATOGRAPHY:\nUse only 3–4 purposeful camera setups throughout the entire sequence. Prioritize wide and medium-wide shots that clearly show the rider, bicycle, stunt trajectory, full rotations, takeoff, landing and physical movement. Use controlled low-angle tracking, lateral tracking, front three-quarter tracking and occasional wide establishing shots. Camera movement follows the rider naturally and maintains spatial continuity. Avoid excessive angle changes, constant orbiting, random whip pans, unnecessary crash zooms and chaotic handheld movement. Never cut away during a major stunt. Keep the rider and entire bicycle visible during important aerial tricks.\nSlow motion is reserved only for the backflip apex/landing and the final aerial stunt landing. Brief speed ramps may emphasize acceleration and takeoff. The rest of the action plays at natural fast cinematic speed.\nVISUAL QUALITY:\nUltra-realistic live-action photography, authentic human anatomy and natural athletic movement, realistic facial skin texture with visible pores, natural hair movement, detailed leather texture, fabric movement, realistic bicycle mechanics, wet cobblestone reflections, physically accurate tire contact, realistic gravity and momentum. ARRI Alexa 35 cinematic look, 35mm lens, natural motion blur, vintage 1930s noir atmosphere, muted colors, warm tungsten streetlights contrasted with cold blue-gray night ambience, deep but detailed shadows, subtle film grain, slightly underexposed cinematic image, premium Hollywood stunt cinematography. The scene must look like a real live-action film shot with a professional BMX stunt performer.\nSOUND DESIGN:\nNO BACKGROUND MUSIC. NO BGM.\nOnly realistic synchronized environmental sound and BMX Foley: bicycle chain, freewheel clicking, pedal movement, tire rolling over cobblestones, tire friction, metallic bicycle vibrations, handlebars and frame sounds, wind rushing during jumps, clothing movement, shoe movement, heavy landings, suspension-like tire compression, water splashes, gravel scattering, tire skids, distant nighttime city ambience, occasional vintage tram-track rattling and atmospheric wind. Each sound must precisely match the visible action. The backflip landing and final stunt landing have powerful realistic impact sounds. No music, no soundtrack, no dialogue.\nSTRICT RULES:\nMaintain the exact same woman, outfit and BMX bicycle throughout the entire video. Every stunt must be physically connected and mechanically believable. The rider must maintain proper contact with handlebars and pedals during tricks. Clearly show takeoff, aerial rotation and landing. No fake or incomplete tricks. No floating bicycles. No impossible physics. No teleportation. No random position changes. No bicycle morphing. No duplicated limbs. No broken anatomy. No excessive motion blur. No chaotic camera movement. No modern objects. No pedestrians. No background music. No cartoon, anime or CGI appearance.\nThe entire video must feel like a brutally stylish, high-speed, professional BMX freestyle performance filmed in a deserted 1930s city at midnight. Aggressive, acrobatic, natural, physically coherent and cinematic."
+    },
+    {
+      "id": "2126205919029797268",
+      "author": "DavidLi36143625",
+      "authorName": "David Liang",
+      "title": "《Heading for the Stars》4 分钟音乐短片",
+      "model": "Grok Imagine",
+      "models": [
+        "Grok Imagine"
+      ],
+      "note": "作者用 Grok Imagine Agent 出图和视频，整套提示词由 Gemini 4 Hydrogen 生成；提示词在作者回复里；视频只截取前 15 秒。",
+      "needsReference": false,
+      "time": "11-27 14:46",
+      "likes": 1,
+      "bookmarks": 1,
+      "url": "https://x.com/DavidLi36143625/status/2126205919029797268",
+      "videos": [
+        {
+          "src": "videos/2026-11-28/DavidLi36143625_2126205919029797268_1.mp4",
+          "poster": "videos/2026-11-28/DavidLi36143625_2126205919029797268_1.jpg",
+          "duration": 15.0,
+          "width": 480,
+          "height": 480
+        }
+      ],
+      "prompt": "Video created with @Grok @Imagine\n#GrokImaginePromptShare\n\nNote: This entire prompt set was generated in a single run using an agentic workflow with Gemini 4 Hydrogen, and the images/videos were, again, generated in a single request to the Grok Imagine Agent.\n\n---\n\nInstruction for Grok Imagine Agent:\nDo not stitch clips. Only create images and videos.\nEach video is always 15 seconds.\n\n---\n\nCLIP 1.1 - Dust on Twilight Windowsill\nIMAGE PROMPT\nClose-up of fine dust particles resting on a weathered wooden windowsill beside a slightly open glass window in a quiet bedroom at twilight, warm amber lamp light indoors contrasting with deep indigo sky outside, soft shallow depth of field, intimate and nostalgic mood, centered 1:1 square composition.\n\nVIDEO PROMPT\nA gentle evening breeze lifts the edge of the sheer fabric slightly, and airborne particles drift slowly across the light beam. The camera creeps forward a few inches toward the glass. Faint room tone and a soft outside breeze.\nDo not include music track\n\n---\n\nCLIP 1.2 - Storybook and Ceramic Mug\nIMAGE PROMPT\nOverhead flat-lay still life of an open worn clothbound storybook on a textured wool blanket beside a ceramic mug on a rustic wooden table, bathed in warm tungsten glow, cozy and wistful atmosphere, balanced 1:1 square framing.\n\nVIDEO PROMPT\nThin wisps of steam curl upward and dissolve into the air while subtle leaf shadows shift slowly across the open pages. The camera holds steady with a barely perceptible push-in. Quiet indoor silence and a faint wooden creak.\nDo not include music track\n\n---\n\nCLIP 2.1 - Child's Constellation Chart\nIMAGE PROMPT\nA child's hand-drawn constellation chart taped to a textured plaster wall above a rumpled cotton bed, illuminated by the soft golden cone of a bedside nightlight, tender and nostalgic mood, 1:1 centered composition.\n\nVIDEO PROMPT\nThe warm glow flickers gently as shadows drift past, and the bottom corner of the taped paper curls slightly in a soft draft. The camera pans slowly rightward across the ink drawings. Faint paper rustle and quiet room air.\nDo not include music track\n\n---\n\nCLIP 2.2 - Pine Treetops at Twilight\nIMAGE PROMPT\nLow-angle view looking straight up through a narrow clearing of dark pine treetops into a clear deep-blue twilight sky speckled with the first faint stars, serene and inviting mood, symmetrical 1:1 square composition.\n\nVIDEO PROMPT\nThe surrounding treetops sway gently in slow motion while the emerging points of light brighten subtly overhead. The camera rotates slowly counterclockwise as it holds the upward gaze. Soft wind rushing through pine needles.\nDo not include music track\n\n---\n\nCLIP 3.1 - Porch Door to Misty Meadow\nIMAGE PROMPT\nAn unlatched painted wooden porch door slightly ajar looking out onto a misty dusk meadow, warm interior lantern light spilling across the worn threshold, quiet anticipation, 1:1 square composition.\n\nVIDEO PROMPT\nThe door swings open a few inches wider on its own as low mist drifts across the threshold and tall blades outside ripple gently. The camera glides smoothly forward toward the doorway. Soft hinge creak and distant evening crickets.\nDo not include music track\n\n---\n\nCLIP 3.2 - Pocket Watch in Meadow Grass\nIMAGE PROMPT\nMacro photograph of an antique brass pocket watch resting in dry meadow grass under cool starlight, tiny droplets of evening dew glistening on the glass face, timeless and grounded mood, 1:1 square framing.\n\nVIDEO PROMPT\nThe thin second hand ticks steadily forward while tiny droplets shimmer slightly in a faint breeze. The camera pulls back slowly to reveal more of the surrounding ground. Crisp mechanical ticking and soft grass rustle.\nDo not include music track\n\n---\n\nCLIP 4.1 - Night-Blooming Wildflowers and Moon\nIMAGE PROMPT\nA cluster of night-blooming white wildflowers in a dark open field tilted upward toward a luminous crescent moon low on the horizon, silver moonlight and deep indigo shadows, poised and hopeful mood, 1:1 square composition.\n\nVIDEO PROMPT\nThe stems sway gently and the pale petals open subtly upward as moonlight brightens across their surfaces. The camera tilts slowly up from the blossoms toward the horizon. Quiet night wind brushing through tall stems.\nDo not include music track\n\n---\n\nCLIP 5.1 - Lone Hiker on Hilltop Ridge\nIMAGE PROMPT\nSilhouette of a lone hiker standing on a grassy hilltop ridge gazing up at a vast twilight sky streaked with fading violet and amber clouds, grounded yet expansive mood, rule-of-thirds 1:1 square composition.\n\nVIDEO PROMPT\nWind ripples steadily through the hiker's jacket and the surrounding grass while high clouds drift slowly overhead. The camera cranes smoothly upward past the silhouette into the open sky. Steady hilltop wind and faint fabric flutter.\nDo not include music track\n\n---\n\nCLIP 5.2 - Mountain Lake Mirroring Stars\nIMAGE PROMPT\nWide view of a calm dark mountain lake mirroring a dense canopy of early night stars, a thin ribbon of mist hovering low over the glassy water, hushed awe, balanced horizon 1:1 square composition.\n\nVIDEO PROMPT\nThin mist glides silently across the surface while tiny ripples gently distort and restore the reflections. The camera floats slowly forward just inches above the water. Gentle lapping against unseen shore stones.\nDo not include music track\n\n---\n\nCLIP 5.3 - Woman's Breath in Moonlight\nIMAGE PROMPT\nClose-up side profile of a young woman standing outdoors in cold night air, backlit by soft silver moonlight against a backdrop of out-of-focus starlight, intimate and weightless mood, 1:1 square framing.\n\nVIDEO PROMPT\nA slow plume of warm breath leaves her lips, curls softly into the cold air, and vanishes upward while loose strands of hair stir lightly. The camera holds softly with subtle handheld drift. Quiet exhale and gentle night breeze.\nDo not include music track\n\n---\n\nCLIP 6.1 - Observatory Dome and Milky Way\nIMAGE PROMPT\nAn open observatory dome silhouetted against a glowing Milky Way core on a barren high-desert plateau, faint amber light spilling from a small doorway below, quiet wonder, centered 1:1 square composition.\n\nVIDEO PROMPT\nThe dome shutters slide slowly wider apart while faint dust drifts across the ground in the breeze. The camera pushes steadily forward toward the opening. Low mechanical rumble and dry desert wind.\nDo not include music track\n\n---\n\nCLIP 6.2 - Empty Desert Highway to Stars\nIMAGE PROMPT\nAn empty two-lane desert highway stretching straight toward a starry horizon under a deep cobalt night sky, a faint warm glow lingering at the vanishing point, hopeful solitude, symmetrical 1:1 square composition.\n\nVIDEO PROMPT\nSparse windblown grit skates softly across the pavement as distant pinpoints of light sharpen overhead. The camera glides low and smoothly forward along the center line. Quiet hiss of wind over asphalt.\nDo not include music track\n\n---\n\nCLIP 6.3 - Tidal Channels Under Moonlight\nIMAGE PROMPT\nHigh-angle view of slow-moving dark tidal water flowing smoothly through pale sand channels under bright moonlight, silver reflections rippling along winding rivulets, tranquil and inevitable mood, 1:1 square composition.\n\nVIDEO PROMPT\nCurrents stream smoothly through the branching channels, carrying tiny flecks of foam that dissolve as reflections shimmer. The camera drifts slowly backward above the tide. Soft rushing water and quiet trickle over sand.\nDo not include music track\n\n---\n\nCLIP 7.1 - Sea of Nocturnal Clouds\nIMAGE PROMPT\nView from a high mountain peak above an endless sea of soft nocturnal clouds illuminated from above by bright starlight and a pale moon, vast and serene mood, 1:1 square framing.\n\nVIDEO PROMPT\nThe cloud layer undulates slowly like distant ocean swells while a faint streak flashes briefly across the upper sky. The camera drifts weightlessly sideways. Thin high-altitude wind.\nDo not include music track\n\n---\n\nCLIP 7.2 - Frosted Skylight and Starlight\nIMAGE PROMPT\nSoft-focus view looking up through a frosted glass skylight covered in delicate ice crystals, cool pale starlight diffusing from beyond, dreamy and quiet mood, centered 1:1 square composition.\n\nVIDEO PROMPT\nPoints of light shimmer and bloom softly behind the frost while faint condensation shifts across the glass surface. The camera pulls focus slowly from the ice texture into the distant glow. Muffled wind outside glass.\nDo not include music track\n\n---\n\nCLIP 8.1 - Couple on Pickup Tailgate\nIMAGE PROMPT\nCandid medium shot of a man and a woman sitting side by side on the open tailgate of an old pickup truck in a dark field, wrapped in a wool blanket looking up at the night sky, warm cab light behind them, tender and human mood, 1:1 square composition.\n\nVIDEO PROMPT\nThey lean subtly closer together while wind ruffles their hair and the edge of the blanket, both gazing steadily upward. The camera tracks slowly sideways around them. Soft fabric rustle and distant night insects.\nDo not include music track\n\n---\n\nCLIP 8.2 - Cup of Water Reflecting Stars\nIMAGE PROMPT\nWarm close-up of a small ceramic cup filled to the brim with clear water resting on a dark wooden porch railing at night, reflecting the starry sky on its still surface, with a child's small raised hand softly blurred in the foreground, hopeful mood, 1:1 square composition.\n\nVIDEO PROMPT\nThe water surface trembles with a tiny concentric ripple that settles back into a crisp reflection, while the out-of-focus hand points gently upward. The camera holds steady with a slow breath-like zoom. Faint night air and soft wood resonance.\nDo not include music track\n\n---\n\nCLIP 9.1 - Earth's Curved Horizon at Twilight\nIMAGE PROMPT\nHigh-altitude orbital view of Earth's curved horizon at twilight, a thin luminous blue atmospheric band glowing between velvety black space filled with crisp stars and shadowed cloud tops below, awe-inspiring and serene mood, 1:1 square composition.\n\nVIDEO PROMPT\nThe curved horizon drifts slowly downward across the frame while faint aurora ribbons shimmer gently along the atmospheric rim. The camera glides effortlessly forward into open space. Deep stillness with a faint atmospheric hum.\nDo not include music track\n\n---\n\nCLIP 9.2 - Inside a Translucent Nebula\nIMAGE PROMPT\nEthereal deep-space view inside a quiet translucent nebula cloud of pale silver, dusty rose, and deep indigo stardust, thousands of tiny crisp stars scattered through soft volumetric mist, weightless and boundless mood, 1:1 square framing.\n\nVIDEO PROMPT\nWisps of luminous cosmic dust drift slowly apart, gradually revealing deeper layers of distant stars behind them. The camera floats smoothly forward in zero gravity. Subtle airy hush.\nDo not include music track\n\n---\n\nCLIP 10.1 - Scattered Golden and White Stars\nIMAGE PROMPT\nMinimalist deep-space view of scattered warm golden and cool white stars suspended in velvety blackness, gentle natural film grain and soft lens halation, peaceful and unhurried mood, 1:1 square composition.\n\nVIDEO PROMPT\nDistant points of light glimmer softly and expand outward across the edges of the frame as the camera drifts forward at an imperceptibly slow pace. Deep quietness and faint airy stillness.\nDo not include music track\n\n---\n\nCLIP 10.2 - Single Glowing Star in Darkness\nIMAGE PROMPT\nA single warm glowing star centered softly in a vast expanse of deep velvety night sky, surrounded by faint fading wisps of silver stardust, quiet closure and stillness, centered 1:1 square composition.\n\nVIDEO PROMPT\nThe faint surrounding wisps dissolve slowly into darkness while the single central light dims very gradually toward total blackness. The camera remains completely motionless. Silence fading into nothing.\nDo not include music track"
+    },
+    {
+      "id": "2126216442144284984",
+      "author": "lighthouse42f",
+      "authorName": "Cathy has this",
+      "title": "圣诞",
+      "model": "Grok Imagine",
+      "models": [
+        "Grok Imagine"
+      ],
+      "note": "一词提示词。",
+      "needsReference": false,
+      "time": "11-27 15:27",
+      "likes": 2,
+      "bookmarks": 0,
+      "url": "https://x.com/lighthouse42f/status/2126216442144284984",
+      "videos": [
+        {
+          "src": "videos/2026-11-28/lighthouse42f_2126216442144284984_1.mp4",
+          "poster": "videos/2026-11-28/lighthouse42f_2126216442144284984_1.jpg",
+          "duration": 6.1,
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "Christmas"
+    }
+  ]
+}

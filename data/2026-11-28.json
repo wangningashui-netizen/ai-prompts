@@ -1,0 +1,952 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-28",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "2126130876665012704",
+      "author": "DeepBlueX0",
+      "title": "用角色名字形拼出的虚构女角色肖像",
+      "model": "GPT Image 2.6",
+      "group": "GPT Image",
+      "note": "中文提示词，每张随机抽一位成年虚构女角色，用名字的字形构成人物；作者注明 GPT image 2.6。",
+      "needsReference": false,
+      "time": "11-27 09:47",
+      "likes": 161,
+      "bookmarks": 127,
+      "images": [
+        {
+          "local": "images/2026-11-28/DeepBlueX0_2126130876665012704_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYGImymbQAA4G0a.jpg",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-28/DeepBlueX0_2126130876665012704_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYGImyqbIAA6UuK.jpg",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-28/DeepBlueX0_2126130876665012704_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HYGImyobcAALX6t.jpg",
+          "width": 480,
+          "height": 854
+        },
+        {
+          "local": "images/2026-11-28/DeepBlueX0_2126130876665012704_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HYGImynaoAADfsh.jpg",
+          "width": 480,
+          "height": 853
+        },
+        {
+          "local": "images/2026-11-28/DeepBlueX0_2126130876665012704_5.jpg",
+          "remote": "https://pbs.twimg.com/media/HYGImyqbcAAIz7D.jpg",
+          "width": 480,
+          "height": 854
+        }
+      ],
+      "prompt": "熱門虛構女性角色 × Glyph-based Portrait × 字形構築 × 極簡文字藝術。\n\n每張獨立隨機抽取一位不同的熱門成年虛構女性角色，從角色代表色中選擇一色作為主墨色。\n\n提取角色最具辨識度的髮型、五官神態與標誌性造型，將其轉譯為高度概括的字形結構。\n\n以角色名稱中的文字及字母作為唯一的人物造型單元，利用字形自身的曲線、筆畫、轉折與內部留白構築人物。\n\n透過字形的尺度、旋轉、排列與方向變化，使每組文字直接承擔相應的人物造型功能。所有人物細節均源於可辨識的字形，字形之外保持純淨紙白。\n\n保留足以辨認角色的核心特徵，兼具文字可讀性、造型趣味與藝術抽象感。\n\n近白紙底，以纖細字體排出完整角色名及對應作品名稱。自由探索字體、字形組合、人物視角與構圖。\n\n9:16直式獨立單圖，每張分別生成，不自動裁切。\n左下深藍色實心圓點，後接極細字體「DeepBlue」。\n\nn=6"
+    },
+    {
+      "id": "2126318425022828546",
+      "author": "alicehan_ai",
+      "title": "漆皮高跟鞋的长腿女演员写真",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana Pro（AI Studio）；JSON 提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-27 22:13",
+      "likes": 190,
+      "bookmarks": 51,
+      "images": [
+        {
+          "local": "images/2026-11-28/alicehan_ai_2126318425022828546_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYIzTABagAA86tH.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-28/alicehan_ai_2126318425022828546_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYIzTADb0AEtrRB.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-28/alicehan_ai_2126318425022828546_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HYIzTAKawAAA9i4.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-28/alicehan_ai_2126318425022828546_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HYIzTAMakAESyWv.jpg",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 23-year-old adult Chinese screen actress and fashion siren, 167 cm tall, with a softly heart-shaped face with natural facial proportions and subtle asymmetry, naturally proportioned almond-shaped eyes, gently defined cheekbones, full naturally curved lips, and a captivating smile with subtle cheek and eyelid creases and natural skin-tone variation, rich cinnamon-brown mermaid waves, and a lush, very dramatic curvy wasp-waist hourglass figure with a generous bust, a sharply cinched waist, and voluptuous rounded hips (measurements: 98-56-100 cm)\",\n    \"hair\": \"flowing rich cinnamon-brown mermaid waves in one even dye color\",\n    \"expression\": \"Captivating, alluring smile with subtle cheek and eyelid creases, slightly tilted chin, and sultry gaze toward the lens\",\n    \"pose\": \"Reclining back against the padded matte-black headboard and throw pillows with her torso angled three-quarters toward camera-right, right arm draped relaxed along the edge of a pillow and left hand resting softly near her collarbone, both legs extended toward camera-left with one calf slightly elevated over the other at the shin\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"Strapless demi-cup plunge underwire bra with a low center gore and scalloped lace cup edges, paired with ultra-sheer thigh-high stockings featuring wide floral lace upper-thigh bands, sky-high pointed-toe patent-leather stiletto pumps, layered delicate pendant necklaces, and small rings.\",\n    \"material\": \"Translucent floral Chantilly lace and sheer illusion mesh with satin-wrapped underwire channels, ultra-sheer 10-denier oil-shine nylon hosiery with intricate floral lace bands, glossy patent leather footwear, and delicate metallic jewelry.\",\n    \"color\": \"amber, carried by the translucent floral Chantilly lace and sheer illusion mesh of the strapless demi-cup plunge underwire bra and the ultra-sheer 10-denier oil-shine nylon thigh-high stockings\",\n    \"footwear\": \"Sky-high glossy bronze-gold patent-leather pointed-toe stiletto pumps\",\n    \"accessories\": \"Layered delicate antique-gold pendant necklaces with delicate filigree medallions and slim gold rings\"\n  },\n  \"scene\": {\n    \"location\": \"Dimly lit indoor bedroom-studio bed scene\",\n    \"atmosphere\": \"Intimate, dimly lit indoor bedroom-studio mood with quiet evening stillness and rich dark-toned contrast.\",\n    \"background\": \"Dark textured charcoal-and-slate-blue painted accent wall behind a padded matte-black paneled leather headboard, a smooth matte-black fitted bedsheet, and two black-and-white abstract-patterned throw pillows resting against the headboard.\",\n    \"composition\": \"Slightly elevated three-quarter side-angle full-body shot looking down slightly along a dark bed, capturing the full subject head-to-toe including her stiletto heels extended toward camera-left and torso angled three-quarters toward camera-right within a 9:16 vertical frame.\",\n    \"lighting\": \"Soft directional studio key light from camera-left and front illuminating the subject's face, collarbone, legs, and glossy heels with warm skin highlights and subtle specular shine against the dark bedding, casting coherent contact shadows onto the bedsheet with natural falloff into the muted moody background.\",\n    \"camera\": \"Live-action indoor photograph captured with a 35mm-equivalent lens at f/2.8, maintaining crisp head-to-toe focus across the subject and bed with gentle background falloff and natural optical perspective.\",\n    \"grade\": \"Rich natural contrast with retained skin highlight detail, gradual highlight roll-off, deep shadow detail in the matte-black bedding, and restrained retouching preserving natural skin pores, microtexture, and subtle tonal variation.\"\n  },\n  \"scene_text\": {\n    \"text\": \"alicehan_ai\",\n    \"archetype\": \"pillow\",\n    \"carrier\": \"accent pillow embroidered in cursive lettering\",\n    \"placement\": \"on the accent pillow's small embroidered monogram area\"\n  },\n  \"compiled_prompt\": \"A live-action indoor photograph of an exceptionally beautiful 23-year-old adult Chinese screen actress and fashion siren, 167 cm tall, with a softly heart-shaped face with natural facial proportions and subtle asymmetry, naturally proportioned almond-shaped eyes, gently defined cheekbones, full naturally curved lips, flowing rich cinnamon-brown mermaid waves in one even dye color with slightly messy natural strands framing forehead and temples, and a lush, very dramatic curvy wasp-waist hourglass figure with a generous sculpted bust, a sharply cinched 56 cm waist, and voluptuous rounded hips (measurements: 98-56-100 cm). Captured from a slightly elevated three-quarter side-angle full-body viewpoint looking down slightly along a dark bed in a tall vertical frame, with one figure centered and filling the height of the picture, her stiletto heels extend toward camera-left while her torso angles three-quarters toward camera-right. Reclining back against the padded matte-black paneled leather headboard and two black-and-white abstract-patterned throw pillows, her right arm draped relaxed along the edge of a pillow and her left hand resting softly near her collarbone, both legs extended toward camera-left with one calf slightly elevated over the other at the shin. She offers a captivating, alluring smile with subtle cheek and eyelid creases, a slightly tilted chin, and a sultry gaze toward the lens. She wears a strapless demi-cup plunge underwire bra with a low center gore and scalloped lace cup edges, paired with ultra-sheer thigh-high stockings featuring wide floral lace upper-thigh bands, sky-high pointed-toe patent-leather stiletto pumps, layered delicate pendant necklaces, and small rings, finished in amber with glossy bronze-gold patent-leather heels, antique-gold filigree medallion pendants, and slim gold rings; the ensemble is crafted from translucent floral Chantilly lace and sheer illusion mesh with satin-wrapped underwire channels, ultra-sheer 10-denier oil-shine nylon hosiery with intricate floral lace bands, glossy patent leather footwear, and delicate metallic jewelry. Set in a dimly lit indoor bedroom-studio bed scene against a dark textured charcoal-and-slate-blue painted accent wall and a smooth matte-black fitted bedsheet, an accent pillow embroidered in cursive lettering displays \\\"alicehan_ai\\\" on the accent pillow's small embroidered monogram area. Shot on a 35mm-equivalent lens at f/2.8, crisp head-to-toe focus transitions into gentle background falloff. Soft directional studio key light from camera-left and front illuminates her face, collarbone, legs, and glossy heels, grazing the amber translucent floral Chantilly lace and sheer illusion mesh bra and amber ultra-sheer 10-denier oil-shine nylon thigh-high stockings while casting coherent contact shadows onto the bedsheet. Rich natural contrast, retained skin highlight detail, gradual highlight roll-off, and restrained retouching preserve realistic skin texture with subtle pores, natural organic glow and micro details, authentic skin undertones, distinct from the sharper specular reflections on her patent-leather pumps.\"\n}"
+    },
+    {
+      "id": "2126089642646945831",
+      "author": "muse_ai_prompt",
+      "title": "高原酒店床边的古董玫瑰色内衣写真",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "日文结构化提示词，作者注明用 ChatGPT 生成。",
+      "needsReference": false,
+      "time": "11-27 07:04",
+      "likes": 128,
+      "bookmarks": 41,
+      "images": [
+        {
+          "local": "images/2026-11-28/muse_ai_prompt_2126089642646945831_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYFjQhlaUAAXlI6.jpg",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "🌟高原ホテルの寝室のベッドの端 × ベッドの端に腰掛け🌟\n\n【主題・画風】\n明確に成人した日本人女性を主役にした、実在のカメラで撮影したようなフォトリアルポートレート。日本の女性写真集のような華やかさ。自然な身体の曲線と魅力的なポージング、印象的な目線。上品さと親密さを両立する。\n\n【場所・背景・世界観】\n高原ホテルの寝室のベッドの端を舞台に、周囲の家具や自然が人物と無理なく調和する背景。奥行きを残し、落ち着いたプライベートな場面。\n\n【季節・時間・天候】\n夏の朝。季節に合う穏やかな空気感と、時間帯の明るさを自然に統一する。室内の光と窓の外の明るさをそろえる。\n\n【人物設定】\n明確に成人した25歳前後の日本人女性。柔らかな卵型の小顔、自然にふくらんだ頬、小ぶりの鼻、淡いローズピンクの唇。丸みのあるアーモンド形のダークブラウンの瞳、自然な二重、優しく下がった目尻。ダークブラウンの胸元までの髪と軽いシースルーバング。健康的な肌、控えめなメイク。華奢な肩と手足、自然に豊かなバスト、すっきりしたウエストと丸みのあるヒップが調和した健康的な体型。胸は衣装と姿勢に自然になじむ柔らかな立体感。\n\n【衣装・アクセサリー】\n胸元を美しく彩る、なめらかな生地と優美なシルエットが特徴の、ワコール系の上品でフェミニンなランジェリー。色・素材・装飾の追加指定：アンティークローズ。身体に自然になじむ柔らかな素材と上品なデザイン。細かな縫い目や布のしわを現実的に表現し、装飾は繊細に、アクセサリーは控えめにする。\n\n【ポーズ・動作・視線】\nベッドの端に腰掛け、両足を床につける。指先で衣装の裾に軽く触れる。左右の手足を自然につなぎ、支持する手と重心を保つ。肩と腰を自然につなぎ、手指の力を抜く。仕草の途中を切り取る。\n\n【表情・感情】\n恋人と目が合い、思わず笑顔がこぼれた瞬間。口角を自然に上げ、唇を軽く開いて上の歯を少しだけ見せる。目元も柔らかくほころばせ、明るく澄んだ瞳をカメラへ向ける。大げさに笑わせず、親しみやすさと成人女性らしい自然な美しさを表現する。成人女性らしい落ち着きを保ちながら、身近な相手に向ける気負わない表情。頬と口元に自然な動きを残し、過剰な演技を避ける。\n\n【構図・カメラ】\n正面、目線に近い高さからの全身構図。縦長4:5で、人物の周囲に適度な余白を確保する。背景を柔らかくぼかし、顔と仕草の両方が読み取れる自然な撮影距離。\n\n【光・色・質感・雰囲気】\n柔らかな自然光と整合する影。人物と背景の色温度をそろえ、肌の血色、髪の柔らかなツヤ、布の素材感を丁寧に残す。透明感があり、穏やかで親密な雰囲気。\n\n【品質・除外要素】\n現実的な人体構造と手指、光源と影の整合性を優先。肌のきめと自然な立体感を保ち、過度な美肌加工、身体の誇張、衣装の破綻、不要な文字や透かしを避ける。"
+    },
+    {
+      "id": "2126253195093508496",
+      "author": "saber_kurama",
+      "title": "金色眼眸与玉耳饰的兹白特写",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原神同人动漫竖屏壁纸；英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-27 17:54",
+      "likes": 98,
+      "bookmarks": 31,
+      "images": [
+        {
+          "local": "images/2026-11-28/saber_kurama_2126253195093508496_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHfqkib0AAer_H.jpg",
+          "width": 480,
+          "height": 858
+        },
+        {
+          "local": "images/2026-11-28/saber_kurama_2126253195093508496_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHfqkgbIAAfN4K.jpg",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "Vertical 9:16 anime portrait of Zibai, the adult white-haired adeptus from Genshin Impact. Crop closely from the gold crescent at the root of her high ponytail down to the upper waist. Seen nearly in left profile, she lifts her chin just a little, her amber-gold eye looking past the left edge. Leave one finger of burgundy between nose and frame. Keep her distinctive swept white fringe, outward-flicking cheek locks, high silver-white ponytail with a narrow braid threaded through it, and crescent-shaped gold hair ornaments. Her ponytail sweeps back into the upper right, with loose white strands over the dark ground. An oval turquoise earring rests beside her jaw. Her posture is tranquil and self-possessed. Turn her torso three quarters so the near shoulder, both collarbones, and the front curve of the bodice are visible. Design a Liyue evening gown in ivory silk with pale celadon jacquard panels. Bare shoulders and upper chest above a shallow sweetheart neckline; the opaque structured silk supports the chest. Two curved panels wrap from the center front around the ribcage; delicate green cloud scrolls and a narrow gold edge change direction over the rounded surface, catching the light at its crest and sinking into a deep blue-green shadow under the curve. Gather a detached dark jade silk sleeve at the upper arm with a small gold setting around a turquoise stone. Keep hair behind the shoulder and hands outside the crop. Background of deep oxblood and black, a single finely drawn vermilion arch and sparse four-point stars. Late warm lamplight from upper left slips between strands of hair and cuts irregular ivory highlights across her eye, nose and bare shoulder. Pale lilac shadows in white hair, soft rose in skin; sharp, fine edges on lashes, gold and woven piping, broad painted planes in the shadows. Eye is the focal point. No letters or signature."
+    },
+    {
+      "id": "2126368706427326500",
+      "author": "saber_kurama",
+      "title": "雨窗前抱枕的雷电将军",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原神同人动漫竖屏壁纸；英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-28 01:33",
+      "likes": 102,
+      "bookmarks": 26,
+      "images": [
+        {
+          "local": "images/2026-11-28/saber_kurama_2126368706427326500_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJAybIawAA9I41.jpg",
+          "width": 480,
+          "height": 858
+        },
+        {
+          "local": "images/2026-11-28/saber_kurama_2126368706427326500_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJAybFawAAbl-9.jpg",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "A 9:16 vertical anime close-up of the adult Raiden Shogun from Genshin Impact holding a plump ivory cotton pillow high in her arms. Her crown grazes the upper left edge. Her head is tilted so the eye on the left of the picture sits lower than the one on the right. Her cheek presses gently into the slanted upper seam. Her near shoulder starts at lower left, the upper arm slopes down toward a low elbow at bottom right, and the forearm folds back up almost vertically along the right edge. Her near hand gathers a shallow fold just beside her cheek. The far hand peeks around the right edge at about the same height. Both grips are on the upper half of the pillow. Draw small radiating creases under her fingertips and a distinct left-pointing pillow corner halfway down. Use correct adult proportions and enough space at the bottom to read the turn of the elbow. The purple fingerless arm guard follows the wrist and leaves the fingertips free. Let the pale outer sleeve fall from the bent arm with a visible rim, separate from the bodice. Her violet bangs and indigo braid frame the face; the small mole below her right eye, amethyst gaze, gold ornament and violet blossoms are clear. A crimson bow sits at her dark collar above the lilac crossed panels of her ceremonial outfit. Soft rainy window light from upper right glints in her irises, on the gold trim, and along the pillow seam. Fine tapered lines, clean cel shadows, soft rose on the cheek and pearl-gray folds. Pale background. No lettering or watermark."
+    },
+    {
+      "id": "2126088569731301578",
+      "author": "muse_ai_prompt",
+      "title": "森林酒店躺椅上回眸的薰衣草色内衣写真",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "日文结构化提示词，作者注明用 ChatGPT 生成。",
+      "needsReference": false,
+      "time": "11-27 06:59",
+      "likes": 71,
+      "bookmarks": 24,
+      "images": [
+        {
+          "local": "images/2026-11-28/muse_ai_prompt_2126088569731301578_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYFiR4PbkAAhytK.jpg",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "🌟森のホテルのラウンジチェア × 背中を向けて肩越しに振り返る🌟\n\n【主題・画風】\n明確に成人した日本人女性を主役にした、実在のカメラで撮影したようなフォトリアルポートレート。日本の女性写真集のような華やかさ。自然な身体の曲線と魅力的なポージング、印象的な目線。上品さと親密さを両立する。\n\n【場所・背景・世界観】\n森のホテルのラウンジチェアを舞台に、周囲の家具や自然が人物と無理なく調和する背景。奥行きを残し、落ち着いたプライベートな場面。\n\n【季節・時間・天候】\n夏の夕方。季節に合う穏やかな空気感と、時間帯の明るさを自然に統一する。室内の光と窓の外の明るさをそろえる。\n\n【人物設定】\n明確に成人した25歳前後の日本人女性。柔らかな卵型の小顔、自然にふくらんだ頬、小ぶりの鼻、淡いローズピンクの唇。丸みのあるアーモンド形のダークブラウンの瞳、自然な二重、優しく下がった目尻。ダークブラウンの胸元までの髪と軽いシースルーバング。健康的な肌、控えめなメイク。華奢な肩と手足、自然に豊かなバスト、すっきりしたウエストと丸みのあるヒップが調和した健康的な体型。胸は衣装と姿勢に自然になじむ柔らかな立体感。\n\n【衣装・アクセサリー】\n胸元を美しく彩る、なめらかな生地と優美なシルエットが特徴の、ワコール系の上品でフェミニンなランジェリー。色・素材・装飾の追加指定：ラベンダー。身体に自然になじむ柔らかな素材と上品なデザイン。細かな縫い目や布のしわを現実的に表現し、装飾は繊細に、アクセサリーは控えめにする。\n\n【ポーズ・動作・視線】\n背中を向けて肩越しに振り返る。指先で衣装の裾に軽く触れる。左右の手足を自然につなぎ、支持する手と重心を保つ。肩と腰を自然につなぎ、手指の力を抜く。仕草の途中を切り取る。\n\n【表情・感情】\n恋人と目が合い、思わず笑顔がこぼれた瞬間。口角を自然に上げ、唇を軽く開いて上の歯を少しだけ見せる。目元も柔らかくほころばせ、明るく澄んだ瞳をカメラへ向ける。大げさに笑わせず、親しみやすさと成人女性らしい自然な美しさを表現する。成人女性らしい落ち着きを保ちながら、身近な相手に向ける気負わない表情。頬と口元に自然な動きを残し、過剰な演技を避ける。\n\n【構図・カメラ】\n斜め前30度、目線に近い高さからの上半身構図。縦長4:5で、人物の周囲に適度な余白を確保する。背景を柔らかくぼかし、顔と仕草の両方が読み取れる自然な撮影距離。\n\n【光・色・質感・雰囲気】\n柔らかな自然光と整合する影。人物と背景の色温度をそろえ、肌の血色、髪の柔らかなツヤ、布の素材感を丁寧に残す。透明感があり、穏やかで親密な雰囲気。\n\n【品質・除外要素】\n現実的な人体構造と手指、光源と影の整合性を優先。肌のきめと自然な立体感を保ち、過度な美肌加工、身体の誇張、衣装の破綻、不要な文字や透かしを避ける。"
+    },
+    {
+      "id": "2126339011379655145",
+      "author": "saber_kurama",
+      "title": "捏着枕套的芙宁娜",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原神同人动漫竖屏壁纸；英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-27 23:35",
+      "likes": 74,
+      "bookmarks": 21,
+      "images": [
+        {
+          "local": "images/2026-11-28/saber_kurama_2126339011379655145_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYI_nT2bUAE4VqH.jpg",
+          "width": 480,
+          "height": 858
+        },
+        {
+          "local": "images/2026-11-28/saber_kurama_2126339011379655145_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYI_nTybEAAGEU-.jpg",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "Draw a 9:16 vertical anime portrait of Furina from Genshin Impact, viewed slightly from above at the height of her pillow. Crop through the crown of her tilted navy miniature top hat and through the lower bodice. Her silvery bob fills the upper left, the ends curling outward in translucent water blue. A loose strand curves above the hat brim. A sliver of gold trim and a cockade catch the light. Frame her mismatched sapphire and pale aqua eyes in dark, fine lashes with one small sharp catchlight in each iris. Her cheek has just lifted off the pillow. She looks up at us, one brow cocked and a smile just beginning at one corner of her lips. The white cotton pillow runs diagonally from the right edge of her jaw toward the lower right. One short navy-gloved hand pinches a little fold beside its piped seam. Keep the other hand behind the pillow. In the lower left, give her a Fontaine-inspired fitted sapphire bodice over a pearl-white gathered blouse. A little navy bow with a bright teardrop clasp marks the collar. Curved panels follow the upper torso, picking up a broad blue highlight before narrowing into indigo shade at the waist. Let the turned shoulder, soft sleeve folds and fitted silhouette read together. A large window above right gives the cheek a warm peach glow and the sleeve a soft sheen. Separate the pale hair from the white pillow with blue hair shadows and lavender-gray cotton folds. Use crisp tapered linework, broad clean cel shading and subtle blended skin transitions. Reserve the finest lines for eyes, curls and the glove pressing the fabric. Leave only a sliver of pearl-gray background. No text or watermark."
+    },
+    {
+      "id": "2126105975392215426",
+      "author": "CyberTotal2026",
+      "title": "湿漉漉深绿瓷砖小巷里的红皮衣女子",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "日文结构化提示词。",
+      "needsReference": false,
+      "time": "11-27 08:09",
+      "likes": 69,
+      "bookmarks": 24,
+      "images": [
+        {
+          "local": "images/2026-11-28/CyberTotal2026_2126105975392215426_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX1CNFabgAATYmY.jpg",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "主題：\n濡れた緑壁と煙\n\n主体：\n20代の成人女性。画面右の深緑タイルの壁際で低くしゃがむ。腰を壁に寄せ、両膝を左へ深く折る。身体を横に向けたまま顔をこちらへ返す。\n\n人物・表情：\n薄茶の目でカメラを見つめ、桃色の唇をわずかに開く。頬に淡い赤み、目元は穏やか。\n薄い前髪と肩下のくすんだ栗色のレイヤー。頭頂から画面左の毛束を白い天井灯で縁取る。\n頬と曲げた腿に暖色寄りのベージュの明るさ。腿には柔らかな明暗と細かな肌のきめを残す。背景の深緑と黒は暗い。\n\n服装・ポーズ：\n暗い赤の光沢レザージャケットを開いて同色のレーストップを見せる。チャコールの短いプリーツスカートの横に赤茶の二重バックル。暗赤の厚底編み上げブーツにもバックル。\n画面左下へ下げた手で細い紙巻きたばこを指に挟む。手前の厚底を濡れた床に置き、奥の靴は重なる脚でほとんど隠す。反対側は暗赤の袖が膝の奥へ入り、手は見えない。\n\n背景・光：\n右の水滴の付いた深緑タイル、左の鈍い金属扉、上の大きな丸い白灯。左側に細い青みの煙を上げ、床には天井灯と廊下奥の光を映す。\n\n構図・カメラ：\n縦位置3:4。しゃがんだ人物に近い低めの斜め前から。頭から厚底まで右側に入れ、左に長い廊下の奥行き。\n\n質感・スタイル：\n映画調の暗い写真。床の水たまりの反射、タイルの粒状の水滴、赤い革の艶と青みの煙を描き分ける。"
+    },
+    {
+      "id": "2126290189442335022",
+      "author": "CyberTotal2026",
+      "title": "坐在木栅栏上把脚尖浸入蓝湖",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "日文结构化提示词。",
+      "needsReference": false,
+      "time": "11-27 20:21",
+      "likes": 66,
+      "bookmarks": 25,
+      "images": [
+        {
+          "local": "images/2026-11-28/CyberTotal2026_2126290189442335022_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HX1J1NhaEAAZDKl.jpg",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "主題：\n湖に足先をひたす\n\n主体：\n20代の成人女性。木の柵のいちばん上の横木に腰掛け、身体と顔を画面左の湖へ向ける。両脚を水側へ下ろしてすねを重ね、画面右の腕を橋板へ伸ばす。\n\n人物・表情：\n柔らかい左向きの横顔。前髪からのぞく目を水面へ下ろし、小さく閉じた珊瑚色の唇。\n栗色の肩下の髪と薄い前髪。湖からの風に揺れ、細い毛束が頬の前を横切る。\n暖かな昼光を明るいベージュの肩と手前の腿に当て、顔と上腕に髪の柔らかな影を残す。\n\n服装・ポーズ：\n青緑のカットアウトのあるホルター水着。三角カップの間に金色のリング、中央の細い布でボトムまでつなぎ、脇を開く。画面右の腰の結び紐、細い耳飾りと腕輪。\n腰を上の横木に載せ、画面右の掌と指で橋板を支える。湖へ伸ばした裸足の先を水に入れ、小さな波紋を出す。奥の腕ともう一方の足先は身体や柵の後ろ。\n\n背景・光：\n右に木の橋板、手前から奥へ斜めに走る風化した柵。左に深い青い湖、対岸に濃い針葉樹と灰色の岩壁、左上に青空。\n\n構図・カメラ：\n縦位置3:4。橋に沿って少し高めの斜め横から。人物は右側、脚を左下の水面へ、上に岩壁と木々を収める。\n\n質感・スタイル：\n日中の写真調。柵の節、岩肌と深い緑、水の小波と肌の艶を区別する。"
+    },
+    {
+      "id": "2126219472856105153",
+      "author": "saber_kurama",
+      "title": "灯笼光下抬头的甘雨",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原神同人动漫竖屏壁纸；英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-27 15:40",
+      "likes": 62,
+      "bookmarks": 16,
+      "images": [
+        {
+          "local": "images/2026-11-28/saber_kurama_2126219472856105153_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYGxQ_pagAAp-7p.jpg",
+          "width": 480,
+          "height": 858
+        },
+        {
+          "local": "images/2026-11-28/saber_kurama_2126219472856105153_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYGxQ_maEAAH8NT.jpg",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "A vertical 9:16 hand-painted anime portrait of Ganyu from Genshin Impact, an adult woman of Liyue. Frame the figure tightly from the crown of her blue hair to just below the bust. Her chin lifts a little into the light, nearly in left profile; keep a small wedge of dark red between the left edge and the tip of her nose. A quiet half smile and a single lavender iris with a rosy lower rim, framed by loose pale blue bangs. Her hallmark two short backward-curving black qilin horns, scarlet grooves along their ridges, emerge from the sides of her head; the near horn reads strongly against her long periwinkle hair, which falls behind her shoulder. A thin red knotted cord holds her little brass bell at the hollow of her throat. Turn her torso a little toward the viewer to show the cut of a Liyue evening gown. Both shoulders, collarbones and upper chest bare above an opaque, gently dipping neckline. Overlapping midnight-blue silk panels follow the chest in broad convex arcs before drawing in at the ribs. Antique-gold embroidered cloud lines bend over the near curve, briefly gleam, then disappear into the side seam. One detached pomegranate-red sleeve folds below her shoulder and fastens with a tiny clover knot. Keep the upper edge of the dress legible and her hair behind it. Flat oxblood and near-black background, a single thin vermilion circular arch, a few tiny diamond stars. Angular fragments of warm lantern light from high left break across her fringe, iris and nose; an isolated pool of light catches the near shoulder, while the nape and cheek fall into soft violet shade. Delicate hard edges for the face, horn grooves and bell; broad painterly color planes in hair and silk. Hands out of frame, no lettering or watermark."
+    },
+    {
+      "id": "2126352851714838776",
+      "author": "saber_kurama",
+      "title": "抱枕微笑的甘雨",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原神同人动漫竖屏壁纸；英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-28 00:30",
+      "likes": 66,
+      "bookmarks": 12,
+      "images": [
+        {
+          "local": "images/2026-11-28/saber_kurama_2126352851714838776_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYI-I8wa4AALKwU.jpg",
+          "width": 480,
+          "height": 858
+        },
+        {
+          "local": "images/2026-11-28/saber_kurama_2126352851714838776_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYI-I8nbcAEfU5-.jpg",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "Draw a tight 9:16 anime portrait of Ganyu from Genshin Impact. Crop the crown at the upper left and the bent elbow at the lower right. Her cheek rests on the diagonal edge of an ivory pillow lifted to her face. Under ice-blue bangs, pink-violet eyes look out from beneath heavy lashes. Two dark qilin horns carry red ridges. Trace the near upper arm from the shoulder at lower left diagonally down to the low elbow at right. Fold the forearm almost vertically up the right edge to a dark gloved hand gathering the pillow beside her cheek. The other glove peeks around the far right edge, holding the upper corner. Place both hands near the top of the pillow and show their pressure in the radiating creases. A small brass bell on a red knot rests above the lower pillow corner. Leave a glimpse of ice-blue cloud brocade below the arm. Soft upper-right light catches the nose, horn and pillow piping. Use warm skin, cool lilac-gray fabric shadows, fine tapered outlines and clean cel shading against a nearly empty pale background. No text or watermark."
+    },
+    {
+      "id": "2126235579008581967",
+      "author": "saber_kurama",
+      "title": "金色发簪的雷电将军远眺",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原神同人动漫竖屏壁纸；英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-27 16:44",
+      "likes": 42,
+      "bookmarks": 14,
+      "images": [
+        {
+          "local": "images/2026-11-28/saber_kurama_2126235579008581967_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHe7aKbEAAcv15.jpg",
+          "width": 480,
+          "height": 858
+        },
+        {
+          "local": "images/2026-11-28/saber_kurama_2126235579008581967_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHe7aJbIAAJ--h.jpg",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "A 9:16 vertical hand-painted anime portrait of the Raiden Shogun from Genshin Impact, an adult woman with an unwavering, contemplative gaze. Close left-facing three-quarter profile, chin lifted just enough to catch a warm light. Place her visible violet eye in the upper left third and leave a narrow crescent of burgundy between nose and frame. Crop from the tips of her gold hair fan to the bodice just beneath the bust. Indigo bangs with a lighter violet streak frame her eye; include the tiny beauty mark below the outer corner of her right eye. A violet gentian blossom sits against a folding fan of gold pins at her temple. Her thick long purple braid descends behind the near shoulder, catching a cold edge of light. Her torso turns slightly toward the viewer. Design a formal Inazuman gown with both shoulders, collarbones and upper chest bare, its opaque overlapping kimono-inspired bodice ending in a shallow curved V. The aubergine silk wraps smoothly over the forward curves of her chest and gathers at the lower side seam. A slim lilac lapel gives way to a deep ink-purple plane; let a narrow sheen follow the bend of the fabric before falling into shadow at the ribs. A loose wine-red sleeve hangs from the upper arm, secured with one gold mitsudomoe clasp. Behind her, an almost black field opens into a dark vermilion disc, its circumference traced by a single fine line. Upper-left lamplight breaks in slanted patches over her fringe, eyelid and nose, with a separate warm reflection at the crest of her bare shoulder. Cool plum shadow along jaw and nape. Draw iris, lashes, lapel piping and pin tips in sharp fine strokes; let the broad shadowed masses of silk and hair merge with the ground. Hands outside the crop, no text, signature or watermark."
+    },
+    {
+      "id": "2126365854413598825",
+      "author": "Le_Tavernicole",
+      "title": "为所爱之人挡下爆炸的最后拥抱",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需上传两张角色设定图（第一张为挡在前面的人，第二张为被保护的人）；超长英文提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-28 01:21",
+      "likes": 43,
+      "bookmarks": 13,
+      "images": [
+        {
+          "local": "images/2026-11-28/Le_Tavernicole_2126365854413598825_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJdG4aXUAAHnEl.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-28/Le_Tavernicole_2126365854413598825_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJdH6xXgAA3FJC.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-28/Le_Tavernicole_2126365854413598825_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJdJBsXYAAOAHI.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-28/Le_Tavernicole_2126365854413598825_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJdJjMXwAA6cqE.jpg",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "# UNIVERSAL SOROLLA — THE ONE YOU'D DIE FOR\n## THE LAST EMBRACE — THE ULTIMATE ACT OF LOVE\n### Sacrificial Luminism × Violent Impressionism × Emotional Realism × Human Devotion\n\n**[EMOTION/TONE: absolute determination / unconditional love / protective instinct / acceptance of sacrifice / irreversible finality]**\n\n**FORMAT:** Vertical 3:4.\n\n**CHARACTER REFERENCES:**\n- @Image1 — Character 1: The Protector.\n- @Image2 — Character 2: The Protected Loved One.\n\n**ARTISTIC DIRECTION:** Joaquim Sorolla-inspired Spanish Luminism radically transformed through violent natural illumination, aggressively textured oil brushwork, incandescent atmospheric impressionism, profound emotional realism, and monumental human expression.\n\n**CORE CONCEPT:** Two characters sharing what may be their final embrace. An immense explosion of fire erupts behind Character 1, who deliberately uses their entire body as a protective shield around Character 2.\n\nThere is no hesitation. No attempt to escape. No uncertainty in their decision.\n\nCharacter 1 has already accepted what may happen to them.\n\n**VISUAL PHILOSOPHY:** The most violent force imaginable collides with the most tender human gesture imaginable.\n\nThe world is being consumed behind them.\n\nBut inside the embrace, one life is being protected at any cost.\n\n---\n\n## 01 | CHARACTER IDENTITY — ABSOLUTE REFERENCE LOCK\n\nUse the uploaded reference images as the exclusive authority for both characters.\n\nPreserve faithfully:\n\n- Original facial anatomy and recognizable features.\n- Original body types and proportions.\n- Original hairstyles, hair colors, eye colors, and skin tones.\n- Distinctive markings, scars, freckles, and unique traits.\n- Original clothing and recognizable accessories when visible.\n- Any non-human features such as ears, horns, tails, wings, fur, or prosthetics.\n\nBoth characters must remain immediately recognizable.\n\nDo not redesign, simplify, or homogenize them.\n\n---\n\n## 02 | COMPOSITION — TIGHT PROTECTIVE EMBRACE\n\nCreate a **tight bust-to-waist portrait composition** focused entirely on the emotional intensity of the embrace.\n\nThis is no longer a full-body scene.\n\n**No lower body is visible. No legs, knees, or feet are shown.**\n\nThe framing begins around the upper chest / bust region and extends to approximately the waist area, keeping the image intimate, concentrated, and emotionally immediate.\n\nThe two characters occupy almost the entire central composition, forming a compact, inseparable silhouette.\n\n### CHARACTER 1 — THE PROTECTOR\n\nCharacter 1 faces directly toward the viewer.\n\nTheir torso is slightly hunched forward, curved protectively around Character 2 in order to offer maximum cover.\n\nTheir shoulders round inward.\n\nTheir posture must clearly communicate that they are physically shielding the person in their arms from the catastrophic force behind them.\n\nBoth arms are wrapped tightly around Character 2:\n\n- One arm encircles Character 2's shoulders and upper back.\n- The other arm wraps around Character 2 and places one hand protectively on the back of Character 2's head.\n- The protective hand must feel gentle but firm, with expressive, anatomically coherent fingers.\n- The arms and shoulders form a visible enclosure of safety around Character 2.\n\nCharacter 1's head is slightly tilted downward, instinctively sheltering Character 2 beneath the chin and upper chest.\n\nDespite this slight downward inclination, **Character 1 looks directly at the viewer.**\n\nTheir face must remain clearly visible above Character 2.\n\nCharacter 1 must never look passive or merely affectionate.\n\nThey are actively protecting the person in their arms.\n\nThey are a living shield.\n\n### CHARACTER 2 — THE PROTECTED LOVED ONE\n\nCharacter 2 is pressed tightly against Character 1's torso and chest, held entirely within the protective enclosure of the embrace.\n\nCharacter 2 is shown **strictly from the back**.\n\nTheir face is completely hidden against Character 1's upper chest.\n\nTheir face must never be visible.\n\nTheir posture conveys vulnerability, trust, emotional dependence, and instinctive refuge.\n\nTheir head is buried into Character 1's chest.\n\nTheir shoulders and upper back remain visible to the viewer, but their face and front anatomy are fully concealed.\n\nCharacter 2 must read clearly as the person being protected.\n\n---\n\n## 03 | CHARACTER 1 — THE EXPRESSION OF SACRIFICIAL RESOLVE\n\nCharacter 1's face is the emotional and psychological centerpiece of the entire image.\n\nTheir expression must communicate:\n\n- Absolute determination.\n- Unconditional love.\n- Protective instinct.\n- Quiet defiance.\n- Conscious acceptance of sacrifice.\n- Emotional pain held under control.\n- The heartbreaking tenderness of shielding someone they would die for.\n\nThey know what is happening behind them.\n\nThey know what it may cost.\n\nThey have already chosen.\n\nTheir eyes look directly into the viewer.\n\nThe gaze is unwavering, intimate, emotionally devastating, and fully alive.\n\nSubtle muscular tension should appear in the brows, mouth, jaw, and cheeks.\n\nThe lips may be softly pressed or slightly parted by strained breathing.\n\nThe eyes may hold moisture and catch the reflected light of the surrounding fire.\n\nDo not make the expression theatrical, screaming, or exaggerated.\n\nIt must feel deeply human and controlled.\n\nThe emotional power comes from the coexistence of tenderness and total resolve.\n\nTheir face should silently communicate:\n\n*Whatever happens to me, nothing will happen to you.*\n\n---\n\n## 04 | THE EXPLOSION — FIRE AS A WALL OF FINALITY\n\nA gigantic explosion of fire erupts directly behind Character 1.\n\nIt is not distant.\n\nIt is not decorative.\n\nIt is already upon them.\n\nThe entire space behind Character 1 is consumed by a roaring inferno of violently expanding fire, incandescent combustion, smoke, and heat.\n\nThe back of Character 1's upper torso, shoulders, neck, and the back of the head are already being struck by the advancing blast.\n\nDepict:\n\n- Massive surging fire.\n- White-hot incandescent cores.\n- Violent orange, gold, crimson, and scarlet flames.\n- Swirling tongues of combustion.\n- Explosive atmospheric turbulence.\n- Burning smoke illuminated from within.\n- Embers and incandescent particles.\n- Thermal distortion.\n- A sense of overwhelming forward pressure moving toward the viewer.\n\nThe blast must feel immense, catastrophic, and final.\n\nThe world behind Character 1 is becoming pure destruction.\n\n---\n\n## 05 | ABSOLUTE PROTECTION — CHARACTER 2 MUST REMAIN UNTOUCHED\n\n**Character 2 must never be touched, struck, burned, or directly impacted by the fire.**\n\nThis is an absolute requirement.\n\nCharacter 1 fully intercepts the violence of the inferno.\n\nThe flames, blast energy, and destructive force are visually stopped and redirected by Character 1's body and outer silhouette.\n\nThe interior of the embrace remains protected.\n\nCharacter 2 may receive soft reflected warm light from the explosion, but no direct flames, no embers striking them, and no visible damage.\n\nThere must be a clear visual contrast:\n\n- **Behind Character 1:** catastrophe.\n- **On Character 1's outer silhouette:** direct impact and sacrifice.\n- **Inside the embrace:** shelter, tenderness, and protection.\n\nDo not add any magical shield or supernatural barrier.\n\nCharacter 1's body alone is the shield.\n\n---\n\n## 06 | SOROLLA TRANSFORMED — VIOLENT LUMINISM\n\nRender the full image as a luminous oil painting inspired by Joaquim Sorolla, but radically intensified and roughened.\n\nThis is not the usual airy Mediterranean serenity.\n\nSorolla's luminism is transformed into an instrument of violence and emotional finality.\n\nThe inferno becomes the main light source.\n\nPreserve Sorolla-inspired qualities such as:\n\n- Luminous reflected color.\n- Painterly realism.\n- Naturalistic facial modeling.\n- Vibrating warm and cool relationships.\n- Atmospheric light.\n- Expressive brushwork.\n- Living human presence.\n\nBut push them into a far rougher, more textured, more violent pictorial language.\n\nThe light is no longer peaceful.\n\n**The light has become destructive.**\n\n---\n\n## 07 | BRUSHWORK — TENDERNESS AGAINST THE INFERNO\n\nThe brushwork should create a contrast between the destruction behind them and the humanity within the embrace.\n\n### BACKGROUND / FIRE\n\nUse:\n\n- Violent directional brushstrokes.\n- Thick oil texture and impasto.\n- Broken incandescent color.\n- Aggressive layered pigment.\n- Rough, turbulent paint handling.\n- Explosive movement in the stroke direction.\n- Scraped, dragged, and swirling paint passages.\n- Chaotic smoke-fire textures.\n\nThe inferno should feel like it is tearing through the painted surface.\n\n### FIGURES / EMBRACE\n\nWithin the two characters, the brushwork becomes more controlled and emotionally precise.\n\nUse:\n\n- Refined facial realism for Character 1.\n- Carefully modeled skin and anatomy.\n- Tactile rendering of the protective hands.\n- Subtle fabric folds where visible.\n- Softer painterly transitions in the protected interior of the embrace.\n\nCharacter 1's eyes are the most refined area.\n\nThe protective hand on Character 2's head is the second most refined area.\n\nThe world is painted with violence.\n\nThe embrace is painted with tenderness.\n\n---\n\n## 08 | LIGHTING — THE LAST LIGHT\n\nThe explosion behind Character 1 is the only dominant light source.\n\nDo not introduce ordinary sunlight or unrelated lighting.\n\nThe inferno produces:\n\n- Blinding white-yellow highlights.\n- Incandescent orange and gold rim lighting.\n- Burning crimson reflections.\n- Violent backlight across Character 1's outer silhouette.\n- Dense smoky shadow around the figures.\n- Deep cool-violet and umber shadow masses.\n- Strong warm reflected light on the visible anatomy.\n\nCharacter 1's back contours, shoulders, hair, and head edges are violently lit by the inferno.\n\nTheir frontal face remains readable through reflected light and controlled painterly modeling.\n\nTheir eyes catch tiny incandescent reflections.\n\nCharacter 2 remains deeper in shadow within the protective interior of the embrace, receiving only soft indirect warm reflections.\n\nThe lighting must clearly reinforce sacrifice:\n\nCharacter 1 receives the violence.\n\nCharacter 2 receives the protection.\n\n---\n\n## 09 | COLOR PALETTE\n\nBuild the image with a powerful palette of:\n\n- Incandescent white.\n- Burning yellow.\n- Golden ochre.\n- Cadmium orange.\n- Scarlet.\n- Vermilion.\n- Crimson.\n- Burnt sienna.\n- Burgundy.\n- Smoky violet.\n- Ultramarine-inflected shadows.\n- Deep umber.\n\nDo not reduce the image to a flat orange filter.\n\nPreserve believable local color in both characters.\n\nTheir canonical colors must remain legible beneath the reflected firelight.\n\nInside the embrace, transitions should be softer, darker, and more intimate.\n\nColor must express the opposition between destruction and devotion.\n\n---\n\n## 10 | VISUAL HIERARCHY\n\nThe composition follows this emotional hierarchy:\n\n**PRIMARY FOCAL POINT:** Character 1's direct, unwavering gaze.\n\n**SECONDARY FOCAL POINT:** The protective hand on the back of Character 2's head.\n\n**TERTIARY FOCAL POINT:** The tightly enclosed embrace and Character 2's hidden face against the chest.\n\n**QUATERNARY FOCAL POINT:** The immense explosion raging behind Character 1.\n\nThe fire can be visually enormous and extremely bright, but it must never overpower the emotional meaning of the embrace.\n\nThe viewer must first feel the resolve in Character 1's eyes.\n\nOnly then should they fully register the scale of the destruction behind them.\n\n---\n\n## 11 | THE EXACT MOMENT\n\nThis is not a battle image.\n\nThis is not a victory image.\n\nThis is not a spectacle of action.\n\nIt is a portrait of a single irreversible decision.\n\nCapture the exact instant in which Character 1 is already being struck by the inferno, yet the embrace remains completely unbroken.\n\nCharacter 1 does not turn away.\n\nCharacter 1 does not release Character 2.\n\nCharacter 1 does not protect themselves.\n\nEvery part of their being is devoted to shielding the one they love.\n\nThe explosion lasts an instant.\n\nThe embrace feels eternal.\n\nThe emotional tragedy lies not in explicit injury, but in the certainty of what Character 1 has accepted.\n\n---\n\n## 12 | CAMERA AND FRAMING\n\n- Vertical 3:4 composition.\n- Bust-to-waist portrait framing.\n- No lower body visible.\n- No knees, legs, or feet visible.\n- Character 1 in front view.\n- Character 2 in rear view.\n- Slight downward cinematic angle.\n- Tight central composition.\n- Character 1's face fully visible.\n- Character 2's face fully concealed.\n- Strong focus on the upper-body silhouette of protection.\n- No unnecessary background elements.\n- No additional characters.\n- No text, no typography, no decorative border.\n\n---\n\n## 13 | FINAL ARTISTIC REQUIREMENTS\n\nMasterpiece, ultra-detailed, emotionally overwhelming fine art portrait, Joaquim Sorolla-inspired sacrificial luminism, violent impressionist firelight, rough textured oil painting, incandescent atmospheric chaos, profound emotional realism, direct eye contact, protective embrace, tactile human tenderness, catastrophic explosion, monumental painterly tragedy, unconditional devotion, unwavering resolve, absolute protection, lyrical human sacrifice, finality through light, museum-quality emotional painting.\n\nThe image must not simply depict two characters and an explosion.\n\nIt must become the visual embodiment of one absolute truth:\n\n**Character 1 would rather be consumed by the fire than allow it to touch the one they love.**\n\n--ar 3:4"
+    },
+    {
+      "id": "2126323461501104523",
+      "author": "saber_kurama",
+      "title": "窝在枕头里的哥伦比娅",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原神同人动漫竖屏壁纸；英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-27 22:33",
+      "likes": 38,
+      "bookmarks": 6,
+      "images": [
+        {
+          "local": "images/2026-11-28/saber_kurama_2126323461501104523_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYI3kYSawAAKuI-.jpg",
+          "width": 480,
+          "height": 858
+        },
+        {
+          "local": "images/2026-11-28/saber_kurama_2126323461501104523_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYI3kYIa0AAM8KE.jpg",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "Create a 9:16 vertical anime close-up of Columbina from Genshin Impact. Look slightly down at her from the side, close enough to crop the crown and the lower torso. Her dark plum hair fills the upper left, with a few narrow raspberry strands curling along her cheek. Slender ivory cords cross in open diamonds over her closed lashes. Three tiers of small white wing feathers fan out from her temple. Her cheek presses gently into the diagonal edge of a plump white cotton pillow on the right. Her mouth curves into the slightest smile. One hand in a short plum glove rests against the pillow seam, lightly gathering the cloth. Her other arm cradles the pillow from behind. At the lower left, a pearl-white satin dress with a soft gathered neckline and berry-colored piping follows the rounded shoulder and upper torso. Broad folds give way to finer creases near the arm. Soft window light from the upper right catches the eyelid cords, the tip of her nose and the raised seam. Put warm rose in the cheek and cool lilac in the pillow shadows. Use tapered fine outlines, broad clean cel shadows and a few soft transitions on skin. Keep the sharpest edges along the eyelids and feather tips. Fill the frame with the quiet gesture, leaving only a sliver of pale background. No lettering or watermark."
+    },
+    {
+      "id": "2126235828439732540",
+      "author": "0xkyne",
+      "title": "虚构时装月刊《PERIGEE》银箔满月封面",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "中文提示词，模特演绎申鹤。",
+      "needsReference": false,
+      "time": "11-27 16:44",
+      "likes": 31,
+      "bookmarks": 12,
+      "images": [
+        {
+          "local": "images/2026-11-28/0xkyne_2126235828439732540_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHoDy1bsAAvgRl.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-28/0xkyne_2126235828439732540_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHoH26aAAAGFnQ.jpg",
+          "width": 480,
+          "height": 639
+        },
+        {
+          "local": "images/2026-11-28/0xkyne_2126235828439732540_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHoIzjbMAAc3N_.jpg",
+          "width": 480,
+          "height": 639
+        },
+        {
+          "local": "images/2026-11-28/0xkyne_2126235828439732540_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHoKM0aEAAgu7-.jpg",
+          "width": 480,
+          "height": 639
+        }
+      ],
+      "prompt": "3:4 竖幅，虚构先锋时装月刊《PERIGEE》的封面，冷调真人时装摄影与印刷银箔结合。\n\n【封面照】二十多岁的东亚模特演绎申鹤，浅灰蓝眼瞳，白发梳成低辫，额侧留出不对称发束，束发的一缕红绳落在颈侧。墨蓝斜肩丝绒上衣与银灰缎裙贴着腰线，领口斜线跟着锁骨走。一侧髋轻倚高凳，微微垂眼，等下一次闪灯。85mm 从偏左正面拍到腰以下一小截，眼鼻口落在深色纸面上方的清晰光区。侧上方冷白柔光擦过脸和外侧肩颈，眼尾与唇部带淡淡的色彩，保留皮肤细纹、丝绒暗亮变化和软光下的细颗粒。\n\n【纸面】底纸是深海军蓝的哑面纸。银箔压出一道大圆周，像放满封面的满月轮廓：上弧被她的白发和肩盖去一段，下弧在她旁边的深色留白里接回同一个圆。银箔有细密的压印纹，沿底纸反光，照片的肤色与发丝保持自然。上缘只排一个大刊头「PERIGEE」，银灰细衬线，白发略盖住字母下缘；左下两行小字「FULL MOON ISSUE」「24 NOV 2026」，右下小字「VOL. 01」「@0xkyne」。"
+    },
+    {
+      "id": "2126090168503545872",
+      "author": "muse_ai_prompt",
+      "title": "别墅花园长椅旁的灰粉色内衣写真",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "日文结构化提示词，作者注明用 ChatGPT 生成。",
+      "needsReference": false,
+      "time": "11-27 07:06",
+      "likes": 34,
+      "bookmarks": 7,
+      "images": [
+        {
+          "local": "images/2026-11-28/muse_ai_prompt_2126090168503545872_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYFjvC1bUAAJEtv.jpg",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "🌟ヴィラのプライベートガーデンのベンチ × 遊歩道で足を止め🌟\n\n【主題・画風】\n明確に成人した日本人女性を主役にした、実在のカメラで撮影したようなフォトリアルポートレート。日本の女性写真集のような華やかさ。自然な身体の曲線と魅力的なポージング、印象的な目線。上品さと親密さを両立する。\n\n【場所・背景・世界観】\nヴィラのプライベートガーデンのベンチを舞台に、周囲の家具や自然が人物と無理なく調和する背景。奥行きを残し、落ち着いたプライベートな場面。\n\n【季節・時間・天候】\n夏の夜。季節に合う穏やかな空気感と、時間帯の明るさを自然に統一する。穏やかな天候。\n\n【人物設定】\n明確に成人した25歳前後の日本人女性。柔らかな卵型の小顔、自然にふくらんだ頬、小ぶりの鼻、淡いローズピンクの唇。丸みのあるアーモンド形のダークブラウンの瞳、自然な二重、優しく下がった目尻。ダークブラウンの胸元までの髪と軽いシースルーバング。健康的な肌、控えめなメイク。華奢な肩と手足、自然に豊かなバスト、すっきりしたウエストと丸みのあるヒップが調和した健康的な体型。胸は衣装と姿勢に自然になじむ柔らかな立体感。\n\n【衣装・アクセサリー】\n胸元を美しく彩る、なめらかな生地と優美なシルエットが特徴の、ワコール系の上品でフェミニンなランジェリー。色・素材・装飾の追加指定：ダスティピンク。身体に自然になじむ柔らかな素材と上品なデザイン。細かな縫い目や布のしわを現実的に表現し、装飾は繊細に、アクセサリーは控えめにする。\n\n【ポーズ・動作・視線】\n遊歩道で足を止め、両足をそろえて正面を見る。片手で髪を耳にかける。左右の手足を自然につなぎ、支持する手と重心を保つ。肩と腰を自然につなぎ、手指の力を抜く。仕草の途中を切り取る。\n\n【表情・感情】\n穏やかで引き込まれるような視線。まぶたを少し下げ、唇をわずかに開いてから、視線だけを恋人の目へ向ける。口角は上げず、大人の女性らしい自然な色気を表す。成人女性らしい落ち着きを保ちながら、身近な相手に向ける気負わない表情。頬と口元に自然な動きを残し、過剰な演技を避ける。\n\n【構図・カメラ】\n斜め前30度、目線に近い高さからの全身構図。縦長4:5で、人物の周囲に適度な余白を確保する。背景を柔らかくぼかし、顔と仕草の両方が読み取れる自然な撮影距離。\n\n【光・色・質感・雰囲気】\n暖色の間接照明と窓からの淡い光。人物と背景の色温度をそろえ、肌の血色、髪の柔らかなツヤ、布の素材感を丁寧に残す。透明感があり、穏やかで親密な雰囲気。\n\n【品質・除外要素】\n現実的な人体構造と手指、光源と影の整合性を優先。肌のきめと自然な立体感を保ち、過度な美肌加工、身体の誇張、衣装の破綻、不要な文字や透かしを避ける。"
+    },
+    {
+      "id": "2126088866147008648",
+      "author": "muse_ai_prompt",
+      "title": "海边别墅草坪上的鼠尾草绿比基尼写真",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "日文结构化提示词，作者注明用 ChatGPT 生成。",
+      "needsReference": false,
+      "time": "11-27 07:01",
+      "likes": 29,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-28/muse_ai_prompt_2126088866147008648_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYFii1BbYAA7v-c.jpg",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "🌟海辺ヴィラの専用デッキ × 芝生に座り🌟\n\n【主題・画風】\n明確に成人した日本人女性を主役にした、実在のカメラで撮影したようなフォトリアルポートレート。日本の女性写真集のような華やかさ。自然な身体の曲線と魅力的なポージング、印象的な目線。上品さと親密さを両立する。\n\n【場所・背景・世界観】\n海辺ヴィラの専用デッキを舞台に、周囲の家具や自然が人物と無理なく調和する背景。奥行きを残し、落ち着いたプライベートな場面。\n\n【季節・時間・天候】\n夏の朝。季節に合う穏やかな空気感と、時間帯の明るさを自然に統一する。穏やかな天候。\n\n【人物設定】\n明確に成人した25歳前後の日本人女性。柔らかな卵型の小顔、自然にふくらんだ頬、小ぶりの鼻、淡いローズピンクの唇。丸みのあるアーモンド形のダークブラウンの瞳、自然な二重、優しく下がった目尻。ダークブラウンの胸元までの髪と軽いシースルーバング。健康的な肌、控えめなメイク。華奢な肩と手足、自然に豊かなバスト、すっきりしたウエストと丸みのあるヒップが調和した健康的な体型。胸は衣装と姿勢に自然になじむ柔らかな立体感。\n\n【衣装・アクセサリー】\n胸元を美しく彩るシンプルでなめらかな生地と、首元へ伸びるホルターネックが可愛い、上品でフェミニンなビキニ。色・素材・装飾の追加指定：セージグリーン。身体に自然になじむ柔らかな素材と上品なデザイン。細かな縫い目や布のしわを現実的に表現し、装飾は繊細に、アクセサリーは控えめにする。\n\n【ポーズ・動作・視線】\n芝生に座り、両膝を曲げて足裏を地面につける。花を一輪持ち、胸元より少し低い位置へ下ろす。左右の手足を自然につなぎ、支持する手と重心を保つ。肩と腰を自然につなぎ、手指の力を抜く。仕草の途中を切り取る。\n\n【表情・感情】\n目を合わせて明るく笑う。成人女性らしい落ち着きを保ちながら、身近な相手に向ける気負わない表情。頬と口元に自然な動きを残し、過剰な演技を避ける。\n\n【構図・カメラ】\n横、顔の向きに合わせた自然な高さからの全身構図。縦長4:5で、人物の周囲に適度な余白を確保する。背景を柔らかくぼかし、顔と仕草の両方が読み取れる自然な撮影距離。\n\n【光・色・質感・雰囲気】\n柔らかな自然光と整合する影。人物と背景の色温度をそろえ、肌の血色、髪の柔らかなツヤ、布の素材感を丁寧に残す。透明感があり、穏やかで親密な雰囲気。\n\n【品質・除外要素】\n現実的な人体構造と手指、光源と影の整合性を優先。肌のきめと自然な立体感を保ち、過度な美肌加工、身体の誇張、衣装の破綻、不要な文字や透かしを避ける。"
+    },
+    {
+      "id": "2126316570557481250",
+      "author": "alicehan_ai",
+      "title": "户外用餐的米白针织衫女生写真",
+      "model": "Nano Banana Pro",
+      "group": "Nano Banana",
+      "note": "作者注明用 Nano Banana Pro（AI Studio）；JSON 提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-27 22:05",
+      "likes": 21,
+      "bookmarks": 7,
+      "images": [
+        {
+          "local": "images/2026-11-28/alicehan_ai_2126316570557481250_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYIxlyua4AA8PLM.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-28/alicehan_ai_2126316570557481250_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYIxlynagAAQAYM.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-28/alicehan_ai_2126316570557481250_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HYIxlytaMAAlbn1.jpg",
+          "width": 480,
+          "height": 860
+        },
+        {
+          "local": "images/2026-11-28/alicehan_ai_2126316570557481250_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HYIxly1bUAAeuZR.jpg",
+          "width": 480,
+          "height": 860
+        }
+      ],
+      "prompt": "{\n  \"subject\": {\n    \"identity\": \"an exceptionally beautiful 23-year-old adult Japanese woman, 167 cm tall, with a youthful softly oval face, harmonious facial proportions, bright almond-shaped eyes, gently defined cheekbones, softly shaped full lips, a warm confident smile, platinum blonde hair, and an athletic full hourglass figure with a toned midriff, sculpted bust, and shapely hips (measurements: 88-60-91 cm)\",\n    \"hair\": \"platinum blonde hair in loose waves reaching her chest, half gathered at the back with slightly messy natural strands framing forehead and temples and fine translucent bangs along her cheeks\",\n    \"expression\": \"warm, confident smile with gently lifted cheeks, slight eye crinkles, and bright, engaging almond-shaped eyes looking directly at the camera\",\n    \"pose\": \"Standing facing forward with weight balanced on her right leg, torso tilted slightly forward, left hand lightly gripping her backpack shoulder strap at chest height while her right arm rests relaxed, head tilted subtly to the right\"\n  },\n  \"wardrobe\": {\n    \"silhouette\": \"ultra-cropped ribbed knit top with a plunging open-front neckline, bare shoulders, and delicate lace trim ending just below the bust, paired with ultra-short low-rise micro denim shorts featuring high-cut frayed leg openings and open lace-up side slits riding high on the hips\",\n    \"material\": \"second-skin fine-gauge stretch ribbed knit with sheer floral lace trim, paired with washed stretch cotton denim and soft lace cording\",\n    \"color\": \"ivory cream, carried across the ultra-cropped ribbed knit top with subtle contrast against washed light blue denim\",\n    \"footwear\": \"pointed-toe stiletto pumps\",\n    \"accessories\": \"fine gold stud earrings and a delicate gold bangle\"\n  },\n  \"scene\": {\n    \"location\": \"narrow picturesque urban alleyway\",\n    \"atmosphere\": \"bright, relaxed daytime alley atmosphere with warm sunlit charm and soft urban depth\",\n    \"background\": \"rough white stucco wall with a black window frame on the left, a gray chair and black bottle rack on the right, leading back to a bamboo fence, potted lush greenery, an outdoor AC unit, and sun-dappled foliage in the upper frame\",\n    \"composition\": \"vertical 9:16 medium portrait, framed from head to upper thighs with knees and feet out of frame, capturing the subject's posture and natural depth\",\n    \"lighting\": \"daytime diffused natural light keeping the face bright, with warm directional sunlight edging the hair and creating subtle natural contact shadows\",\n    \"camera\": \"slightly elevated frontal position at close range looking down at a subtle downward angle, capturing natural optical depth with gently blurred background foliage and walls\",\n    \"grade\": \"soft, bright natural color grade with gentle tonal gradation, clean highlight roll-off on skin, natural shadow depth, and delicate warmth\"\n  },\n  \"scene_text\": {\n    \"archetype\": \"necklace\",\n    \"carrier\": \"slim nameplate necklace in cursive lettering\",\n    \"placement\": \"at the hollow of her throat\",\n    \"text\": \"alicehan_ai\"\n  },\n  \"compiled_prompt\": \"A vertical medium-close photograph of an exceptionally beautiful 23-year-old adult Japanese woman, captured from a slightly elevated frontal position at close range looking down at a subtle downward angle, framed from head to upper thighs with knees and feet out of frame, one figure centered and filling the height of the picture. She stands facing forward with her weight balanced on her right leg, her torso tilted slightly forward, her left hand lightly gripping the shoulder strap of a gray backpack at chest level while her right arm rests relaxed at her side, her head tilted subtly to the right. She has platinum blonde hair styled in loose waves reaching her chest, half gathered at the back, with slightly messy natural strands framing forehead and temples and fine translucent bangs resting against her cheeks. Her face features bright, engaging almond-shaped eyes looking directly at the camera, a warm, confident smile with gently lifted cheeks, slight eye crinkles, and softly shaped full lips. At the hollow of her throat rests a slim nameplate necklace in cursive lettering rendering the text \\\"alicehan_ai\\\", paired with fine gold stud earrings and a delicate gold bangle. She wears an ivory cream ultra-cropped ribbed knit top with a plunging open-front neckline, bare shoulders, and delicate lace trim ending just below the bust, paired with ultra-short low-rise micro denim shorts featuring high-cut frayed leg openings and open lace-up side slits riding high on the hips, grounded by pointed-toe stiletto pumps. The garment construction combines second-skin fine-gauge stretch ribbed knit with sheer floral lace trim, paired with washed stretch cotton denim and soft lace cording, accentuating her athletic full hourglass figure and toned midriff. The narrow picturesque urban alleyway setting features a rough white stucco wall and black window frame on the left, a gray chair and black bottle rack on the right, and a background of potted lush greenery, a bamboo fence, and an outdoor unit beneath sun-dappled foliage falling gently out of focus. Daytime diffused natural light illuminates the scene, keeping her facial features luminous while warm directional sunlight edges her hair, casting soft natural contact shadows. The image exhibits realistic skin texture with subtle pores, natural organic glow and micro details, authentic skin undertones, smooth highlight transitions, and subtle tonal gradations as ambient light grazes the ivory cream ribbed knit fabric and tactile denim seams.\"\n}"
+    },
+    {
+      "id": "2126104414985293828",
+      "author": "lgwny0120",
+      "title": "深夜复印间里的白衬衫 OL",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "中文提示词在图片 ALT 里。",
+      "needsReference": false,
+      "time": "11-27 08:02",
+      "likes": 12,
+      "bookmarks": 7,
+      "images": [
+        {
+          "local": "images/2026-11-28/lgwny0120_2126104414985293828_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYFwnUpXYAAcYC7.jpg",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-28/lgwny0120_2126104414985293828_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYFwY8ZXIAAT0UO.jpg",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "2:3 竖版，电影感超写实照片，真人拍摄，不是 CG。人物：明确成年的 28 岁东亚女性，精致鹅蛋脸，通勤妆、豆沙红哑光唇，黑色长发微卷；修身白色真丝衬衫，最上面一两颗扣子解开，露出锁骨和细金项链，领口不露乳沟；黑色高腰包臀短裙到大腿中部；黑色哑光丝袜、黑色尖头细跟高跟鞋；面料完全不透明。场景：深夜办公楼的小复印间，一台复印机的扫描光从缝隙里透出，她站在复印机旁，一手按在刚吐出的纸上，另一手撑着机身，抬眼看向镜头，神情认真带点俏皮，像在说「这份别给别人看」。镜头：50mm 平视，七分身，从门口同事的视角拍摄，前景是虚化文件架，浅景深。"
+    },
+    {
+      "id": "2126366483970449806",
+      "author": "icreatelife",
+      "title": "把照片做成上下对称的双联海报",
+      "model": "GPT Image 2",
+      "group": "GPT Image",
+      "note": "需上传自己的照片；作者注明在 Firefly 里用 GPT Image 2；提示词在作者回复里。",
+      "needsReference": true,
+      "time": "11-28 01:24",
+      "likes": 12,
+      "bookmarks": 6,
+      "images": [
+        {
+          "local": "images/2026-11-28/icreatelife_2126366483970449806_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJfC_7W4AAIJox.jpg",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Turn the photo into a 3:4 vertical diptych poster with the top and bottom halves of equal height.\nThe upper half should remain faithful photography, with no text.\nThe lower half should be transformed into a Japanese retro flat illustration style, with thick rounded black outlines and limited flat colors.\nBehind the main subject, use dense, clearly defined black-and-white halftone dots of equal size and spacing.\nBased on the image, independently generate a 2–4 word English title and supporting text, using a very thin font and an asymmetrical layout; do not use a template-based design.\nThe illustration, text, and symbols together should occupy about 70% of the lower half, with the remaining area left as large negative space.\nAdd a moderate amount of thematic graphic elements.\nDo not include award logos, gradients, or 3D effects."
+    },
+    {
+      "id": "2126128342617502188",
+      "author": "lgwny0120",
+      "title": "填角色名即可用的真人 cos 写真",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "填【角色名】即可用，场景三选一随机；提示词在图片 ALT 里，作者带了 #ChatGPT 标签。",
+      "needsReference": false,
+      "time": "11-27 09:37",
+      "likes": 9,
+      "bookmarks": 8,
+      "images": [
+        {
+          "local": "images/2026-11-28/lgwny0120_2126128342617502188_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYGGTF-XwAA25XS.jpg",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-28/lgwny0120_2126128342617502188_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYGGUQCWsAAHgpM.jpg",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "2:3 竖版，电影感超写实照片，真人拍摄，不是 CG。人物：明确成年的东亚女 coser，扮演《崩坏：星穹铁道》知更鸟，按该角色官方原版服装与发型还原（款式、颜色、配饰都与官方立绘一致，露肤不得比原版多）。场景选 老城石板街黄昏，黄金时刻强逆光，发丝与衣服边缘有一圈金色轮廓光，她回头看向镜头，浅浅一笑；远处有虚化的路人。镜头：50mm 平视，全身入镜，头身比真实，浅景深。电影胶片调色，轻微颗粒。禁止：裸露、乳沟、透视、内衣外露、裙底走光；低机位仰拍；躺姿；幼态脸；塑料皮肤、过度磨皮、CG 光泽、多余手指、文字、水印、真实明星脸。"
+    },
+    {
+      "id": "2126375513963032868",
+      "author": "Just_Anika_Here",
+      "title": "手绘日系动漫夏日杂志插画",
+      "model": "GPT Image 2.5",
+      "group": "GPT Image",
+      "note": "作者注明 GPT IMAGE 2.5；英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-28 02:00",
+      "likes": 14,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-28/Just_Anika_Here_2126375513963032868_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJaqH1bEAACtDj.jpg",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "Create a stunning hand-painted Japanese anime summer editorial illustration featuring a completely original, newly imagined young adult Japanese woman. Invent a unique character from scratch. Do not copy, recreate, or reference any existing person, uploaded character, anime character, or previous generation.\n\nCHARACTER DESIGN: A charming young Japanese woman with short, softly layered chestnut-brown hair, subtle caramel highlights, expressive warm hazel eyes, delicate facial features, a tiny beauty mark beneath one eye, and a playful natural smile. Give her a distinctive personality and recognizable appearance. Maintain exactly the same facial identity, hairstyle, proportions and outfit in both panels.\n\nCOMPOSITION: Exactly TWO separate horizontal panels stacked vertically inside one 3:4 portrait canvas. Both panels must have equal height and full width, separated by a clean subtle divider.\n\nTOP PANEL: A cinematic medium-close-up portrait from a slightly low camera angle. The woman stands beside a beautiful Japanese summer garden, gently holding a small sunflower near her face. Her hair moves naturally in the summer breeze. She wears a mint-green and ivory floral summer yukata. Vibrant blue hydrangeas, lush green foliage, warm sunlight and a delicate glass wind chime fill the background.\n\nBOTTOM PANEL: The same original character appears from a different three-quarter side perspective at a traditional Japanese summer festival. She holds a colorful paper fan and a transparent bottle of ramune soda, looking toward glowing festival lanterns with a curious smile. Her outfit remains identical. Beautiful festival stalls, floating petals, warm golden lights and distant summer fireworks create a nostalgic atmosphere.\n\nART DIRECTION: Premium Japanese anime film aesthetic, exquisite hand-painted textures, expressive eyes, delicate linework, sophisticated color grading, rich environmental details, cinematic lighting, natural anatomy, beautiful depth of field, vibrant summer atmosphere, professional illustration quality.\n\nSTRICT REQUIREMENTS: Exactly two horizontal panels, one original character, consistent facial identity, two different camera angles, no extra panels, no character duplication, no existing anime characters, no reference-image imitation, no watermark."
+    },
+    {
+      "id": "2126211168230617496",
+      "author": "cookie_sns",
+      "title": "冬夜霓虹街头弹电吉他的角色插画",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需附上自己喜欢的角色图；日文提示词在作者回复里，可自行换乐器。",
+      "needsReference": true,
+      "time": "11-27 15:07",
+      "likes": 12,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-28/cookie_sns_2126211168230617496_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYFIg5ca0AA8Yjb.jpg",
+          "width": 480,
+          "height": 320
+        }
+      ],
+      "prompt": "冬の華金の夜、イルミネーションが輝く華やかなストリートを舞台に、キャラクターが楽しそうに演奏しているイラストを生成してください。\n\n背景には、色鮮やかなイルミネーションで彩られた街路樹や、輝くネオン、冬の夜空を描いてください。\n\n街には楽しそうに行き交う人々の姿を遠景に配置し、華金らしい賑やかで開放的な雰囲気を表現してください。\n\nキャラクターは冬らしいおしゃれな洋服を着用し、満面の笑顔で、全身を使ってノリノリに演奏している躍動感のあるポーズにしてください。\n\n楽器を演奏する手の動きや表情も丁寧に描写してください。\n\nキャラクターを大きく目立つように配置し、背景とのバランスも大切にしてください。\n\n冬のイルミネーションが輝く、明るく楽しい華金の夜を表現した高品質なアニメ調イラストに仕上げてください。"
+    },
+    {
+      "id": "2126373257204859235",
+      "author": "RenRose321",
+      "title": "装饰艺术风的袋鼠妈妈与小袋鼠",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-28 01:51",
+      "likes": 12,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-28/RenRose321_2126373257204859235_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJlNRLXcAAU0tf.jpg",
+          "width": 480,
+          "height": 480
+        }
+      ],
+      "prompt": "Create a humorous Art Deco artwork of a dignified mother kangaroo bending toward her pouch while her delighted joey reaches up to boop her nose. Give her a patient, slightly surprised expression. Surround them with sweeping terracotta dunes, dark teal grass trees, native wildflowers, and a winding dry creek beneath a golden sunrise. Use streamlined forms, stepped geometric landscapes, elegant sunburst rays, fine metallic gold outlines, and subtle matte-paper texture. Warm ivory, copper, and teal palette, rich landscape depth, coherent animal anatomy, affectionate humor, no text."
+    },
+    {
+      "id": "2126418264993771850",
+      "author": "abs_crea8or",
+      "title": "个人色彩诊断信息图",
+      "model": "ChatGPT",
+      "group": "GPT Image",
+      "note": "需上传自己的照片；作者注明用 ChatGPT。",
+      "needsReference": true,
+      "time": "11-28 04:49",
+      "likes": 10,
+      "bookmarks": 2,
+      "images": [
+        {
+          "local": "images/2026-11-28/abs_crea8or_2126418264993771850_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYKN4mqWAAAV4mi.jpg",
+          "width": 480,
+          "height": 480
+        }
+      ],
+      "prompt": "Create a personal color analysis graphic using this portrait. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. Make it visual-first, with short labels only and no paragraphs."
+    },
+    {
+      "id": "2126383051840364556",
+      "author": "saber_kurama",
+      "title": "抱着白枕头的兹白",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "原神同人动漫竖屏壁纸；英文提示词在作者回复里。",
+      "needsReference": false,
+      "time": "11-28 02:30",
+      "likes": 10,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-28/saber_kurama_2126383051840364556_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJAWsma0AATbty.jpg",
+          "width": 480,
+          "height": 858
+        },
+        {
+          "local": "images/2026-11-28/saber_kurama_2126383051840364556_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJAWsla8AAcv-k.jpg",
+          "width": 480,
+          "height": 853
+        }
+      ],
+      "prompt": "Paint a 9:16 close-up anime portrait of Zibai from Genshin Impact hugging a white cotton pillow high against her cheek. Crop through her silver-white hair at the upper left and the bent elbow at lower right. Her face tilts diagonally so the eye at screen left sits lower. Under sweeping silver bangs, her golden eyes look gently toward the viewer. A white high ponytail with a braided strand, curved gold hair ornaments and a narrow teal lock beside her face identify her. The near shoulder starts at lower left. Her upper arm slopes down to the low elbow at right, then her forearm folds almost vertically upward beside the right edge. Bare fingertips gather the pillow beside her cheek, the other hand curling around its far edge at a similar height. The pillow has a distinct lower corner pointing left and folds radiating from both grips. Her jade-green and ivory Liyue outfit has shaped gold shoulder trim, a fitted ivory front panel and long sea-green sleeves. Follow the natural curve of her torso with the ivory panel, using a broad soft highlight and a cool shadow as it turns toward the ribs. The near sleeve opens and falls at the elbow, showing how the wrist emerges. Keep the original adult facial and body proportions. Soft window light from upper right catches the eyes and metal rim. Separate the pale hair and pillow with silver-violet hair shadows and pearl-gray cotton folds. Fine tapering outlines, clean cel shading, warm cheeks, pale uncluttered background. No text or watermark."
+    },
+    {
+      "id": "2126370189671342431",
+      "author": "visualaiclub",
+      "title": "照片转高级 3D 漂浮头像",
+      "model": "GPT Image 2",
+      "group": "GPT Image",
+      "note": "需上传一张人物照片作参考；作者注明在 ChatGPT 用 GPT Image 2。",
+      "needsReference": true,
+      "time": "11-28 01:38",
+      "likes": 7,
+      "bookmarks": 4,
+      "images": [
+        {
+          "local": "images/2026-11-28/visualaiclub_2126370189671342431_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJiY8DXgAAOF0P.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-28/visualaiclub_2126370189671342431_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJiY8EWgAAsClY.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-28/visualaiclub_2126370189671342431_3.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJiY8CWAAANHih.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-28/visualaiclub_2126370189671342431_4.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJiY8CXkAAp77u.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "local": "images/2026-11-28/visualaiclub_2126370189671342431_5.jpg",
+          "remote": "https://pbs.twimg.com/media/HYJiY8DWIAAVhvJ.jpg",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "prompt": "MAIN PROMPT — PHOTO TO PREMIUM 3D FLOATING-HEAD AVATAR\nUse the uploaded photograph as the sole identity reference. Transform the person into a premium stylized 3D cartoon avatar, showing ONLY the head, floating independently in the center of the composition.\nIDENTITY LOCK\nPreserve the person's recognizable facial identity, original skin tone, face shape, facial proportions, hairstyle, hairline, and expression. The result must remain clearly recognizable as the same person while translating their appearance into a polished 3D cartoon style.\nHEAD-ONLY REQUIREMENT\nShow ONLY the head. Absolutely no neck, shoulders, torso, or body. The head must appear naturally floating, fully visible, and cleanly isolated, including the hair and ears where applicable. Do not invent clothing or body elements.\n3D AVATAR STYLE\nCreate a premium modern 3D cartoon avatar featuring rounded facial features, subtly stylized proportions, smooth sculpted geometry, clean surfaces, soft realistic shading, and a refined glossy finish.\nThe aesthetic should feel modern, stylish, cute, visually striking, and sophisticated. Avoid childish exaggeration. Balance cartoon stylization with strong facial recognizability.\nFACIAL DETAILS\nFaithfully recreate the hairstyle, hairline, eyebrows, eyes, nose, lips, ears, beard, mustache, beauty marks, facial hair, and other distinctive features visible in the reference.\nMaintain the original facial expression and preserve the subject's natural skin tone. Use smooth, subtle tonal transitions and refined facial modeling.\nACCESSORIES LOCK\nRecreate only accessories visible on the head or face in the reference, including sunglasses, glasses, earrings, facial piercings, and other head-related accessories.\nPreserve their shape, placement, proportions, colors, and recognizable appearance. Do not invent, remove, or redesign accessories.\nBACKGROUND\nUse a clean, minimal studio-style background with a solid vibrant color or a subtle modern gradient, such as pink, purple, blue, or a harmonious soft gradient.\nKeep the background uncluttered and distraction-free, focusing entirely on the floating head.\nLIGHTING & MATERIALS\nUse soft studio lighting with gentle highlights on the forehead, cheeks, nose, lips, hair, and accessories. Add smooth ambient shading, clean glossy reflections, subtle dimensional contrast, and polished material rendering.\nMaintain a premium 3D finish without excessive shine, harsh shadows, or photorealistic skin textures.\nCOMPOSITION\nVertical 3:4 aspect ratio. Center the floating head within the canvas. Use large portrait framing while keeping the entire head comfortably visible and leaving balanced breathing room around the silhouette.\nCreate a clean, iconic, balanced composition suitable for a premium profile picture or digital avatar.\nSTYLE LOCK\nPremium stylized 3D cartoon avatar, floating head only, modern digital-avatar aesthetic, smooth sculpted geometry, rounded facial features, polished glossy finish, clean studio lighting, vibrant minimal background, high-end 3D illustration.\nNEGATIVE PROMPT\nNeck, shoulders, torso, body, clothing, bust, cropped head, cut-off hair, altered identity, changed skin tone, changed expression, altered hairstyle, missing accessories, invented accessories, photorealistic portrait, flat 2D illustration, anime, low-poly geometry, rough textures, excessive gloss, extreme caricature, cluttered background, text, logo, watermark.\nFORMAT LOCK\nVertical 3:4 aspect ratio. One standalone image. High-resolution, sharp, polished 3D avatar.\nFINAL REQUIREMENT\nProduce a premium stylized 3D floating-head avatar that faithfully preserves the identity and distinctive features of the reference person. The final composition must contain ONLY the head, centered and fully visible, with absolutely no neck, shoulders, or body."
+    },
+    {
+      "id": "2126117001823182983",
+      "author": "lgwny0120",
+      "title": "雨夜路边递风衣的通勤女子",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "中文提示词在图片 ALT 里。",
+      "needsReference": false,
+      "time": "11-27 08:52",
+      "likes": 7,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-28/lgwny0120_2126117001823182983_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYF8EW2XsAALANg.jpg",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-28/lgwny0120_2126117001823182983_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYF7-3iWcAAouQC.jpg",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "2:3 竖版，电影感超写实照片，真人拍摄，不是 CG。人物：明确成年的 28 岁东亚女性，精致鹅蛋脸，通勤妆、豆沙红哑光唇，黑色长发微卷；修身白色真丝衬衫，最上面一两颗扣子解开，露出锁骨和细金项链，领口不露乳沟；黑色高腰包臀短裙到大腿中部；黑色哑光丝袜、黑色尖头细跟高跟鞋；面料完全不透明。外搭一件米色长风衣，没有穿上，搭在一只手臂上。场景：雨夜的写字楼门前马路边，路灯下细雨斜落，湿地面反射出租车的红色尾灯和霓虹，她站在路灯下，一手拿手机，另一手把风衣递向镜头，看向镜头微微歪头，像在说「陪我再等一会儿」。镜头：50mm 平视，七分身，浅景深，背景车灯拉成红色光斑。光线：路灯暖光打亮脸与肩，雨丝在背光里清晰，红色尾灯与蓝色霓虹形成冷暖对比。电影胶片调色，轻微颗粒。禁止：裸露、乳沟、透视、内衣外露、裙底走光；低机位仰拍；躺姿；幼态脸；塑料皮肤、过度磨皮、CG 光泽、多余手指、文字、水印、真实明星脸。\n同样的设定再出一张：换成她望向路口、侧脸被路灯勾出轮廓，风衣仍搭在手臂上，其他设定不变。"
+    },
+    {
+      "id": "2126111692895768814",
+      "author": "kanamilinda",
+      "title": "石阶上的发光翅膀东亚女子",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "",
+      "needsReference": false,
+      "time": "11-27 08:31",
+      "likes": 9,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-28/kanamilinda_2126111692895768814_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYF3L0kagAANu2J.jpg",
+          "width": 480,
+          "height": 1032
+        }
+      ],
+      "prompt": "A beautiful young East Asian woman with long wavy dark brown hair, soft elegant features, calm and confident gaze looking at the camera. Large, highly detailed, voluminous pure white feathered angel wings spread behind her, extremely three-dimensional and fluffy. She wears a sheer white ethereal dress made of layered tulle and feather-like fabric, corset-style bodice with thin straps and wrapping bands, semi-transparent, flowing and delicate. Holding a glowing blue energy longsword in her right hand, the blade emitting bright cyan light. Standing on stone stairs, dramatic cloudy sky background with strong backlighting and volumetric god rays, rim light outlining the wings and body. Cinematic lighting, ultra-detailed, photorealistic, vertical composition, 9:16"
+    },
+    {
+      "id": "2126103715551793414",
+      "author": "Alola_0503",
+      "title": "系围裙的清晨：角色设定图与电影海报",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需附上自己角色的图片；日文两段式提示词（设定图/海报）。",
+      "needsReference": true,
+      "time": "11-27 08:00",
+      "likes": 8,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-28/Alola_0503_2126103715551793414_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYFE7yJasAAfiMR.jpg",
+          "width": 480,
+          "height": 852
+        },
+        {
+          "local": "images/2026-11-28/Alola_0503_2126103715551793414_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYFE7yJaYAEi3nd.jpg",
+          "width": 480,
+          "height": 852
+        }
+      ],
+      "prompt": "エプロンを締める朝\n\nジャンル：日常ヒューマンドラマ／心地よいルーティン・小さな自立\n\n【物語】\n気分の落ち込みが続き、何も手につかない日々。ある朝、キッチンのフックにかかった厚手のエプロンを手に取り、腰の後ろで紐を結ぶ。布が身体を包む感覚が、小さな心のスイッチになる。特別な料理ではなく、お湯を沸かし、丁寧にコーヒーを淹れ、トーストを焼く。ただそれだけの朝。エプロンを身につけている間、自分の暮らしを自分の手で守れているという静かな誇りが生まれる。\n\n【キャラクター参照】\n添付画像を唯一絶対の参照とする。顔・髪・瞳・体型・性別・特徴・画風・線・塗り・陰影・質感を忠実に維持。別人化・画風変換・CG化は禁止。\n\n【STEP 0：制作ルート】\n①リファレンスシートのみ ②ポスターのみ ③両方制作。\n\n【衣装選択】\nAIがテーマに合う具体的な候補を提示。各項目は複数選択可能。\nトップス：白シャツ／ストライプシャツ／リネンブラウス／カットソー／薄手ニット。\nインナー：タンクトップ／キャミソール／Tシャツ／ハイネック。\nアウター：カーディガン／ニットベスト／軽い羽織り／なし。\nボトムス：ワイドパンツ／デニム／ロングスカート／リラックスパンツ。\nエプロン：厚手リネン／コットンキャンバス／クロスバック型／胸当て型／ギャルソン型／フリル付き／ポケット付き。色・丈・紐・ポケット・刺繍・生地の風合いも選択可能。\n靴・小物：ルームシューズ／スリッパ／ヘアバンド／ヘアクリップ／腕時計。\n全項目に個別の自由入力欄を設ける。\n\n【暮らしの設定】\nキッチン：木の温もり／白いタイル／北欧風／レトロ／シンプル。\n朝の行動：コーヒーを淹れる／トーストを焼く／カップを温める／窓を開ける／朝食を並べる。\n小物：コーヒーミル／ケトル／マグカップ／バターナイフ／ジャム瓶／木製トレー。\n各項目に個別入力欄を設ける。\n\n【リファレンスシート】\n全身三面図、顔の角度別資料、表情、髪・瞳・体型、基本配色、画風、衣装、エプロンの構造・素材・装飾を整理。雑誌風／ファッション資料風／アートブック風／シンプルから選択。デザイン各項目に自由入力欄を設ける。衣装や小物は再利用可能にするが、照明・光・背景・色調などは固定しない。\n\n【ポスター演出】\n構図：腰の後ろで紐を結ぶ／エプロン姿でコーヒーを淹れる／トーストを焼く／朝食を並べる／窓辺に立つ。\n雰囲気：柔らかな朝／静かな幸福感／温かな生活感／素朴で映画的／穏やかな希望。\nダブルエクスポージャー：なし／人物と朝のキッチン／横顔に朝の風景を重ねる入れ子型／シルエット内部に日常の情景／過去と現在の多重露光。\n背景・光・色彩・構図・文字配置にも個別入力欄を設ける。タイトル「エプロンを締める朝」。縦型9:16。\n\n【UI共通ルール】\n各STEPを一つずつ表示。具体的なチェック候補と各項目専用の自由入力欄を常時表示。入力は任意でチェックとの併用も可能。候補外の指定や禁止事項も優先する。「おまかせ」を用意し、未選択・未入力はAIが補完。確定で次へ進み、戻っても選択を保持する。\n\n【制作順序】\nリファレンスのみ：設定→画像生成→編集確認。\nポスターのみ：衣装・暮らし・演出設定→画像生成。\n両方：リファレンス設定→画像生成→編集確認→ポスター設定→完成リファレンスを追加資料としてポスター生成。元画像のキャラクター情報を最優先する。\n\n【最終品質】\nリファレンスシート・ポスターとも必ず縦型9:16。横長・正方形は禁止。顔と元画像の画風を維持し、過剰な発光・白飛び・不自然な色かぶりを避ける。日常の自然な温度感と繊細な感情を描く。"
+    },
+    {
+      "id": "2126249612784603331",
+      "author": "lgwny0120",
+      "title": "剧院台阶上递黑羽毛的女子",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "中文提示词在图片 ALT 里，崩坏星穹铁道同人。",
+      "needsReference": false,
+      "time": "11-27 17:39",
+      "likes": 6,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-28/lgwny0120_2126249612784603331_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYH0rGCWkAAfxGN.jpg",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-28/lgwny0120_2126249612784603331_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYH0lSjWYAAq5_4.jpg",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "2:3 竖版，电影感超写实照片，真人拍摄，不是 CG。人物：明确成年的东亚女 coser，扮演《崩坏：星穹铁道》黑天鹅，按官方原版还原：黑色长发配羽毛发饰、紫色眼影与泪痣、黑色礼裙搭羽毛元素与深紫色点缀、黑色长手套（露肤不得比原版多），神秘优雅的表情。场景：雨后的老剧院门口石阶，地面湿润反射着招牌的粉紫霓虹，她站在台阶中段，伸出一只手，掌心托着一根黑色羽毛递向镜头，微微俯视着看向镜头，嘴角一点神秘的笑；远处有几个虚化的行人撑着伞。镜头：50mm 平视，全身，浅景深。光线：剧院招牌的粉紫霓虹从侧面勾亮脸和长发，背景是深蓝夜色，雨后水汽带出体积光。电影胶片调色，轻微颗粒。禁止：裸露、乳沟、透视、内衣外露、裙底走光；低机位仰拍；躺姿；幼态脸；塑料皮肤、过度磨皮、CG 光泽、多余手指、文字、水印、真实明星脸。"
+    },
+    {
+      "id": "2126213003083182407",
+      "author": "lgwny0120",
+      "title": "灯会散场提兔子灯回眸的女子",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "中文提示词在图片 ALT 里，原神同人。",
+      "needsReference": false,
+      "time": "11-27 15:14",
+      "likes": 2,
+      "bookmarks": 3,
+      "images": [
+        {
+          "local": "images/2026-11-28/lgwny0120_2126213003083182407_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHTHWcWsAAb10E.jpg",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-28/lgwny0120_2126213003083182407_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHTI5OWwAAGTHA.jpg",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "2:3 竖版，电影感超写实照片，真人拍摄，不是 CG。人物：明确成年的东亚女 coser，扮演《原神》甘雨，按官方原版还原：蓝紫色长发、头顶一对小巧的角、金色铃铛、黑白配色的紧身连体服与短披肩、黑色过膝丝袜、蓝色系带（露肤不得比原版多），温柔又有点腼腆的表情。场景：傍晚的古风老街灯会，两侧挂满红黄纸灯笼，她手里提着一盏发光的白色兔子灯，侧身回头看向镜头，微微歪头；远处有几个虚化的游客。镜头：50mm 平视，全身，浅景深，灯笼光斑做前景虚化。光线：灯笼暖光打在脸和长发上，背景是靛蓝色的暮色天空，冷暖对比。电影胶片调色，轻微颗粒。禁止：裸露、乳沟、透视、内衣外露、裙底走光；低机位仰拍；躺姿；幼态脸；塑料皮肤、过度磨皮、CG 光泽、多余手指、文字、水印、真实明星脸。"
+    },
+    {
+      "id": "2126237189381988585",
+      "author": "lgwny0120",
+      "title": "可换场景的黑丝 OL 写真",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "把【场景】换成想要的地点即可；中文提示词在图片 ALT 里。",
+      "needsReference": false,
+      "time": "11-27 16:50",
+      "likes": 4,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-28/lgwny0120_2126237189381988585_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHpTG6WUAAWyLg.jpg",
+          "width": 480,
+          "height": 720
+        },
+        {
+          "local": "images/2026-11-28/lgwny0120_2126237189381988585_2.jpg",
+          "remote": "https://pbs.twimg.com/media/HYHpUI4XoAAJFsd.jpg",
+          "width": 480,
+          "height": 720
+        }
+      ],
+      "prompt": "2:3 竖版，电影感超写实照片，真人拍摄，不是 CG。人物：明确成年的 28 岁东亚女性，精致鹅蛋脸，通勤妆、豆沙红哑光唇，黑色长发微卷；修身白色真丝衬衫，最上面一两颗扣子解开，露出锁骨和细金项链，领口不露乳沟；黑色高腰包臀短裙到大腿中部；黑色哑光丝袜、黑色尖头细跟高跟鞋；面料完全不透明。场景：【场景】，她看向镜头，神情自然，像在说一句只对镜头说的悄悄话。镜头：50mm 平视，七分身，浅景深，背景光源虚化成光斑。光线：由【场景】里的主光源决定，脸部要有柔和的补光。电影胶片调色，轻微颗粒。禁止：裸露、乳沟、透视、内衣外露、裙底走光；低机位仰拍；躺姿；幼态脸；塑料皮肤、过度磨皮、CG 光泽、多余手指、文字、水印、真实明星脸。\n\n示例①：【场景】=暴雨夜的城市天桥，桥下车灯拉成长长的红白光带。示例②：【场景】=凌晨的地铁换乘通道，冷白顶灯和对面广告灯箱的暖光交错。"
+    },
+    {
+      "id": "2126414256463872220",
+      "author": "cookie_sns",
+      "title": "朝霞雪山冰湖边吹水晶长笛的角色插画",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "需附上自己喜欢的角色图；日文提示词在作者回复里，可自行换乐器。",
+      "needsReference": true,
+      "time": "11-28 04:34",
+      "likes": 4,
+      "bookmarks": 1,
+      "images": [
+        {
+          "local": "images/2026-11-28/cookie_sns_2126414256463872220_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYIxiCna8AANBgp.jpg",
+          "width": 480,
+          "height": 320
+        }
+      ],
+      "prompt": "雪山と朝焼けが広がる幻想的な冬の湖を舞台に、キャラクターが演奏しているイラストを生成してください。\n\n背景には、雄大な雪山と、朝焼けの美しいグラデーションが映り込む凍った湖を描いてください。\n\n湖面には朝日のピンクやオレンジ、淡い紫色が反射し、透明感のある氷の輝きが広がる幻想的な景色にしてください。\n\n周囲には霧氷に覆われた木々や、キラキラと輝く氷の結晶を配置してください。\n\nキャラクターは冬らしい暖かな洋服を着用し、自然で美しい演奏ポーズにしてください。\n\nキャラクターを大きく配置し、表情や手指の動き、楽器の細部まで丁寧に描写してください。\n\n朝日の暖かな光と氷の透明感が調和する、幻想的で高品質なアニメ調イラストに仕上げてください。"
+    },
+    {
+      "id": "2126414446385918153",
+      "author": "RenRose321",
+      "title": "穿黄雨靴踩水坑的小三角龙蜡笔画",
+      "model": "未注明",
+      "group": "未注明",
+      "note": "作者建议换恐龙或天气来玩。",
+      "needsReference": false,
+      "time": "11-28 04:34",
+      "likes": 4,
+      "bookmarks": 0,
+      "images": [
+        {
+          "local": "images/2026-11-28/RenRose321_2126414446385918153_1.jpg",
+          "remote": "https://pbs.twimg.com/media/HYKKqtLXYAA32_s.jpg",
+          "width": 480,
+          "height": 600
+        }
+      ],
+      "prompt": "A cheerful little green triceratops wearing yellow rain boots splashes through puddles in a cozy greenhouse courtyard. Crayon and colored pencil art, with bold waxy strokes, layered scribbles and textured paper. A low viewpoint catches colorful reflections and flying droplets. Glowing greenhouse windows, oversized ferns, flowering pots, a wooden bench and a blue watering can fill the scene, with a small rainbow overhead. Rich emerald, yellow, coral and turquoise. Playful, detailed and full of rainy-day happiness."
+    }
+  ]
+}
